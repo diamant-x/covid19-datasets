@@ -1,0 +1,1747 @@
+"Date","Country","Total confirmed cases","Total confirmed new cases","Total deaths","Total new deaths","Transmission classification","Days since last reported case"
+"20200302","Republic of Korea",4212,476,22,4,"Local transmission",0
+"20200302","Japan",254,15,6,1,"Local transmission",0
+"20200302","Singapore",106,4,0,0,"Local transmission",0
+"20200302","Australia",27,2,1,1,"Local transmission",0
+"20200302","Malaysia",24,0,0,0,"Local transmission",3
+"20200302","Viet Nam",16,0,0,0,"Local transmission",18
+"20200302","Philippines",3,0,1,0,"Imported cases only",27
+"20200302","Cambodia",1,0,0,0,"Imported cases only",35
+"20200302","New Zealand",1,0,0,0,"Imported cases only",3
+"20200302","Italy",1689,561,35,6,"Local transmission",0
+"20200302","Germany",129,72,0,0,"Local transmission",0
+"20200302","France",100,0,2,0,"Local transmission",1
+"20200302","Spain",45,0,0,0,"Local transmission",1
+"20200302","the United Kingdom",36,13,0,0,"Local transmission",0
+"20200302","Switzerland",24,6,0,0,"Local transmission",0
+"20200302","Norway",19,4,0,0,"Local transmission",0
+"20200302","Sweden",14,1,0,0,"Local transmission",0
+"20200302","Netherlands",13,6,0,0,"Local transmission",0
+"20200302","Austria",10,0,0,0,"Imported cases only",1
+"20200302","Croatia",7,0,0,0,"Local transmission",1
+"20200302","Greece",7,4,0,0,"Local transmission",0
+"20200302","Israel",7,0,0,0,"Local transmission",1
+"20200302","Finland",6,4,0,0,"Local transmission",0
+"20200302","Denmark",4,1,0,0,"Local transmission",0
+"20200302","Azerbaijan",3,0,0,0,"Imported cases only",1
+"20200302","Czechia",3,3,0,0,"Imported cases only",0
+"20200302","Georgia",3,0,0,0,"Imported cases only",1
+"20200302","Romania",3,0,0,0,"Imported cases only",2
+"20200302","Iceland",2,2,0,0,"Imported cases only",0
+"20200302","Russian Federation",2,0,0,0,"Imported cases only",31
+"20200302","Armenia",1,1,0,0,"Imported cases only",0
+"20200302","Belarus",1,0,0,0,"Imported cases only",3
+"20200302","Belgium",1,0,0,0,"Imported cases only",27
+"20200302","Estonia",1,0,0,0,"Imported cases only",4
+"20200302","Ireland",1,0,0,0,"Imported cases only",1
+"20200302","Lithuania",1,0,0,0,"Imported cases only",3
+"20200302","Luxembourg",1,1,0,0,"Imported cases only",0
+"20200302","Monaco",1,0,0,0,"Under investigation",1
+"20200302","North Macedonia",1,0,0,0,"Imported cases only",5
+"20200302","San Marino",1,0,0,0,"Local transmission",2
+"20200302","Thailand",42,0,1,1,"Local transmission",2
+"20200302","India",3,0,0,0,"Imported cases only",28
+"20200302","Indonesia",2,2,0,0,"Local transmission",0
+"20200302","Nepal",1,0,0,0,"Imported cases only",38
+"20200302","Sri Lanka",1,0,0,0,"Imported cases only",35
+"20200302","Iran (Islamic Republic of)",978,385,54,11,"Local transmission",0
+"20200302","Kuwait",56,11,0,0,"Imported cases only",0
+"20200302","Bahrain",47,7,0,0,"Imported cases only",0
+"20200302","United Arab Emirates",21,2,0,0,"Local transmission",0
+"20200302","Iraq",19,6,0,0,"Imported cases only",0
+"20200302","Lebanon",10,1,0,0,"Imported cases only",0
+"20200302","Oman",6,0,0,0,"Imported cases only",3
+"20200302","Pakistan",4,0,0,0,"Imported cases only",1
+"20200302","Qatar",3,2,0,0,"Imported cases only",0
+"20200302","Egypt",2,1,0,0,"Imported cases only",0
+"20200302","Afghanistan",1,0,0,0,"Imported cases only",7
+"20200302","the United States",62,2,0,0,"Local transmission",0
+"20200302","Canada",19,0,0,0,"Local transmission",1
+"20200302","Mexico",5,3,0,0,"Imported cases only",0
+"20200302","Brazil",2,0,0,0,"Imported cases only",1
+"20200302","Dominican Republic",1,1,0,0,"Imported cases only",0
+"20200302","Ecuador",1,0,0,0,"Imported cases only",1
+"20200302","Algeria",1,0,0,0,"Imported cases only",6
+"20200302","Nigeria",1,0,0,0,"Imported cases only",3
+"20200302","Diamond Princess",706,1,6,0,"Local transmission",0
+"20200303","Republic of Korea",4812,600,28,6,"Local transmission",0
+"20200303","Japan",268,14,6,0,"Local transmission",0
+"20200303","Singapore",108,2,0,0,"Local transmission",0
+"20200303","Australia",33,6,1,0,"Local transmission",0
+"20200303","Malaysia",29,5,0,0,"Local transmission",0
+"20200303","Viet Nam",16,0,0,0,"Local transmission",19
+"20200303","Philippines",3,0,1,0,"Imported cases only",28
+"20200303","New Zealand",2,1,0,0,"Imported cases only",0
+"20200303","Cambodia",1,0,0,0,"Imported cases only",36
+"20200303","Italy",2036,347,52,17,"Local transmission",0
+"20200303","France",191,91,3,1,"Local transmission",0
+"20200303","Germany",157,28,0,0,"Local transmission",0
+"20200303","Spain",114,69,0,0,"Local transmission",0
+"20200303","the United Kingdom",39,3,0,0,"Local transmission",0
+"20200303","Switzerland",30,6,0,0,"Local transmission",0
+"20200303","Norway",25,6,0,0,"Local transmission",0
+"20200303","Austria",18,8,0,0,"Imported cases only",0
+"20200303","Netherlands",18,5,0,0,"Local transmission",0
+"20200303","Sweden",15,1,0,0,"Local transmission",0
+"20200303","Israel",10,3,0,0,"Local transmission",0
+"20200303","Croatia",8,2,0,0,"Local transmission",0
+"20200303","Iceland",9,7,0,0,"Imported cases only",0
+"20200303","San Marino",8,7,0,0,"Local transmission",0
+"20200303","Belgium",8,7,0,0,"Imported cases only",0
+"20200303","Finland",7,1,0,0,"Local transmission",0
+"20200303","Greece",7,0,0,0,"Local transmission",1
+"20200303","Denmark",5,1,0,0,"Local transmission",0
+"20200303","Azerbaijan",3,0,0,0,"Imported cases only",2
+"20200303","Czechia",3,0,0,0,"Imported cases only",1
+"20200303","Georgia",3,0,0,0,"Imported cases only",2
+"20200303","Romania",3,0,0,0,"Imported cases only",3
+"20200303","Russian Federation",3,1,0,0,"Imported cases only",0
+"20200303","Portugal",2,2,0,0,"Imported cases only",0
+"20200303","Andorra",1,1,0,0,"Imported cases only",0
+"20200303","Armenia",1,0,0,0,"Imported cases only",1
+"20200303","Belarus",1,0,0,0,"Imported cases only",4
+"20200303","Estonia",1,0,0,0,"Imported cases only",5
+"20200303","Ireland",1,0,0,0,"Imported cases only",2
+"20200303","Latvia",1,1,0,0,"Imported cases only",0
+"20200303","Lithuania",1,0,0,0,"Imported cases only",4
+"20200303","Luxembourg",1,0,0,0,"Imported cases only",1
+"20200303","Monaco",1,0,0,0,"Under investigation",2
+"20200303","North Macedonia",1,0,0,0,"Imported cases only",6
+"20200303","Thailand",43,1,1,0,"Local transmission",0
+"20200303","India",5,2,0,0,"Imported cases only",0
+"20200303","Indonesia",2,0,0,0,"Local transmission",0
+"20200303","Nepal",1,0,0,0,"Imported cases only",39
+"20200303","Sri Lanka",1,0,0,0,"Imported cases only",36
+"20200303","Iran (Islamic Republic of)",1501,523,66,12,"Local transmission",0
+"20200303","Kuwait",56,0,0,0,"Imported cases only",1
+"20200303","Bahrain",49,2,0,0,"Imported cases only",0
+"20200303","Iraq",26,7,0,0,"Imported cases only",0
+"20200303","United Arab Emirates",21,0,0,0,"Local transmission",1
+"20200303","Lebanon",13,3,0,0,"Local transmission",0
+"20200303","Qatar",7,4,0,0,"Imported cases only",0
+"20200303","Oman",6,0,0,0,"Imported cases only",4
+"20200303","Pakistan",5,1,0,0,"Imported cases only",0
+"20200303","Egypt",2,0,0,0,"Imported cases only",0
+"20200303","Afghanistan",1,0,0,0,"Imported cases only",8
+"20200303","Jordan",1,1,0,0,"Imported cases only",0
+"20200303","Morocco",1,1,0,0,"Imported cases only",0
+"20200303","Saudi Arabia",1,1,0,0,"Imported cases only",0
+"20200303","Tunisia",1,1,0,0,"Imported cases only",0
+"20200303","the United States",64,2,2,2,"Local transmission",0
+"20200303","Canada",27,8,0,0,"Local transmission",0
+"20200303","Ecuador",6,5,0,0,"Local transmission",0
+"20200303","Mexico",5,0,0,0,"Imported cases only",1
+"20200303","Brazil",2,0,0,0,"Imported cases only",2
+"20200303","Dominican Republic",1,0,0,0,"Imported cases only",1
+"20200303","Algeria",5,4,0,0,"Local transmission",0
+"20200303","Nigeria",1,0,0,0,"Imported cases only",4
+"20200303","Senegal",1,1,0,0,"Imported cases only",0
+"20200303","Diamond Princess",706,0,6,0,"Local transmission",1
+"20200304","Republic of Korea",5328,516,32,4,"Local transmission",0
+"20200304","Japan",284,16,6,0,"Local transmission",0
+"20200304","Singapore",110,2,0,0,"Local transmission",0
+"20200304","Malaysia",50,21,0,0,"Local transmission",0
+"20200304","Australia",43,10,1,0,"Local transmission",0
+"20200304","Viet Nam",16,0,0,0,"Local transmission",20
+"20200304","Philippines",3,0,1,0,"Imported cases only",28
+"20200304","New Zealand",2,0,0,0,"Imported cases only",1
+"20200304","Cambodia",1,0,0,0,"Imported cases only",36
+"20200304","Italy",2502,466,80,28,"Local transmission",0
+"20200304","France",212,21,4,1,"Local transmission",0
+"20200304","Germany",196,39,0,0,"Local transmission",0
+"20200304","Spain",151,37,0,0,"Local transmission",0
+"20200304","the United Kingdom",51,12,0,0,"Local transmission",0
+"20200304","Switzerland",37,7,0,0,"Local transmission",0
+"20200304","Norway",33,7,0,0,"Local transmission",0
+"20200304","Netherlands",28,10,0,0,"Local transmission",0
+"20200304","Austria",24,6,0,0,"Imported cases only",0
+"20200304","Sweden",24,9,0,0,"Local transmission",0
+"20200304","Iceland",16,7,0,0,"Imported cases only",0
+"20200304","Israel",12,2,0,0,"Local transmission",0
+"20200304","Croatia",9,1,0,0,"Local transmission",0
+"20200304","Belgium",8,0,0,0,"Imported cases only",1
+"20200304","Denmark",8,3,0,0,"Local transmission",0
+"20200304","San Marino",8,0,0,0,"Local transmission",1
+"20200304","Finland",7,0,0,0,"Local transmission",1
+"20200304","Greece",7,0,0,0,"Local transmission",2
+"20200304","Czechia",5,2,0,0,"Imported cases only",0
+"20200304","Romania",4,1,0,0,"Local transmission",0
+"20200304","Azerbaijan",3,0,0,0,"Imported cases only",3
+"20200304","Georgia",3,0,0,0,"Imported cases only",3
+"20200304","Russian Federation",3,0,0,0,"Imported cases only",1
+"20200304","Estonia",2,1,0,0,"Imported cases only",0
+"20200304","Ireland",2,1,0,0,"Imported cases only",0
+"20200304","Portugal",2,0,0,0,"Imported cases only",1
+"20200304","Andorra",1,0,0,0,"Imported cases only",1
+"20200304","Armenia",1,0,0,0,"Imported cases only",2
+"20200304","Belarus",1,0,0,0,"Imported cases only",5
+"20200304","Latvia",1,0,0,0,"Imported cases only",1
+"20200304","Lithuania",1,0,0,0,"Imported cases only",5
+"20200304","Luxembourg",1,0,0,0,"Imported cases only",2
+"20200304","Monaco",1,0,0,0,"Under investigation",3
+"20200304","North Macedonia",1,0,0,0,"Imported cases only",6
+"20200304","Poland",1,1,0,0,"Imported cases only",0
+"20200304","Ukraine",1,1,0,0,"Imported cases only",0
+"20200304","Thailand",43,0,1,0,"Local transmission",1
+"20200304","India",6,1,0,0,"Imported cases only",0
+"20200304","Indonesia",2,0,0,0,"Local transmission",2
+"20200304","Nepal",1,0,0,0,"Imported cases only",40
+"20200304","Sri Lanka",1,0,0,0,"Imported cases only",37
+"20200304","Iran (Islamic Republic of)",2336,835,77,11,"Local transmission",0
+"20200304","Kuwait",56,0,0,0,"Imported cases only",2
+"20200304","Bahrain",49,0,0,0,"Imported cases only",1
+"20200304","Iraq",31,5,0,0,"Imported cases only",0
+"20200304","United Arab Emirates",27,6,0,0,"Local transmission",0
+"20200304","Lebanon",13,0,0,0,"Local transmission",1
+"20200304","Oman",12,6,0,0,"Imported cases only",0
+"20200304","Qatar",8,1,0,0,"Imported cases only",0
+"20200304","Pakistan",5,0,0,0,"Imported cases only",1
+"20200304","Egypt",2,0,0,0,"Imported cases only",2
+"20200304","Afghanistan",1,0,0,0,"Imported cases only",8
+"20200304","Jordan",1,0,0,0,"Imported cases only",1
+"20200304","Morocco",1,0,0,0,"Imported cases only",1
+"20200304","Saudi Arabia",1,0,0,0,"Imported cases only",1
+"20200304","Tunisia",1,0,0,0,"Imported cases only",1
+"20200304","the United States",108,44,6,4,"Local transmission",0
+"20200304","Canada",30,3,0,0,"Local transmission",0
+"20200304","Ecuador",7,1,0,0,"Local transmission",0
+"20200304","Mexico",5,0,0,0,"Imported cases only",2
+"20200304","Brazil",2,0,0,0,"Imported cases only",3
+"20200304","Argentina",1,1,0,0,"Imported cases only",0
+"20200304","Chile",1,1,0,0,"Imported cases only",0
+"20200304","Dominican Republic",1,0,0,0,"Imported cases only",2
+"20200304","Algeria",5,0,0,0,"Local transmission",1
+"20200304","Nigeria",1,0,0,0,"Imported cases only",5
+"20200304","Senegal",1,0,0,0,"Imported cases only",1
+"20200304","Diamond Princess",706,0,6,0,"Local transmission",2
+"20200305","Republic of Korea",5766,438,35,3,"Local transmission",0
+"20200305","Japan",317,33,6,0,"Local transmission",0
+"20200305","Singapore",110,0,0,0,"Local transmission",1
+"20200305","Australia",57,14,2,2,"Local transmission",0
+"20200305","Malaysia",50,0,0,0,"Local transmission",1
+"20200305","Viet Nam",16,0,0,0,"Local transmission",21
+"20200305","Philippines",3,0,1,0,"Imported cases only",29
+"20200305","New Zealand",2,0,0,0,"Imported cases only",2
+"20200305","Cambodia",1,0,0,0,"Imported cases only",37
+"20200305","Italy",3089,587,107,27,"Local transmission",0
+"20200305","France",282,73,4,0,"Local transmission",0
+"20200305","Germany",262,66,0,0,"Local transmission",0
+"20200305","Spain",198,47,1,1,"Local transmission",0
+"20200305","the United Kingdom",89,38,0,0,"Local transmission",0
+"20200305","Switzerland",56,20,0,0,"Local transmission",0
+"20200305","Norway",56,23,0,0,"Local transmission",0
+"20200305","Netherlands",38,10,0,0,"Local transmission",0
+"20200305","Austria",37,13,0,0,"Imported cases only",0
+"20200305","Sweden",35,11,0,0,"Local transmission",0
+"20200305","Iceland",26,10,0,0,"Imported cases only",0
+"20200305","Belgium",23,15,0,0,"Local transmission",0
+"20200305","San Marino",16,8,0,0,"Local transmission",0
+"20200305","Israel",15,3,0,0,"Local transmission",0
+"20200305","Denmark",10,2,0,0,"Local transmission",0
+"20200305","Croatia",9,0,0,0,"Local transmission",1
+"20200305","Greece",9,2,0,0,"Local transmission",0
+"20200305","Finland",7,0,0,0,"Local transmission",2
+"20200305","Portugal",7,5,0,0,"Local transmission",0
+"20200305","Belarus",6,5,0,0,"Local transmission",0
+"20200305","Czechia",5,0,0,0,"Imported cases only",1
+"20200305","Romania",4,0,0,0,"Local transmission",1
+"20200305","Azerbaijan",3,0,0,0,"Imported cases only",4
+"20200305","Georgia",3,0,0,0,"Imported cases only",4
+"20200305","Russian Federation",3,0,0,0,"Imported cases only",2
+"20200305","Bosnia and Herzegovina",2,2,0,0,"Local transmission",0
+"20200305","Estonia",2,0,0,0,"Imported cases only",1
+"20200305","Hungary",2,2,0,0,"Imported cases only",0
+"20200305","Ireland",2,0,0,0,"Imported cases only",1
+"20200305","Andorra",1,0,0,0,"Imported cases only",2
+"20200305","Armenia",1,0,0,0,"Imported cases only",3
+"20200305","Latvia",1,0,0,0,"Imported cases only",2
+"20200305","Lithuania",1,0,0,0,"Imported cases only",6
+"20200305","Luxembourg",1,0,0,0,"Imported cases only",3
+"20200305","Monaco",1,0,0,0,"Under investigation",4
+"20200305","North Macedonia",1,0,0,0,"Imported cases only",7
+"20200305","Poland",1,0,0,0,"Imported cases only",1
+"20200305","Slovenia",1,1,0,0,"Imported cases only",0
+"20200305","Ukraine",1,0,0,0,"Imported cases only",1
+"20200305","Liechtenstein",1,0,0,0,"Imported cases only",1
+"20200305","Gibraltar",1,0,0,0,"Imported cases only",1
+"20200305","Thailand",47,4,1,0,"Local transmission",0
+"20200305","India",29,23,0,0,"Local transmission",0
+"20200305","Indonesia",2,0,0,0,"Local transmission",3
+"20200305","Nepal",1,0,0,0,"Imported cases only",41
+"20200305","Sri Lanka",1,0,0,0,"Imported cases only",38
+"20200305","Iran (Islamic Republic of)",2922,586,92,15,"Local transmission",0
+"20200305","Kuwait",58,2,0,0,"Imported cases only",0
+"20200305","Bahrain",49,0,0,0,"Imported cases only",2
+"20200305","Iraq",36,5,2,2,"Imported cases only",0
+"20200305","United Arab Emirates",27,0,0,0,"Local transmission",1
+"20200305","Oman",15,3,0,0,"Imported cases only",0
+"20200305","Lebanon",13,0,0,0,"Local transmission",2
+"20200305","Qatar",8,0,0,0,"Imported cases only",1
+"20200305","Pakistan",5,0,0,0,"Imported cases only",2
+"20200305","Egypt",2,0,0,0,"Imported cases only",3
+"20200305","Morocco",2,1,0,0,"Imported cases only",0
+"20200305","Saudi Arabia",2,1,0,0,"Imported cases only",0
+"20200305","Afghanistan",1,0,0,0,"Imported cases only",9
+"20200305","Jordan",1,0,0,0,"Imported cases only",2
+"20200305","Tunisia",1,0,0,0,"Imported cases only",2
+"20200305","occupied Palestinian territory",4,4,0,0,"Imported cases only",0
+"20200305","the United States",129,21,9,3,"Local transmission",0
+"20200305","Canada",30,0,0,0,"Local transmission",1
+"20200305","Ecuador",7,0,0,0,"Local transmission",1
+"20200305","Mexico",5,0,0,0,"Imported cases only",3
+"20200305","Brazil",3,1,0,0,"Imported cases only",0
+"20200305","Argentina",1,0,0,0,"Imported cases only",1
+"20200305","Chile",1,0,0,0,"Imported cases only",1
+"20200305","Dominican Republic",1,0,0,0,"Imported cases only",3
+"20200305","Saint Martin",2,0,0,0,"Under investigation",2
+"20200305","Saint Barthélemy",1,0,0,0,"Under investigation",2
+"20200305","Algeria",12,7,0,0,"Local transmission",0
+"20200305","Senegal",4,3,0,0,"Imported cases only",0
+"20200305","Nigeria",1,0,0,0,"Imported cases only",6
+"20200305","Diamond Princess",706,0,6,0,"Local transmission",3
+"20200306","Republic of Korea",6284,518,42,7,"Local transmission",0
+"20200306","Japan",349,32,6,0,"Local transmission",0
+"20200306","Singapore",117,7,0,0,"Local transmission",0
+"20200306","Australia",57,0,2,0,"Local transmission",1
+"20200306","Malaysia",55,5,0,0,"Local transmission",0
+"20200306","Viet Nam",16,0,0,0,"Local transmission",22
+"20200306","Philippines",5,2,1,0,"Local transmission",0
+"20200306","New Zealand",4,2,0,0,"Local transmission",0
+"20200306","Cambodia",1,0,0,0,"Imported cases only",38
+"20200306","Italy",3858,769,148,41,"Local transmission",0
+"20200306","Germany",534,272,0,0,"Local transmission",0
+"20200306","France",420,138,6,2,"Local transmission",0
+"20200306","Spain",257,59,3,2,"Local transmission",0
+"20200306","The United Kingdom",118,29,0,0,"Local transmission",0
+"20200306","Norway",86,30,0,0,"Local transmission",0
+"20200306","Switzerland",86,30,1,1,"Local transmission",0
+"20200306","Netherlands",82,44,0,0,"Local transmission",0
+"20200306","Sweden",61,26,0,0,"Local transmission",0
+"20200306","Belgium",50,27,0,0,"Local transmission",1
+"20200306","Austria",47,10,0,0,"Imported cases only",0
+"20200306","Greece",32,23,0,0,"Local transmission",1
+"20200306","Iceland",26,0,0,0,"Imported cases only",1
+"20200306","San Marino",21,5,0,0,"Local transmission",0
+"20200306","Denmark",18,8,0,0,"Local transmission",1
+"20200306","Israel",15,0,0,0,"Local transmission",1
+"20200306","Ireland",14,12,0,0,"Local transmission",0
+"20200306","Czechia",12,7,0,0,"Local transmission",0
+"20200306","Finland",12,5,0,0,"Local transmission",0
+"20200306","Croatia",10,1,0,0,"Local transmission",0
+"20200306","Georgia",9,6,0,0,"Imported cases only",0
+"20200306","Portugal",9,0,0,0,"Local transmission",1
+"20200306","Belarus",6,0,0,0,"Local transmission",1
+"20200306","Romania",6,2,0,0,"Local transmission",0
+"20200306","Slovenia",6,5,0,0,"Local transmission",0
+"20200306","Russian Federation",4,1,0,0,"Imported cases only",0
+"20200306","Azerbaijan",3,0,0,0,"Imported cases only",5
+"20200306","Estonia",3,1,0,0,"Imported cases only",0
+"20200306","Bosnia and Herzegovina",2,0,0,0,"Local transmission",1
+"20200306","Hungary",2,0,0,0,"Imported cases only",1
+"20200306","Andorra",1,0,0,0,"Imported cases only",3
+"20200306","Armenia",1,0,0,0,"Imported cases only",4
+"20200306","Latvia",1,0,0,0,"Imported cases only",3
+"20200306","Liechtenstein",1,0,0,0,"Imported cases only",0
+"20200306","Lithuania",1,0,0,0,"Imported cases only",7
+"20200306","Luxembourg",1,0,0,0,"Imported cases only",4
+"20200306","Monaco",1,0,0,0,"Under investigation",5
+"20200306","North Macedonia",1,0,0,0,"Imported cases only",8
+"20200306","Poland",1,0,0,0,"Imported cases only",2
+"20200306","Serbia",1,1,0,0,"Under investigation",0
+"20200306","Ukraine",1,0,0,0,"Imported cases only",2
+"20200306","Gibraltar",1,0,0,0,"Under investigation",2
+"20200306","Thailand",47,0,1,0,"Local transmission",1
+"20200306","India",30,1,0,0,"Local transmission",0
+"20200306","Indonesia",2,0,0,0,"Local transmission",4
+"20200306","Bhutan",1,1,0,0,"Imported cases only",0
+"20200306","Nepal",1,0,0,0,"Imported cases only",42
+"20200306","Sri Lanka",1,0,0,0,"Imported cases only",39
+"20200306","Iran (Islamic Republic of)",3513,591,107,15,"Local transmission",0
+"20200306","Kuwait",58,0,0,0,"Imported cases only",1
+"20200306","Bahrain",49,0,0,0,"Imported cases only",3
+"20200306","Iraq",36,0,2,0,"Imported cases only",1
+"20200306","United Arab Emirates",27,0,0,0,"Local transmission",2
+"20200306","Lebanon",16,3,0,0,"Local transmission",0
+"20200306","Oman",16,1,0,0,"Imported cases only",0
+"20200306","Qatar",8,0,0,0,"Imported cases only",2
+"20200306","Saudi Arabia",8,6,0,0,"Imported cases only",0
+"20200306","Pakistan",5,0,0,0,"Imported cases only",3
+"20200306","Egypt",3,1,0,0,"Imported cases only",0
+"20200306","Morocco",2,0,0,0,"Imported cases only",1
+"20200306","Afghanistan",1,0,0,0,"Imported cases only",11
+"20200306","Jordan",1,0,0,0,"Imported cases only",3
+"20200306","Tunisia",1,0,0,0,"Imported cases only",3
+"20200306","Occupied Palestinian Territory",7,0,0,0,"Imported cases only",1
+"20200306","United States of America",148,19,10,1,"Local transmission",0
+"20200306","Canada",45,15,0,0,"Local transmission",0
+"20200306","Ecuador",13,6,0,0,"Local transmission",0
+"20200306","Brazil",7,4,0,0,"Imported cases only",0
+"20200306","Mexico",5,0,0,0,"Imported cases only",4
+"20200306","Argentina",1,0,0,0,"Imported cases only",2
+"20200306","Chile",1,0,0,0,"Imported cases only",2
+"20200306","Dominican Republic",1,0,0,0,"Imported cases only",4
+"20200306","Saint Martin",2,0,0,0,"Under investigation",3
+"20200306","Saint Barthélemy",1,0,0,0,"Under investigation",3
+"20200306","Algeria",12,0,0,0,"Local transmission",1
+"20200306","Senegal",4,0,0,0,"Imported cases only",1
+"20200306","Cameroon",1,1,0,0,"Imported cases only",0
+"20200306","Nigeria",1,0,0,0,"Imported cases only",7
+"20200306","South Africa",1,1,0,0,"Imported cases only",0
+"20200306","Diamond Princess",696,0,6,0,"Local transmission",0
+"20200307","Republic of Korea",6767,483,44,2,"Local transmission",0
+"20200307","Japan",408,59,6,0,"Local transmission",0
+"20200307","Singapore",130,13,0,0,"Local transmission",0
+"20200307","Malaysia",83,28,0,0,"Local transmission",1
+"20200307","Australia",62,5,2,0,"Local transmission",0
+"20200307","Viet Nam",17,1,0,0,"Local transmission",0
+"20200307","New Zealand",5,1,0,0,"Local transmission",0
+"20200307","Philippines",5,0,1,0,"Local transmission",1
+"20200307","Cambodia",1,0,0,0,"Imported cases only",39
+"20200307","Italy",4636,778,197,49,"Local transmission",0
+"20200307","Germany",639,105,0,0,"Local transmission",0
+"20200307","France",613,193,9,3,"Local transmission",0
+"20200307","Spain",374,117,5,2,"Local transmission",0
+"20200307","Switzerland",209,123,1,0,"Local transmission",0
+"20200307","The United Kingdom",167,49,1,1,"Local transmission",0
+"20200307","Sweden",137,76,0,0,"Local transmission",0
+"20200307","Netherlands",128,46,1,1,"Local transmission",0
+"20200307","Norway",113,27,0,0,"Local transmission",0
+"20200307","Belgium",109,59,0,0,"Local transmission",0
+"20200307","Austria",66,19,0,0,"Imported cases only",0
+"20200307","Iceland",45,19,0,0,"Local transmission",0
+"20200307","Greece",32,0,0,0,"Local transmission",2
+"20200307","San Marino",24,3,0,0,"Local transmission",0
+"20200307","Denmark",23,5,0,0,"Local transmission",0
+"20200307","Finland",19,7,0,0,"Local transmission",0
+"20200307","Israel",19,4,0,0,"Local transmission",0
+"20200307","Ireland",18,4,0,0,"Local transmission",0
+"20200307","Portugal",13,4,0,0,"Local transmission",0
+"20200307","Czechia",12,0,0,0,"Local transmission",1
+"20200307","Croatia",11,1,0,0,"Local transmission",0
+"20200307","Estonia",10,7,0,0,"Imported cases only",0
+"20200307","Azerbaijan",9,6,0,0,"Imported cases only",0
+"20200307","Georgia",9,0,0,0,"Imported cases only",1
+"20200307","Slovenia",9,3,0,0,"Local transmission",0
+"20200307","Romania",7,1,0,0,"Local transmission",0
+"20200307","Russian Federation",7,3,0,0,"Imported cases only",0
+"20200307","Belarus",6,0,0,0,"Local transmission",2
+"20200307","Poland",5,4,0,0,"Imported cases only",0
+"20200307","Hungary",5,3,0,0,"Imported cases only",0
+"20200307","North Macedonia",3,2,0,0,"Imported cases only",0
+"20200307","Bosnia and Herzegovina",2,0,0,0,"Local transmission",2
+"20200307","Luxembourg",2,1,0,0,"Imported cases only",0
+"20200307","Andorra",1,0,0,0,"Imported cases only",4
+"20200307","Armenia",1,0,0,0,"Imported cases only",5
+"20200307","Holy See",1,1,0,0,"Under investigation",1
+"20200307","Latvia",1,0,0,0,"Imported cases only",4
+"20200307","Liechtenstein",1,0,0,0,"Imported cases only",1
+"20200307","Lithuania",1,0,0,0,"Imported cases only",8
+"20200307","Monaco",1,0,0,0,"Under investigation",6
+"20200307","Serbia",1,0,0,0,"Under investigation",1
+"20200307","Slovakia",1,1,0,0,"Local transmission",0
+"20200307","Ukraine",1,0,0,0,"Imported cases only",3
+"20200307","Gibraltar",1,0,0,0,"Under investigation",3
+"20200307","Thailand",48,1,1,0,"Local transmission",0
+"20200307","India",31,1,0,0,"Local transmission",0
+"20200307","Indonesia",2,0,0,0,"Local transmission",5
+"20200307","Bhutan",1,0,0,0,"Imported cases only",1
+"20200307","Nepal",1,0,0,0,"Imported cases only",43
+"20200307","Sri Lanka",1,0,0,0,"Imported cases only",40
+"20200307","Iran (Islamic Republic of)",4747,1234,124,17,"Local transmission",0
+"20200307","Kuwait",58,0,0,0,"Imported cases only",2
+"20200307","Bahrain",49,0,0,0,"Imported cases only",4
+"20200307","United Arab Emirates",45,18,0,0,"Local transmission",0
+"20200307","Iraq",44,8,4,2,"Imported cases only",0
+"20200307","Lebanon",22,6,0,0,"Local transmission",0
+"20200307","Oman",16,0,0,0,"Imported cases only",1
+"20200307","Qatar",11,3,0,0,"Imported cases only",0
+"20200307","Saudi Arabia",8,0,0,0,"Imported cases only",1
+"20200307","Pakistan",5,0,0,0,"Imported cases only",4
+"20200307","Egypt",3,0,0,0,"Imported cases only",1
+"20200307","Morocco",2,0,0,0,"Imported cases only",2
+"20200307","Afghanistan",1,0,0,0,"Imported cases only",12
+"20200307","Jordan",1,0,0,0,"Imported cases only",4
+"20200307","Tunisia",1,0,0,0,"Imported cases only",4
+"20200307","Occupied Palestinian Territory",16,9,0,0,"Local transmission",0
+"20200307","United States of America",213,65,11,1,"Local transmission",0
+"20200307","Canada",51,6,0,0,"Local transmission",0
+"20200307","Ecuador",14,1,0,0,"Local transmission",0
+"20200307","Brazil",13,6,0,0,"Local transmission",0
+"20200307","Chile",5,4,0,0,"Imported cases only",0
+"20200307","Mexico",5,0,0,0,"Imported cases only",5
+"20200307","Argentina",2,1,0,0,"Imported cases only",0
+"20200307","Colombia",1,1,0,0,"Imported cases only",0
+"20200307","Dominican Republic",1,0,0,0,"Imported cases only",5
+"20200307","Peru",1,1,0,0,"Imported cases only",0
+"20200307","Saint Martin",2,0,0,0,"Under investigation",4
+"20200307","Saint Barthelemy",1,0,0,0,"Under investigation",4
+"20200307","Algeria",17,5,0,0,"Local transmission",0
+"20200307","Senegal",4,0,0,0,"Imported cases only",2
+"20200307","Cameroon",2,1,0,0,"Local transmission",0
+"20200307","Nigeria",1,0,0,0,"Imported cases only",8
+"20200307","South Africa",1,0,0,0,"Imported cases only",1
+"20200307","Togo",1,1,0,0,"Imported cases only",0
+"20200307","Diamond Princess",696,0,6,0,"Clusters of cases",1
+"20200308","Republic of Korea",7134,367,50,6,"Local transmission",0
+"20200308","Japan",455,48,6,0,"Local transmission",0
+"20200308","Singapore",138,8,0,0,"Local transmission",0
+"20200308","Malaysia",93,10,0,0,"Local transmission",0
+"20200308","Australia",74,12,3,1,"Local transmission",0
+"20200308","Viet Nam",21,4,0,0,"Local transmission",0
+"20200308","Philippines",6,1,1,0,"Local transmission",0
+"20200308","New Zealand",5,0,0,0,"Local transmission",1
+"20200308","Cambodia",2,1,0,0,"Local transmission",0
+"20200308","Italy",5883,1247,234,37,"Local transmission",0
+"20200308","Germany",795,156,0,0,"Local transmission",0
+"20200308","France",706,93,10,1,"Local transmission",0
+"20200308","Spain",430,56,5,0,"Local transmission",0
+"20200308","Switzerland",264,55,2,1,"Local transmission",0
+"20200308","The United Kingdom",210,43,2,1,"Local transmission",0
+"20200308","Netherlands",188,60,1,0,"Local transmission",0
+"20200308","Belgium",169,60,0,0,"Local transmission",0
+"20200308","Sweden",161,24,0,0,"Local transmission",0
+"20200308","Norway",147,34,0,0,"Local transmission",0
+"20200308","Austria",104,38,0,0,"Local transmission",0
+"20200308","Greece",66,34,0,0,"Local transmission",0
+"20200308","Iceland",45,0,0,0,"Local transmission",1
+"20200308","Denmark",31,8,0,0,"Local transmission",0
+"20200308","San Marino",27,3,1,1,"Local transmission",0
+"20200308","Czechia",26,14,0,0,"Local transmission",0
+"20200308","Israel",25,6,0,0,"Local transmission",0
+"20200308","Portugal",21,8,0,0,"Local transmission",0
+"20200308","Finland",19,0,0,0,"Local transmission",1
+"20200308","Ireland",19,1,0,0,"Local transmission",0
+"20200308","Romania",13,6,0,0,"Local transmission",0
+"20200308","Georgia",12,3,0,0,"Imported cases only",0
+"20200308","Slovenia",12,3,0,0,"Local transmission",0
+"20200308","Croatia",11,0,0,0,"Local transmission",1
+"20200308","Estonia",10,0,0,0,"Imported cases only",1
+"20200308","Azerbaijan",9,0,0,0,"Imported cases only",1
+"20200308","Hungary",7,3,0,0,"Local transmission",0
+"20200308","Russian Federation",7,0,0,0,"Imported cases only",1
+"20200308","Belarus",6,0,0,0,"Local transmission",3
+"20200308","Poland",6,1,0,0,"Imported cases only",0
+"20200308","Malta",3,3,0,0,"Imported cases only",0
+"20200308","North Macedonia",3,0,0,0,"Imported cases only",1
+"20200308","Slovakia",3,2,0,0,"Local transmission",0
+"20200308","Bosnia and Herzegovina",2,0,0,0,"Local transmission",3
+"20200308","Bulgaria",2,2,0,0,"Local transmission",0
+"20200308","Luxembourg",2,0,0,0,"Imported cases only",1
+"20200308","Andorra",1,0,0,0,"Imported cases only",5
+"20200308","Armenia",1,0,0,0,"Imported cases only",6
+"20200308","Holy See",1,0,0,0,"Under investigation",2
+"20200308","Latvia",1,0,0,0,"Imported cases only",5
+"20200308","Liechtenstein",1,0,0,0,"Imported cases only",2
+"20200308","Lithuania",1,0,0,0,"Imported cases only",9
+"20200308","Monaco",1,0,0,0,"Under investigation",7
+"20200308","Republic of Moldova",1,1,0,0,"Imported cases only",0
+"20200308","Serbia",1,0,0,0,"Under investigation",2
+"20200308","Ukraine",1,0,0,0,"Imported cases only",4
+"20200308","Faroe Islands",1,0,0,0,"Imported cases only",2
+"20200308","Gibraltar",1,0,0,0,"Under investigation",4
+"20200308","Thailand",50,2,1,0,"Local transmission",0
+"20200308","India",34,3,0,0,"Local transmission",0
+"20200308","Indonesia",4,0,0,0,"Local transmission",1
+"20200308","Maldives",2,2,0,0,"Local transmission",0
+"20200308","Bhutan",1,0,0,0,"Imported cases only",2
+"20200308","Nepal",1,0,0,0,"Imported cases only",44
+"20200308","Sri Lanka",1,0,0,0,"Imported cases only",41
+"20200308","Iran (Islamic Republic of)",5823,1076,145,21,"Local transmission",0
+"20200308","Kuwait",62,4,0,0,"Imported cases only",0
+"20200308","Bahrain",56,7,0,0,"Imported cases only",0
+"20200308","Iraq",54,10,4,0,"Imported cases only",0
+"20200308","Egypt",48,45,0,0,"Local transmission††",0
+"20200308","United Arab Emirates",45,0,0,0,"Local transmission",1
+"20200308","Lebanon",28,6,0,0,"Local transmission",0
+"20200308","Oman",16,0,0,0,"Imported cases only",2
+"20200308","Qatar",12,1,0,0,"Imported cases only",0
+"20200308","Saudi Arabia",7,2,0,0,"Imported cases only",0
+"20200308","Pakistan",5,0,0,0,"Imported cases only",5
+"20200308","Afghanistan",4,3,0,0,"Imported cases only",0
+"20200308","Morocco",2,0,0,0,"Imported cases only",3
+"20200308","Jordan",1,0,0,0,"Imported cases only",5
+"20200308","Tunisia",1,0,0,0,"Imported cases only",5
+"20200308","Occupied Palestinian Territory",16,0,0,0,"Local transmission",1
+"20200308","United States of America",213,0,11,0,"Local transmission",1
+"20200308","Canada",57,6,0,0,"Local transmission",0
+"20200308","Brazil",19,6,0,0,"Local transmission",0
+"20200308","Ecuador",14,0,0,0,"Local transmission",1
+"20200308","Argentina",9,7,1,1,"Imported cases only",0
+"20200308","Mexico",7,2,0,0,"Imported cases only",0
+"20200308","Peru",6,0,0,0,"Local transmission",1
+"20200308","Chile",5,0,0,0,"Imported cases only",1
+"20200308","Costa Rica",5,5,0,0,"Imported cases only",0
+"20200308","Colombia",1,0,0,0,"Imported cases only",1
+"20200308","Dominican Republic",1,0,0,0,"Imported cases only",6
+"20200308","French Guiana",5,5,0,0,"Imported cases only",0
+"20200308","Martinique",2,2,0,0,"Imported cases only",0
+"20200308","Saint Martin",2,0,0,0,"Under investigation",5
+"20200308","Saint Barthélemy",1,0,0,0,"Under investigation",5
+"20200308","Algeria",17,0,0,0,"Local transmission",1
+"20200308","Senegal",4,0,0,0,"Imported cases only",3
+"20200308","Cameroon",2,0,0,0,"Local transmission",1
+"20200308","South Africa",2,1,0,0,"Imported cases only",0
+"20200308","Nigeria",1,0,0,0,"Imported cases only",9
+"20200308","Togo",1,0,0,0,"Imported cases only",1
+"20200308","Diamond Princess",696,0,7,1,"Local transmission",0
+"20200309","Republic of Korea",7382,248,51,1,"Local transmission",0
+"20200309","Japan",488,33,7,1,"Local transmission",0
+"20200309","Singapore",150,12,0,0,"Local transmission",0
+"20200309","Malaysia",93,0,0,0,"Local transmission",1
+"20200309","Australia",77,3,3,0,"Local transmission",0
+"20200309","Viet Nam",30,9,0,0,"Local transmission",0
+"20200309","Philippines",10,4,1,0,"Local transmission",0
+"20200309","New Zealand",5,0,0,0,"Local transmission",2
+"20200309","Cambodia",2,0,0,0,"Local transmission",1
+"20200309","Italy",7375,1492,366,132,"Local transmission",0
+"20200309","France",1116,410,19,9,"Local transmission",0
+"20200309","Germany",1112,317,0,0,"Local transmission",0
+"20200309","Spain",589,159,10,5,"Local transmission",0
+"20200309","Switzerland",332,68,2,0,"Local transmission",0
+"20200309","The United Kingdom",277,67,2,0,"Local transmission",0
+"20200309","Netherlands",265,77,3,2,"Local transmission",0
+"20200309","Sweden",203,42,0,0,"Local transmission",0
+"20200309","Belgium",200,31,0,0,"Local transmission",0
+"20200309","Norway",169,22,0,0,"Local transmission",0
+"20200309","Austria",112,10,0,0,"Local transmission",0
+"20200309","Greece",73,7,0,0,"Local transmission",0
+"20200309","Iceland",55,10,0,0,"Local transmission",0
+"20200309","Israel",39,14,0,0,"Local transmission",0
+"20200309","San Marino",37,10,1,0,"Local transmission",0
+"20200309","Denmark",36,5,0,0,"Local transmission",0
+"20200309","Czechia",32,6,0,0,"Local transmission",0
+"20200309","Finland",30,11,0,0,"Local transmission",0
+"20200309","Portugal",30,9,0,0,"Local transmission",0
+"20200309","Ireland",21,2,0,0,"Local transmission",0
+"20200309","Slovenia",16,4,0,0,"Local transmission",0
+"20200309","Romania",15,2,0,0,"Local transmission",0
+"20200309","Georgia",13,1,0,0,"Imported cases only",0
+"20200309","Croatia",11,0,0,0,"Local transmission",2
+"20200309","Poland",11,5,0,0,"Imported cases only",0
+"20200309","Estonia",10,0,0,0,"Imported cases only",2
+"20200309","Azerbaijan",9,0,0,0,"Imported cases only",2
+"20200309","Hungary",9,2,0,0,"Local transmission",0
+"20200309","Russian Federation",7,0,0,0,"Imported cases only",2
+"20200309","Belarus",6,0,0,0,"Local transmission",4
+"20200309","Slovakia",5,2,0,0,"Local transmission",0
+"20200309","Bulgaria",4,2,0,0,"Local transmission",0
+"20200309","Latvia",3,2,0,0,"Imported cases only",0
+"20200309","Malta",3,0,0,0,"Imported cases only",1
+"20200309","North Macedonia",3,0,0,0,"Imported cases only",2
+"20200309","Albania",2,2,0,0,"Imported cases only",0
+"20200309","Bosnia and Herzegovina",2,0,0,0,"Local transmission",4
+"20200309","Luxembourg",2,0,0,0,"Imported cases only",2
+"20200309","Andorra",1,0,0,0,"Imported cases only",6
+"20200309","Armenia",1,0,0,0,"Imported cases only",7
+"20200309","Holy See",1,0,0,0,"Under investigation",3
+"20200309","Liechtenstein",1,0,0,0,"Imported cases only",3
+"20200309","Lithuania",1,0,0,0,"Imported cases only",10
+"20200309","Monaco",1,0,0,0,"Under investigation",8
+"20200309","Republic of Moldova",1,0,0,0,"Imported cases only",1
+"20200309","Serbia",1,0,0,0,"Under investigation",3
+"20200309","Ukraine",1,0,0,0,"Imported cases only",5
+"20200309","Faroe Islands",2,1,0,0,"Imported cases only",0
+"20200309","Gibraltar",1,0,0,0,"Under investigation",5
+"20200309","Thailand",50,0,1,0,"Local transmission",1
+"20200309","India",43,9,0,0,"Local transmission",0
+"20200309","Indonesia",6,2,0,0,"Local transmission",0
+"20200309","Maldives",4,2,0,0,"Local transmission",0
+"20200309","Bangladesh",3,3,0,0,"Local transmission",0
+"20200309","Bhutan",1,0,0,0,"Imported cases only",3
+"20200309","Nepal",1,0,0,0,"Imported cases only",45
+"20200309","Sri Lanka",1,0,0,0,"Imported cases only",42
+"20200309","Iran (Islamic Republic of)",6566,743,194,49,"Local transmission",0
+"20200309","Bahrain",79,23,0,0,"Local transmission",0
+"20200309","Kuwait",64,2,0,0,"Imported cases only",0
+"20200309","Iraq",60,6,6,2,"Local transmission",0
+"20200309","Egypt",55,7,1,1,"Local transmission",0
+"20200309","United Arab Emirates",45,0,0,0,"Local transmission",2
+"20200309","Lebanon",32,4,0,0,"Local transmission",0
+"20200309","Oman",16,0,0,0,"Imported cases only",3
+"20200309","Qatar",15,3,0,0,"Imported cases only",0
+"20200309","Saudi Arabia",15,8,0,0,"Imported cases only",0
+"20200309","Pakistan",6,1,0,0,"Imported cases only",0
+"20200309","Afghanistan",4,0,0,0,"Imported cases only",1
+"20200309","Morocco",2,0,0,0,"Imported cases only",4
+"20200309","Tunisia",2,1,0,0,"Imported cases only",0
+"20200309","Jordan",1,0,0,0,"Imported cases only",6
+"20200309","occupied Palestinian territory",19,3,0,0,"Local transmission",0
+"20200309","United States of America",213,0,11,0,"Local transmission",2
+"20200309","Canada",62,5,0,0,"Local transmission",0
+"20200309","Brazil",25,6,0,0,"Local transmission",0
+"20200309","Ecuador",15,1,0,0,"Local transmission",0
+"20200309","Argentina",12,3,1,0,"Imported cases only",0
+"20200309","Chile",10,5,0,0,"Local transmission",0
+"20200309","Costa Rica",9,4,0,0,"Local transmission",0
+"20200309","Mexico",7,0,0,0,"Imported cases only",1
+"20200309","Peru",6,0,0,0,"Local transmission",2
+"20200309","Colombia",1,0,0,0,"Imported cases only",2
+"20200309","Dominican Republic",1,0,0,0,"Imported cases only",7
+"20200309","Paraguay",1,1,0,0,"Imported cases only",0
+"20200309","French Guiana",5,0,0,0,"Imported cases only",1
+"20200309","Martinique",2,0,0,0,"Imported cases only",1
+"20200309","Saint Martin",2,0,0,0,"Under investigation",6
+"20200309","Saint Barthelemy",1,0,0,0,"Under investigation",6
+"20200309","Algeria",20,3,0,0,"Local transmission",0
+"20200309","Senegal",4,0,0,0,"Imported cases only",4
+"20200309","South Africa",3,1,0,0,"Imported cases only",0
+"20200309","Cameroon",2,0,0,0,"Local transmission",2
+"20200309","Nigeria",2,1,0,0,"Imported cases only",0
+"20200309","Togo",1,0,0,0,"Imported cases only",2
+"20200309","Diamond Princess",696,0,7,0,"Local transmission",1
+"20200310","Republic of Korea",7513,131,54,3,"Local transmission",0
+"20200310","Japan",514,26,9,2,"Local transmission",0
+"20200310","Singapore",160,10,0,0,"Local transmission",0
+"20200310","Malaysia",117,24,0,0,"Local transmission",0
+"20200310","Australia",92,15,3,0,"Local transmission",0
+"20200310","Philippines",33,23,1,0,"Local transmission",0
+"20200310","Viet Nam",31,1,0,0,"Local transmission",0
+"20200310","New Zealand",5,0,0,0,"Local transmission",3
+"20200310","Cambodia",2,0,0,0,"Local transmission",2
+"20200310","Brunei Darussalam",1,1,0,0,"Imported cases only",0
+"20200310","Mongolia",1,1,0,0,"Imported cases only",0
+"20200310","Italy",9172,1797,463,97,"Local transmission",0
+"20200310","France",1402,286,30,11,"Local transmission",0
+"20200310","Germany",1139,27,2,2,"Local transmission",0
+"20200310","Spain",1024,435,28,18,"Local transmission",0
+"20200310","Switzerland",332,0,2,0,"Local transmission",1
+"20200310","The United Kingdom",323,46,3,1,"Local transmission",0
+"20200310","Netherlands",321,56,3,0,"Local transmission",0
+"20200310","Sweden",248,45,0,0,"Local transmission",0
+"20200310","Belgium",239,39,0,0,"Local transmission",0
+"20200310","Norway",192,23,0,0,"Local transmission",0
+"20200310","Austria",131,19,0,0,"Local transmission",0
+"20200310","Denmark",90,54,0,0,"Local transmission",0
+"20200310","Greece",73,0,0,0,"Local transmission",1
+"20200310","Iceland",55,0,0,0,"Local transmission",2
+"20200310","San Marino",49,12,2,1,"Local transmission",0
+"20200310","Finland",40,10,0,0,"Local transmission",0
+"20200310","Israel",39,0,0,0,"Local transmission",1
+"20200310","Czechia",38,6,0,0,"Local transmission",0
+"20200310","Portugal",30,0,0,0,"Local transmission",1
+"20200310","Ireland",24,3,0,0,"Local transmission",0
+"20200310","Slovenia",23,7,0,0,"Local transmission",0
+"20200310","Poland",16,5,0,0,"Local transmission",0
+"20200310","Georgia",15,2,0,0,"Imported cases only",0
+"20200310","Romania",15,0,0,0,"Local transmission",1
+"20200310","Croatia",12,1,0,0,"Local transmission",0
+"20200310","Estonia",10,0,0,0,"Imported cases only",3
+"20200310","Azerbaijan",9,0,0,0,"Imported cases only",3
+"20200310","Hungary",9,0,0,0,"Local transmission",1
+"20200310","North Macedonia",7,4,0,0,"Local transmission",0
+"20200310","Russian Federation",7,0,0,0,"Imported cases only",3
+"20200310","Slovakia",7,2,0,0,"Local transmission",0
+"20200310","Belarus",6,0,0,0,"Local transmission",5
+"20200310","Latvia",6,3,0,0,"Imported cases only",0
+"20200310","Luxembourg",5,3,0,0,"Imported cases only",0
+"20200310","Bulgaria",4,0,0,0,"Local transmission",2
+"20200310","Malta",4,1,0,0,"Imported cases only",0
+"20200310","Albania",2,0,0,0,"Imported cases only",1
+"20200310","Bosnia and Herzegovina",2,0,0,0,"Local transmission",5
+"20200310","Cyprus",2,2,0,0,"Imported cases only",0
+"20200310","Andorra",1,0,0,0,"Imported cases only",7
+"20200310","Armenia",1,0,0,0,"Imported cases only",8
+"20200310","Holy See",1,0,0,0,"Under investigation",4
+"20200310","Liechtenstein",1,0,0,0,"Imported cases only",4
+"20200310","Lithuania",1,0,0,0,"Imported cases only",11
+"20200310","Monaco",1,0,0,0,"Under investigation",9
+"20200310","Republic of Moldova",1,0,0,0,"Imported cases only",2
+"20200310","Serbia",1,0,0,0,"Under investigation",4
+"20200310","Ukraine",1,0,0,0,"Imported cases only",6
+"20200310","Faroe Islands",2,0,0,0,"Imported cases only",1
+"20200310","Gibraltar",1,0,0,0,"Under investigation",6
+"20200310","Guernsey",1,1,0,0,"Imported cases only",0
+"20200310","Thailand",53,3,1,0,"Local transmission",0
+"20200310","India",44,1,0,0,"Local transmission",0
+"20200310","Indonesia",19,13,0,0,"Local transmission",0
+"20200310","Maldives",4,0,0,0,"Local transmission",1
+"20200310","Bangladesh",3,0,0,0,"Local transmission",1
+"20200310","Bhutan",1,0,0,0,"Imported cases only",4
+"20200310","Nepal",1,0,0,0,"Imported cases only",46
+"20200310","Sri Lanka",1,0,0,0,"Imported cases only",43
+"20200310","Iran (Islamic Republic of)",7161,595,237,43,"Local transmission",0
+"20200310","Bahrain",109,30,0,0,"Local transmission",0
+"20200310","Kuwait",65,1,0,0,"Imported cases only",0
+"20200310","Iraq",61,1,6,0,"Local transmission",0
+"20200310","Egypt",59,4,1,0,"Local transmission",0
+"20200310","United Arab Emirates",59,14,0,0,"Local transmission",0
+"20200310","Lebanon",41,9,0,0,"Local transmission",0
+"20200310","Oman",18,2,0,0,"Imported cases only",0
+"20200310","Qatar",18,3,0,0,"Imported cases only",0
+"20200310","Pakistan",16,10,0,0,"Local transmission",0
+"20200310","Saudi Arabia",15,0,0,0,"Imported cases only",1
+"20200310","Afghanistan",4,0,0,0,"Imported cases only",2
+"20200310","Morocco",2,0,0,0,"Imported cases only",5
+"20200310","Tunisia",2,0,0,0,"Imported cases only",1
+"20200310","Jordan",1,0,0,0,"Imported cases only",7
+"20200310","occupied Palestinian territory",26,7,0,0,"Local transmission",0
+"20200310","United States of America",472,259,19,8,"Local transmission",0
+"20200310","Canada",77,15,0,0,"Local transmission",0
+"20200310","Brazil",25,0,0,0,"Local transmission",1
+"20200310","Ecuador",15,0,0,0,"Local transmission",1
+"20200310","Chile",13,3,0,0,"Local transmission",0
+"20200310","Argentina",12,0,1,0,"Imported cases only",1
+"20200310","Costa Rica",9,0,0,0,"Local transmission",1
+"20200310","Peru",9,3,0,0,"Local transmission",0
+"20200310","Mexico",7,0,0,0,"Imported cases only",2
+"20200310","Dominican Republic",5,4,0,0,"Imported cases only",0
+"20200310","Colombia",3,2,0,0,"Imported cases only",0
+"20200310","Panama",1,1,0,0,"Imported cases only",0
+"20200310","Paraguay",1,0,0,0,"Imported cases only",1
+"20200310","French Guiana",5,0,0,0,"Imported cases only",2
+"20200310","Martinique",2,0,0,0,"Imported cases only",2
+"20200310","Saint Martin",2,0,0,0,"Under investigation",7
+"20200310","Saint Barthelemy",1,0,0,0,"Under investigation",7
+"20200310","Algeria",20,0,0,0,"Local transmission",1
+"20200310","South Africa",7,4,0,0,"Imported cases only",0
+"20200310","Senegal",4,0,0,0,"Imported cases only",5
+"20200310","Cameroon",2,0,0,0,"Local transmission",3
+"20200310","Nigeria",2,0,0,0,"Imported cases only",1
+"20200310","Togo",1,0,0,0,"Imported cases only",3
+"20200310","Diamond Princess",696,0,7,0,"Local transmission",2
+"20200311","Republic of Korea",7755,242,60,6,"Local transmission",0
+"20200311","Japan",568,54,12,3,"Local transmission",0
+"20200311","Singapore",166,6,0,0,"Local transmission",0
+"20200311","Malaysia",129,12,0,0,"Local transmission",0
+"20200311","Australia",112,20,3,0,"Local transmission",0
+"20200311","Philippines",49,16,1,0,"Local transmission",0
+"20200311","Viet Nam",35,4,0,0,"Local transmission",0
+"20200311","New Zealand",5,0,0,0,"Local transmission",4
+"20200311","Cambodia",3,1,0,0,"Local transmission",0
+"20200311","Brunei Darussalam",1,0,0,0,"Imported cases only",1
+"20200311","Mongolia",1,0,0,0,"Imported cases only",1
+"20200311","Italy",10149,977,631,168,"Local transmission",0
+"20200311","France",1774,372,33,3,"Local transmission",0
+"20200311","Spain",1639,615,36,8,"Local transmission",0
+"20200311","Germany",1296,157,2,0,"Local transmission",0
+"20200311","Switzerland",491,159,3,1,"Local transmission",0
+"20200311","Netherlands",382,61,4,1,"Local transmission",0
+"20200311","The United Kingdom",373,50,6,3,"Local transmission",0
+"20200311","Sweden",326,78,0,0,"Local transmission",0
+"20200311","Norway",277,85,0,0,"Local transmission",0
+"20200311","Belgium",267,28,0,0,"Local transmission",0
+"20200311","Denmark",262,172,0,0,"Local transmission",0
+"20200311","Austria",182,51,0,0,"Local transmission",0
+"20200311","Greece",89,16,0,0,"Local transmission",0
+"20200311","Israel",75,36,0,0,"Local transmission",0
+"20200311","San Marino",63,14,2,0,"Local transmission",0
+"20200311","Czechia",61,23,0,0,"Local transmission",0
+"20200311","Iceland",61,0,0,0,"Local transmission",1
+"20200311","Portugal",41,11,0,0,"Local transmission",0
+"20200311","Finland",40,0,0,0,"Local transmission",1
+"20200311","Ireland",34,10,0,0,"Local transmission",0
+"20200311","Slovenia",31,8,0,0,"Local transmission",0
+"20200311","Romania",25,10,0,0,"Local transmission",0
+"20200311","Georgia",23,8,0,0,"Imported cases only",0
+"20200311","Poland",22,6,0,0,"Local transmission",0
+"20200311","Croatia",16,4,0,0,"Local transmission",0
+"20200311","Estonia",13,3,0,0,"Imported cases only",0
+"20200311","Hungary",13,4,0,0,"Local transmission",0
+"20200311","Serbia",12,11,0,0,"Local transmission",0
+"20200311","Albania",10,8,0,0,"Local transmission",0
+"20200311","Bulgaria",6,2,0,0,"Local transmission",0
+"20200311","Azerbaijan",9,0,0,0,"Imported cases only",4
+"20200311","Belarus",9,3,0,0,"Local transmission",0
+"20200311","Latvia",8,2,0,0,"Imported cases only",0
+"20200311","North Macedonia",7,0,0,0,"Local transmission",1
+"20200311","Russian Federation",7,0,0,0,"Imported cases only",4
+"20200311","Slovakia",7,0,0,0,"Local transmission",1
+"20200311","Luxembourg",5,0,0,0,"Imported cases only",1
+"20200311","Bosnia and Herzegovina",4,2,0,0,"Local transmission",0
+"20200311","Malta",4,0,0,0,"Imported cases only",1
+"20200311","Republic of Moldova",3,2,0,0,"Imported cases only",0
+"20200311","Cyprus",2,0,0,0,"Imported cases only",1
+"20200311","Andorra",1,0,0,0,"Imported cases only",8
+"20200311","Armenia",1,0,0,0,"Imported cases only",9
+"20200311","Holy See",1,0,0,0,"Under investigation",5
+"20200311","Liechtenstein",1,0,0,0,"Imported cases only",5
+"20200311","Lithuania",1,0,0,0,"Imported cases only",12
+"20200311","Monaco",1,0,0,0,"Under investigation",10
+"20200311","Ukraine",1,0,0,0,"Imported cases only",7
+"20200311","Faroe Islands",2,0,0,0,"Imported cases only",2
+"20200311","Gibraltar",1,0,0,0,"Under investigation",7
+"20200311","Guernsey",1,0,0,0,"Imported cases only",1
+"20200311","India",60,16,0,0,"Local transmission",0
+"20200311","Thailand",59,6,1,0,"Local transmission",0
+"20200311","Indonesia",27,8,1,1,"Local transmission",0
+"20200311","Maldives",8,4,0,0,"Local transmission",0
+"20200311","Bangladesh",3,0,0,0,"Local transmission",2
+"20200311","Bhutan",1,0,0,0,"Imported cases only",5
+"20200311","Nepal",1,0,0,0,"Imported cases only",47
+"20200311","Sri Lanka",1,0,0,0,"Imported cases only",44
+"20200311","Iran (Islamic Republic of)",8042,881,291,54,"Local transmission",0
+"20200311","Bahrain",110,1,0,0,"Local transmission",0
+"20200311","United Arab Emirates",74,15,0,0,"Local transmission",0
+"20200311","Kuwait",69,4,0,0,"Imported cases only",0
+"20200311","Iraq",61,0,6,0,"Local transmission",1
+"20200311","Egypt",59,0,1,0,"Local transmission",1
+"20200311","Lebanon",41,9,1,1,"Local transmission",0
+"20200311","Qatar",24,6,0,0,"Imported cases only",0
+"20200311","Saudi Arabia",20,5,0,0,"Local transmission",0
+"20200311","Oman",18,0,0,0,"Imported cases only",1
+"20200311","Pakistan",16,0,0,0,"Local transmission",1
+"20200311","Tunisia",6,4,0,0,"Local transmission",0
+"20200311","Afghanistan",4,0,0,0,"Imported cases only",3
+"20200311","Morocco",3,1,1,1,"Imported cases only",0
+"20200311","Jordan",1,0,0,0,"Imported cases only",8
+"20200311","occupied Palestinian territory",30,4,0,0,"Local transmission",0
+"20200311","United States of America",696,224,25,6,"Local transmission",0
+"20200311","Canada",93,16,1,1,"Local transmission",0
+"20200311","Brazil",34,9,0,0,"Local transmission",0
+"20200311","Argentina",17,5,1,0,"Imported cases only",0
+"20200311","Chile",17,4,0,0,"Local transmission",0
+"20200311","Ecuador",15,0,0,0,"Local transmission",2
+"20200311","Costa Rica",13,4,0,0,"Local transmission",0
+"20200311","Peru",11,2,0,0,"Local transmission",0
+"20200311","Panama",8,7,1,1,"Imported cases only",0
+"20200311","Paraguay",5,4,0,0,"Local transmission",0
+"20200311","Mexico",7,0,0,0,"Imported cases only",3
+"20200311","Dominican Republic",5,0,0,0,"Imported cases only",1
+"20200311","Colombia",3,0,0,0,"Imported cases only",1
+"20200311","Bolivia (Plurinational State of)",2,2,0,0,"Imported cases only",0
+"20200311","Jamaica",1,1,0,0,"Imported cases only",0
+"20200311","French Guiana",5,0,0,0,"Imported cases only",3
+"20200311","Martinique",3,1,0,0,"Imported cases only",0
+"20200311","Saint Martin",2,0,0,0,"Under investigation",8
+"20200311","Saint Barthelemy",1,0,0,0,"Under investigation",8
+"20200311","Algeria",20,0,0,0,"Local transmission",2
+"20200311","South Africa",7,0,0,0,"Imported cases only",1
+"20200311","Senegal",4,0,0,0,"Imported cases only",6
+"20200311","Burkina Faso",2,2,0,0,"Imported cases only",0
+"20200311","Cameroon",2,0,0,0,"Local transmission",4
+"20200311","Nigeria",2,0,0,0,"Imported cases only",2
+"20200311","Democratic Republic of the Congo",1,1,0,0,"Imported cases only",0
+"20200311","Togo",1,0,0,0,"Imported cases only",4
+"20200311","Diamond Princess",696,0,7,0,"Local transmission",3
+"20200312","Republic of Korea",7869,114,66,6,"Local transmission",0
+"20200312","Japan",620,52,15,3,"Local transmission",0
+"20200312","Singapore",178,12,0,0,"Local transmission",0
+"20200312","Malaysia",129,0,0,0,"Local transmission",1
+"20200312","Australia",122,10,3,0,"Local transmission",0
+"20200312","Philippines",52,3,2,1,"Local transmission",0
+"20200312","Viet Nam",39,4,0,0,"Local transmission",0
+"20200312","Brunei Darussalam",12,11,0,0,"Local transmission",0
+"20200312","New Zealand",5,0,0,0,"Local transmission",5
+"20200312","Cambodia",3,0,0,0,"Local transmission",1
+"20200312","Mongolia",1,0,0,0,"Imported cases only",2
+"20200312","French Polynesia",1,1,0,0,"Imported cases only",0
+"20200312","Italy",12462,2313,827,196,"Local transmission",0
+"20200312","France",2269,495,48,15,"Local transmission",0
+"20200312","Spain",2140,501,48,12,"Local transmission",0
+"20200312","Germany",1567,271,3,1,"Local transmission",0
+"20200312","Switzerland",645,154,4,1,"Local transmission",0
+"20200312","Denmark",615,353,0,0,"Local transmission",0
+"20200312","Netherlands",503,121,5,1,"Local transmission",0
+"20200312","Sweden",461,135,0,0,"Local transmission",0
+"20200312","The United Kingdom",460,87,6,0,"Local transmission",0
+"20200312","Belgium",314,47,0,0,"Local transmission",0
+"20200312","Austria",302,120,0,0,"Local transmission",0
+"20200312","Norway",489,212,0,0,"Local transmission",0
+"20200312","Greece",98,9,1,1,"Local transmission",0
+"20200312","Czechia",94,33,0,0,"Local transmission",0
+"20200312","Israel",75,0,0,0,"Local transmission",1
+"20200312","San Marino",63,0,2,0,"Local transmission",1
+"20200312","Iceland",61,0,0,0,"Local transmission",2
+"20200312","Slovenia",57,26,0,0,"Local transmission",0
+"20200312","Romania",48,23,0,0,"Local transmission",0
+"20200312","Poland",44,22,0,0,"Local transmission",0
+"20200312","Ireland",43,9,1,1,"Local transmission",0
+"20200312","Portugal",41,0,0,0,"Local transmission",1
+"20200312","Finland",40,0,0,0,"Local transmission",2
+"20200312","Georgia",23,0,0,0,"Imported cases only",1
+"20200312","Russian Federation",20,13,0,0,"Imported cases only",0
+"20200312","Serbia",19,7,0,0,"Local transmission",0
+"20200312","Luxembourg",17,12,0,0,"Local transmission",0
+"20200312","Croatia",16,0,0,0,"Local transmission",1
+"20200312","Latvia",16,8,0,0,"Imported cases only",0
+"20200312","Estonia",13,0,0,0,"Imported cases only",1
+"20200312","Hungary",13,0,0,0,"Local transmission",1
+"20200312","Belarus",12,3,0,0,"Local transmission",0
+"20200312","Albania",10,0,0,0,"Local transmission",1
+"20200312","Slovakia",10,3,0,0,"Local transmission",0
+"20200312","Azerbaijan",9,0,0,0,"Imported cases only",5
+"20200312","Bulgaria",7,1,1,1,"Local transmission",0
+"20200312","North Macedonia",7,0,0,0,"Local transmission",2
+"20200312","Cyprus",6,4,0,0,"Imported cases only",0
+"20200312","Malta",6,2,0,0,"Imported cases only",0
+"20200312","Bosnia and Herzegovina",4,0,0,0,"Local transmission",1
+"20200312","Republic of Moldova",4,1,0,0,"Imported cases only",0
+"20200312","Lithuania",3,2,0,0,"Imported cases only",0
+"20200312","Andorra",1,0,0,0,"Imported cases only",9
+"20200312","Armenia",1,0,0,0,"Imported cases only",10
+"20200312","Holy See",1,0,0,0,"Under investigation",6
+"20200312","Liechtenstein",1,0,0,0,"Imported cases only",6
+"20200312","Monaco",1,0,0,0,"Under investigation",11
+"20200312","Turkey",1,1,0,0,"Imported cases only",0
+"20200312","Ukraine",1,0,0,0,"Imported cases only",8
+"20200312","Faroe Islands",2,0,0,0,"Imported cases only",3
+"20200312","Gibraltar",1,0,0,0,"Under investigation",8
+"20200312","Guernsey",1,0,0,0,"Imported cases only",2
+"20200312","India",73,13,0,0,"Local transmission",0
+"20200312","Thailand",70,11,1,0,"Local transmission",0
+"20200312","Indonesia",34,7,1,0,"Local transmission",0
+"20200312","Maldives",8,0,0,0,"Local transmission",1
+"20200312","Bangladesh",3,0,0,0,"Local transmission",3
+"20200312","Sri Lanka",2,1,0,0,"Imported cases only",0
+"20200312","Bhutan",1,0,0,0,"Imported cases only",6
+"20200312","Nepal",1,0,0,0,"Imported cases only",48
+"20200312","Iran (Islamic Republic of)",9000,958,354,63,"Local transmission",0
+"20200312","Qatar",262,238,0,0,"Local transmission",0
+"20200312","Bahrain",189,79,0,0,"Local transmission",0
+"20200312","Kuwait",80,11,0,0,"Local transmission",0
+"20200312","United Arab Emirates",74,0,0,0,"Local transmission",1
+"20200312","Iraq",70,9,7,1,"Local transmission",0
+"20200312","Egypt",67,8,1,0,"Local transmission",0
+"20200312","Lebanon",66,25,3,2,"Local transmission",0
+"20200312","Saudi Arabia",21,1,0,0,"Local transmission",0
+"20200312","Pakistan",19,3,0,0,"Imported cases only",0
+"20200312","Oman",18,0,0,0,"Imported cases only",2
+"20200312","Afghanistan",7,3,0,0,"Imported cases only",0
+"20200312","Tunisia",6,0,0,0,"Local transmission",1
+"20200312","Morocco",5,2,1,0,"Local transmission",0
+"20200312","Jordan",1,0,0,0,"Imported cases only",9
+"20200312","occupied Palestinian territory",30,0,0,0,"Local transmission",1
+"20200312","United States of America",987,291,29,4,"Local transmission",0
+"20200312","Canada",93,0,1,0,"Local transmission",1
+"20200312","Brazil",52,18,0,0,"Local transmission",0
+"20200312","Chile",23,6,0,0,"Local transmission",0
+"20200312","Argentina",19,2,1,0,"Imported cases only",0
+"20200312","Ecuador",17,2,0,0,"Local transmission",0
+"20200312","Peru",17,6,0,0,"Local transmission",0
+"20200312","Costa Rica",13,0,0,0,"Local transmission",1
+"20200312","Mexico",11,4,0,0,"Imported cases only",0
+"20200312","Panama",10,2,1,0,"Local transmission",0
+"20200312","Colombia",9,6,0,0,"Imported cases only",0
+"20200312","Dominican Republic",5,0,0,0,"Imported cases only",2
+"20200312","Paraguay",5,0,0,0,"Local transmission",1
+"20200312","Bolivia (Plurinational State of)",2,0,0,0,"Imported cases only",1
+"20200312","Honduras",2,2,0,0,"Imported cases only",0
+"20200312","Jamaica",1,0,0,0,"Imported cases only",1
+"20200312","French Guiana",5,0,0,0,"Imported cases only",4
+"20200312","Martinique",3,0,0,0,"Imported cases only",1
+"20200312","Saint Martin",2,0,0,0,"Under investigation",9
+"20200312","Saint Barthelemy",1,0,0,0,"Under investigation",9
+"20200312","Algeria",25,5,1,1,"Local transmission",0
+"20200312","South Africa",13,6,0,0,"Imported cases only",0
+"20200312","Senegal",4,0,0,0,"Imported cases only",7
+"20200312","Burkina Faso",2,0,0,0,"Imported cases only",1
+"20200312","Cameroon",2,0,0,0,"Local transmission",5
+"20200312","Nigeria",2,0,0,0,"Imported cases only",3
+"20200312","Côte d’Ivoire",1,1,0,0,"Imported cases only",0
+"20200312","Democratic Republic of the Congo",1,0,0,0,"Imported cases only",1
+"20200312","Togo",1,0,0,0,"Imported cases only",5
+"20200312","Diamond Princess",696,0,7,0,"Local transmission",4
+"20200313","Republic of Korea",7979,110,66,0,"Local transmission",0
+"20200313","Japan",675,55,19,4,"Local transmission",0
+"20200313","Singapore",187,9,0,0,"Local transmission",0
+"20200313","Australia",140,18,3,0,"Local transmission",0
+"20200313","Malaysia",129,0,0,0,"Local transmission",2
+"20200313","Philippines",52,0,2,0,"Local transmission",1
+"20200313","Viet Nam",39,0,0,0,"Local transmission",1
+"20200313","Brunei Darussalam",12,0,0,0,"Imported cases only",1
+"20200313","Cambodia",5,2,0,0,"Local transmission",0
+"20200313","New Zealand",5,0,0,0,"Local transmission",6
+"20200313","Mongolia",1,0,0,0,"Imported cases only",3
+"20200313","French Polynesia",1,0,0,0,"Imported cases only",1
+"20200313","Italy",15113,2651,1016,189,"Local transmission",0
+"20200313","Spain",2965,825,84,36,"Local transmission",0
+"20200313","France",2860,591,61,13,"Local transmission",0
+"20200313","Germany",2369,802,6,3,"Local transmission",0
+"20200313","Switzerland",858,213,6,2,"Local transmission",0
+"20200313","Denmark",674,59,0,0,"Local transmission",0
+"20200313","Sweden",620,159,0,0,"Local transmission",0
+"20200313","Netherlands",614,111,5,0,"Local transmission",0
+"20200313","The United Kingdom",594,134,8,2,"Local transmission",0
+"20200313","Austria",361,59,1,1,"Local transmission",0
+"20200313","Belgium",314,0,0,0,"Local transmission",1
+"20200313","Norway",489,0,0,0,"Local transmission",1
+"20200313","Czechia",116,22,0,0,"Local transmission",0
+"20200313","Finland",109,69,0,0,"Local transmission",0
+"20200313","Greece",98,0,1,0,"Local transmission",1
+"20200313","Israel",75,0,0,0,"Local transmission",2
+"20200313","Ireland",70,27,1,0,"Local transmission",0
+"20200313","San Marino",63,0,2,0,"Local transmission",2
+"20200313","Iceland",61,0,0,0,"Local transmission",3
+"20200313","Slovenia",57,0,0,0,"Local transmission",1
+"20200313","Poland",49,5,1,1,"Local transmission",0
+"20200313","Romania",48,0,0,0,"Local transmission",1
+"20200313","Portugal",41,0,0,0,"Local transmission",2
+"20200313","Russian Federation",34,14,0,0,"Imported cases only",0
+"20200313","Georgia",25,2,0,0,"Imported cases only",0
+"20200313","Albania",23,13,0,0,"Imported cases only",0
+"20200313","Slovakia",21,11,0,0,"Local transmission",0
+"20200313","Serbia",19,0,0,0,"Under investigation",1
+"20200313","Luxembourg",17,0,0,0,"Imported cases only",1
+"20200313","Croatia",16,0,0,0,"Local transmission",2
+"20200313","Hungary",16,3,0,0,"Local transmission",0
+"20200313","Latvia",16,0,0,0,"Imported cases only",1
+"20200313","Estonia",13,0,0,0,"Imported cases only",2
+"20200313","Belarus",12,0,0,0,"Local transmission",1
+"20200313","Azerbaijan",11,2,0,0,"Imported cases only",0
+"20200313","Malta",9,3,0,0,"Imported cases only",0
+"20200313","Bulgaria",7,0,1,0,"Local transmission",1
+"20200313","North Macedonia",7,0,0,0,"Local transmission",3
+"20200313","Cyprus",6,0,0,0,"Imported cases only",1
+"20200313","Bosnia and Herzegovina",4,0,0,0,"Local transmission",2
+"20200313","Liechtenstein",4,3,0,0,"Imported cases only",0
+"20200313","Republic of Moldova",4,0,0,0,"Imported cases only",1
+"20200313","Lithuania",3,0,0,0,"Imported cases only",1
+"20200313","Ukraine",3,2,0,0,"Imported cases only",0
+"20200313","Andorra",1,0,0,0,"Imported cases only",10
+"20200313","Armenia",1,0,0,0,"Imported cases only",11
+"20200313","Holy See",1,0,0,0,"Under investigation",7
+"20200313","Monaco",1,0,0,0,"Under investigation",12
+"20200313","Turkey",1,0,0,0,"Imported cases only",1
+"20200313","Faroe Islands",2,0,0,0,"Imported cases only",4
+"20200313","Gibraltar",1,0,0,0,"Under investigation",9
+"20200313","Guernsey",1,0,0,0,"Imported cases only",3
+"20200313","Jersey",2,2,0,0,"Imported cases only",0
+"20200313","Thailand",75,5,1,0,"Local transmission",0
+"20200313","India",74,1,1,1,"Local transmission",0
+"20200313","Indonesia",34,0,1,0,"Local transmission",1
+"20200313","Maldives",8,0,0,0,"Local transmission",2
+"20200313","Bangladesh",3,0,0,0,"Local transmission",4
+"20200313","Sri Lanka",3,1,0,0,"Imported cases only",0
+"20200313","Bhutan",1,0,0,0,"Imported cases only",7
+"20200313","Nepal",1,0,0,0,"Imported cases only",49
+"20200313","Réunion",3,3,0,0,"Imported cases only",0
+"20200313","Iran (Islamic Republic of)",10075,1075,429,75,"Local transmission",0
+"20200313","Qatar",262,0,0,0,"Imported cases only",1
+"20200313","Bahrain",195,6,0,0,"Local transmission",0
+"20200313","United Arab Emirates",85,11,0,0,"Local transmission",0
+"20200313","Kuwait",80,0,0,0,"Imported cases only",1
+"20200313","Iraq",70,0,7,0,"Local transmission",1
+"20200313","Egypt",67,0,1,0,"Local transmission",1
+"20200313","Lebanon",66,0,3,0,"Local transmission",1
+"20200313","Saudi Arabia",21,0,0,0,"Imported cases only",1
+"20200313","Pakistan",20,1,0,0,"Local transmission",0
+"20200313","Oman",18,0,0,0,"Imported cases only",3
+"20200313","Afghanistan",7,0,0,0,"Imported cases only",1
+"20200313","Tunisia",7,1,0,0,"Imported cases only",0
+"20200313","Morocco",6,1,1,0,"Imported cases only",0
+"20200313","Jordan",1,0,0,0,"Imported cases only",10
+"20200313","occupied Palestinian territory",31,1,0,0,"Local transmission",0
+"20200313","United States of America",1264,277,36,7,"Local transmission",0
+"20200313","Canada",138,45,1,0,"Local transmission",0
+"20200313","Brazil",77,25,0,0,"Local transmission",0
+"20200313","Chile",33,10,0,0,"Local transmission",0
+"20200313","Argentina",31,12,1,0,"Imported cases only",0
+"20200313","Costa Rica",22,9,0,0,"Local transmission",0
+"20200313","Peru",22,5,0,0,"Local transmission",0
+"20200313","Ecuador",17,0,0,0,"Local transmission",1
+"20200313","Panama",14,4,1,0,"Imported cases only",0
+"20200313","Mexico",12,1,0,0,"Imported cases only",0
+"20200313","Colombia",9,0,0,0,"Imported cases only",1
+"20200313","Dominican Republic",5,0,0,0,"Imported cases only",3
+"20200313","Paraguay",5,0,0,0,"Imported cases only",2
+"20200313","Bolivia (Plurinational State of)",3,1,0,0,"Imported cases only",0
+"20200313","Cuba",3,3,0,0,"Imported cases only",0
+"20200313","Honduras",2,0,0,0,"Imported cases only",1
+"20200313","Guyana",1,1,1,1,"Imported cases only",0
+"20200313","Jamaica",1,0,0,0,"Imported cases only",2
+"20200313","Saint Vincent and the Grenadines",1,1,0,0,"Imported cases only",0
+"20200313","French Guiana",6,1,0,0,"Imported cases only",0
+"20200313","Martinique",4,1,0,0,"Imported cases only",0
+"20200313","Saint Martin",2,0,0,0,"Under investigation",10
+"20200313","Saint Barthelemy",1,0,0,0,"Under investigation",10
+"20200313","Algeria",25,0,1,0,"Local transmission",1
+"20200313","South Africa",17,4,0,0,"Imported cases only",0
+"20200313","Senegal",10,6,0,0,"Imported cases only",0
+"20200313","Burkina Faso",2,0,0,0,"Imported cases only",2
+"20200313","Cameroon",2,0,0,0,"Local transmission",6
+"20200313","Nigeria",2,0,0,0,"Imported cases only",4
+"20200313","Cote d Ivoire",1,0,0,0,"Imported cases only",1
+"20200313","Democratic Republic of the Congo",1,0,0,0,"Imported cases only",2
+"20200313","Togo",1,0,0,0,"Imported cases only",6
+"20200313","Diamond Princess",696,0,7,0,"Local transmission",5
+"20200314","Republic of Korea",8086,107,72,6,"Local transmission",0
+"20200314","Japan",716,41,21,2,"Local transmission",0
+"20200314","Singapore",200,13,0,0,"Local transmission",0
+"20200314","Australia",197,57,3,0,"Local transmission",0
+"20200314","Malaysia",197,68,0,0,"Local transmission",0
+"20200314","Philippines",64,12,2,0,"Local transmission",0
+"20200314","Viet Nam",48,9,0,0,"Local transmission",0
+"20200314","Brunei Darussalam",25,13,0,0,"Local transmission",0
+"20200314","Cambodia",7,2,0,0,"Local transmission",0
+"20200314","New Zealand",6,1,0,0,"Local transmission",0
+"20200314","Mongolia",1,0,0,0,"Imported cases only",4
+"20200314","French Polynesia",1,0,0,0,"Imported cases only",2
+"20200314","Italy",17660,2547,1268,252,"Local transmission",0
+"20200314","Spain",4231,1266,120,36,"Local transmission",0
+"20200314","France",3640,780,79,18,"Local transmission",0
+"20200314","Germany",3062,693,6,0,"Local transmission",0
+"20200314","Switzerland",1125,267,6,0,"Local transmission",0
+"20200314","Netherlands",804,190,10,5,"Local transmission",0
+"20200314","The United Kingdom",802,208,10,2,"Local transmission",0
+"20200314","Denmark",801,127,0,0,"Local transmission",0
+"20200314","Sweden",775,155,0,0,"Local transmission",0
+"20200314","Norway",750,261,1,1,"Local transmission",0
+"20200314","Belgium",599,285,0,0,"Local transmission",0
+"20200314","Austria",504,143,1,0,"Local transmission",0
+"20200314","Czechia",150,34,0,0,"Local transmission",0
+"20200314","Slovenia",141,84,0,0,"Local transmission",0
+"20200314","Portugal",112,71,0,0,"Local transmission",0
+"20200314","Finland",109,0,0,0,"Local transmission",1
+"20200314","Israel",100,25,0,0,"Local transmission",0
+"20200314","Greece",98,0,1,0,"Local transmission",2
+"20200314","Ireland",90,20,1,0,"Local transmission",0
+"20200314","Estonia",79,66,0,0,"Local transmission",0
+"20200314","San Marino",66,3,2,0,"Local transmission",0
+"20200314","Romania",64,16,0,0,"Local transmission",0
+"20200314","Poland",64,15,1,0,"Local transmission",0
+"20200314","Iceland",61,0,0,0,"Local transmission",4
+"20200314","Luxembourg",38,21,1,1,"Local transmission",0
+"20200314","Russian Federation",34,0,0,0,"Imported cases only",1
+"20200314","Albania",33,10,1,1,"Local transmission",0
+"20200314","Serbia",31,12,0,0,"Local transmission",0
+"20200314","Slovakia",30,9,0,0,"Local transmission",0
+"20200314","Croatia",27,11,0,0,"Local transmission",0
+"20200314","Georgia",25,0,0,0,"Imported cases only",1
+"20200314","Belarus",21,9,0,0,"Local transmission",0
+"20200314","Hungary",19,3,0,0,"Local transmission",0
+"20200314","Latvia",16,0,0,0,"Imported cases only",2
+"20200314","Cyprus",14,8,0,0,"Imported cases only",0
+"20200314","Malta",12,3,0,0,"Imported cases only",0
+"20200314","Azerbaijan",11,0,0,0,"Imported cases only",1
+"20200314","Bosnia and Herzegovina",11,7,0,0,"Local transmission",0
+"20200314","North Macedonia",9,2,0,0,"Local transmission",0
+"20200314","Armenia",8,7,0,0,"Imported cases only",0
+"20200314","Republic of Moldova",8,4,0,0,"Imported cases only",0
+"20200314","Bulgaria",7,0,1,0,"Local transmission",2
+"20200314","Lithuania",6,3,0,0,"Imported cases only",0
+"20200314","Turkey",5,4,0,0,"Imported cases only",0
+"20200314","Liechtenstein",4,0,0,0,"Imported cases only",1
+"20200314","Ukraine",3,0,1,1,"Local transmission",0
+"20200314","Andorra",2,1,0,0,"Imported cases only",0
+"20200314","Monaco",2,1,0,0,"Under investigation",0
+"20200314","Holy See",1,0,0,0,"Under investigation",8
+"20200314","Faroe Islands",3,1,0,0,"Imported cases only",0
+"20200314","Gibraltar",1,0,0,0,"Under investigation",10
+"20200314","Guernsey",1,0,0,0,"Imported cases only",4
+"20200314","Jersey",2,0,0,0,"Imported cases only",1
+"20200314","India",82,8,2,1,"Local transmission",0
+"20200314","Thailand",75,0,1,0,"Local transmission",1
+"20200314","Indonesia",69,35,3,2,"Local transmission",0
+"20200314","Maldives",9,1,0,0,"Local transmission",0
+"20200314","Sri Lanka",6,3,0,0,"Local transmission",0
+"20200314","Bangladesh",3,0,0,0,"Local transmission",5
+"20200314","Bhutan",1,0,0,0,"Imported cases only",8
+"20200314","Nepal",1,0,0,0,"Imported cases only",50
+"20200314","Iran (Islamic Republic of)",11364,1289,514,85,"Local transmission",0
+"20200314","Qatar",262,0,0,0,"Local transmission",2
+"20200314","Bahrain",210,15,0,0,"Local transmission",0
+"20200314","Kuwait",100,20,0,0,"Local transmission",0
+"20200314","Egypt",93,26,2,1,"Local transmission",0
+"20200314","Iraq",93,23,9,2,"Local transmission",0
+"20200314","United Arab Emirates",85,0,0,0,"Local transmission",1
+"20200314","Lebanon",77,11,3,0,"Local transmission",0
+"20200314","Saudi Arabia",62,41,0,0,"Local transmission",0
+"20200314","Pakistan",21,1,0,0,"Imported cases only",0
+"20200314","Oman",19,1,0,0,"Imported cases only",0
+"20200314","Tunisia",16,9,0,0,"Local transmission",0
+"20200314","Afghanistan",7,0,0,0,"Imported cases only",2
+"20200314","Morocco",7,1,1,0,"Local transmission",0
+"20200314","Jordan",1,0,0,0,"Imported cases only",11
+"20200314","Sudan",1,1,0,0,"Imported cases only",0
+"20200314","occupied Palestinian territory",35,4,0,0,"Local transmission",0
+"20200314","United States of America",1678,414,41,5,"Local transmission",0
+"20200314","Canada",176,38,1,0,"Local transmission",0
+"20200314","Brazil",98,21,0,0,"Local transmission",0
+"20200314","Chile",43,10,0,0,"Local transmission",0
+"20200314","Argentina",34,3,2,1,"Local transmission",0
+"20200314","Peru",28,6,0,0,"Local transmission",0
+"20200314","Panama",27,13,1,0,"Local transmission",0
+"20200314","Mexico",26,14,0,0,"Imported cases only",0
+"20200314","Costa Rica",23,1,0,0,"Local transmission",0
+"20200314","Ecuador",23,6,0,0,"Local transmission",0
+"20200314","Colombia",16,7,0,0,"Imported cases only",0
+"20200314","Jamaica",7,6,0,0,"Imported cases only",0
+"20200314","Guyana",1,0,1,0,"Imported cases only",1
+"20200314","Paraguay",6,1,0,0,"Local transmission",0
+"20200314","Dominican Republic",5,0,0,0,"Imported cases only",4
+"20200314","Cuba",4,1,0,0,"Imported cases only",0
+"20200314","Bolivia (Plurinational State of)",3,0,0,0,"Imported cases only",1
+"20200314","Puerto Rico",3,3,0,0,"Imported cases only",0
+"20200314","Honduras",2,0,0,0,"Imported cases only",2
+"20200314","Venezuela (Bolivarian Republic of)",2,2,0,0,"Imported cases only",0
+"20200314","Antigua and Barbuda",1,1,0,0,"Imported cases only",0
+"20200314","Guadeloupe",1,1,0,0,"Imported cases only",0
+"20200314","Saint Vincent and the Grenadines",1,0,0,0,"Imported cases only",1
+"20200314","Trinidad and Tobago",1,1,0,0,"Imported cases only",0
+"20200314","French Guiana",6,0,0,0,"Imported cases only",1
+"20200314","Martinique",6,2,0,0,"Imported cases only",0
+"20200314","Saint Martin",2,0,0,0,"Under investigation",11
+"20200314","Saint Barthelemy",1,0,0,0,"Under investigation",11
+"20200314","Cayman Islands",1,1,0,0,"Imported cases only",0
+"20200314","Algeria",26,1,2,1,"Local transmission",0
+"20200314","South Africa",17,0,0,0,"Local transmission",1
+"20200314","Senegal",10,0,0,0,"Local transmission",1
+"20200314","Burkina Faso",2,0,0,0,"Imported cases only",3
+"20200314","Cameroon",2,0,0,0,"Local transmission",7
+"20200314","Democratic Republic of the Congo",2,1,0,0,"Imported cases only",0
+"20200314","Nigeria",2,0,0,0,"Imported cases only",5
+"20200314","Cote d’Ivoire",1,0,0,0,"Imported cases only",2
+"20200314","Ethiopia",1,1,0,0,"Imported cases only",0
+"20200314","Gabon",1,1,0,0,"Imported cases only",0
+"20200314","Ghana",1,1,0,0,"Imported cases only",0
+"20200314","Guinea",1,1,0,0,"Imported cases only",0
+"20200314","Kenya",1,1,0,0,"Imported cases only",0
+"20200314","Togo",1,0,0,0,"Imported cases only",7
+"20200314","Réunion",5,2,0,0,"Imported cases only",0
+"20200314","Diamond Princess",697,1,7,0,"Local transmission",0
+"20200315","Republic of Korea",8162,76,75,3,"Local transmission",0
+"20200315","Japan",780,64,22,1,"Local transmission",0
+"20200315","Australia",249,52,3,0,"Local transmission",0
+"20200315","Malaysia",238,41,0,0,"Local transmission",0
+"20200315","Singapore",212,12,0,0,"Local transmission",0
+"20200315","Philippines",111,47,6,4,"Local transmission",0
+"20200315","Viet Nam",53,5,0,0,"Local transmission",0
+"20200315","Brunei Darussalam",40,15,0,0,"Local transmission",0
+"20200315","Cambodia",7,0,0,0,"Local transmission",1
+"20200315","New Zealand",6,0,0,0,"Local transmission",1
+"20200315","Mongolia",1,0,0,0,"Imported cases only",5
+"20200315","French Polynesia",3,2,0,0,"Imported cases only",0
+"20200315","Italy",21157,3497,1441,173,"Local transmission",0
+"20200315","Spain",5753,1522,136,16,"Local transmission",0
+"20200315","France",4469,829,91,12,"Local transmission",0
+"20200315","Germany",3795,733,8,2,"Local transmission",0
+"20200315","Switzerland",1359,234,11,5,"Local transmission",0
+"20200315","The United Kingdom",1144,342,21,11,"Local transmission",0
+"20200315","Netherlands",959,155,12,2,"Local transmission",0
+"20200315","Sweden",924,149,0,0,"Local transmission",0
+"20200315","Norway",907,157,1,0,"Local transmission",0
+"20200315","Denmark",827,26,0,0,"Local transmission",0
+"20200315","Austria",800,296,1,0,"Local transmission",0
+"20200315","Belgium",689,90,0,0,"Local transmission",0
+"20200315","Greece",228,130,2,1,"Local transmission",0
+"20200315","Czechia",214,64,0,0,"Local transmission",0
+"20200315","Finland",210,101,0,0,"Local transmission",0
+"20200315","Israel",178,78,0,0,"Local transmission",0
+"20200315","Slovenia",141,0,0,0,"Local transmission",1
+"20200315","Iceland",138,77,0,0,"Local transmission",0
+"20200315","Ireland",129,39,2,1,"Local transmission",0
+"20200315","Romania",123,59,0,0,"Local transmission",0
+"20200315","Portugal",112,0,0,0,"Local transmission",1
+"20200315","Poland",111,47,3,2,"Local transmission",0
+"20200315","San Marino",92,26,5,3,"Local transmission",0
+"20200315","Estonia",79,0,0,0,"Local transmission",1
+"20200315","Slovakia",44,14,0,0,"Local transmission",0
+"20200315","Bulgaria",43,36,2,1,"Local transmission",0
+"20200315","Serbia",41,10,0,0,"Local transmission",0
+"20200315","Albania",38,5,1,0,"Local transmission",0
+"20200315","Luxembourg",38,0,1,0,"Local transmission",1
+"20200315","Croatia",37,10,0,0,"Local transmission",0
+"20200315","Russian Federation",34,0,0,0,"Imported cases only",2
+"20200315","Hungary",32,13,0,0,"Local transmission",0
+"20200315","Georgia",30,5,0,0,"Imported cases only",0
+"20200315","Latvia",30,14,0,0,"Imported cases only",0
+"20200315","Belarus",21,0,0,0,"Local transmission",1
+"20200315","Cyprus",21,7,0,0,"Imported cases only",0
+"20200315","Azerbaijan",19,8,0,0,"Imported cases only",0
+"20200315","Bosnia and Herzegovina",18,7,0,0,"Local transmission",0
+"20200315","North Macedonia",13,4,0,0,"Local transmission",0
+"20200315","Malta",12,0,0,0,"Imported cases only",2
+"20200315","Republic of Moldova",12,4,0,0,"Imported cases only",0
+"20200315","Lithuania",9,3,0,0,"Imported cases only",0
+"20200315","Armenia",8,0,0,0,"Local transmission",1
+"20200315","Kazakhstan",6,6,0,0,"Imported cases only",0
+"20200315","Turkey",5,0,0,0,"Imported cases only",1
+"20200315","Liechtenstein",4,0,0,0,"Imported cases only",2
+"20200315","Ukraine",3,0,1,0,"Local transmission",1
+"20200315","Andorra",2,0,0,0,"Imported cases only",1
+"20200315","Monaco",2,0,0,0,"Under investigation",1
+"20200315","Holy See",1,0,0,0,"Under investigation",9
+"20200315","Faroe Islands",9,6,0,0,"Imported cases only",0
+"20200315","Gibraltar",1,0,0,0,"Under investigation",11
+"20200315","Guernsey",1,0,0,0,"Imported cases only",5
+"20200315","Jersey",2,0,0,0,"Imported cases only",2
+"20200315","Indonesia",117,48,4,1,"Local transmission",0
+"20200315","India",107,25,2,0,"Local transmission",0
+"20200315","Thailand",75,0,1,0,"Local transmission",2
+"20200315","Sri Lanka",11,5,0,0,"Local transmission",0
+"20200315","Maldives",10,1,0,0,"Local transmission",0
+"20200315","Bangladesh",3,0,0,0,"Local transmission",6
+"20200315","Bhutan",1,0,0,0,"Imported cases only",9
+"20200315","Nepal",1,0,0,0,"Imported cases only",51
+"20200315","Iran (Islamic Republic of)",12729,1365,608,94,"Local transmission",0
+"20200315","Qatar",337,75,0,0,"Local transmission",0
+"20200315","Bahrain",211,1,0,0,"Local transmission",0
+"20200315","Kuwait",112,12,0,0,"Local transmission",0
+"20200315","Saudi Arabia",103,41,0,0,"Local transmission",0
+"20200315","Egypt",93,0,2,0,"Local transmission",1
+"20200315","Iraq",93,0,9,0,"Local transmission",1
+"20200315","Lebanon",93,16,3,0,"Local transmission",0
+"20200315","United Arab Emirates",85,0,0,0,"Local transmission",2
+"20200315","Pakistan",28,7,0,0,"Imported cases only",0
+"20200315","Oman",20,1,0,0,"Imported cases only",0
+"20200315","Morocco",18,11,1,0,"Local transmission",0
+"20200315","Tunisia",16,0,0,0,"Local transmission",1
+"20200315","Afghanistan",10,3,0,0,"Imported cases only",0
+"20200315","Jordan",1,0,0,0,"Imported cases only",12
+"20200315","Sudan",1,0,0,0,"Imported cases only",1
+"20200315","occupied Palestinian territory",38,3,0,0,"Local transmission",1
+"20200315","United States of America",1678,0,41,0,"Local transmission",1
+"20200315","Canada",244,68,1,0,"Local transmission",0
+"20200315","Brazil",121,23,0,0,"Local transmission",0
+"20200315","Chile",61,18,0,0,"Local transmission",0
+"20200315","Argentina",45,11,2,0,"Local transmission",0
+"20200315","Peru",43,15,0,0,"Local transmission",0
+"20200315","Mexico",41,15,0,0,"Imported cases only",0
+"20200315","Panama",27,0,1,0,"Local transmission",1
+"20200315","Colombia",24,8,0,0,"Local transmission",0
+"20200315","Costa Rica",23,0,0,0,"Local transmission",1
+"20200315","Ecuador",23,0,0,0,"Local transmission",1
+"20200315","Jamaica",8,1,0,0,"Local transmission",0
+"20200315","Guyana",1,0,1,0,"Imported cases only",2
+"20200315","Paraguay",6,0,0,0,"Local transmission",1
+"20200315","Dominican Republic",5,0,0,0,"Imported cases only",5
+"20200315","Cuba",4,0,0,0,"Imported cases only",1
+"20200315","Bolivia (Plurinational State of)",3,0,0,0,"Imported cases only",2
+"20200315","Puerto Rico",3,0,0,0,"Imported cases only",1
+"20200315","Honduras",2,0,0,0,"Imported cases only",3
+"20200315","Venezuela (Bolivarian Republic of)",2,0,0,0,"Imported cases only",1
+"20200315","Antigua and Barbuda",1,0,0,0,"Imported cases only",1
+"20200315","Saint Vincent and the Grenadines",1,0,0,0,"Imported cases only",2
+"20200315","Trinidad and Tobago",1,0,0,0,"Imported cases only",1
+"20200315","French Guiana",7,1,0,0,"Imported cases only",2
+"20200315","Martinique",10,4,0,0,"Imported cases only",0
+"20200315","Saint Martin",2,0,0,0,"Under investigation",12
+"20200315","Saint Barthelemy",1,0,0,0,"Under investigation",12
+"20200315","Cayman Islands",1,0,0,0,"Imported cases only",1
+"20200315","Guadeloupe",3,2,0,0,"Imported cases only",0
+"20200315","Curaçao",2,2,0,0,"Imported cases only",0
+"20200315","South Africa",38,21,0,0,"Local transmission",0
+"20200315","Algeria",37,11,3,1,"Local transmission",0
+"20200315","Senegal",21,11,0,0,"Local transmission",0
+"20200315","Burkina Faso",3,1,0,0,"Imported cases only",0
+"20200315","Cameroon",3,1,0,0,"Local transmission",0
+"20200315","Cote d’Ivoire",3,2,0,0,"Imported cases only",0
+"20200315","Democratic Republic of the Congo",2,0,0,0,"Imported cases only",1
+"20200315","Ghana",2,1,0,0,"Imported cases only",0
+"20200315","Namibia",2,2,0,0,"Imported cases only",0
+"20200315","Nigeria",2,0,0,0,"Imported cases only",6
+"20200315","Central African Republic",1,1,0,0,"Imported cases only",0
+"20200315","Congo",1,1,0,0,"Imported cases only",0
+"20200315","Equatorial Guinea",1,1,0,0,"Imported cases only",0
+"20200315","Eswatini",1,1,0,0,"Imported cases only",0
+"20200315","Ethiopia",1,0,0,0,"Imported cases only",1
+"20200315","Gabon",1,0,0,0,"Imported cases only",1
+"20200315","Guinea",1,0,0,0,"Imported cases only",1
+"20200315","Kenya",1,0,0,0,"Imported cases only",1
+"20200315","Mauritania",1,1,0,0,"Imported cases only",0
+"20200315","Togo",1,0,0,0,"Imported cases only",8
+"20200315","Réunion",6,1,0,0,"Imported cases only",0
+"20200315","Mayotte",1,1,0,0,"Imported cases only",0
+"20200315","Diamond Princess",697,0,7,0,"Local transmission",1
+"20200316","China",81077,29,3218,14,"Local Transmission",0
+"20200316","Republic of Korea",8236,74,75,0,"Local transmission",0
+"20200316","Japan",814,34,24,2,"Local transmission",0
+"20200316","Malaysia",553,315,0,0,"Local transmission",0
+"20200316","Australia",298,0,5,0,"Local transmission",1
+"20200316","Singapore",243,31,0,0,"Local transmission",0
+"20200316","Philippines",140,0,12,0,"Local transmission",1
+"20200316","Viet Nam",57,4,0,0,"Local transmission",0
+"20200316","Brunei Darussalam",50,10,0,0,"Local transmission",0
+"20200316","Cambodia",12,0,0,0,"Local transmission",1
+"20200316","New Zealand",6,0,0,0,"Local transmission",2
+"20200316","Mongolia",1,0,0,0,"Imported cases only",6
+"20200316","French Polynesia",3,0,0,0,"Imported cases only",1
+"20200316","Italy",24747,3590,1809,368,"Local transmission",0
+"20200316","Spain",7753,2000,288,152,"Local transmission",0
+"20200316","France",5380,911,127,36,"Local transmission",0
+"20200316","Germany",4838,1043,12,4,"Local transmission",0
+"20200316","Switzerland",2200,841,13,2,"Local transmission",0
+"20200316","The United Kingdom",1395,251,35,14,"Local transmission",0
+"20200316","Netherlands",1135,176,20,8,"Local transmission",0
+"20200316","Belgium",1085,396,5,5,"Local transmission",0
+"20200316","Norway",1077,170,1,0,"Local transmission",0
+"20200316","Sweden",992,68,3,3,"Local transmission",0
+"20200316","Austria",959,159,1,0,"Local transmission",0
+"20200316","Denmark",898,71,1,1,"Local transmission",0
+"20200316","Greece",331,103,4,2,"Local transmission",0
+"20200316","Czechia",298,84,0,0,"Local transmission",0
+"20200316","Finland",267,57,0,0,"Local transmission",0
+"20200316","Portugal",245,133,0,0,"Local transmission",0
+"20200316","Slovenia",219,78,0,0,"Local transmission",0
+"20200316","Estonia",205,126,0,0,"Local transmission",0
+"20200316","Israel",200,22,0,0,"Local transmission",0
+"20200316","Ireland",169,40,2,0,"Local transmission",0
+"20200316","Romania",158,35,0,0,"Local transmission",0
+"20200316","Poland",150,39,3,0,"Local transmission",0
+"20200316","Iceland",138,0,0,0,"Local transmission",1
+"20200316","San Marino",92,0,5,0,"Local transmission",1
+"20200316","Russian Federation",63,29,0,0,"Imported cases only",0
+"20200316","Slovakia",61,17,0,0,"Local transmission",0
+"20200316","Bulgaria",51,8,2,0,"Local transmission",0
+"20200316","Croatia",49,12,0,0,"Local transmission",0
+"20200316","Albania",42,4,1,0,"Local transmission",0
+"20200316","Serbia††",46,0,0,0,"Local transmission",1
+"20200316","Hungary",39,7,1,1,"Local transmission",0
+"20200316","Luxembourg",38,0,1,0,"Local transmission",2
+"20200316","Belarus",36,15,0,0,"Local transmission",0
+"20200316","Cyprus",33,12,0,0,"Imported cases only",0
+"20200316","Georgia",33,3,0,0,"Imported cases only",0
+"20200316","Latvia",31,1,0,0,"Imported cases only",0
+"20200316","Armenia",26,18,0,0,"Local transmission",0
+"20200316","Republic of Moldova",23,11,0,0,"Imported cases only",0
+"20200316","Malta",21,9,0,0,"Imported cases only",0
+"20200316","Azerbaijan",19,0,0,0,"Imported cases only",1
+"20200316","Bosnia and Herzegovina",18,0,0,0,"Local transmission",1
+"20200316","Lithuania",14,5,0,0,"Imported cases only",0
+"20200316","North Macedonia",13,0,0,0,"Local transmission",1
+"20200316","Monaco",9,7,0,0,"Under investigation",0
+"20200316","Liechtenstein",7,3,0,0,"Imported cases only",0
+"20200316","Kazakhstan",6,0,0,0,"Imported cases only",1
+"20200316","Turkey",5,0,0,0,"Imported cases only",2
+"20200316","Uzbekistan",4,4,0,0,"Under investigation",0
+"20200316","Ukraine",3,0,1,0,"Local transmission",2
+"20200316","Andorra",2,0,0,0,"Imported cases only",2
+"20200316","Holy See",1,0,0,0,"Under investigation",10
+"20200316","Faroe Islands",11,2,0,0,"Imported cases only",0
+"20200316","Jersey",2,0,0,0,"Imported cases only",3
+"20200316","Gibraltar",1,0,0,0,"Under investigation",12
+"20200316","Guernsey",1,0,0,0,"Imported cases only",6
+"20200316","Indonesia",117,0,4,0,"Local transmission",1
+"20200316","India",114,7,2,0,"Local transmission",0
+"20200316","Thailand",114,39,1,0,"Local transmission",0
+"20200316","Sri Lanka",19,8,0,0,"Local transmission",0
+"20200316","Maldives",13,3,0,0,"Local transmission",0
+"20200316","Bangladesh",5,2,0,0,"Local transmission",0
+"20200316","Bhutan",1,0,0,0,"Imported cases only",10
+"20200316","Nepal",1,0,0,0,"Imported cases only",52
+"20200316","Iran (Islamic Republic of)",14991,2262,853,245,"Local transmission",0
+"20200316","Qatar",401,64,0,0,"Local transmission",0
+"20200316","Bahrain",221,10,1,1,"Local transmission",0
+"20200316","Egypt",126,33,2,0,"Local transmission",0
+"20200316","Iraq",124,31,9,0,"Local transmission",0
+"20200316","Kuwait",112,0,0,0,"Local transmission",1
+"20200316","Saudi Arabia",103,0,0,0,"Local transmission",1
+"20200316","Lebanon",99,6,3,0,"Local transmission",0
+"20200316","United Arab Emirates",98,13,0,0,"Local transmission",0
+"20200316","Pakistan",52,24,0,0,"Imported cases only",0
+"20200316","Morocco",28,10,1,0,"Local transmission",0
+"20200316","Oman",22,2,0,0,"Imported cases only",0
+"20200316","Tunisia",18,2,0,0,"Local transmission",0
+"20200316","Afghanistan",16,6,0,0,"Imported cases only",0
+"20200316","Jordan",6,5,0,0,"Imported cases only",0
+"20200316","Sudan",1,0,1,1,"Imported cases only",1
+"20200316","occupied Palestinian territory",38,0,0,0,"Local transmission",2
+"20200316","United States of America",1678,0,41,0,"Local transmission",2
+"20200316","Canada",304,60,1,0,"Local transmission",0
+"20200316","Brazil",200,79,0,0,"Local transmission",0
+"20200316","Chile",75,14,0,0,"Local transmission",0
+"20200316","Peru",71,28,0,0,"Local transmission",0
+"20200316","Argentina",56,11,2,0,"Local transmission",0
+"20200316","Mexico",53,12,0,0,"Imported cases only",0
+"20200316","Panama",43,16,1,0,"Local transmission",0
+"20200316","Ecuador",37,14,2,2,"Local transmission",0
+"20200316","Colombia",24,0,0,0,"Local transmission",1
+"20200316","Costa Rica",23,0,0,0,"Local transmission",2
+"20200316","Bolivia (Plurinational State of)",11,8,0,0,"Imported cases only",0
+"20200316","Jamaica",10,2,0,0,"Local transmission",0
+"20200316","Paraguay",8,2,0,0,"Local transmission",0
+"20200316","Dominican Republic",5,0,0,0,"Imported cases only",6
+"20200316","Cuba",4,0,0,0,"Imported cases only",2
+"20200316","Guyana",4,3,1,0,"Local transmission",0
+"20200316","Uruguay",4,4,0,0,"Imported cases only",0
+"20200316","Honduras",2,0,0,0,"Imported cases only",4
+"20200316","Trinidad and Tobago",2,1,0,0,"Imported cases only",0
+"20200316","Venezuela (Bolivarian Republic of)",2,0,0,0,"Imported cases only",2
+"20200316","Antigua and Barbuda",1,0,0,0,"Imported cases only",2
+"20200316","Guatemala",1,0,1,0,"Imported cases only",1
+"20200316","Saint Lucia",1,0,0,0,"Imported cases only",1
+"20200316","Saint Vincent and the Grenadines",1,0,0,0,"Imported cases only",3
+"20200316","Suriname",1,0,0,0,"Imported cases only",1
+"20200316","Martinique",15,5,0,0,"Imported cases only",0
+"20200316","French Guiana",7,0,0,0,"Imported cases only",2
+"20200316","Guadeloupe",6,3,0,0,"Imported cases only",0
+"20200316","Puerto Rico",3,0,0,0,"Imported cases only",2
+"20200316","Saint Barthelemy",3,2,0,0,"Under investigation",0
+"20200316","Curaçao",2,0,0,0,"Imported cases only",1
+"20200316","Saint Martin",2,0,0,0,"Under investigation",13
+"20200316","Cayman Islands",1,0,1,1,"Imported cases only",1
+"20200316","South Africa",51,13,0,0,"Local transmission",0
+"20200316","Algeria",49,12,3,0,"Local transmission",0
+"20200316","Senegal",26,5,0,0,"Local transmission",0
+"20200316","Ghana",6,0,0,0,"Imported cases only",1
+"20200316","Rwanda",5,5,0,0,"Local transmission",0
+"20200316","Burkina Faso",3,0,0,0,"Imported cases only",1
+"20200316","Cameroon",3,0,0,0,"Local transmission",1
+"20200316","Cote d’Ivoire",3,0,0,0,"Imported cases only",1
+"20200316","Democratic Republic of the Congo",2,0,0,0,"Imported cases only",2
+"20200316","Namibia",2,0,0,0,"Imported cases only",1
+"20200316","Nigeria",2,0,0,0,"Imported cases only",7
+"20200316","Seychelles",2,2,0,0,"Imported cases only",0
+"20200316","Central African Republic",1,0,0,0,"Imported cases only",1
+"20200316","Congo",1,0,0,0,"Imported cases only",1
+"20200316","Equatorial Guinea",1,0,0,0,"Imported cases only",1
+"20200316","Eswatini",1,0,0,0,"Imported cases only",1
+"20200316","Ethiopia",1,0,0,0,"Imported cases only",2
+"20200316","Gabon",1,0,0,0,"Imported cases only",2
+"20200316","Guinea",1,0,0,0,"Imported cases only",2
+"20200316","Kenya",1,0,0,0,"Imported cases only",2
+"20200316","Mauritania",1,0,0,0,"Imported cases only",1
+"20200316","Togo",1,0,0,0,"Imported cases only",9
+"20200316","Réunion",9,3,0,0,"Imported cases only",0
+"20200316","Mayotte",1,0,0,0,"Imported cases only",1
+"20200316","Diamond Princess",712,15,7,0,"Local transmission",0
+"20200317","China",81116,39,3231,13,"Local transmission",0
+"20200317","Republic of Korea",8320,84,81,6,"Local transmission",0
+"20200317","Japan",829,15,28,4,"Local transmission",0
+"20200317","Malaysia",553,0,0,0,"Local transmission",1
+"20200317","Australia",375,77,5,0,"Local transmission",0
+"20200317","Singapore",243,0,0,0,"Local transmission",1
+"20200317","Philippines",187,47,12,0,"Local transmission",0
+"20200317","Viet Nam",61,4,0,0,"Local transmission",0
+"20200317","Brunei Darussalam",50,0,0,0,"Local transmission",1
+"20200317","Cambodia",24,12,0,0,"Local transmission",0
+"20200317","New Zealand",11,5,0,0,"Local transmission",0
+"20200317","Mongolia",4,3,0,0,"Imported cases only",0
+"20200317","French Polynesia",3,0,0,0,"Imported cases only",2
+"20200317","Guam",3,3,0,0,"Local transmission",0
+"20200317","Italy",27980,3233,2503,349,"Local transmission",0
+"20200317","Spain",9191,1438,309,21,"Local transmission",0
+"20200317","France",6573,1193,148,21,"Local transmission",0
+"20200317","Germany",6012,1174,13,1,"Local transmission",0
+"20200317","Switzerland",2200,0,14,1,"Local transmission",1
+"20200317","The United Kingdom",1547,152,55,20,"Local transmission",0
+"20200317","Netherlands",1413,278,24,4,"Local transmission",0
+"20200317","Norway",1169,92,3,2,"Local transmission",0
+"20200317","Austria",1132,173,3,2,"Local transmission",0
+"20200317","Belgium",1085,0,5,0,"Local transmission",1
+"20200317","Sweden",1059,67,3,0,"Local transmission",0
+"20200317","Denmark",960,62,4,3,"Local transmission",0
+"20200317","Czechia",383,85,0,0,"Local transmission",0
+"20200317","Greece",331,0,4,0,"Local transmission",1
+"20200317","Portugal",331,86,0,0,"Local transmission",0
+"20200317","Israel",250,50,0,0,"Local transmission",0
+"20200317","Finland",272,5,0,0,"Local transmission",0
+"20200317","Slovenia",253,34,0,0,"Local transmission",0
+"20200317","Ireland",223,54,2,0,"Local transmission",0
+"20200317","Estonia",205,0,0,0,"Local transmission",1
+"20200317","Iceland",199,19,0,0,"Local transmission",0
+"20200317","Romania",158,0,0,0,"Local transmission",1
+"20200317","Poland",150,0,3,0,"Local transmission",1
+"20200317","San Marino",102,10,9,4,"Local transmission",0
+"20200317","Russian Federation",93,30,0,0,"Imported cases only",0
+"20200317","Luxembourg",81,43,1,0,"Local transmission",0
+"20200317","Slovakia",72,11,0,0,"Local transmission",0
+"20200317","Bulgaria",67,16,2,0,"Local transmission",0
+"20200317","Serbia††",70,24,0,0,"Local transmission",0
+"20200317","Croatia",56,7,0,0,"Local transmission",0
+"20200317","Armenia",52,26,0,0,"Local transmission",0
+"20200317","Albania",51,9,1,0,"Local transmission",0
+"20200317","Hungary",50,11,1,0,"Local transmission",0
+"20200317","Turkey",47,42,0,0,"Imported cases only",0
+"20200317","Belarus",36,0,0,0,"Local transmission",1
+"20200317","Latvia",36,5,0,0,"Imported cases only",0
+"20200317","Cyprus",33,0,0,0,"Imported cases only",1
+"20200317","Georgia",33,0,0,0,"Imported cases only",1
+"20200317","Malta",30,9,0,0,"Imported cases only",0
+"20200317","Republic of Moldova",29,6,0,0,"Local transmission",0
+"20200317","Azerbaijan",19,0,0,0,"Imported cases only",2
+"20200317","Bosnia and Herzegovina",19,0,0,0,"Local transmission",1
+"20200317","North Macedonia",19,6,0,0,"Local transmission",0
+"20200317","Lithuania",17,3,0,0,"Imported cases only",0
+"20200317","Andorra",14,12,0,0,"Imported cases only",0
+"20200317","Monaco",9,0,0,0,"Under investigation",1
+"20200317","Liechtenstein",7,0,0,0,"Imported cases only",1
+"20200317","Ukraine",7,4,1,0,"Local transmission",0
+"20200317","Kazakhstan",6,0,0,0,"Imported cases only",2
+"20200317","Uzbekistan",4,0,0,0,"Under investigation",1
+"20200317","Holy See",1,0,0,0,"Under investigation",11
+"20200317","Faroe Islands",47,36,0,0,"Imported cases only",0
+"20200317","Gibraltar",3,2,0,0,"Under investigation",0
+"20200317","Jersey",2,0,0,0,"Imported cases only",4
+"20200317","Guernsey",1,0,0,0,"Imported cases only",7
+"20200317","Indonesia",172,55,5,1,"Local transmission",0
+"20200317","Thailand",147,33,1,0,"Local transmission",0
+"20200317","India",137,23,3,1,"Local transmission",0
+"20200317","Sri Lanka",29,10,0,0,"Local transmission",0
+"20200317","Maldives",13,0,0,0,"Local transmission",1
+"20200317","Bangladesh",8,3,0,0,"Local transmission",0
+"20200317","Bhutan",1,0,0,0,"Imported cases only",11
+"20200317","Nepal",1,0,0,0,"Imported cases only",53
+"20200317","Iran (Islamic Republic of)",14991,0,853,0,"Local transmission",1
+"20200317","Qatar",439,38,0,0,"Local transmission",0
+"20200317","Bahrain",229,8,1,0,"Local transmission",0
+"20200317","Pakistan",187,135,0,0,"Imported cases only",0
+"20200317","Egypt",166,40,4,2,"Local transmission",0
+"20200317","Saudi Arabia",133,30,0,0,"Local transmission",0
+"20200317","Kuwait",130,18,0,0,"Local transmission",0
+"20200317","Iraq",124,0,9,0,"Local transmission",1
+"20200317","Lebanon",109,10,3,0,"Local transmission",0
+"20200317","United Arab Emirates",98,0,0,0,"Local transmission",1
+"20200317","Morocco",38,10,2,1,"Local transmission",0
+"20200317","Jordan",35,29,0,0,"Imported cases only",0
+"20200317","Oman",24,2,0,0,"Imported cases only",0
+"20200317","Afghanistan",21,5,0,0,"Imported cases only",0
+"20200317","Tunisia",20,2,0,0,"Local transmission",0
+"20200317","Sudan",1,0,1,0,"Imported cases only",2
+"20200317","Somalia",1,1,0,0,"Imported cases only",0
+"20200317","occupied Palestinian Territory",39,1,0,0,"Local transmission",0
+"20200317","United States of America",3503,1825,58,17,"Local transmission",0
+"20200317","Canada",424,120,1,0,"Local transmission",0
+"20200317","Brazil",234,34,0,0,"Local transmission",0
+"20200317","Chile",156,81,0,0,"Local transmission",0
+"20200317","Peru",86,15,0,0,"Local transmission",0
+"20200317","Panama",69,26,1,0,"Local transmission",0
+"20200317","Argentina",65,9,2,0,"Local transmission",0
+"20200317","Ecuador",58,21,2,0,"Local transmission",0
+"20200317","Mexico",53,0,0,0,"Imported cases only",1
+"20200317","Colombia",45,21,0,0,"Local transmission",0
+"20200317","Costa Rica",41,18,0,0,"Local transmission",0
+"20200317","Venezuela (Bolivarian Republic of)",33,16,0,0,"Imported cases only",0
+"20200317","Dominican Republic",21,16,1,1,"Local transmission",0
+"20200317","Bolivia (Plurinational State of)",11,0,0,0,"Imported cases only",1
+"20200317","Jamaica",10,0,0,0,"Local transmission",1
+"20200317","Paraguay",9,1,0,0,"Local transmission",0
+"20200317","Honduras",8,6,0,0,"Imported cases only",0
+"20200317","Uruguay",6,2,0,0,"Imported cases only",0
+"20200317","Cuba",5,1,0,0,"Imported cases only",0
+"20200317","Trinidad and Tobago",5,3,0,0,"Imported cases only",0
+"20200317","Guyana",4,0,1,0,"Local transmission",1
+"20200317","Saint Lucia",2,0,0,0,"Imported cases only",1
+"20200317","Antigua and Barbuda",1,0,0,0,"Imported cases only",3
+"20200317","Bahamas",1,1,0,0,"Local transmission",0
+"20200317","Guatemala",1,0,1,0,"Imported cases only",2
+"20200317","Saint Vincent and the Grenadines",1,0,0,0,"Imported cases only",4
+"20200317","Suriname",1,0,0,0,"Imported cases only",1
+"20200317","Guadeloupe",18,12,0,0,"Imported cases only",0
+"20200317","Martinique",16,1,0,0,"Imported cases only",0
+"20200317","French Guiana",7,0,0,0,"Imported cases only",3
+"20200317","Curaçao",3,1,0,0,"Imported cases only",0
+"20200317","Puerto Rico",3,0,0,0,"Imported cases only",3
+"20200317","Saint Barthelemy",3,0,0,0,"Under investigation",1
+"20200317","Aruba",2,2,0,0,"Imported cases only",0
+"20200317","Saint Martin",2,0,0,0,"Under investigation",14
+"20200317","United States Virgin Islands",2,2,0,0,"Imported cases only",0
+"20200317","Cayman Islands",1,0,1,0,"Imported cases only",3
+"20200317","South Africa",62,11,0,0,"Local transmission",0
+"20200317","Algeria",60,11,4,1,"Local transmission",0
+"20200317","Senegal",27,1,0,0,"Local transmission",0
+"20200317","Burkina Faso",15,0,0,0,"Imported cases only",1
+"20200317","Rwanda",7,2,0,0,"Local transmission",0
+"20200317","Cote d’Ivoire",6,3,0,0,"Imported cases only",0
+"20200317","Ghana",6,0,0,0,"Imported cases only",1
+"20200317","Cameroon",5,2,0,0,"Local transmission",0
+"20200317","Ethiopia",5,4,0,0,"Imported cases only",0
+"20200317","Seychelles",4,2,0,0,"Imported cases only",0
+"20200317","Democratic Republic of the Congo",3,1,0,0,"Imported cases only",0
+"20200317","Kenya",3,2,0,0,"Local transmission",0
+"20200317","Namibia",2,0,0,0,"Imported cases only",2
+"20200317","Nigeria",2,0,0,0,"Imported cases only",8
+"20200317","Benin",1,1,0,0,"Imported cases only",0
+"20200317","Central African Republic",1,0,0,0,"Imported cases only",2
+"20200317","Congo",1,0,0,0,"Imported cases only",2
+"20200317","Equatorial Guinea",1,0,0,0,"Imported cases only",2
+"20200317","Eswatini",1,0,0,0,"Imported cases only",2
+"20200317","Gabon",1,0,0,0,"Imported cases only",3
+"20200317","Guinea",1,0,0,0,"Imported cases only",3
+"20200317","Liberia",1,1,0,0,"Imported cases only",0
+"20200317","Mauritania",1,0,0,0,"Imported cases only",2
+"20200317","Togo",1,0,0,0,"Imported cases only",10
+"20200317","United Republic of Tanzania",1,1,0,0,"Imported cases only",0
+"20200317","Réunion",9,0,0,0,"Imported cases only",1
+"20200317","Mayotte",1,0,0,0,"Imported cases only",2
+"20200317","Diamond Princess",712,0,7,0,"Local transmission",1
