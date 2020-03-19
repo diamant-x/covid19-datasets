@@ -53,6 +53,6 @@ for index, file in dfMetadata.iterrows():
     print("Total records: " + str(dfConsolidated["Date"].size))
 
 #% Write to file consolidated file
-dfConsolidated.to_csv(path_or_buf=pathOutputFile+"WHO-COVID19_"+dfConsolidated["Date"].min()+"-"+dfConsolidated["Date"].max()+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
+dfConsolidated.to_csv(path_or_buf=pathOutputFile+"WHO-COVID19_StructureN"+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")
