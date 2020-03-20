@@ -50,12 +50,23 @@ for index, file in dfMetadata.iterrows():
 
         dfConsolidated["Population Incidence Ratio"] = dfConsolidated["Population Incidence Ratio"].str.replace(",",".")
         dfConsolidated.fillna(0, inplace=True)
+        dfConsolidated.loc[dfConsolidated["Total confirmed cases"].round() != dfConsolidated["Total confirmed cases"], "Total confirmed cases"] = dfConsolidated["Total confirmed cases"]*1000
+        dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"].astype('int64')
+        dfConsolidated.loc[dfConsolidated["ICU cases"].round() != dfConsolidated["ICU cases"], "ICU cases"] = dfConsolidated["ICU cases"]*1000
+        dfConsolidated["ICU cases"] = dfConsolidated["ICU cases"].astype('int64')
+        dfConsolidated.loc[dfConsolidated["Total deaths"].round() != dfConsolidated["Total deaths"], "Total deaths"] = dfConsolidated["Total deaths"]*1000
+        dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
+
     else:
         dfImported = pd.read_csv(pathInputFile+fileName, sep=",", skipinitialspace=True, header=0, names=namesColumns, skipfooter=1, encoding='utf-8', engine="python")
         dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
 
         dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].str.replace(",",".")
         dfImported.fillna(0, inplace=True)
+        dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+        dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
+        dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
+        dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
 
         dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
     
