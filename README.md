@@ -1,5 +1,5 @@
-# who-covid19-datasets
-COVID-19 Situation datasets from WHO Status Reports
+# Covid19-datasets
+COVID-19 Situation datasets from official states such as WHO Status Reports. Full traceability of the data is provided.
 
 ## Description
 World Health Organization has become the centralizing agent to consolidate daily updates worldwide with reliable data. However, this data is not shared in an easily computer-ready format so performing additional analysis of such information requires additional maual work.
