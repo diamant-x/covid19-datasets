@@ -32,13 +32,13 @@ for index, file in dfMetadata.iterrows():
 
     if dfConsolidated.size == 0:
         # No file loaded yet.
-        dfConsolidated = pd.read_csv(pathInputFile+fileName, skipinitialspace=True)
+        dfConsolidated = pd.read_csv(pathInputFile+fileName, skipinitialspace=True, encoding='utf-8')
         dfConsolidated.insert(0, "Date", date, allow_duplicates=False) 
     else:
         dfImported = pd.read_csv(pathInputFile+fileName, skipinitialspace=True)
         dfImported.insert(0, "Date", date, allow_duplicates=False) 
 
-        dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
+        dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True, encoding='utf-8')
     
     #% Adjust column types.
     dfConsolidated["Date"] = dfConsolidated["Date"].astype(str)
