@@ -11,9 +11,9 @@ import os # To access the OS separator char.
 import tabula # To scan OCR PDFs.
 
 #%% Constants Setup
-pathInputFile = "data/processed/"
-pathOutputFile = "data/processed/"
-metadataFile = "data/raw/tabulaParameters.csv"
+pathInputFile = "data/processed/who/"
+pathOutputFile = "data/processed/who/"
+metadataFile = "data/raw/who/tabulaParameters.csv"
 
 #%% Import metadata to use
 dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0)
