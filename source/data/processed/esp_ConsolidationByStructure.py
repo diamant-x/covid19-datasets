@@ -12,13 +12,22 @@ import os # To access the OS separator char.
 pathInputFile = "data/interim/esp/"
 pathOutputFile = "data/processed/esp/"
 metadataFile = "data/raw/esp/tabulaParameters.csv"
+datesFile = "data/raw/esp/reportDates.csv"
+
 
 #%% Import metadata to use
 dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0)
+dfDates = pd.read_csv(datesFile, sep=";", header=0, index_col=False, parse_dates=['Date'], infer_datetime_format=True )
+
 
 #%% Process Data Structure 3
 dfMetadata = dfMetadataAll[dfMetadataAll["Structure"]==3]
 dfMetadata.drop(["Structure"], axis=1, inplace=True)
+
+dfDates = dfDates[dfDates["Structure"]==3]
+dfDates.drop(["Structure"], axis=1, inplace=True)
+dfDates["ID"] = dfDates["File"].str.split("_").str[1]
+dfDates["ID"] = dfDates["ID"].astype('int64')
 
 dfConsolidated = pd.DataFrame()
 
@@ -26,11 +35,12 @@ for index, file in dfMetadata.iterrows():
     fileName = file["File"].split(".")[-2] + ".csv"
     print("Processing file: " + fileName)
 
-    # Date will be calculated sequentially. First file id 31 is from 2020-02-26.
-    firstDateId = 31
-    firstDate = pd.to_datetime('2020-02-26')
+    # Date will be calculated sequentially based on the previous highest id's date
     dateId = int(fileName.split("_")[1])
-    date = firstDate + pd.Timedelta(days=dateId-firstDateId)
+    dfDatesTemp = dfDates[dfDates["ID"]<dateId]
+    firstDateId = int(dfDatesTemp["ID"].max())
+    date = dfDatesTemp["Date"].max() + pd.Timedelta(days=dateId-firstDateId)
+    print(date.date())
     
     if dfConsolidated.size == 0:
         # No file loaded yet.
