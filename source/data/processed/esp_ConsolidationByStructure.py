@@ -35,14 +35,14 @@ for index, file in dfMetadata.iterrows():
     if dfConsolidated.size == 0:
         # No file loaded yet.
         namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","ICU cases","Total deaths"]
-        dfConsolidated = pd.read_csv(pathInputFile+fileName, sep=",", skipinitialspace=True, header=0, names=namesColumns, skipfooter=1, encoding='utf-8')
-        dfConsolidated.insert(0, "Date", date, allow_duplicates=False) 
+        dfConsolidated = pd.read_csv(pathInputFile+fileName, sep=",", skipinitialspace=True, header=0, names=namesColumns, skipfooter=1, encoding='utf-8', engine="python")
+        dfConsolidated.insert(0, "Date", date.date(), allow_duplicates=False) 
 
         dfConsolidated["Population Incidence Ratio"] = dfConsolidated["Population Incidence Ratio"].str.replace(",",".")
         dfConsolidated.fillna(0, inplace=True)
     else:
-        dfImported = pd.read_csv(pathInputFile+fileName, sep=",", skipinitialspace=True, header=0, names=namesColumns, skipfooter=1, encoding='utf-8')
-        dfImported.insert(0, "Date", date, allow_duplicates=False) 
+        dfImported = pd.read_csv(pathInputFile+fileName, sep=",", skipinitialspace=True, header=0, names=namesColumns, skipfooter=1, encoding='utf-8', engine="python")
+        dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
 
         dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].str.replace(",",".")
         dfImported.fillna(0, inplace=True)
