@@ -55,6 +55,7 @@ for index, file in dfMetadata.iterrows():
         dfConsolidated["ICU cases"] = dfConsolidated["ICU cases"].astype('int64')
         dfConsolidated.loc[dfConsolidated["Total deaths"].round() != dfConsolidated["Total deaths"], "Total deaths"] = dfConsolidated["Total deaths"]*1000
         dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
+        dfConsolidated["Region"] = dfConsolidated["Region"].str.replace("-"," ")
 
     else:
         dfImported = pd.read_csv(pathInputFile+fileName, sep=",", skipinitialspace=True, header=0, names=namesColumns, skipfooter=1, encoding='utf-8', engine="python", index_col=False)
@@ -66,6 +67,7 @@ for index, file in dfMetadata.iterrows():
         dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
         dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
         dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+        dfImported["Region"] = dfImported["Region"].str.replace("-"," ")
 
         dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
 
