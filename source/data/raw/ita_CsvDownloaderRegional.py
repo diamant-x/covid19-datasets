@@ -42,6 +42,7 @@ for dayId in range(numberOfDays): #We assume 360 reports maximum may be issued.
         # https://stackoverflow.com/a/7244263
         with open(pathOutputFiles+fileName, 'wb') as out_file:
             out_file.write(requests.get(rootURL+fileName, verify = False).content)
+            
         countFiles = countFiles + 1
 
 print(str(countFiles) + " files downloaded.")

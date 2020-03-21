@@ -37,3 +37,23 @@ for index, file in dfMetadata.iterrows():
         #%% Prepare to write the parsing.
         outputFilename = file["File"].split(".")[-2] + ".csv"
         dfFile.to_csv(pathOutputFile+outputFilename, index=False)
+
+#%% Process Data Structure 4
+dfMetadata = dfMetadataAll[dfMetadataAll["Structure"]==4]
+dfMetadata.drop(["Structure"], axis=1, inplace=True)
+
+for index, file in dfMetadata.iterrows():
+    print("Processing file: " + file["File"])
+    parsedFile = tabula.read_pdf(pathInputFile+file["File"], lattice = file["lattice"], multiple_tables=file["multiple_tables"], pages=file["pages"], silent = True)
+    if len(parsedFile) > 1:
+        tableId = 0
+        for table in parsedFile:
+            #%% Prepare to write the parsing.
+            outputFilename = file["File"].split(".")[-2] + "-" + str(tableId) + ".csv"
+            table.to_csv(pathOutputFile+outputFilename, index=False)
+            tableId = tableId + 1
+    else:
+        dfFile = parsedFile[0]
+        #%% Prepare to write the parsing.
+        outputFilename = file["File"].split(".")[-2] + ".csv"
+        dfFile.to_csv(pathOutputFile+outputFilename, index=False)
