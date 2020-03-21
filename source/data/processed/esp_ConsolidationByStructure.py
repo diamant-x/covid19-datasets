@@ -40,7 +40,6 @@ for index, file in dfMetadata.iterrows():
     dfDatesTemp = dfDates[dfDates["ID"]<dateId]
     firstDateId = int(dfDatesTemp["ID"].max())
     date = dfDatesTemp["Date"].max() + pd.Timedelta(days=dateId-firstDateId)
-    print(date.date())
     
     if dfConsolidated.size == 0:
         # No file loaded yet.
