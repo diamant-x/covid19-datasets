@@ -100,6 +100,7 @@ for index, file in dfMetadata.iterrows():
     dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
     dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
     dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+    dfImported["Region"] = dfImported["Region"].str.replace("-"," ")
 
     dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
     
