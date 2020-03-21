@@ -35,10 +35,10 @@ for index, file in dfMetadata.iterrows():
         dfConsolidated = pd.read_csv(pathInputFile+fileName, skipinitialspace=True, encoding='utf-8')
         dfConsolidated.insert(0, "Date", date, allow_duplicates=False) 
     else:
-        dfImported = pd.read_csv(pathInputFile+fileName, skipinitialspace=True)
+        dfImported = pd.read_csv(pathInputFile+fileName, skipinitialspace=True, encoding='utf-8')
         dfImported.insert(0, "Date", date, allow_duplicates=False) 
 
-        dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True, encoding='utf-8')
+        dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
     
     #% Adjust column types.
     dfConsolidated["Date"] = dfConsolidated["Date"].astype(str)
