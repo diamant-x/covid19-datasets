@@ -19,7 +19,8 @@ startFileName = ""
 endFileName = "-en.pdf"
 
 #%% Import metadata to use
-dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0)
+dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0, comment='#')
+dfMetadataAll["CoreFileName"] = dfMetadataAll["File"].str.replace(startFileName,"").str.replace(endFileName,"")
 rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
 
 #%% Process Data Structure
@@ -30,7 +31,15 @@ for file in rawFiles:
     dfMetadata = dfMetadataAll[dfMetadataAll["File"]==fileName]
 
     if dfMetadata.size == 0:
-        dfMetadata = dfMetadataAll.iloc[-1]
+        #Try to find the previous file metadata identified and apply same settings, if none, then skip file.
+        coreFileName = fileName.replace(startFileName,"").replace(endFileName,"")
+        if coreFileName < dfMetadataAll["CoreFileName"].min():
+            print("Skipping file due to no metadata defined.")
+            continue
+        else:
+            dfMetadata = dfMetadataAll[dfMetadataAll["CoreFileName"]<coreFileName]
+            dfMetadata = dfMetadata[dfMetadata["CoreFileName"]==dfMetadata["CoreFileName"].max()]
+            fileMetadata = dfMetadata.iloc[0]
     else:
         fileMetadata = dfMetadata.iloc[0]
 
