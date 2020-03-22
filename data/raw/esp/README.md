@@ -53,3 +53,15 @@ Files with this structue:
  * Actualizacion_48_COVID-19
  * Actualizacion_49_COVID-19
  * Actualizacion_50_COVID-19
+
+ #### Set Structure 4
+These files show the following structure:
+Tabla 1. Casos COVID-19 e incidencia acumulada por Comunidades autónomas en España, 04.03.2020.
+
+| CCAA  | Total casos | Casos/Poblacion (100.000h) | Hospitalizados | Ingresos en UCI | Fallecidos | Nuevos
+|---|---|---|---|---|---|---|
+| Region n  | # | # | # | # | # | # |
+| Total     | # | # | # | # | # | # |
+
+Files with this structue:
+ * Actualizacion_51_COVID-19
