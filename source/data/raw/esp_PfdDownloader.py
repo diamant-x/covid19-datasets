@@ -23,11 +23,17 @@ rootURL = "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasAct
 startFileName = "Actualizacion_"
 endFileName = "_COVID-19.pdf"
 
+# By substracting the dates we know the maximum number of reports issued (Assuming one per day).
+firstDate = pd.to_datetime('2020-02-26')
+todayDate = pd.to_datetime('today')
+numberOfDays = todayDate - firstDate
+numberOfDays = int(numberOfDays.days)
+
 countFiles = 0
 
-for fileId in range(360): #We assume 360 reports maximum may be issued.
+for fileId in range(numberOfDays+1): #We assume 360 reports maximum may be issued.
     #Get official file name to store it.
-    fileName = startFileName+str(fileId)+endFileName
+    fileName = startFileName+str(fileId+31)+endFileName
 
     if "Error 404" in requests.get(rootURL+fileName, verify = False).text:
         continue
