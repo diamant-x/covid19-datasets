@@ -12,12 +12,12 @@ import tabula # To scan OCR PDFs.
 
 #%%
 
-pathFile = "data/raw/20200302-sitrep-42-covid-19.pdf"
+pathFile = "data/raw/esp/Actualizacion_52_COVID-19.pdf"
 
 parsedFile = None
-parsedFile = tabula.read_pdf(pathFile, lattice = False, multiple_tables=False, pages=[4,5])
+parsedFile = tabula.read_pdf(pathFile, lattice = False, stream = False, multiple_tables=False, pages=1, relative_area=True, area=[40,0,100,100])
 
 #%%
 dfFile = parsedFile[0]
-
+dfFile
 #%% 
