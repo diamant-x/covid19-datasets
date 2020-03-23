@@ -30,8 +30,32 @@ for file in inputFileList:
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
+dfConsolidated["New confirmed cases"] = 0
+dfConsolidated["New deaths"] = 0
+
+for country in dfConsolidated["Country"].unique():
+    print("Calculating columns for country: " + country)
+    dfCountry = dfConsolidated[dfConsolidated["Country"]==country]
+    for region in dfCountry["Region"].unique():
+        dfRegion = dfCountry[dfCountry["Region"]==region]
+        for date in dfRegion["Date"].unique():
+            dfDate = dfRegion[dfRegion["Date"]==date]
+            dfMaxDate = dfRegion[dfRegion["Date"]<date]
+            dfMaxDate = dfMaxDate[dfMaxDate["Date"]==dfMaxDate["Date"].max()]
+
+            indexDate = dfDate.index
+            if dfMaxDate.size == 0:
+                # First date
+                dfConsolidated.loc[indexDate,["New confirmed cases"]] = dfDate["Total confirmed cases"]
+                dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"]
+            else:
+                dfConsolidated.loc[indexDate,["New confirmed cases"]] = dfDate["Total confirmed cases"].values-dfMaxDate["Total confirmed cases"].values
+                dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"].values-dfMaxDate["Total deaths"].values
+
 dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"].astype('int64')
 dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
+dfConsolidated["New confirmed cases"] = dfConsolidated["New confirmed cases"].astype('int64')
+dfConsolidated["New deaths"] = dfConsolidated["New deaths"].astype('int64')
 
 #%% Write to file consolidated dataframe
 dfConsolidated.to_csv(path_or_buf=pathOutputFile+"ALL-COVID19_CountryRegion.csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
