@@ -1,95 +1,95 @@
-Country, Total confirmed cases, Total confirmed new cases, Total deaths, Total new deaths, Transmission classification, Days since last reported case
-Republic of Korea,6767,483,44,2,Local transmission,0
-Japan,408,59,6,0,Local transmission,0
-Singapore,130,13,0,0,Local transmission,0
-Malaysia,83,28,0,0,Local transmission,1
-Australia,62,5,2,0,Local transmission,0
-Viet Nam,17,1,0,0,Local transmission,0
-New Zealand,5,1,0,0,Local transmission,0
-Philippines,5,0,1,0,Local transmission,1
-Cambodia,1,0,0,0,Imported cases only,39
-Italy,4636,778,197,49,Local transmission,0
-Germany,639,105,0,0,Local transmission,0
-France,613,193,9,3,Local transmission,0
-Spain,374,117,5,2,Local transmission,0
-Switzerland,209,123,1,0,Local transmission,0
-The United Kingdom,167,49,1,1,Local transmission,0
-Sweden,137,76,0,0,Local transmission,0
-Netherlands,128,46,1,1,Local transmission,0
-Norway,113,27,0,0,Local transmission,0
-Belgium,109,59,0,0,Local transmission,0
-Austria,66,19,0,0,Imported cases only,0
-Iceland,45,19,0,0,Local transmission,0
-Greece,32,0,0,0,Local transmission,2
-San Marino,24,3,0,0,Local transmission,0
-Denmark,23,5,0,0,Local transmission,0
-Finland,19,7,0,0,Local transmission,0
-Israel,19,4,0,0,Local transmission,0
-Ireland,18,4,0,0,Local transmission,0
-Portugal,13,4,0,0,Local transmission,0
-Czechia,12,0,0,0,Local transmission,1
-Croatia,11,1,0,0,Local transmission,0
-Estonia,10,7,0,0,Imported cases only,0
-Azerbaijan,9,6,0,0,Imported cases only,0
-Georgia,9,0,0,0,Imported cases only,1
-Slovenia,9,3,0,0,Local transmission,0
-Romania,7,1,0,0,Local transmission,0
-Russian Federation,7,3,0,0,Imported cases only,0
-Belarus,6,0,0,0,Local transmission,2
-Poland,5,4,0,0,Imported cases only,0
-Hungary,5,3,0,0,Imported cases only,0
-North Macedonia,3,2,0,0,Imported cases only,0
-Bosnia and Herzegovina,2,0,0,0,Local transmission,2
-Luxembourg,2,1,0,0,Imported cases only,0
-Andorra,1,0,0,0,Imported cases only,4
-Armenia,1,0,0,0,Imported cases only,5
-Holy See,1,1,0,0,Under investigation,1
-Latvia,1,0.0,0,0,Imported cases only,4
-Liechtenstein,1,0.0,0,0,Imported cases only,1
-Lithuania,1,0.0,0,0,Imported cases only,8
-Monaco,1,0.0,0,0,Under investigation,6
-Serbia,1,0.0,0,0,Under investigation,1
-Slovakia,1,1.0,0,0,Local transmission,0
-Ukraine,1,0.0,0,0,Imported cases only,3
-Gibraltar,1,0.0,0,0,Under investigation,3
-Thailand,48,1.0,1,0,Local transmission,0
-India,31,1.0,0,0,Local transmission,0
-Indonesia,2,0.0,0,0,Local transmission,5
-Bhutan,1,0.0,0,0,Imported cases only,1
-Nepal,1,0.0,0,0,Imported cases only,43
-Sri Lanka,1,0.0,0,0,Imported cases only,40
-"Iran (Islamic Republic of)",4747,1234.0,124,17,Local transmission,0
-Kuwait,58,0.0,0,0,Imported cases only,2
-Bahrain,49,0.0,0,0,Imported cases only,4
-"United Arab Emirates",45,18.0,0,0,Local transmission,0
-Iraq,44,8.0,4,2,Imported cases only,0
-Lebanon,22,6.0,0,0,Local transmission,0
-Oman,16,0.0,0,0,Imported cases only,1
-Qatar,11,3.0,0,0,Imported cases only,0
-Saudi Arabia,8,0.0,0,0,Imported cases only,1
-Pakistan,5,0.0,0,0,Imported cases only,4
-Egypt,3,0.0,0,0,Imported cases only,1
-Morocco,2,0.0,0,0,Imported cases only,2
-Afghanistan,1,0.0,0,0,Imported cases only,12
-Jordan,1,0.0,0,0,Imported cases only,4
-Tunisia,1,0.0,0,0,Imported cases only,4
-"Occupied Palestinian Territory",16,9.0,0,0,Local transmission,0
-"United States of America",213,65.0,11,1,Local transmission,0
-Canada,51,6.0,0,0,Local transmission,0
-Ecuador,14,1.0,0,0,Local transmission,0
-Brazil,13,6.0,0,0,Local transmission,0
-Chile,5,4.0,0,0,Imported cases only,0
-Mexico,5,0.0,0,0,Imported cases only,5
-Argentina,2,1.0,0,0,Imported cases only,0
-Colombia,1,1.0,0,0,Imported cases only,0
-Dominican Republic,1,0.0,0,0,Imported cases only,5
-Peru,1,1.0,0,0,Imported cases only,0
-Saint Martin,2,0.0,0,0,Under investigation,4
-Saint Barthelemy,1,0.0,0,0,Under investigation,4
-Algeria,17,5.0,0,0,Local transmission,0
-Senegal,4,0.0,0,0,Imported cases only,2
-Cameroon,2,1.0,0,0,Local transmission,0
-Nigeria,1,0.0,0,0,Imported cases only,8
-South Africa,1,0.0,0,0,Imported cases only,1
-Togo,1,1.0,0,0,Imported cases only,0
-Diamond Princess,696,0.0,6,0,Clusters of cases,1
+"Date","Country","Total confirmed cases","New cases","Total deaths","Total new deaths","Transmission classification","Days since last reported case"
+"2020-03-07","Republic of Korea",6767,483,44,2,"Local transmission",0
+"2020-03-07","Japan",408,59,6,0,"Local transmission",0
+"2020-03-07","Singapore",130,13,0,0,"Local transmission",0
+"2020-03-07","Malaysia",83,28,0,0,"Local transmission",1
+"2020-03-07","Australia",62,5,2,0,"Local transmission",0
+"2020-03-07","Viet Nam",17,1,0,0,"Local transmission",0
+"2020-03-07","New Zealand",5,1,0,0,"Local transmission",0
+"2020-03-07","Philippines",5,0,1,0,"Local transmission",1
+"2020-03-07","Cambodia",1,0,0,0,"Imported cases only",39
+"2020-03-07","Italy",4636,778,197,49,"Local transmission",0
+"2020-03-07","Germany",639,105,0,0,"Local transmission",0
+"2020-03-07","France",613,193,9,3,"Local transmission",0
+"2020-03-07","Spain",374,117,5,2,"Local transmission",0
+"2020-03-07","Switzerland",209,123,1,0,"Local transmission",0
+"2020-03-07","The United Kingdom",167,49,1,1,"Local transmission",0
+"2020-03-07","Sweden",137,76,0,0,"Local transmission",0
+"2020-03-07","Netherlands",128,46,1,1,"Local transmission",0
+"2020-03-07","Norway",113,27,0,0,"Local transmission",0
+"2020-03-07","Belgium",109,59,0,0,"Local transmission",0
+"2020-03-07","Austria",66,19,0,0,"Imported cases only",0
+"2020-03-07","Iceland",45,19,0,0,"Local transmission",0
+"2020-03-07","Greece",32,0,0,0,"Local transmission",2
+"2020-03-07","San Marino",24,3,0,0,"Local transmission",0
+"2020-03-07","Denmark",23,5,0,0,"Local transmission",0
+"2020-03-07","Finland",19,7,0,0,"Local transmission",0
+"2020-03-07","Israel",19,4,0,0,"Local transmission",0
+"2020-03-07","Ireland",18,4,0,0,"Local transmission",0
+"2020-03-07","Portugal",13,4,0,0,"Local transmission",0
+"2020-03-07","Czechia",12,0,0,0,"Local transmission",1
+"2020-03-07","Croatia",11,1,0,0,"Local transmission",0
+"2020-03-07","Estonia",10,7,0,0,"Imported cases only",0
+"2020-03-07","Azerbaijan",9,6,0,0,"Imported cases only",0
+"2020-03-07","Georgia",9,0,0,0,"Imported cases only",1
+"2020-03-07","Slovenia",9,3,0,0,"Local transmission",0
+"2020-03-07","Romania",7,1,0,0,"Local transmission",0
+"2020-03-07","Russian Federation",7,3,0,0,"Imported cases only",0
+"2020-03-07","Belarus",6,0,0,0,"Local transmission",2
+"2020-03-07","Poland",5,4,0,0,"Imported cases only",0
+"2020-03-07","Hungary",5,3,0,0,"Imported cases only",0
+"2020-03-07","North Macedonia",3,2,0,0,"Imported cases only",0
+"2020-03-07","Bosnia and Herzegovina",2,0,0,0,"Local transmission",2
+"2020-03-07","Luxembourg",2,1,0,0,"Imported cases only",0
+"2020-03-07","Andorra",1,0,0,0,"Imported cases only",4
+"2020-03-07","Armenia",1,0,0,0,"Imported cases only",5
+"2020-03-07","Holy See",1,1,0,0,"Under investigation",1
+"2020-03-07","Latvia",1,0,0,0,"Imported cases only",4
+"2020-03-07","Liechtenstein",1,0,0,0,"Imported cases only",1
+"2020-03-07","Lithuania",1,0,0,0,"Imported cases only",8
+"2020-03-07","Monaco",1,0,0,0,"Under investigation",6
+"2020-03-07","Serbia",1,0,0,0,"Under investigation",1
+"2020-03-07","Slovakia",1,10,0,0,"Local transmission",0
+"2020-03-07","Ukraine",1,0,0,0,"Imported cases only",3
+"2020-03-07","Gibraltar",1,0,0,0,"Under investigation",3
+"2020-03-07","Thailand",48,10,1,0,"Local transmission",0
+"2020-03-07","India",31,10,0,0,"Local transmission",0
+"2020-03-07","Indonesia",2,0,0,0,"Local transmission",5
+"2020-03-07","Bhutan",1,0,0,0,"Imported cases only",1
+"2020-03-07","Nepal",1,0,0,0,"Imported cases only",43
+"2020-03-07","Sri Lanka",1,0,0,0,"Imported cases only",40
+"2020-03-07","Iran (Islamic Republic of)",4747,12340,124,17,"Local transmission",0
+"2020-03-07","Kuwait",58,0,0,0,"Imported cases only",2
+"2020-03-07","Bahrain",49,0,0,0,"Imported cases only",4
+"2020-03-07","United Arab Emirates",45,180,0,0,"Local transmission",0
+"2020-03-07","Iraq",44,80,4,2,"Imported cases only",0
+"2020-03-07","Lebanon",22,60,0,0,"Local transmission",0
+"2020-03-07","Oman",16,0,0,0,"Imported cases only",1
+"2020-03-07","Qatar",11,30,0,0,"Imported cases only",0
+"2020-03-07","Saudi Arabia",8,0,0,0,"Imported cases only",1
+"2020-03-07","Pakistan",5,0,0,0,"Imported cases only",4
+"2020-03-07","Egypt",3,0,0,0,"Imported cases only",1
+"2020-03-07","Morocco",2,0,0,0,"Imported cases only",2
+"2020-03-07","Afghanistan",1,0,0,0,"Imported cases only",12
+"2020-03-07","Jordan",1,0,0,0,"Imported cases only",4
+"2020-03-07","Tunisia",1,0,0,0,"Imported cases only",4
+"2020-03-07","Occupied Palestinian Territory",16,90,0,0,"Local transmission",0
+"2020-03-07","United States of America",213,650,11,1,"Local transmission",0
+"2020-03-07","Canada",51,60,0,0,"Local transmission",0
+"2020-03-07","Ecuador",14,10,0,0,"Local transmission",0
+"2020-03-07","Brazil",13,60,0,0,"Local transmission",0
+"2020-03-07","Chile",5,40,0,0,"Imported cases only",0
+"2020-03-07","Mexico",5,0,0,0,"Imported cases only",5
+"2020-03-07","Argentina",2,10,0,0,"Imported cases only",0
+"2020-03-07","Colombia",1,10,0,0,"Imported cases only",0
+"2020-03-07","Dominican Republic",1,0,0,0,"Imported cases only",5
+"2020-03-07","Peru",1,10,0,0,"Imported cases only",0
+"2020-03-07","Saint Martin",2,0,0,0,"Under investigation",4
+"2020-03-07","Saint Barthelemy",1,0,0,0,"Under investigation",4
+"2020-03-07","Algeria",17,50,0,0,"Local transmission",0
+"2020-03-07","Senegal",4,0,0,0,"Imported cases only",2
+"2020-03-07","Cameroon",2,10,0,0,"Local transmission",0
+"2020-03-07","Nigeria",1,0,0,0,"Imported cases only",8
+"2020-03-07","South Africa",1,0,0,0,"Imported cases only",1
+"2020-03-07","Togo",1,10,0,0,"Imported cases only",0
+"2020-03-07","Diamond Princess",696,0,6,0,"Clusters of cases",1

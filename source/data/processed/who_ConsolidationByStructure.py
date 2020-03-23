@@ -14,45 +14,30 @@ import tabula # To scan OCR PDFs.
 pathInputFile = "data/processed/who/"
 pathOutputFile = "data/processed/who/"
 metadataFile = "data/raw/who/tabulaParameters.csv"
-
-#%% Import metadata to use
-dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0)
-
-#%% Process Data Structure N
-dfMetadata = dfMetadataAll[dfMetadataAll["Structure"]=="N"]
-dfMetadata.drop(["Structure"], axis=1, inplace=True)
+startFileName = "20"
+endFileName = "-covid-19.csv"
 
 dfConsolidated = pd.DataFrame()
 
-for index, file in dfMetadata.iterrows():
-    fileName = file["File"].split(".")[-2] + ".csv"
+rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
+for file in rawFiles:
+    fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
-    date = fileName.split("-")[0]
-
+    # Date will be calculated sequentially based on the previous highest id's date.    
     if dfConsolidated.size == 0:
         # No file loaded yet.
-        dfConsolidated = pd.read_csv(pathInputFile+fileName, skipinitialspace=True, encoding='utf-8')
-        dfConsolidated.insert(0, "Date", date, allow_duplicates=False) 
+        namesColumns = ["Date","Country","Total confirmed cases","Total deaths"]
+        dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+
     else:
-        dfImported = pd.read_csv(pathInputFile+fileName, skipinitialspace=True, encoding='utf-8')
-        dfImported.insert(0, "Date", date, allow_duplicates=False) 
+        dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
 
         dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
-    
-    #% Adjust column types.
-    dfConsolidated["Date"] = dfConsolidated["Date"].astype(str)
-    dfConsolidated["Country"] = dfConsolidated["Country"].astype(str)
-    dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"].astype('int64')
-    dfConsolidated["Total confirmed new cases"] = dfConsolidated["Total confirmed new cases"].astype('int64')
-    dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
-    dfConsolidated["Total new deaths"] = dfConsolidated["Total new deaths"].astype('int64')
-    dfConsolidated["Transmission classification"] = dfConsolidated["Transmission classification"].astype(str)
-    dfConsolidated["Days since last reported case"] = dfConsolidated["Days since last reported case"].astype('int64')
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
-#% Write to file consolidated file
-dfConsolidated.to_csv(path_or_buf=pathOutputFile+"WHO-COVID19_StructureN"+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
+#%% Write to file consolidated dataframe
+dfConsolidated.to_csv(path_or_buf=pathOutputFile+"WHO-COVID19"+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")

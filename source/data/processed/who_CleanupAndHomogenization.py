@@ -21,11 +21,62 @@ startFileName = "20"
 endFileName = "-covid-19.csv"
 
 
-namesOfMultilineRegions2 = {"Iran (Islamic,":"Iran (Islamic Republic of),", "Iran (Islamic Republic,":"Iran (Islamic Republic of),", "United Arab,":"United Arab Emirates,", "United States Virgin,":"United States Virgin Islands", "Democratic Republic,":"Democratic Republic of the Congo", "United Republic of,":"United Republic of Tanzania", "Central African,":"Central African Republic", "Subtotal for all,":"Total", "International,":"Diamond Princess", "Bosnia and,":"Bosnia and Herzegovina"}
+namesOfMultilineRegions2 = {"Iran (Islamic,":"Iran (Islamic Republic of),", 
+#"Iran (Islamic Republic,":"Iran (Islamic Republic of),", # Conflict iwth file 53
+"United Arab,":"United Arab Emirates,", 
+"United States Virgin,":"United States Virgin Islands", 
+"Democratic Republic,":"Democratic Republic of the Congo", 
+"United Republic of,":"United Republic of Tanzania", 
+"Central African,":"Central African Republic", 
+"Subtotal for all,":"Total", 
+"International,,,,,,":"Diamond Princess", 
+"Bosnia and,,,":"Bosnia and Herzegovina"}
 
-namesOfMultilineRegions = ["Bosnia and", "Iran (Islamic", "United Arab", "Occupied", "occupied Palestinian", "United States of", "Venezuela (Bolivarian", "Bolivia (Plurinational", "Saint Vincent and the"]
+namesOfMultilineRegions = ["the United,",
+"\"Bosnia and", 
+"\"Iran (Islamic", 
+"\"United Arab", 
+"\"Occupied", 
+"\"occupied Palestinian", 
+"occupied Palestinian,",
+"United States of,",
+"\"United States of", 
+"\"United States Virgin",
+"\"Venezuela (Bolivarian", 
+"\"Bolivia (Plurinational", 
+"Bolivia (Plurinational,",
+"\"Saint Vincent and the",
+"\"Central African",
+"\"Democratic Republic",
+"Saint Vincent and the," ]
 
-namesOfDroppedRows = ["Total", "Unnamed", "Country", "Territory/Area", "deaths", "Western Pacific Region", "erritories**", "European Region", "outh-East Asia Region", "Mediterranean Region", "egion of the Americas", "frican Region", "Subtotal", "Grand total", "regions,,,", "conveyance,,", "Diamond Princess", "Islands,,,", "of the Congo,,,", "Tanzania,,,", "Republic,,,", "Republic of),,,", "Emirates,,,", "regions"]
+namesOfDroppedRows = ["Total", 
+"Unnamed", 
+"Country", 
+"Territory/Area", 
+"confirmed",
+"deaths", 
+"Western Pacific Region,,,", 
+"erritories**,,,", 
+"European Region,,,", 
+"European Region ^,",
+"outh-East Asia Region,,,", 
+"Mediterranean Region", 
+"egion of the Americas,,,", 
+"frican Region,,,", 
+"Subtotal", 
+"Grand total", 
+"regions,,,", 
+"conveyance,,", 
+"Diamond Princess", 
+"Islands,,,", 
+"of the Congo,,,", 
+"Tanzania,,,", 
+"Republic,,,", 
+"Republic of),,,", 
+"Emirates,,,", 
+"regions",
+"Herzegovina,,,"]
 
 
 #%% Import metadata to use
@@ -57,16 +108,15 @@ for file in rawFiles:
                     if "Total" in prependNextLine:
                         pass
                     else:
-                        line = prependNextLine+line.replace("conveyance","").replace("§","").replace(".",",").replace("†","")
+                        line = prependNextLine+line.replace("conveyance","").replace("§","").replace(".","").replace("†","").replace("*","").replace("^","").replace("¶","").rstrip(',')
                         line = re.sub(r'([a-zA-Z])\s+([0-9])', r'\1,\2', line)
-                        line = re.sub(r',,,+', r',', line)
+                        line = re.sub(r',,+', r',', line)
                         outputFileObject.write( line )
 
                     prependNextLine = ""
-        
-    continue
+    
     # Date will be extracted from filename
-    date = pd.to_datetime(fileName.replace(startFileName,"").replace(endFileName,""))
+    date = pd.to_datetime(fileName.split("-")[0])
 
     # Column Structure will be calculated sequentially based on the previous highest id's date
     fileId = fileName.replace(startFileName,"").replace(endFileName,"")
@@ -74,8 +124,8 @@ for file in rawFiles:
     dfMetadataTemp = dfMetadataTemp[dfMetadataTemp["ID"]==(dfMetadataTemp["ID"].max())].iloc[0]
     fileStructureId = dfMetadataTemp["Structure"]
 
-    if fileStructureId == 5:
-        namesColumns = ["Region", "Total confirmed cases", "New cases", "Population Incidence Ratio", "Total deaths"]
+    if fileStructureId == "N":
+        namesColumns = ["Country", "Total confirmed cases", "New cases", "Total deaths", "Total new deaths", "Transmission classification", "Days since last reported case"]
 
     try:
         dfImported = pd.read_csv(pathOutputFile+fileName, skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
@@ -101,24 +151,15 @@ for file in rawFiles:
     except AttributeError:
         pass
 
-    try:
-        dfImported.insert(2, "First", dfImported["New cases"].str.split(" ", expand=True)[0], allow_duplicates=False)
-        dfImported.insert(3, "Last", dfImported["New cases"].str.split(" ", expand=True)[1], allow_duplicates=False)
-  
-        dfImported.drop("New cases", axis=1, inplace=True)
-    except AttributeError:
-        pass
-
     dfImported.fillna(0, inplace=True)
 
     dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
 
     dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
     dfImported["Date"] = dfImported["Date"].astype(str)
-    dfImported["Region"] = dfImported["Region"].astype(str)
+    dfImported["Country"] = dfImported["Country"].astype(str)
     dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
     dfImported["New cases"] = dfImported["New cases"].astype('int64')
-    dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
     dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
 
     #%% Write to file cleaned dataframe
