@@ -43,8 +43,7 @@ for file in rawFiles:
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
                     for region in namesOfRegions:
-                        line = line.replace(region, region+",").replace("-", " ")
-
+                        line = line.replace(region, region+",")
                     outputFileObject.write(line)
                 else:
                     continue
@@ -79,10 +78,11 @@ for file in rawFiles:
     dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].str.replace(",",".")
     dfImported.fillna(0, inplace=True)
     dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+    dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
     dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
     dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
     dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
-    dfImported["Region"] = dfImported["Region"].str.replace("-"," ")
+    dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
 
     dfImported["Date"] = dfImported["Date"].astype(str)
     dfImported["Region"] = dfImported["Region"].astype(str)

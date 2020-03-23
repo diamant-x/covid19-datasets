@@ -105,7 +105,7 @@
 "2020-03-04","Spain","Castilla y León",11,0,11,0
 "2020-03-04","Spain","Cataluña",15,0,15,0
 "2020-03-04","Spain","Ceuta",0,0,0,0
-"2020-03-04","Spain","C. Valenciana",19,1,19,1
+"2020-03-04","Spain","Comunidad Valenciana",19,1,19,1
 "2020-03-04","Spain","Extremadura",6,0,6,0
 "2020-03-04","Spain","Galicia",1,0,1,0
 "2020-03-04","Spain","Madrid",70,0,70,0
@@ -124,7 +124,7 @@
 "2020-03-05","Spain","Castilla y León",11,0,0,0
 "2020-03-05","Spain","Cataluña",24,0,9,0
 "2020-03-05","Spain","Ceuta",0,0,0,0
-"2020-03-05","Spain","C. Valenciana",19,1,0,0
+"2020-03-05","Spain","Comunidad Valenciana",19,1,0,0
 "2020-03-05","Spain","Extremadura",6,0,0,0
 "2020-03-05","Spain","Galicia",1,0,0,0
 "2020-03-05","Spain","Madrid",90,1,20,1
@@ -143,7 +143,7 @@
 "2020-03-06","Spain","Castilla y León",14,0,3,0
 "2020-03-06","Spain","Cataluña",24,0,0,0
 "2020-03-06","Spain","Ceuta",0,0,0,0
-"2020-03-06","Spain","C. Valenciana",30,1,11,0
+"2020-03-06","Spain","Comunidad Valenciana",30,1,11,0
 "2020-03-06","Spain","Extremadura",6,0,0,0
 "2020-03-06","Spain","Galicia",3,0,2,0
 "2020-03-06","Spain","Madrid",137,2,47,1
@@ -162,7 +162,7 @@
 "2020-03-07","Spain","Castilla y León",23,0,9,0
 "2020-03-07","Spain","Cataluña",75,1,51,1
 "2020-03-07","Spain","Ceuta",0,0,0,0
-"2020-03-07","Spain","C. Valenciana",37,1,7,0
+"2020-03-07","Spain","Comunidad Valenciana",37,1,7,0
 "2020-03-07","Spain","Extremadura",7,0,1,0
 "2020-03-07","Spain","Galicia",6,0,3,0
 "2020-03-07","Spain","Madrid",469,8,332,6
@@ -181,7 +181,7 @@
 "2020-03-10","Spain","Castilla y León",56,0,33,0
 "2020-03-10","Spain","Cataluña",124,3,49,2
 "2020-03-10","Spain","Ceuta",0,0,0,0
-"2020-03-10","Spain","C. Valenciana",50,1,13,0
+"2020-03-10","Spain","Comunidad Valenciana",50,1,13,0
 "2020-03-10","Spain","Extremadura",8,0,1,0
 "2020-03-10","Spain","Galicia",22,0,16,0
 "2020-03-10","Spain","Madrid",782,21,313,13
@@ -200,7 +200,7 @@
 "2020-03-11","Spain","Castilla y León",71,0,15,0
 "2020-03-11","Spain","Cataluña",156,3,32,0
 "2020-03-11","Spain","Ceuta",0,0,0,0
-"2020-03-11","Spain","C. Valenciana",65,1,15,0
+"2020-03-11","Spain","Comunidad Valenciana",65,1,15,0
 "2020-03-11","Spain","Extremadura",9,0,1,0
 "2020-03-11","Spain","Galicia",39,0,17,0
 "2020-03-11","Spain","Madrid",1024,31,242,10
@@ -219,7 +219,7 @@
 "2020-03-12","Spain","Castilla y León",92,0,21,0
 "2020-03-12","Spain","Cataluña",260,4,104,1
 "2020-03-12","Spain","Ceuta",0,0,0,0
-"2020-03-12","Spain","C. Valenciana",76,1,11,0
+"2020-03-12","Spain","Comunidad Valenciana",76,1,11,0
 "2020-03-12","Spain","Extremadura",19,1,10,1
 "2020-03-12","Spain","Galicia",35,0,-4,0
 "2020-03-12","Spain","Madrid",1388,56,364,25
@@ -238,7 +238,7 @@
 "2020-03-13","Spain","Castilla y León",169,1,77,1
 "2020-03-13","Spain","Cataluña",316,4,56,0
 "2020-03-13","Spain","Ceuta",0,0,0,0
-"2020-03-13","Spain","C. Valenciana",94,1,18,0
+"2020-03-13","Spain","Comunidad Valenciana",94,1,18,0
 "2020-03-13","Spain","Extremadura",39,1,20,0
 "2020-03-13","Spain","Galicia",85,0,50,0
 "2020-03-13","Spain","Madrid",1990,81,602,25
@@ -257,7 +257,7 @@
 "2020-03-16","Spain","Castilla y León",334,9,165,8
 "2020-03-16","Spain","Cataluña",903,12,587,8
 "2020-03-16","Spain","Ceuta",1,0,1,0
-"2020-03-16","Spain","C. Valenciana",409,5,315,4
+"2020-03-16","Spain","Comunidad Valenciana",409,5,315,4
 "2020-03-16","Spain","Extremadura",111,2,72,1
 "2020-03-16","Spain","Galicia",245,2,160,2
 "2020-03-16","Spain","Madrid",4165,213,2175,132
@@ -276,7 +276,7 @@
 "2020-03-17","Spain","Castilla y León",431,12,97,3
 "2020-03-17","Spain","Cataluña",1394,18,491,6
 "2020-03-17","Spain","Ceuta",1,0,0,0
-"2020-03-17","Spain","C. Valenciana",541,13,132,8
+"2020-03-17","Spain","Comunidad Valenciana",541,13,132,8
 "2020-03-17","Spain","Extremadura",153,3,42,1
 "2020-03-17","Spain","Galicia",292,3,47,1
 "2020-03-17","Spain","Madrid",4871,355,706,142
@@ -295,7 +295,7 @@
 "2020-03-18","Spain","Castilla y León",668,22,237,10
 "2020-03-18","Spain","Cataluña",1866,41,472,23
 "2020-03-18","Spain","Ceuta",1,0,0,0
-"2020-03-18","Spain","C. Valenciana",726,22,185,9
+"2020-03-18","Spain","Comunidad Valenciana",726,22,185,9
 "2020-03-18","Spain","Extremadura",194,6,41,3
 "2020-03-18","Spain","Galicia",341,3,49,0
 "2020-03-18","Spain","Madrid",5637,390,766,35
@@ -314,7 +314,7 @@
 "2020-03-19","Spain","Castilla y León",868,29,200,7
 "2020-03-19","Spain","Cataluña",2702,55,836,14
 "2020-03-19","Spain","Ceuta",1,0,0,0
-"2020-03-19","Spain","C. Valenciana",921,24,195,2
+"2020-03-19","Spain","Comunidad Valenciana",921,24,195,2
 "2020-03-19","Spain","Extremadura",241,8,47,2
 "2020-03-19","Spain","Galicia",453,4,112,1
 "2020-03-19","Spain","Madrid",6777,498,1140,108
@@ -333,7 +333,7 @@
 "2020-03-20","Spain","Castilla y León",1147,43,279,14
 "2020-03-20","Spain","Cataluña",3270,82,568,27
 "2020-03-20","Spain","Ceuta",5,0,4,0
-"2020-03-20","Spain","C. Valenciana",1105,33,184,9
+"2020-03-20","Spain","Comunidad Valenciana",1105,33,184,9
 "2020-03-20","Spain","Extremadura",297,10,56,2
 "2020-03-20","Spain","Galicia",578,5,125,1
 "2020-03-20","Spain","Madrid",7165,628,388,130
@@ -352,7 +352,7 @@
 "2020-03-21","Spain","Castilla y León",1466,55,319,12
 "2020-03-21","Spain","Cataluña",4203,122,933,40
 "2020-03-21","Spain","Ceuta",5,0,0,0
-"2020-03-21","Spain","C. Valenciana",1363,50,258,17
+"2020-03-21","Spain","Comunidad Valenciana",1363,50,258,17
 "2020-03-21","Spain","Extremadura",354,12,57,2
 "2020-03-21","Spain","Galicia",739,9,161,4
 "2020-03-21","Spain","Madrid",8921,804,1756,176
@@ -371,10 +371,10 @@
 "2020-03-22","Spain","Castilla y León",1744,74,278,19
 "2020-03-22","Spain","Cataluña",4704,191,501,69
 "2020-03-22","Spain","Ceuta",5,0,0,0
-"2020-03-22","Spain","C. Valenciana",1604,69,241,19
+"2020-03-22","Spain","Comunidad Valenciana",1604,69,241,19
 "2020-03-22","Spain","Extremadura",384,14,30,2
 "2020-03-22","Spain","Galicia",915,12,176,3
-"2020-03-22","Spain","Madrid",9702,1,781,-803
+"2020-03-22","Spain","Madrid",9702,1020,781,216
 "2020-03-22","Spain","Melilla",25,0,0,0
 "2020-03-22","Spain","Murcia",296,1,56,0
 "2020-03-22","Spain","Navarra",794,14,130,5
