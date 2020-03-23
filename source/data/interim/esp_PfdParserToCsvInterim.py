@@ -21,7 +21,7 @@ endFileName = "_COVID-19.pdf"
 
 #%% Import metadata to use
 dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0, dtype={"area":str})
-dfMetadataAll["CoreFileName"] = dfMetadataAll["File"].str.replace(startFileName,"").replace(endFileName,"")
+dfMetadataAll["CoreFileName"] = dfMetadataAll["File"].str.replace(startFileName,"").str.replace(endFileName,"")
 rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
 
 #%% Process Data Structure
