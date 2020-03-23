@@ -48,6 +48,9 @@ for file in rawFiles:
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
+#%% Add Country column.
+dfConsolidated.insert(1, "Country", "Italy", allow_duplicates=False) 
+
 #%% Write to file consolidated dataframe
 dfConsolidated.to_csv(path_or_buf=pathOutputFile+outputFile, index=False, quoting=csv.QUOTE_NONNUMERIC)
 

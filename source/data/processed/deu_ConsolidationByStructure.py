@@ -40,6 +40,6 @@ for file in rawFiles:
 dfConsolidated.insert(1, "Country", "Germany", allow_duplicates=False) 
 
 #%% Write to file consolidated dataframe
-dfConsolidated.to_csv(path_or_buf=pathOutputFile+"DEU-COVID19_Structure3"+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
+dfConsolidated.to_csv(path_or_buf=pathOutputFile+"DEU-COVID19"+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")

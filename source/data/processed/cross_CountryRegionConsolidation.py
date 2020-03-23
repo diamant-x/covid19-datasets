@@ -1,33 +1,26 @@
 #%% [markdown]
-# # CSV Consolidation ESP
-# Creation date: 2020-03-20
+# # CSV Consolidation Country Region
+# Creation date: 2020-03-23
 
 #%% Imports
 import pandas as pd # To work similar to R in Python
-import numpy # To access pi number definition.
 import csv #To load the tags metadatas
 import os # To access the OS separator char.
-import glob #To be able to dynamically load files matching pattern.
 
 #%% Constants Setup
-pathInputFile = "data/processed/esp/"
-pathOutputFile = "data/processed/esp/"
-metadataFile = "data/raw/esp/tabulaParameters.csv"
-datesFile = "data/raw/esp/reportDates.csv"
-startFileName = "Actualizacion_"
-endFileName = "_COVID-19.csv"
+inputFileList = ["data/processed/deu/DEU-COVID19.csv", "data/processed/esp/ESP-COVID19.csv", "data/processed/ita/ITA-COVID19_Regional.csv"]
+pathOutputFile = "data/processed/"
 
 dfConsolidated = pd.DataFrame()
 
-rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
-for file in rawFiles:
+for file in inputFileList:
     fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
     # Date will be calculated sequentially based on the previous highest id's date.    
     if dfConsolidated.size == 0:
         # No file loaded yet.
-        namesColumns = ["Date","Region","Total confirmed cases","Population Incidence Ratio","ICU cases","Total deaths"]
+        namesColumns = ["Date","Country","Region","Total confirmed cases","Total deaths"]
         dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
 
     else:
@@ -37,10 +30,10 @@ for file in rawFiles:
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
-#%% Add Country column.
-dfConsolidated.insert(1, "Country", "Spain", allow_duplicates=False) 
+dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"].astype('int64')
+dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
 
 #%% Write to file consolidated dataframe
-dfConsolidated.to_csv(path_or_buf=pathOutputFile+"ESP-COVID19"+".csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
+dfConsolidated.to_csv(path_or_buf=pathOutputFile+"ALL-COVID19_CountryRegion.csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")
