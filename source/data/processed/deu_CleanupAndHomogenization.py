@@ -38,12 +38,12 @@ for file in rawFiles:
             #fileContents = fileObject.read()
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
-                    line = line.replace("+", "").replace("  "," ")#.replace("\"", "")
+                    line = line.replace("+", "").replace("  "," ").replace("\"", "")
                     line = re.sub(r'\s([0-9])', r' \1', line)
                     line = "\"" + line
                     line = re.sub(r'([a-zA-Z])\s([0-9])', r'\1" \2', line)
-                    line = re.sub(r'([a-zA-Z]),([0-9])', r'\1",\2', line)
-                    line = re.sub(r'([a-zA-Z]),(")', r'\1",\2', line)
+                    line = re.sub(r'([a-zA-Z]);([0-9])', r'\1";\2', line)
+                    line = re.sub(r'([a-zA-Z]);(")', r'\1";\2', line)
                     outputFileObject.write(line)
                 else:
                     continue
@@ -63,10 +63,13 @@ for file in rawFiles:
     try:
         dfImported = pd.read_csv(pathOutputFile+fileName, skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
     except:
-        dfImported = pd.read_csv(pathOutputFile+fileName, sep=" ", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
+        try:
+            dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
+        except:
+            dfImported = pd.read_csv(pathOutputFile+fileName, sep=" ", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
 
     if len(dfImported.columns) == 1:
-        dfImported = pd.read_csv(pathOutputFile+fileName, sep=" ", skipinitialspace=True, header=None, encoding='utf-8', engine="python", index_col=False)
+        dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, encoding='utf-8', engine="python", index_col=False)
 
     # Find the columns where each value is null. Source: https://www.jitsejan.com/find-and-delete-empty-columns-pandas-dataframe.html
     empty_cols = [col for col in dfImported.columns if dfImported[col].isnull().all()]

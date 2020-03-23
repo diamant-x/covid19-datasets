@@ -49,10 +49,10 @@ for file in rawFiles:
         for table in parsedFile:
             #%% Prepare to write the parsing.
             outputFilename = fileName.split(".")[-2] + "-" + str(tableId) + ".csv"
-            table.to_csv(pathOutputFile+outputFilename, index=False)
+            table.to_csv(pathOutputFile+outputFilename, index=False, sep=";")
             tableId = tableId + 1
     else:
         dfFile = parsedFile[0]
         #%% Prepare to write the parsing.
         outputFilename = fileName.split(".")[-2] + ".csv"
-        dfFile.to_csv(pathOutputFile+outputFilename, index=False)
+        dfFile.to_csv(pathOutputFile+outputFilename, index=False, sep=";")
