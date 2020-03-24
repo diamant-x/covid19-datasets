@@ -70,7 +70,7 @@ dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
 dfConsolidated["New confirmed cases"] = dfConsolidated["New confirmed cases"].astype('int64')
 dfConsolidated["New deaths"] = dfConsolidated["New deaths"].astype('int64')
 dfConsolidated["Total cured"] = dfConsolidated["Total cured"].astype('int64')
-dfConsolidated["New cured"] = dfConsolidated["Total cured"].astype('int64')
+dfConsolidated["New cured"] = dfConsolidated["New cured"].astype('int64')
 
 
 #%% Write to file consolidated dataframe
