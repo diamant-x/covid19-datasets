@@ -52,7 +52,7 @@ Slovakia,137,14,0,0,Local transmission,0
 Armenia,136,14,0,0,Local transmission,0
 Serbia††,135,12,1,1,Local transmission,0
 Bulgaria,127,33,3,0,Local transmission,0
-Croatia,126,45,1,1,Local transmission,0
+Croatia,126,45,0,0,Local transmission,0
 Latvia,111,25,0,0,Imported cases only,0
 Hungary,85,12,4,3,Local transmission,0
 Andorra,75,0,0,0,Imported cases only,1
@@ -203,10 +203,10 @@ Territories**,,,,,,
 Réunion,28,13,0,0,Imported cases only,0
 Mayotte,4,0,0,0,Imported cases only,1
 Subtotal for all,,,,,,
-,265361,32000,11177,1344,,
+,265361,32000,11176,1343,,
 regions,,,,,,
 International,,,,,,
 ,712,0,7,0,Local transmission,5
 conveyance,,,,,,
 (Diamond Princess),,,,,,
-Grand total,266073,32000,11184,1344,,
+Grand total,266073,32000,11183,1343,,
