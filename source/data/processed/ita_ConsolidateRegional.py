@@ -27,8 +27,8 @@ for file in rawFiles:
     fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
-    namesOriginals = ["data","denominazione_regione","totale_casi","deceduti","terapia_intensiva","tamponi"]
-    namesColumns = ["Date","Region","Total confirmed cases","Total deaths","ICU cases","Total tests"]
+    namesOriginals = ["data","denominazione_regione","totale_casi","deceduti","terapia_intensiva","tamponi","dimessi_guariti"]
+    namesColumns = ["Date","Region","Total confirmed cases","Total deaths","ICU cases","Total tests","Total cured"]
     renameDict = dict(zip(namesOriginals, namesColumns))
    
     if dfConsolidated.size == 0:

@@ -63,33 +63,50 @@ for file in rawFiles:
     if fileStructureId == 3:
         namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","ICU cases","Total deaths"]
     elif fileStructureId == 4:
-        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Hospital Cases", "ICU cases","Total deaths","New cases"]
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Hospital cases", "ICU cases","Total deaths","New cases"]
+    elif fileStructureId == 5:
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Hospital cases", "ICU cases","Total deaths","Total cured","New cases"]
 
     dfImported = pd.read_csv(pathOutputFile+fileName, sep=",", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
 
+    #%% Data cleaning
+    #% Cross-file
     # Find the columns where each value is null. Source: https://www.jitsejan.com/find-and-delete-empty-columns-pandas-dataframe.html
     empty_cols = [col for col in dfImported.columns if dfImported[col].isnull().all()]
     # Drop these columns from the dataframe
     dfImported.drop(empty_cols, axis=1, inplace=True)
-
+    
     dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
     dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
-
-    dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].str.replace(",",".")
+    
     dfImported.fillna(0, inplace=True)
-    dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
-    dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
-    dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
-    dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
-    dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
-    dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
 
-    dfImported["Date"] = dfImported["Date"].astype(str)
-    dfImported["Region"] = dfImported["Region"].astype(str)
-    dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
-    dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
-    dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
-    dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+    #% File specific
+    if fileStructureId >= 3:
+        dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
+        dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].str.replace(",",".")
+        dfImported.loc[dfImported["ICU cases"].round() != dfImported["ICU cases"], "ICU cases"] = dfImported["ICU cases"]*1000
+        dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
+    if fileStructureId >= 4: 
+        dfImported.loc[dfImported["Hospital cases"].round() != dfImported["Hospital cases"], "Hospital cases"] = dfImported["Hospital cases"]*1000
+        dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
+    if fileStructureId >= 5:
+        dfImported.loc[dfImported["Total cured"].round() != dfImported["Total cured"], "Total cured"] = dfImported["Total cured"]*1000
+
+    #%% Type alignment.
+    if fileStructureId >= 3:
+        dfImported["Date"] = dfImported["Date"].astype(str)
+        dfImported["Region"] = dfImported["Region"].astype(str)
+        dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
+        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
+        dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
+        dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+    if fileStructureId >= 4:
+        dfImported["Hospital cases"] = dfImported["Hospital cases"].astype('int64')
+        dfImported["New cases"] = dfImported["New cases"].astype('int64')
+    if fileStructureId >= 5:
+        dfImported["Total cured"] = dfImported["Total cured"].astype('int64')
 
     #%% Write to file cleaned dataframe
     dfImported.to_csv(path_or_buf=pathOutputFile+fileName, index=False, quoting=csv.QUOTE_NONNUMERIC)

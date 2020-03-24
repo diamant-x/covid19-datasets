@@ -64,4 +64,21 @@ Tabla 1. Casos COVID-19 e incidencia acumulada por Comunidades autónomas en Esp
 | Total     | # | # | # | # | # | # |
 
 Files with this structue:
+From:
  * Actualizacion_51_COVID-19
+To:
+ * Actualizacion_52_COVID-19
+
+#### Set Structure 5
+These files show the following structure:
+Tabla 1. Casos COVID-19 e incidencia acumulada por Comunidades autónomas en España, 04.03.2020.
+
+| CCAA  | Total casos | Casos/Poblacion (100.000h) | Hospitalizados | Ingresos en UCI | Fallecidos | Curados | Nuevos
+|---|---|---|---|---|---|---|---|
+| Region n  | # | # | # | # | # | # | # |
+| Total     | # | # | # | # | # | # | # |
+
+Files with this structue:
+From:
+ * Actualizacion_53_COVID-19
+To:

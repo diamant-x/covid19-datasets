@@ -43,6 +43,7 @@ namesOfMultilineRegions = ["the United,",
 "\"United States of", 
 "\"United States Virgin",
 "\"Venezuela (Bolivarian", 
+"\"United Republic of", 
 "\"Bolivia (Plurinational", 
 "Bolivia (Plurinational,",
 "\"Saint Vincent and the",
@@ -108,7 +109,7 @@ for file in rawFiles:
                     if "Total" in prependNextLine:
                         pass
                     else:
-                        line = prependNextLine+line.replace("conveyance","").replace("§","").replace(".","").replace("†","").replace("*","").replace("^","").replace("¶","").rstrip(',')
+                        line = prependNextLine+line.replace("conveyance","").replace("§","").replace(".","").replace("†","").replace("*","").replace("^","").replace("¶","").replace("[1]","").rstrip(',')
                         line = re.sub(r'([a-zA-Z])\s+([0-9])', r'\1,\2', line)
                         line = re.sub(r',,+', r',', line)
                         outputFileObject.write( line )

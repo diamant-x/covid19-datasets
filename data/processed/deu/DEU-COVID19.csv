@@ -31,8 +31,8 @@
 "2020-03-18","Germany","Saxony-Anhalt",105.0,4.8,0.0
 "2020-03-18","Germany","Schleswig-Holstein",159.0,5.5,0.0
 "2020-03-18","Germany","Thuringia",74.0,3.5,0.0
-"2020-03-19","Germany","Baden-Württemberg",2.0,19.47,6.0
-"2020-03-19","Germany","Bavaria",1.0,12.94,8.0
+"2020-03-19","Germany","Baden-Württemberg",2155.0,19.47,6.0
+"2020-03-19","Germany","Bavaria",1692.0,12.94,8.0
 "2020-03-19","Germany","Berlin",573.0,15.29,0.0
 "2020-03-19","Germany","Brandenburg",134.0,5.33,0.0
 "2020-03-19","Germany","Bremen",80.0,11.71,0.0
@@ -40,7 +40,7 @@
 "2020-03-19","Germany","Hesse",682.0,10.88,0.0
 "2020-03-19","Germany","Mecklenburg-Western Pomerania",98.0,6.09,0.0
 "2020-03-19","Germany","Lower Saxony",669.0,8.38,0.0
-"2020-03-19","Germany","North Rhine-Westphalia",3.0,16.91,6.0
+"2020-03-19","Germany","North Rhine-Westphalia",3033.0,16.91,6.0
 "2020-03-19","Germany","Rhineland-Palatinate",637.0,15.59,0.0
 "2020-03-19","Germany","Saarland",99.0,9.99,0.0
 "2020-03-19","Germany","Saxony",275.0,6.74,0.0
@@ -95,3 +95,19 @@
 "2020-03-22","Germany","Saxony-Anhalt",211.0,10.0,0.0
 "2020-03-22","Germany","Schleswig-Holstein",347.0,12.0,1.0
 "2020-03-22","Germany","Thuringia",216.0,10.0,0.0
+"2020-03-23","Germany","Baden-Württemberg",3811.0,34.0,21.0
+"2020-03-23","Germany","Bavaria",4892.0,37.0,26.0
+"2020-03-23","Germany","Berlin",1077.0,29.0,1.0
+"2020-03-23","Germany","Brandenburg",288.0,11.0,0.0
+"2020-03-23","Germany","Bremen",170.0,25.0,0.0
+"2020-03-23","Germany","Hamburg",943.0,51.0,0.0
+"2020-03-23","Germany","Hesse",1347.0,21.0,3.0
+"2020-03-23","Germany","Mecklenburg-Western Pomerania",172.0,11.0,0.0
+"2020-03-23","Germany","Lower Saxony",1483.0,19.0,4.0
+"2020-03-23","Germany","North Rhine-Westphalia",5615.0,31.0,28.0
+"2020-03-23","Germany","Rhineland-Palatinate",1177.0,29.0,2.0
+"2020-03-23","Germany","Saarland",200.0,20.0,0.0
+"2020-03-23","Germany","Saxony",653.0,16.0,0.0
+"2020-03-23","Germany","Saxony-Anhalt",212.0,10.0,0.0
+"2020-03-23","Germany","Schleswig-Holstein",383.0,13.0,1.0
+"2020-03-23","Germany","Thuringia",249.0,12.0,0.0

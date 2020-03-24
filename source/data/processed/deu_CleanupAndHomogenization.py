@@ -20,6 +20,8 @@ metadataFile = "data/raw/deu/tabulaParameters.csv"
 startFileName = ""
 endFileName = "-en.csv"
 
+namesOfMultilineRegions2 = {"Mecklenburg-Western":"Mecklenburg-Western Pomerania\" "}
+
 namesOfRegions = ["Baden-Württemberg","Bavaria","Berlin","Brandenburg","Bremen","Hamburg","Hesse","Mecklenburg-Western Pomerania","Lower Saxony","North Rhine-Westphalia","Rhineland-Palatinate","Saarlan","Saxony","Saxony-Anhalt","Schleswig-Holstein","Thuringia"]
 
 #%% Import metadata to use
@@ -35,7 +37,7 @@ for file in rawFiles:
 
     with io.open(pathOutputFile+fileName, mode='w', encoding="utf-8") as outputFileObject:
         with io.open(file, mode='r', encoding="utf-8") as fileObject:
-            #fileContents = fileObject.read()
+            prependNextLine = ""
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
                     line = line.replace("+", "").replace("  "," ").replace("\"", "")
@@ -45,6 +47,21 @@ for file in rawFiles:
                     line = re.sub(r'([a-zA-Z]);([0-9])', r'\1";\2', line)
                     line = re.sub(r'([a-zA-Z]);(")', r'\1";\2', line)
                     outputFileObject.write(line)
+                elif any(region in line for region in list(namesOfMultilineRegions2)):
+                    for key, value in namesOfMultilineRegions2.items():
+                        if key in line:
+                            prependNextLine = value
+                    continue
+                elif len(prependNextLine) > 0:
+                    line = line.replace("+", "").replace("  "," ").replace("\"", "")
+                    line = prependNextLine + line
+                    line = re.sub(r'\s([0-9])', r' \1', line)
+                    line = "\"" + line
+                    line = re.sub(r'([a-zA-Z])\s([0-9])', r'\1" \2', line)
+                    line = re.sub(r'([a-zA-Z]);([0-9])', r'\1";\2', line)
+                    line = re.sub(r'([a-zA-Z]);(")', r'\1";\2', line)
+                    outputFileObject.write(line)
+                    prependNextLine = ""
                 else:
                     continue
  
@@ -71,6 +88,8 @@ for file in rawFiles:
     if len(dfImported.columns) == 1:
         dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, encoding='utf-8', engine="python", index_col=False)
 
+    #%% Data cleaning
+    #% Cross file
     # Find the columns where each value is null. Source: https://www.jitsejan.com/find-and-delete-empty-columns-pandas-dataframe.html
     empty_cols = [col for col in dfImported.columns if dfImported[col].isnull().all()]
     # Drop these columns from the dataframe
@@ -89,12 +108,19 @@ for file in rawFiles:
         dfImported.insert(3, "Last", dfImported["New cases"].str.split(" ", expand=True)[1], allow_duplicates=False)
   
         dfImported.drop("New cases", axis=1, inplace=True)
-    except AttributeError:
+
+        dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
+    except (AttributeError,KeyError):
         pass
 
     dfImported.fillna(0, inplace=True)
 
-    dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
+    dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('str').str.replace(",",".").astype('float64')
+    dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+
+    dfImported["New cases"] = dfImported["New cases"].astype('str').str.replace(",",".").astype('float64')
+    dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
+    
 
     dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
     dfImported["Date"] = dfImported["Date"].astype(str)
@@ -108,6 +134,3 @@ for file in rawFiles:
     dfImported.to_csv(path_or_buf=pathOutputFile+fileName, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")
-
-
-# %%
