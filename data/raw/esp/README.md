@@ -1,5 +1,8 @@
 # DATA
 
+## Hospital and beds information
+Collected manually from: https://www.mscbs.gob.es/ciudadanos/hospitales.do?tipo=hospcamas
+
 ## RAW Data
 PDFs downloaded from https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm
 

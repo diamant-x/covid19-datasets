@@ -1,0 +1,38 @@
+# Downloaded from https://pestadistico.inteligenciadegestion.mscbs.es/publicoSNS/comun/Cubo.aspx?IdNodo=14036 and https://www.mscbs.gob.es/ciudadanos/hospitales.do?tipo=hospcamas
+"Year";Country;Region;Hospital ownership;Total count Hospital;Total count Hospital beds;Total count Hospital beds working;Total count Hospital ICU beds
+2017;"Spain";"Andalucía";"State owned";48;15308;14251;13403
+2017;"Spain";"Andalucía";"Private";59;5414;4222;3413
+2017;"Spain";"Aragón";"State owned";21;4582;4233;3629
+2017;"Spain";"Aragón";"Private";8;711;701;333
+2017;"Spain";"Asturias";"State owned";12;3261;3010;2748
+2017;"Spain";"Asturias";"Private";13;519;469;333
+2017;"Spain";"Baleares";"State owned";11;2473;2268;1878
+2017;"Spain";"Baleares";"Private";13;1418;1204;1064
+2017;"Spain";"Canarias";"State owned";14;4895;4482;3254
+2017;"Spain";"Canarias";"Private";24;2693;2240;1783
+2017;"Spain";"Cantabria";"State owned";5;1478;1384;1277
+2017;"Spain";"Cantabria";"Private";2;525;513;93
+2017;"Spain";"Castilla y León";"State owned";16;7311;6427;5658
+2017;"Spain";"Castilla y León";"Private";20;2119;1992;1288
+2017;"Spain";"Castilla La Mancha";"State owned";20;5241;4488;3800
+2017;"Spain";"Castilla La Mancha";"Private";8;414;292;244
+2017;"Spain";"Cataluña";"State owned";156;27105;25266;13728
+2017;"Spain";"Cataluña";"Private";46;3887;3703;3114
+2017;"Spain";"Comunidad Valenciana";"State owned";40;11191;9977;8630
+2017;"Spain";"Comunidad Valenciana";"Private";22;2047;1702;1547
+2017;"Spain";"Extremadura";"State owned";12;3639;3295;2572
+2017;"Spain";"Extremadura";"Private";8;242;210;201
+2017;"Spain";"Galicia";"State owned";19;8449;7599;6630
+2017;"Spain";"Galicia";"Private";17;1488;1406;1212
+2017;"Spain";"Madrid";"State owned";37;14787;12832;11502
+2017;"Spain";"Madrid";"Private";44;5671;5098;3512
+2017;"Spain";"Murcia";"State owned";16;3647;3387;2866
+2017;"Spain";"Murcia";"Private";9;1312;1301;591
+2017;"Spain";"Navarra";"State owned";6;1621;1449;1335
+2017;"Spain";"Navarra";"Private";5;703;677;273
+2017;"Spain";"País Vasco";"State owned";25;6442;5949;4589
+2017;"Spain";"País Vasco";"Private";14;1378;1199;708
+2017;"Spain";"La Rioja";"State owned";6;998;961;570
+2017;"Spain";"La Rioja";"Private";1;54;54;54
+2017;"Spain";"Ceuta";"State owned";1;252;204;195
+2017;"Spain";"Melilla";"State owned";1;168;136;130
