@@ -63,9 +63,9 @@ for file in rawFiles:
     if fileStructureId == 3:
         namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","ICU cases","Total deaths"]
     elif fileStructureId == 4:
-        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Hospital cases", "ICU cases","Total deaths","New cases"]
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "ICU cases","Total deaths","New cases"]
     elif fileStructureId == 5:
-        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Hospital cases", "ICU cases","Total deaths","Total cured","New cases"]
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "ICU cases","Total deaths","Total cured","New cases"]
 
     dfImported = pd.read_csv(pathOutputFile+fileName, sep=",", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
 
@@ -108,7 +108,7 @@ for file in rawFiles:
         dfImported.loc[dfImported["ICU cases"].round() != dfImported["ICU cases"], "ICU cases"] = dfImported["ICU cases"]*1000
         dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
     if fileStructureId >= 4: 
-        dfImported.loc[dfImported["Hospital cases"].round() != dfImported["Hospital cases"], "Hospital cases"] = dfImported["Hospital cases"]*1000
+        dfImported.loc[dfImported["Total Hospital cases"].round() != dfImported["Total Hospital cases"], "Total Hospital cases"] = dfImported["Total Hospital cases"]*1000
         dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
     if fileStructureId >= 5:
         dfImported.loc[dfImported["Total cured"].round() != dfImported["Total cured"], "Total cured"] = dfImported["Total cured"]*1000
@@ -122,7 +122,7 @@ for file in rawFiles:
         dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
         dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
     if fileStructureId >= 4:
-        dfImported["Hospital cases"] = dfImported["Hospital cases"].astype('int64')
+        dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')
         dfImported["New cases"] = dfImported["New cases"].astype('int64')
     if fileStructureId >= 5:
         dfImported["Total cured"] = dfImported["Total cured"].astype('int64')

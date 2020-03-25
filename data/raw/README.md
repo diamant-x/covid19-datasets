@@ -4,3 +4,4 @@ If, due to the countries structure, addiitonal trusted regional authorities are 
 
 Additionally, special agencies will have their own folders. In particular:
  * who: World Health Organization
+ * cdc: Centre for Disease Prevention and Control
