@@ -50,7 +50,12 @@ for file in rawFiles:
                 elif any(region in line for region in list(namesOfMultilineRegions2)):
                     for key, value in namesOfMultilineRegions2.items():
                         if key in line:
-                            prependNextLine = value
+                            newline = re.sub(r'([a-z\-A-Z]+)\s\s+([0-9])', "\"" +value+r' \2', line)
+                            if newline != line:
+                                outputFileObject.write(newline)
+                                continue
+                            else:
+                                prependNextLine = value
                     continue
                 elif len(prependNextLine) > 0:
                     line = line.replace("+", "").replace("  "," ").replace("\"", "")
