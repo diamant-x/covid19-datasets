@@ -1,0 +1,189 @@
+"Date","Country","Total confirmed cases","New cases","Total deaths","Total new deaths","Transmission classification","Days since last reported case"
+"2020-03-24","China",81747,146,3283,7.0,"Local transmission",0.0
+"2020-03-24","Republic of Korea",9037,76,120,9.0,"Local transmission",0.0
+"2020-03-24","Australia",1709,313,7,0.0,"Local transmission",0.0
+"2020-03-24","Malaysia",1518,212,14,4.0,"Local transmission",0.0
+"2020-03-24","Japan",1128,39,42,1.0,"Local transmission",0.0
+"2020-03-24","Singapore",507,52,2,0.0,"Local transmission",0.0
+"2020-03-24","Philippines",462,82,33,8.0,"Local transmission",0.0
+"2020-03-24","Viet Nam",123,10,0,0.0,"Local transmission",0.0
+"2020-03-24","New Zealand",102,0,0,0.0,"Local transmission",1.0
+"2020-03-24","Brunei Darussalam",91,3,0,0.0,"Local transmission",0.0
+"2020-03-24","Cambodia",87,3,0,0.0,"Local transmission",0.0
+"2020-03-24","Mongolia",10,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Fiji",3,1,0,0.0,"Local transmission",0.0
+"2020-03-24","Papua New Guinea",1,0,0,0.0,"Imported cases only",3.0
+"2020-03-24","Guam",29,2,1,0.0,"Local transmission",0.0
+"2020-03-24","French Polynesia",18,1,0,0.0,"Local transmission",0.0
+"2020-03-24","New Caledonia",8,3,0,0.0,"Imported cases only",0.0
+"2020-03-24","Italy",63927,4789,6077,601.0,"Local transmission",0.0
+"2020-03-24","Spain",33089,4517,2182,462.0,"Local transmission",0.0
+"2020-03-24","Germany",29212,4438,126,32.0,"Local transmission",0.0
+"2020-03-24","France",19615,3794,860,186.0,"Local transmission",0.0
+"2020-03-24","Switzerland",8015,1044,66,6.0,"Local transmission",0.0
+"2020-03-24","The United Kingdom",6654,967,335,54.0,"Local transmission",0.0
+"2020-03-24","Netherlands",4749,545,213,34.0,"Local transmission",0.0
+"2020-03-24","Austria",4486,855,25,9.0,"Local transmission",0.0
+"2020-03-24","Belgium",3743,342,88,13.0,"Local transmission",0.0
+"2020-03-24","Norway",2371,239,8,1.0,"Local transmission",0.0
+"2020-03-24","Portugal",2060,460,23,9.0,"Local transmission",0.0
+"2020-03-24","Sweden",2016,110,25,4.0,"Local transmission",0.0
+"2020-03-24","Turkey",1529,293,37,7.0,"Local transmission",0.0
+"2020-03-24","Denmark",1460,65,24,11.0,"Local transmission",0.0
+"2020-03-24","Israel",1238,167,1,0.0,"Local transmission",0.0
+"2020-03-24","Czechia",1236,71,1,0.0,"Local transmission",0.0
+"2020-03-24","Ireland",1125,219,6,2.0,"Local transmission",0.0
+"2020-03-24","Luxembourg",875,77,8,0.0,"Local transmission",0.0
+"2020-03-24","Poland",749,115,8,1.0,"Local transmission",0.0
+"2020-03-24","Finland",700,74,1,0.0,"Local transmission",0.0
+"2020-03-24","Greece",695,71,17,2.0,"Local transmission",0.0
+"2020-03-24","Iceland",588,20,2,1.0,"Local transmission",0.0
+"2020-03-24","Romania",576,143,7,5.0,"Local transmission",0.0
+"2020-03-24","Slovenia",442,28,1,0.0,"Local transmission",0.0
+"2020-03-24","Russian Federation",438,0,0,0.0,"Local transmission",1.0
+"2020-03-24","Estonia",352,26,0,0.0,"Local transmission",0.0
+"2020-03-24","Croatia",306,71,0,0.0,"Local transmission",0.0
+"2020-03-24","Serbia",249,61,2,2.0,"Local transmission",0.0
+"2020-03-24","Armenia",235,45,0,0.0,"Local transmission",0.0
+"2020-03-24","Bulgaria",201,16,3,0.0,"Local transmission",0.0
+"2020-03-24","Slovakia",191,6,0,0.0,"Local transmission",0.0
+"2020-03-24","Hungary",187,20,8,1.0,"Local transmission",0.0
+"2020-03-24","San Marino",187,36,20,0.0,"Local transmission",0.0
+"2020-03-24","Latvia",180,41,0,0.0,"Local transmission",0.0
+"2020-03-24","Lithuania",179,36,1,0.0,"Local transmission",0.0
+"2020-03-24","Andorra",164,51,1,1.0,"Local transmission",0.0
+"2020-03-24","North Macedonia",136,22,2,1.0,"Local transmission",0.0
+"2020-03-24","Bosnia and Herzegovina",131,6,1,0.0,"Local transmission",0.0
+"2020-03-24","Albania",123,34,4,2.0,"Local transmission",0.0
+"2020-03-24","Cyprus",116,21,0,0.0,"Local transmission",0.0
+"2020-03-24","Republic of Moldova",109,15,1,0.0,"Local transmission",0.0
+"2020-03-24","Malta",107,17,0,0.0,"Local transmission",0.0
+"2020-03-24","Ukraine",84,37,3,0.0,"Local transmission",0.0
+"2020-03-24","Belarus",81,5,0,0.0,"Local transmission",0.0
+"2020-03-24","Azerbaijan",72,7,1,0.0,"Local transmission",0.0
+"2020-03-24","Georgia",67,13,0,0.0,"Local transmission",0.0
+"2020-03-24","Kazakhstan",63,3,0,0.0,"Imported cases only",0.0
+"2020-03-24","Liechtenstein",46,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Uzbekistan",46,0,0,0.0,"Local transmission",1.0
+"2020-03-24","Monaco",23,0,0,0.0,"Local transmission",1.0
+"2020-03-24","Montenegro",22,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Kyrgyzstan",16,2,0,0.0,"Local transmission",0.0
+"2020-03-24","Holy See",1,0,0,0.0,"Under investigation",17.0
+"2020-03-24","Faroe Islands",118,3,0,0.0,"Local transmission",0.0
+"2020-03-24","Kosovo",61,30,1,0.0,"Local transmission",0.0
+"2020-03-24","Guernsey",20,3,0,0.0,"Imported cases only",0.0
+"2020-03-24","Jersey",18,3,0,0.0,"Local transmission",0.0
+"2020-03-24","Gibraltar",15,0,0,0.0,"Under investigation",1.0
+"2020-03-24","Isle of Man",13,11,0,0.0,"Imported cases only",0.0
+"2020-03-24","Greenland",4,2,0,0.0,"Under investigation",0.0
+"2020-03-24","Thailand",827,106,4,3.0,"Local transmission",0.0
+"2020-03-24","Indonesia",579,65,49,1.0,"Local transmission",0.0
+"2020-03-24","India",434,19,9,2.0,"Local transmission",0.0
+"2020-03-24","Sri Lanka",97,15,0,0.0,"Local transmission",0.0
+"2020-03-24","Bangladesh",33,6,3,1.0,"Local transmission",0.0
+"2020-03-24","Maldives",13,0,0,0.0,"Local transmission",8.0
+"2020-03-24","Bhutan",2,0,0,0.0,"Imported cases only",4.0
+"2020-03-24","Myanmar",2,2,0,0.0,"Imported cases only",0.0
+"2020-03-24","Nepal",2,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Timor-Leste",1,0,0,0.0,"Imported cases only",3.0
+"2020-03-24","Iran (Islamic Republic of)",23049,1411,1812,127.0,"Local transmission",0.0
+"2020-03-24","Pakistan",887,103,6,1.0,"Local transmission",0.0
+"2020-03-24","Saudi Arabia",562,51,0,0.0,"Local transmission",0.0
+"2020-03-24","Qatar",501,7,0,0.0,"Local transmission",0.0
+"2020-03-24","Bahrain",377,40,2,0.0,"Local transmission",0.0
+"2020-03-24","Egypt",366,39,19,5.0,"Local transmission",0.0
+"2020-03-24","Lebanon",267,19,4,0.0,"Local transmission",0.0
+"2020-03-24","Iraq",266,33,23,3.0,"Local transmission",0.0
+"2020-03-24","United Arab Emirates",198,45,2,0.0,"Local transmission",0.0
+"2020-03-24","Kuwait",191,2,0,0.0,"Local transmission",0.0
+"2020-03-24","Morocco",143,28,4,0.0,"Local transmission",0.0
+"2020-03-24","Jordan",127,15,0,0.0,"Imported cases only",0.0
+"2020-03-24","Tunisia",89,14,3,0.0,"Local transmission",0.0
+"2020-03-24","Oman",84,29,0,0.0,"Local transmission",0.0
+"2020-03-24","Afghanistan",42,2,1,0.0,"Imported cases only",0.0
+"2020-03-24","Djibouti",3,2,0,0.0,"Imported cases only",0.0
+"2020-03-24","Sudan",2,0,1,0.0,"Imported cases only",2.0
+"2020-03-24","Somalia",1,0,0,0.0,"Imported cases only",7.0
+"2020-03-24","Syrian Arab Republic",1,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","occupied Palestinian territory",59,0,0,0.0,"Local transmission",1.0
+"2020-03-24","United States of America",42164,10591,471,69.0,"Local transmission",0.0
+"2020-03-24","Brazil",1546,642,25,14.0,"Local transmission",0.0
+"2020-03-24","Canada",1432,48,20,1.0,"Local transmission",0.0
+"2020-03-24","Ecuador",790,258,15,8.0,"Local transmission",0.0
+"2020-03-24","Chile",746,114,1,0.0,"Local transmission",0.0
+"2020-03-24","Peru",395,77,2,0.0,"Local transmission",0.0
+"2020-03-24","Mexico",370,119,4,2.0,"Local transmission",0.0
+"2020-03-24","Panama",345,100,6,3.0,"Local transmission",0.0
+"2020-03-24","Colombia",277,81,3,1.0,"Local transmission",0.0
+"2020-03-24","Argentina",266,41,4,0.0,"Local transmission",0.0
+"2020-03-24","Dominican Republic",245,173,3,1.0,"Local transmission",0.0
+"2020-03-24","Uruguay",162,27,0,0.0,"Imported cases only",0.0
+"2020-03-24","Costa Rica",158,41,2,0.0,"Local transmission",0.0
+"2020-03-24","Venezuela (Bolivarian Republic of)",70,0,0,0.0,"Local transmission",1.0
+"2020-03-24","Trinidad and Tobago",51,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Cuba",40,24,1,0.0,"Imported cases only",0.0
+"2020-03-24","Honduras",30,4,0,0.0,"Local transmission",0.0
+"2020-03-24","Bolivia (Plurinational State of)",27,3,0,0.0,"Local transmission",0.0
+"2020-03-24","Paraguay",22,0,1,0.0,"Local transmission",1.0
+"2020-03-24","Guatemala",20,2,1,0.0,"Local transmission",0.0
+"2020-03-24","Jamaica",19,0,1,0.0,"Local transmission",1.0
+"2020-03-24","Barbados",17,12,0,0.0,"Imported cases only",0.0
+"2020-03-24","Haiti",6,4,0,0.0,"Imported cases only",0.0
+"2020-03-24","Guyana",5,0,1,0.0,"Local transmission",5.0
+"2020-03-24","Bahamas",4,0,0,0.0,"Local transmission",3.0
+"2020-03-24","El Salvador",3,2,0,0.0,"Imported cases only",0.0
+"2020-03-24","Saint Lucia",3,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Nicaragua",2,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Suriname",2,0,0,0.0,"Imported cases only",3.0
+"2020-03-24","Antigua and Barbuda",1,0,0,0.0,"Imported cases only",10.0
+"2020-03-24","Belize",1,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Dominica",1,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Grenada",1,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Saint Vincent and the1000Imported cases only11 Grenadines",0,0,0,0.0,0,0.0
+"2020-03-24","Guadeloupe",62,6,0,0.0,"Imported cases only",0.0
+"2020-03-24","Martinique",53,21,0,0.0,"Imported cases only",0.0
+"2020-03-24","Puerto Rico",31,8,2,1.0,"Imported cases only",0.0
+"2020-03-24","French Guiana",20,2,0,0.0,"Local transmission",0.0
+"2020-03-24","United States Virgin Islands",17,11,0,0.0,"Imported cases only",0.0
+"2020-03-24","Aruba",9,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Saint Martin",8,3,0,0.0,"Under investigation",0.0
+"2020-03-24","Bermuda",6,4,0,0.0,"Imported cases only",0.0
+"2020-03-24","Cayman Islands",5,2,1,0.0,"Imported cases only",0.0
+"2020-03-24","Curaçao",4,1,1,0.0,"Imported cases only",0.0
+"2020-03-24","Saint Barthélemy",3,0,0,0.0,"Under investigation",8.0
+"2020-03-24","Sint Maarten",2,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","Montserrat",1,0,0,0.0,"Imported cases only",6.0
+"2020-03-24","Turks and Caicos
+Islands",1,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","South Africa",402,128,0,0.0,"Local transmission",0.0
+"2020-03-24","Algeria",231,30,17,0.0,"Local transmission",0.0
+"2020-03-24","Burkina Faso",99,24,3,0.0,"Local transmission",0.0
+"2020-03-24","Senegal",79,12,0,0.0,"Local transmission",0.0
+"2020-03-24","Cameroon",72,32,0,0.0,"Local transmission",0.0
+"2020-03-24","Democratic Republic of the Congo",36,6,2,0.0,"Local transmission",0.0
+"2020-03-24","Mauritius",36,24,0,0.0,"Imported cases only",0.0
+"2020-03-24","Rwanda",36,19,0,0.0,"Local transmission",0.0
+"2020-03-24","Ghana",27,3,2,2.0,"Local transmission",0.0
+"2020-03-24","Côte d’Ivoire",25,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Nigeria",22,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Togo",18,2,0,0.0,"Imported cases only",0.0
+"2020-03-24","Kenya",16,1,0,0.0,"Local transmission",0.0
+"2020-03-24","Madagascar",13,1,0,0.0,"Imported cases only",0.0
+"2020-03-24","United Republic of Tanzania",12,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Ethiopia",11,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Uganda",9,8,0,0.0,"Imported cases only",0.0
+"2020-03-24","Seychelles",7,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Equatorial Guinea",6,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Gabon",6,0,1,0.0,"Imported cases only",1.0
+"2020-03-24","Benin",5,3,0,0.0,"Imported cases only",0.0
+"2020-03-24","Central African Republic",4,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Congo",4,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Eswatini",4,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Guinea",4,2,0,0.0,"Imported cases only",0.0
+"2020-03-24","Cabo Verde",3,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Chad",3,2,0,0.0,"Imported cases only",0.0
+"2020-03-24","Liberia",3,0,0,0.0,"Local transmission",2.0
+"2020-03-24","Namibia",3,0,0,0.0,"Imported cases only",4.0
+"2020-03-24","Zambia",3,0,0,0.0,"Imported cases only",1.0
+"2020-03-24","Angola",2,0,0,0.0,"Imported cases only",2.0
+"2020-03-24","Mauritania",2,0,0,0.0,"Imported cases only",5.0
