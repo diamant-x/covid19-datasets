@@ -75,17 +75,36 @@ for file in rawFiles:
     empty_cols = [col for col in dfImported.columns if dfImported[col].isnull().all()]
     # Drop these columns from the dataframe
     dfImported.drop(empty_cols, axis=1, inplace=True)
-    
+
     dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
+
+    try:
+        dfImported.insert(2, "First", dfImported["Total confirmed cases"].str.split(" ", expand=True)[0], allow_duplicates=False)
+        dfImported.insert(3, "Last", dfImported["Total confirmed cases"].str.split(" ", expand=True)[1], allow_duplicates=False)
+  
+        dfImported.drop("Total confirmed cases", axis=1, inplace=True)
+
+        dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
+    except AttributeError:
+        pass
+  
     dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
     
     dfImported.fillna(0, inplace=True)
+
+    # Clean points for correct decimal comma.
+    for col in namesColumns:
+        if col == "Region": continue
+        try:
+            dfImported[col] = dfImported[col].str.replace(",",".").astype('float64')
+        except AttributeError:
+            #Column is not a string-type.
+            pass
 
     #% File specific
     if fileStructureId >= 3:
         dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
         dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
-        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].str.replace(",",".")
         dfImported.loc[dfImported["ICU cases"].round() != dfImported["ICU cases"], "ICU cases"] = dfImported["ICU cases"]*1000
         dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
     if fileStructureId >= 4: 
@@ -112,3 +131,5 @@ for file in rawFiles:
     dfImported.to_csv(path_or_buf=pathOutputFile+fileName, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")
+
+# %%
