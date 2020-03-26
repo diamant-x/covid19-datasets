@@ -38,8 +38,8 @@ for file in rawFiles:
             print("Skipping file due to no metadata defined.")
             continue
         else:
-            dfMetadata = dfMetadataAll[dfMetadataAll["CoreFileName"]<coreFileName]
-            dfMetadata = dfMetadata[dfMetadataAll["CoreFileName"]==dfMetadataAll["CoreFileName"].max()]
+            dfMetadata = dfMetadataAll[dfMetadataAll["CoreFileName"]<=coreFileName]
+            dfMetadata = dfMetadata[dfMetadata["CoreFileName"]==dfMetadata["CoreFileName"].max()]
             fileMetadata = dfMetadata.iloc[0]
     else:
         fileMetadata = dfMetadata.iloc[0]
