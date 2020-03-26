@@ -20,7 +20,7 @@ file = pathInputFile
 fileName = file.split(os.sep)[-1]
 print("Processing file: " + fileName)
 
-namesColumns = ["Year","Region","Hospital Name","Province","ID Type of Hospital","Description Type of Hospital","Type of beds", "Total Hospital beds standard", "Total Private Hospital beds", "Total Daycare Hospital beds", "Total Surgery Hospital beds", "Total Hospital beds"]
+namesColumns = ["Year","Country", "Region","Hospital Name","Province","ID Type of Hospital","Description Type of Hospital","Type of beds", "Total Hospital beds standard", "Total Private Hospital beds", "Total Daycare Hospital beds", "Total Surgery Hospital beds", "Total Hospital beds"]
 
 dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, encoding='utf-8', quoting=csv.QUOTE_NONNUMERIC)
 
@@ -33,7 +33,7 @@ dfImported = dfImported[dfImported["ID Type of Hospital"] != 9]
 dfImported["Hospital ownership"] = dfImported["ID Type of Hospital"].apply(lambda rowValue: 'Private' if rowValue in [2.3, 3.2, 3.3, 5.1, 8] else 'State owned')
 
 #%% Remove unnecessary columns
-namesColumnsOutput = ["Year","Region","Province","Hospital ownership", "Hospital Name", "Total Hospital beds standard", "Total Private Hospital beds", "Total Daycare Hospital beds", "Total Surgery Hospital beds", "Total Hospital beds"]
+namesColumnsOutput = ["Year","Country", "Region","Province","Hospital ownership", "Hospital Name", "Total Hospital beds standard", "Total Private Hospital beds", "Total Daycare Hospital beds", "Total Surgery Hospital beds", "Total Hospital beds"]
 dfImported = dfImported[namesColumnsOutput]
 
 #%% Adjust data types
