@@ -1,4 +1,4 @@
-"Date","Country","Region","ICU cases","Total Hospital cases","Total cured","Total deaths","Total confirmed cases","Total tests"
+"Date","Country","Region","Total ICU cases","Total Hospital cases","Total cured","Total deaths","Total confirmed cases","Total tests"
 "2020-02-24T18:00:00","Italy","Abruzzo",0,0,0,0,0,5
 "2020-02-24T18:00:00","Italy","Basilicata",0,0,0,0,0,0
 "2020-02-24T18:00:00","Italy","P.A. Bolzano",0,0,0,0,0,1

@@ -20,12 +20,12 @@ for file in inputFileList:
     # Date will be calculated sequentially based on the previous highest id's date.    
     if dfConsolidated.size == 0:
         # No file loaded yet.
-        namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total deaths", "Total cured"]
+        namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total ICU cases", "Total deaths", "Total cured"]
         dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
 
     else:
         try:
-            namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total deaths", "Total cured"]
+            namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total ICU cases", "Total deaths", "Total cured"]
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
         except ValueError:
             namesColumns = ["Date","Country","Region","Total confirmed cases","Total deaths"]
@@ -41,6 +41,7 @@ dfConsolidated.fillna(0, inplace=True)
 #%% Calculate new cases and new deaths.
 dfConsolidated["New confirmed cases"] = 0
 dfConsolidated["New Hospital cases"] = 0
+dfConsolidated["New ICU cases"] = 0
 dfConsolidated["New deaths"] = 0
 dfConsolidated["New cured"] = 0
 
@@ -59,11 +60,13 @@ for country in dfConsolidated["Country"].unique():
                 # First date
                 dfConsolidated.loc[indexDate,["New confirmed cases"]] = dfDate["Total confirmed cases"]
                 dfConsolidated.loc[indexDate,["New Hospital cases"]] = dfDate["Total Hospital cases"]
+                dfConsolidated.loc[indexDate,["New ICU cases"]] = dfDate["Total ICU cases"]
                 dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"]
                 dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"]
             else:
                 dfConsolidated.loc[indexDate,["New confirmed cases"]] = dfDate["Total confirmed cases"].values-dfMaxDate["Total confirmed cases"].values
                 dfConsolidated.loc[indexDate,["New Hospital cases"]] = dfDate["Total Hospital cases"].values-dfMaxDate["Total Hospital cases"].values
+                dfConsolidated.loc[indexDate,["New ICU cases"]] = dfDate["Total ICU cases"].values-dfMaxDate["Total ICU cases"].values
                 dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"].values-dfMaxDate["Total deaths"].values
                 dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"].values-dfMaxDate["Total cured"].values
 
@@ -72,6 +75,8 @@ dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"
 dfConsolidated["New confirmed cases"] = dfConsolidated["New confirmed cases"].astype('int64')
 dfConsolidated["Total Hospital cases"] = dfConsolidated["Total Hospital cases"].astype('int64')
 dfConsolidated["New Hospital cases"] = dfConsolidated["New Hospital cases"].astype('int64')
+dfConsolidated["Total ICU cases"] = dfConsolidated["Total ICU cases"].astype('int64')
+dfConsolidated["New ICU cases"] = dfConsolidated["New ICU cases"].astype('int64')
 dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
 dfConsolidated["New deaths"] = dfConsolidated["New deaths"].astype('int64')
 dfConsolidated["Total cured"] = dfConsolidated["Total cured"].astype('int64')

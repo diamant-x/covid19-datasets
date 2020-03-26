@@ -1,4 +1,4 @@
-"Date","Region","Total confirmed cases","Population Incidence Ratio","ICU cases","Total deaths"
+"Date","Region","Total confirmed cases","Population Incidence Ratio","Total ICU cases","Total deaths"
 "2020-03-04","Andalucía",13,0.15,1,0
 "2020-03-04","Aragón",0,0.0,0,0
 "2020-03-04","Asturias",2,0.2,1,0

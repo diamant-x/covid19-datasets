@@ -61,11 +61,11 @@ for file in rawFiles:
     fileStructureId = dfMetadataTemp["Structure"]
 
     if fileStructureId == 3:
-        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","ICU cases","Total deaths"]
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total ICU cases","Total deaths"]
     elif fileStructureId == 4:
-        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "ICU cases","Total deaths","New cases"]
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "Total ICU cases","Total deaths","New cases"]
     elif fileStructureId == 5:
-        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "ICU cases","Total deaths","Total cured","New cases"]
+        namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "Total ICU cases","Total deaths","Total cured","New cases"]
 
     dfImported = pd.read_csv(pathOutputFile+fileName, sep=",", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
 
@@ -105,7 +105,7 @@ for file in rawFiles:
     if fileStructureId >= 3:
         dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
         dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
-        dfImported.loc[dfImported["ICU cases"].round() != dfImported["ICU cases"], "ICU cases"] = dfImported["ICU cases"]*1000
+        dfImported.loc[dfImported["Total ICU cases"].round() != dfImported["Total ICU cases"], "Total ICU cases"] = dfImported["Total ICU cases"]*1000
         dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
     if fileStructureId >= 4: 
         dfImported.loc[dfImported["Total Hospital cases"].round() != dfImported["Total Hospital cases"], "Total Hospital cases"] = dfImported["Total Hospital cases"]*1000
@@ -119,7 +119,7 @@ for file in rawFiles:
         dfImported["Region"] = dfImported["Region"].astype(str)
         dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
         dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
-        dfImported["ICU cases"] = dfImported["ICU cases"].astype('int64')
+        dfImported["Total ICU cases"] = dfImported["Total ICU cases"].astype('int64')
         dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
     if fileStructureId >= 4:
         dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')

@@ -1,4 +1,4 @@
-"Date","Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases","ICU cases","Total deaths","New cases"
+"Date","Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases","Total ICU cases","Total deaths","New cases"
 "2020-03-21","Andalucía",1515,17.68,605,53,40,228
 "2020-03-21","Aragón",424,31.3,192,33,22,64
 "2020-03-21","Asturias",486,47.03,133,12,5,142
