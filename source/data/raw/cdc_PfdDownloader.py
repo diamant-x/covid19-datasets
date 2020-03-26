@@ -22,13 +22,15 @@ rootURL = "https://www.ecdc.europa.eu/sites/default/files/documents/"
 #Get official file name to store it.
 fileName = "COVID-19-geographic-disbtribution-worldwide-"
 fileName = fileName + pd.to_datetime('today').strftime("%Y-%m-%d") + ".xlsx"
-print("Downloading file "+fileName)
+if "Page Not Found" in requests.get(rootURL+fileName, verify = False).text:
+    pass
+else:
+    print("Downloading file "+fileName)
+    # https://stackoverflow.com/a/7244263
+    with open(pathOutputFiles+fileName, 'wb') as out_file:
+        out_file.write(requests.get(rootURL+fileName).content)
 
-# https://stackoverflow.com/a/7244263
-with open(pathOutputFiles+fileName, 'wb') as out_file:
-    out_file.write(requests.get(rootURL+fileName).content)
-
-#%% Download yesterday's file in case they published it late.
+#%% Download yesterday's file in case they published it late. They delet old files so we can't automate to get all files.
 #Get official file name to store it.
 fileName = "COVID-19-geographic-disbtribution-worldwide-"
 fileName = fileName + (pd.to_datetime('today') - pd.Timedelta(days=1)).strftime("%Y-%m-%d") + ".xlsx"
