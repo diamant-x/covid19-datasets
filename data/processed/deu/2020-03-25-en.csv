@@ -1,16 +1,17 @@
-"Baden-Württemberg" 6,069 55 37
-"Bavaria" 6,558 50 37
-"Berlin" 1,428 38 2
-"Brandenburg" 429 17 1
-"Bremen" 200 29
-"Hamburg" 1,262 69
-"Hesse" 1,754 28 4
-"Mecklenburg-Western Pomerania" 218 14
-"Lower Saxony" 2,140 27 7
-"North Rhine-Westphalia" 7,197 40 43
-"Rhineland-Palatinate" 1,591 39 5
-"Saarland" 403 41 2
-"Saxony" 959 24 6
-"Saxony-Anhalt" 375 17 1
-"Schleswig-Holstein" 577 20 3
-"Thuringia" 394 18 1
+"Date","Region","Total confirmed cases","Population Incidence Ratio","Total deaths"
+"2020-03-25","Baden-Württemberg",6069,55.0,37
+"2020-03-25","Bavaria",6558,50.0,37
+"2020-03-25","Berlin",1428,38.0,2
+"2020-03-25","Brandenburg",429,17.0,1
+"2020-03-25","Bremen",200,29.0,0
+"2020-03-25","Hamburg",1262,69.0,0
+"2020-03-25","Hesse",1754,28.0,4
+"2020-03-25","Mecklenburg-Western Pomerania",218,14.0,0
+"2020-03-25","Lower Saxony",2140,27.0,7
+"2020-03-25","North Rhine-Westphalia",7197,40.0,43
+"2020-03-25","Rhineland-Palatinate",1591,39.0,5
+"2020-03-25","Saarland",403,41.0,2
+"2020-03-25","Saxony",959,24.0,6
+"2020-03-25","Saxony-Anhalt",375,17.0,1
+"2020-03-25","Schleswig-Holstein",577,20.0,3
+"2020-03-25","Thuringia",394,18.0,1

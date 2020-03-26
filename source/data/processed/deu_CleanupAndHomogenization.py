@@ -1,5 +1,5 @@
 #%% [markdown]
-# # CSV Consolidation ESP
+# # CSV Consolidation DEU
 # Creation date: 2020-03-20
 
 #%% Imports
@@ -81,6 +81,8 @@ for file in rawFiles:
 
     if fileStructureId == 5:
         namesColumns = ["Region", "Total confirmed cases", "New cases", "Population Incidence Ratio", "Total deaths"]
+    elif fileStructureId == 6:
+        namesColumns = ["Region", "Total confirmed cases", "Population Incidence Ratio", "Total deaths"]
 
     try:
         dfImported = pd.read_csv(pathOutputFile+fileName, skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
@@ -101,7 +103,7 @@ for file in rawFiles:
     dfImported.drop(empty_cols, axis=1, inplace=True)
 
     dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
-    
+
     try:
         dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].str.replace(",","").astype('float64')
         dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
@@ -123,15 +125,20 @@ for file in rawFiles:
     dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('str').str.replace(",",".").astype('float64')
     dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
 
-    dfImported["New cases"] = dfImported["New cases"].astype('str').str.replace(",",".").astype('float64')
-    dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
-    
+    dfImported.insert(0, "Date", date.date(), allow_duplicates=False)
 
-    dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
+    if fileStructureId == 5:
+        dfImported["New cases"] = dfImported["New cases"].astype('str').str.replace(",",".").astype('float64')
+        dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
+        dfImported["New cases"] = dfImported["New cases"].astype('int64')
+
+    elif fileStructureId == 6:
+        pass # No specific new fields here
+
+    
     dfImported["Date"] = dfImported["Date"].astype(str)
     dfImported["Region"] = dfImported["Region"].astype(str)
     dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
-    dfImported["New cases"] = dfImported["New cases"].astype('int64')
     dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
     dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
 
@@ -139,3 +146,5 @@ for file in rawFiles:
     dfImported.to_csv(path_or_buf=pathOutputFile+fileName, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 print("Done.")
+
+# %%
