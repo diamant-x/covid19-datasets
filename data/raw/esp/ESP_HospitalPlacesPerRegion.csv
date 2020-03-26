@@ -1,5 +1,5 @@
 # Downloaded from https://pestadistico.inteligenciadegestion.mscbs.es/publicoSNS/comun/Cubo.aspx?IdNodo=14036 and https://www.mscbs.gob.es/ciudadanos/hospitales.do?tipo=hospcamas
-"Year";Country;Region;Hospital ownership;Total count Hospital;Total count Hospital beds;Total count Hospital beds working;Total count Hospital ICU beds
+"Year";"Country";"Region";"Hospital ownership";"Total count Hospital";"Total count Hospital beds";"Total count Hospital beds working";"Total count Hospital ICU beds"
 2017;"Spain";"Andalucía";"State owned";48;15308;14251;13403
 2017;"Spain";"Andalucía";"Private";59;5414;4222;3413
 2017;"Spain";"Aragón";"State owned";21;4582;4233;3629

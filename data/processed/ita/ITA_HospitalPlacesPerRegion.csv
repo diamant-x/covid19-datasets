@@ -1,0 +1,886 @@
+"Year","Region","Province","Hospital ownership","Hospital Name","Total Hospital beds standard","Total Private Hospital beds","Total Daycare Hospital beds","Total Surgery Hospital beds","Total Hospital beds"
+2018,"Piemonte","Pinerolo","State owned","Ospedali Riuniti Pinerolo",179,0,6,13,198
+2018,"Piemonte","Rivoli","State owned","Ospedali Riuniti Rivoli",275,0,13,18,306
+2018,"Piemonte","Chivasso","State owned","Ospedale Civico Chivasso",174,0,15,13,202
+2018,"Piemonte","Cirie'","State owned","Presidi Osped. Riuniti A.S.L. 6 Cirie'",260,0,27,15,302
+2018,"Piemonte","Ivrea","State owned","Ospedali Riuniti Del Canavese",296,0,31,18,345
+2018,"Piemonte","Ivrea","Private","Clinica Eporediese",40,0,0,0,40
+2018,"Piemonte","Chieri","State owned","Ospedali Riuniti A.S.L. To 5",319,0,24,25,368
+2018,"Piemonte","Pecetto Torinese","Private","Casa Di Cura E Riposo S. Luca S.P.A.",64,0,0,19,83
+2018,"Piemonte","Carmagnola","Private","Policlinico San Luca S.R.L.",0,0,0,2,2
+2018,"Piemonte","Vercelli","State owned","Ospedale Unico Del Vercellese",296,0,15,22,333
+2018,"Piemonte","Vercelli","Private","Policlinico Di Monza Spa",90,0,0,0,90
+2018,"Piemonte","Ponderano","State owned","Ospedale Degli Infermi",354,0,37,12,403
+2018,"Piemonte","Biella","Private","Policlinico Di Monza S.P.A. Presidio Cli",30,0,0,0,30
+2018,"Piemonte","Borgomanero","State owned","Istituto S.S. Trinit� - Borgomanero",196,0,6,17,219
+2018,"Piemonte","Novara","Private","Policlinico Di Monza Spa",64,0,0,0,64
+2018,"Piemonte","Fara Novarese","Private","I Cedri Hospital",22,0,0,0,22
+2018,"Piemonte","Nebbiuno","Private","Casa Di Cura Villa Cristina",20,0,0,0,20
+2018,"Piemonte","Omegna","State owned","Ospedale Unico Plurisede",273,0,28,32,333
+2018,"Piemonte","Mondovi'","State owned","Presidio Unificato Mondovi-Ceva Cn1",191,0,9,13,213
+2018,"Piemonte","Savigliano","State owned","Presidio Unificato Savigliano-Saluzzo Cn",317,0,8,26,351
+2018,"Piemonte","Alba","State owned","Osp. S.Lazzaro-Alba E S.Sprito Bra",258,0,42,32,332
+2018,"Piemonte","Bra","Private","Casa Di Cura San Michele",13,0,0,0,13
+2018,"Piemonte","Bra","Private","Casa Di Cura Citta' Di Bra",99,0,0,14,113
+2018,"Piemonte","Asti","State owned","Ospedali Riuniti Asl At",398,0,27,17,442
+2018,"Piemonte","Alessandria","State owned","Ospedali Riuniti Asl Al",590,0,50,86,726
+2018,"Piemonte","Acqui Terme","Private","Casa Di Cura Villa Igea",23,0,0,12,35
+2018,"Piemonte","Alessandria","Private","Policlinico Di Monza",90,0,0,0,90
+2018,"Piemonte","Torino","State owned","Ospedale Maria Vittoria",258,0,14,24,296
+2018,"Piemonte","Torino","State owned","Ospedale Martini",214,0,17,13,244
+2018,"Piemonte","Torino","State owned","Ospedale Oftalmico",28,0,2,25,55
+2018,"Piemonte","Torino","State owned","Torino Nord Emergenza San Giovanni Bosco",333,0,37,1,371
+2018,"Piemonte","Torino","State owned","Ospedale Amedeo Di Savoia",66,0,24,0,90
+2018,"Piemonte","Torino","Private","Villa Maria Pia Hospital",101,0,2,12,115
+2018,"Piemonte","Torino","Private","Casa Di Cura Koelliker Ospedalino",84,0,0,21,105
+2018,"Piemonte","Torino","Private","Promea S.P.A.",0,0,0,9,9
+2018,"Piemonte","Torino","Private","Casa Di Cura Cellini",79,0,0,17,96
+2018,"Piemonte","Torino","Private","Presidio Sanitario Gradenigo",124,0,21,25,170
+2018,"Piemonte","Torino","Private","Presidio Sanitario Ospedale Cottolengo",123,0,8,28,159
+2018,"Piemonte","Orbassano","State owned","Azienda Ospedaliero Universitaria S.Luig",318,0,54,13,385
+2018,"Piemonte","Novara","State owned","Azienda Osped. Novara E Galliate",532,0,69,46,647
+2018,"Piemonte","Cuneo","State owned","Az. Ospedal. S. Croce E Carle",634,0,42,23,699
+2018,"Piemonte","Alessandria","State owned","Az. Ss.Antonio E Biagio E C.Arrigo",503,0,48,41,592
+2018,"Piemonte","Torino","State owned","Ospedale Mauriziano Umberto I - Torino",366,0,28,14,408
+2018,"Piemonte","Torino","State owned","Aou Citta' Della Salute E Della Scienza",1724,0,247,142,2113
+2018,"Piemonte","Oggebbio","Private","Istituto Auxologico Italiano",68,0,2,0,70
+2018,"Piemonte","Candiolo","Private","Fondazione Del Piemonte Per L'Oncologia",66,0,30,4,100
+2018,"Valle D`Aosta","Aosta","State owned","Ospedale Regionale Umberto Parini",344,0,24,15,383
+2018,"Valle D`Aosta","Saint-Pierre","Private","Isav Spa",10,0,0,2,12
+2018,"Lombardia","Milano","Private","Istituto Clinico Citta' Studi - Milano",215,0,1,13,229
+2018,"Lombardia","Milano","Private","Casa Di Cura Igea - Milano",74,0,2,13,89
+2018,"Lombardia","Milano","Private","Casa Di Cura Palazzolo-Fond.Don Gnocchi",20,0,0,0,20
+2018,"Lombardia","Milano","Private","Casa Di Cura S. Giovanni - Milano",41,0,0,8,49
+2018,"Lombardia","Milano","Private","Ist.Clinico S.Ambrogio Spa-Milano",105,0,0,12,117
+2018,"Lombardia","Paderno Dugnano","Private","Clinica San Carlo - Paderno Dugnano",116,0,5,11,132
+2018,"Lombardia","Milano","Private","Ist.Clinico S.Siro Spa-Milano",68,0,0,5,73
+2018,"Lombardia","Milano","Private","Casa Di Cura S. Pio X - Milano",121,0,3,7,131
+2018,"Lombardia","Milano","Private","Istituto Stomatologico Italiano - Milano",27,0,0,12,39
+2018,"Lombardia","Cesano Boscone","Private","Casa Di Cura Ambrosiana Spa-Cesano B.",57,0,0,3,60
+2018,"Lombardia","Milano","State owned","Ospedale S. Giuseppe - Milano",246,0,7,20,273
+2018,"Lombardia","Castellanza","Private","Casa Di Cura Santa Maria - Castellanza",163,0,4,21,188
+2018,"Lombardia","Castellanza","Private","Casa Di Cura Mater Domini - Castellanza",109,0,2,4,115
+2018,"Lombardia","Erba","State owned","Osp.Sacra Famiglia - F.B.F. - Erba",135,8,5,11,159
+2018,"Lombardia","Como","State owned","Ospedale  Valduce",187,0,6,9,202
+2018,"Lombardia","Como","Private","Ist.Clinico Villa Aprica Spa-Como",88,0,3,16,107
+2018,"Lombardia","Gravedona Ed Uniti","State owned","Osp. Moriggia Pelascini - Gravedona",148,0,1,10,159
+2018,"Lombardia","Alta Valle Intelvi","Private","C.O.F. Lanzo Hospital - Alta Valle Intel",52,0,0,1,53
+2018,"Lombardia","Lecco","Private","Casa Di Cura Beato L.Talamoni-Lecco",58,0,0,12,70
+2018,"Lombardia","Lecco","Private","Casa Di Cura G.B. Mangioni - Lecco",76,0,0,2,78
+2018,"Lombardia","Monza","Private","Casa Di Cura Policlinico - Monza",139,0,3,9,151
+2018,"Lombardia","Monza","Private","Istituti Clinici Zucchi Spa-Monza",72,0,0,20,92
+2018,"Lombardia","Limbiate","Private","Casa Di Cura Villa Bianca - Limbiate",0,0,1,0,1
+2018,"Lombardia","Monza","Private","Fond. Mb Per Il Bambino E La Sua Mamma -",111,0,2,4,117
+2018,"Lombardia","Bergamo","Private","Cliniche Gavazzeni Spa - Bergamo",156,0,1,8,165
+2018,"Lombardia","Bergamo","Private","Casa Di Cura Beato Palazzolo - Bergamo",60,0,1,7,68
+2018,"Lombardia","Bergamo","Private","Clinica  Castelli - Bergamo",78,0,0,7,85
+2018,"Lombardia","Bergamo","Private","Casa Di Cura S. Francesco - Bergamo",92,0,0,3,95
+2018,"Lombardia","Osio Sotto","Private","Policlinico San Marco - Osio Sotto",187,0,8,21,216
+2018,"Lombardia","Ponte San Pietro","Private","Policlinico San Pietro  - Ponte S. Pietr",209,0,7,27,243
+2018,"Lombardia","San Pellegrino Terme","Private","Casa Di Cura Quarenghi-S.Pellegrino T.",10,0,0,0,10
+2018,"Lombardia","Trescore Balneario","Private","Ospedale S.Isidoro - Trescore B.",15,0,0,0,15
+2018,"Lombardia","Seriate","Private","Nephrocare S.P.A. - Seriate",10,0,0,0,10
+2018,"Lombardia","Sarnico","Private","Habilita Ist.Clinico-Osp.Le Di Sarnico",24,0,0,0,24
+2018,"Lombardia","Brescia","Private","Casa Di Cura S. Camillo - Brescia",77,0,1,8,86
+2018,"Lombardia","Brescia","Private","Istituto Clinico  S. Anna - Brescia",211,0,12,15,238
+2018,"Lombardia","Gardone Riviera","Private","Casa Di Cura Villa Gemma-Gardone Riv",10,0,0,0,10
+2018,"Lombardia","Brescia","Private","Ist.Clin. Citta' Di Brescia - Brescia",223,0,5,10,238
+2018,"Lombardia","Ome","Private","Istituto Clinico S. Rocco S.P.A. - Ome",95,0,3,11,109
+2018,"Lombardia","Brescia","Private","Casa Di Cura  Domus Salutis - Brescia",0,0,1,0,1
+2018,"Lombardia","Brescia","Private","Fondazione Poliambulanza - Brescia",510,0,6,17,533
+2018,"Lombardia","Palazzolo Sull'Oglio","Private","Centro Medico Richiedei-Palazzolo S/O",15,0,0,0,15
+2018,"Lombardia","Cremona","Private","Casa Di Cura Ancelle Della Carita'-Cr",0,0,1,0,1
+2018,"Lombardia","Cremona","Private","Casa Di Cura S. Camillo - Cremona",56,0,4,13,73
+2018,"Lombardia","Cremona","Private","Casa Di Cura Figlie Di S.Camillo-Cr",85,0,1,9,95
+2018,"Lombardia","Mantova","Private","Casa Di Cura S. Clemente - Mantova",62,0,0,3,65
+2018,"Lombardia","Volta Mantovana","Private","Ospedale Civile Di Volta Mantovana",0,0,0,5,5
+2018,"Lombardia","Suzzara","Private","Ospedale Di Suzzara S.P.A.",95,0,4,4,103
+2018,"Lombardia","Castiglione Delle Stiviere","Private","Osp. San Pellegrino - Castiglione D/S",87,0,5,3,95
+2018,"Lombardia","Vigevano","Private","Istituto Clinico Beato Matteo",119,0,6,7,132
+2018,"Lombardia","Pieve Del Cairo","Private","Casa Di Cura Cittadella Sociale",10,0,0,6,16
+2018,"Lombardia","Pavia","Private","Ist.Di Cura Citta'Di Pavia",78,0,1,8,87
+2018,"Lombardia","Milano","State owned","Ospedale Ca' Granda-Niguarda - Milano",938,0,25,43,1006
+2018,"Lombardia","Milano","State owned","Ospedale S. Paolo - Milano",408,0,30,26,464
+2018,"Lombardia","Milano","State owned","Ospedale S. Carlo Borromeo - Milano",429,0,8,10,447
+2018,"Lombardia","Milano","State owned","Presidio Osped. V. Buzzi - Milano",149,8,4,15,176
+2018,"Lombardia","Milano","State owned","Ospedale M. Melloni - Milano",83,0,5,5,93
+2018,"Lombardia","Milano","State owned","Ospedale Fatebenefratelli E Oftalmico -",280,0,9,6,295
+2018,"Lombardia","Milano","State owned","Ospedale L. Sacco - Milano",431,0,20,11,462
+2018,"Lombardia","Milano","State owned","Istituto Ortopedico Gaetano Pini - Milan",227,11,6,8,252
+2018,"Lombardia","Milano","State owned","P.O. Centro Traumatologico Ortopedico -",57,0,5,9,71
+2018,"Lombardia","Magenta","State owned","Ospedale Di Magenta - Abbiategrasso",447,0,12,17,476
+2018,"Lombardia","Legnano","State owned","Ospedale Di Legnano E Cuggiono-Legnano",506,0,5,23,534
+2018,"Lombardia","Garbagnate Milanese","State owned","Ospedale G.Salvini-Garbagnate Mil.Se",329,0,6,15,350
+2018,"Lombardia","Rho","State owned","Ospedale Di Circolo - Rho",228,0,6,13,247
+2018,"Lombardia","Rho","State owned","Ospedale G.Casati-Passirana Rho",40,0,1,0,41
+2018,"Lombardia","Sesto San Giovanni","State owned","P.O.  Citta' Di Sesto S. Giovanni",143,0,6,2,151
+2018,"Lombardia","Cinisello Balsamo","State owned","Ospedale Bassini - Cinisello Balsamo",164,0,5,14,183
+2018,"Lombardia","Melzo","State owned","Ospedale S. Maria Delle Stelle Melzo",138,0,2,8,148
+2018,"Lombardia","Vizzolo Predabissi","State owned","Ospedale Di  Vizzolo Predabissi",277,0,5,9,291
+2018,"Lombardia","Cernusco Sul Naviglio","State owned","Ospedale Uboldo - Cernusco S/Naviglio",157,0,7,20,184
+2018,"Lombardia","Lodi","State owned","Ospedale Maggiore Di Lodi",287,0,7,16,310
+2018,"Lombardia","Codogno","State owned","Ospedale Civico - Codogno",107,0,2,3,112
+2018,"Lombardia","Casalpusterlengo","State owned","Ospedale Rossi - Casalpusterlengo",17,0,2,0,19
+2018,"Lombardia","Sant'Angelo Lodigiano","State owned","Ospedale Delmati - Sant'Angelo Lodigiano",32,0,2,0,34
+2018,"Lombardia","Tradate","State owned","Ospedale Galmarini - Tradate",132,0,3,10,145
+2018,"Lombardia","Cittiglio","State owned","Presidio Ospedaliero Del Verbano",138,0,7,9,154
+2018,"Lombardia","Varese","State owned","Presidio Ospedaliero Di Varese",705,0,23,37,765
+2018,"Lombardia","Busto Arsizio","State owned","Ospedale Di Circolo - Busto Arsizio",389,3,5,11,408
+2018,"Lombardia","Gallarate","State owned","Osp. S. Antonio Abate - Gallarate",302,4,25,0,331
+2018,"Lombardia","Saronno","State owned","Osp. Generale Provinciale - Saronno",251,1,1,15,268
+2018,"Lombardia","Somma Lombardo","State owned","Ospedale A.Bellini - Somma Lombardo",33,0,4,0,37
+2018,"Lombardia","Angera","State owned","Ospedale Carlo Ondoli - Angera",81,0,10,0,91
+2018,"Lombardia","Cantu'","State owned","Ospedale S. Antonio Abate - Cantu'",103,0,3,19,125
+2018,"Lombardia","Mariano Comense","State owned","Ospedale F. Villa - Mariano Comense",0,0,3,0,3
+2018,"Lombardia","San Fermo Della Battaglia","State owned","Ospedale S. Anna - Como",450,0,20,11,481
+2018,"Lombardia","Menaggio","State owned","Ospedale Erba-  Renaldi - Menaggio",55,0,2,3,60
+2018,"Lombardia","Sondrio","State owned","Ospedale Sondrio",262,0,5,11,278
+2018,"Lombardia","Chiavenna","State owned","Ospedale Di Chiavenna",49,0,1,4,54
+2018,"Lombardia","Morbegno","State owned","Ospedale  Morbegno",0,0,1,0,1
+2018,"Lombardia","Sondalo","State owned","Ospedale Morelli - Sondalo",189,0,4,7,200
+2018,"Lombardia","Esine","State owned","Ospedale Valcamonica - Esine",257,0,4,12,273
+2018,"Lombardia","Merate","State owned","Ospedale Di Circolo S.L.Mandic-Merate",211,5,11,17,244
+2018,"Lombardia","Lecco","State owned","Ospedale Di Circolo A. Manzoni - Lecco",475,0,10,18,503
+2018,"Lombardia","Desio","State owned","Presidio Ospedaliero Di Desio",317,0,13,13,343
+2018,"Lombardia","Monza","State owned","Ospedale S.Gerardo - Monza",601,0,18,36,655
+2018,"Lombardia","Carate Brianza","State owned","Presidio Ospedaliero Di Carate",151,0,5,9,165
+2018,"Lombardia","Vimercate","State owned","Presidio Ospedaliero Di Vimercate",423,0,23,23,469
+2018,"Lombardia","San Giovanni Bianco","State owned","Ospedale Civile - S.Giovanni Bianco",93,0,2,2,97
+2018,"Lombardia","Bergamo","State owned","Ospedale Papa Giovanni Xxiii - Bg",902,0,40,31,973
+2018,"Lombardia","Treviglio","State owned","Ospedale Di Treviglio E Caravaggio",287,0,9,17,313
+2018,"Lombardia","Romano Di Lombardia","State owned","Osp.Le Ss.Trinita'-Romano Di Lombardia",87,0,6,4,97
+2018,"Lombardia","Alzano Lombardo","State owned","Ospedale Pesenti Fenaroli - Alzano L.",166,0,4,7,177
+2018,"Lombardia","Lovere","State owned","Osp.Le Ss.Capitanio E Gerosa - Lovere",58,0,2,4,64
+2018,"Lombardia","Seriate","State owned","Ospedale Bolognini - Seriate",212,0,5,13,230
+2018,"Lombardia","Piario","State owned","Ospedale M. O. Antonio Locatelli-Piario",88,0,2,7,97
+2018,"Lombardia","Montichiari","State owned","Presidio Ospedaliero Di Montichiari",146,0,6,5,157
+2018,"Lombardia","Gardone Val Trompia","State owned","Presidio Ospedaliero Gardone V.T.",112,0,2,3,117
+2018,"Lombardia","Brescia","State owned","Ospedale Dei Bambini - Brescia",145,0,8,6,159
+2018,"Lombardia","Brescia","State owned","Pres.Ospedal.Spedali Civili Brescia",1115,14,20,34,1183
+2018,"Lombardia","Chiari","State owned","Presidio Ospedaliero Di Chiari",155,0,5,6,166
+2018,"Lombardia","Iseo","State owned","Presidio Ospedaliero Di Iseo",87,0,5,2,94
+2018,"Lombardia","Desenzano Del Garda","State owned","Ospedale Di Desenzano",201,0,4,12,217
+2018,"Lombardia","Gavardo","State owned","Ospedale Civile La Memoria Di Gavardo",126,0,3,3,132
+2018,"Lombardia","Leno","State owned","Ospedale Di Leno",16,0,0,0,16
+2018,"Lombardia","Salo'","State owned","Presidio Ospedaliero Di Salo'",15,0,0,0,15
+2018,"Lombardia","Manerbio","State owned","Ospedale Di Manerbio",210,0,3,12,225
+2018,"Lombardia","Casalmaggiore","State owned","Ospedale Oglio Po",139,19,2,6,166
+2018,"Lombardia","Cremona","State owned","Ospedale Di Cremona",439,27,15,30,511
+2018,"Lombardia","Asola","State owned","Presidio Ospedaliero - Asola",66,0,1,11,78
+2018,"Lombardia","Borgo Mantovano","State owned","Osp.Civile Destra Secchia-Pieve Coriano",115,0,3,7,125
+2018,"Lombardia","Mantova","State owned","Ospedale C. Poma - Mantova",442,0,9,28,479
+2018,"Lombardia","Crema","State owned","Ospedale Maggiore - Crema",329,0,9,13,351
+2018,"Lombardia","Casorate Primo","State owned","Ospedale Carlo Mira-Casorate Primo",42,0,1,0,43
+2018,"Lombardia","Mede","State owned","Ospedale S.Martino - Mede",55,0,2,1,58
+2018,"Lombardia","Varzi","State owned","Ospedale Ss.Annunziata - Varzi",36,0,0,1,37
+2018,"Lombardia","Vigevano","State owned","Ospedale Civile - Vigevano",225,0,2,9,236
+2018,"Lombardia","Voghera","State owned","Ospedale Civile - Voghera",248,0,6,5,259
+2018,"Lombardia","Mortara","State owned","Ospedale Asilo Vittoria - Mortara",84,0,1,2,87
+2018,"Lombardia","Stradella","State owned","Nuovo Ospedale Di Broni E Stradella",94,0,1,4,99
+2018,"Lombardia","Casatenovo","State owned","I.N.R.C.A.- Presidio Di Casatenovo",30,0,0,0,30
+2018,"Lombardia","Milano","Private","Fond.Irccs ""Istit.Naz.Le Tumori""Milano",277,25,27,14,343
+2018,"Lombardia","Milano","Private","Fond.Irccs Ist.Naz.Neurologico C.Besta-M",171,8,4,3,186
+2018,"Lombardia","Pavia","Private","Policlinico S. Matteo - Pavia",738,16,46,5,805
+2018,"Lombardia","Milano","Private","Fondaz.Irccs Ca' Granda - Ospedale Maggi",820,56,41,49,966
+2018,"Lombardia","Tradate","Private","Irccs Centro Medico Tradate",15,0,0,0,15
+2018,"Lombardia","Lumezzane","Private","Irccs Centro Medico Di Lumezzane",0,15,0,0,15
+2018,"Lombardia","Milano","Private","Centro Cardiologico ""Fond. Monzino"" - Mi",185,24,2,0,211
+2018,"Lombardia","Milano","Private","Irccs    S. Raffaele - Milano",806,15,18,22,861
+2018,"Lombardia","Milano","Private","Ist.Auxologico Italiano - Milano",122,19,6,8,155
+2018,"Lombardia","Pavia","Private","Irccs Centro Medico Di Pavia",74,0,0,6,80
+2018,"Lombardia","Pavia","Private","Fond.Ist.Neurol.C.Mondino-Pavia",88,0,4,0,92
+2018,"Lombardia","Milano","Private","Istituto Europeo Di Oncologia-Milano",188,44,24,30,286
+2018,"Lombardia","Rozzano","Private","Ist. Clin. Humanitas - Rozzano",405,160,5,25,595
+2018,"Lombardia","Pavia","Private","Irccs Istituto Scientifico Di Pavia",0,0,2,0,2
+2018,"Lombardia","Milano","Private","Istituto Ortopedico Galeazzi Spa - Milan",214,14,1,12,241
+2018,"Lombardia","San Donato Milanese","Private","I.R.C.C.S. Policlinico San Donato",368,3,2,0,373
+2018,"Lombardia","Sesto San Giovanni","Private","Irccs Multimedica - Milano",135,8,3,11,157
+2018,"Lombardia","Milano","Private","San Raffaele Turro",73,8,0,0,81
+2018,"Prov. Auton. Bolzano","Bolzano","State owned","Ospedale Centrale Di Bolzano",627,19,53,25,724
+2018,"Prov. Auton. Bolzano","Merano","State owned","Ospedale Aziendale Di Merano",311,0,9,15,335
+2018,"Prov. Auton. Bolzano","Bressanone","State owned","Ospedale Aziendale Di Bressanone",183,0,8,18,209
+2018,"Prov. Auton. Bolzano","Brunico","State owned","Ospedale Aziendale Di Brunico",176,0,9,17,202
+2018,"Prov. Auton. Bolzano","Vipiteno","State owned","Ospedale Di Base Di Vipiteno",43,0,9,6,58
+2018,"Prov. Auton. Bolzano","San Candido","State owned","Ospedale Di Base Di San Candido",38,0,5,5,48
+2018,"Prov. Auton. Bolzano","Silandro","State owned","Ospedale Di Base Di Silandro",72,0,1,3,76
+2018,"Prov. Auton. Bolzano","Sarentino","Private","Fondazione Sarentino",7,0,0,0,7
+2018,"Prov. Auton. Bolzano","Merano","Private","Casa Di Cura Villa Sant'Anna",15,0,0,0,15
+2018,"Prov. Auton. Trento","Trento","State owned","Ospedale Di Trento",577,0,36,45,658
+2018,"Prov. Auton. Trento","Borgo Valsugana","State owned","Presidio Ospedaliero Di Borgo Valsugana",68,0,3,5,76
+2018,"Prov. Auton. Trento","Cles","State owned","Presidio Ospedaliero Di Cles",73,0,10,6,89
+2018,"Prov. Auton. Trento","Rovereto","State owned","Ospedale Di Rovereto",257,0,10,11,278
+2018,"Prov. Auton. Trento","Tione Di Trento","State owned","Presidio Ospedaliero Di Tione",53,0,5,3,61
+2018,"Prov. Auton. Trento","Arco","State owned","Presidio Ospedaliero Di Arco",80,0,5,12,97
+2018,"Prov. Auton. Trento","Cavalese","State owned","Presidio Ospedaliero Di Cavalese",61,0,4,5,70
+2018,"Prov. Auton. Trento","Trento","State owned","Ospedale San Camillo",67,0,5,15,87
+2018,"Prov. Auton. Trento","Rovereto","Private","Casa Di Cura Solatrix",75,0,0,0,75
+2018,"Prov. Auton. Trento","Trento","Private","Casa Di Cura Villa Bianca",45,0,8,16,69
+2018,"Veneto","Cortina D'Ampezzo","State owned","Istituto Codivilla Putti",40,0,0,0,40
+2018,"Veneto","Belluno","State owned","Ospedali Ulss 1 Dolomiti",581,18,20,29,648
+2018,"Veneto","Motta Di Livenza","State owned","Ospedale Di Motta Di Livenza",14,0,2,0,16
+2018,"Veneto","Treviso","State owned","Ospedale Classificato San Camillo",71,0,4,14,89
+2018,"Veneto","Preganziol","Private","Casa Di Cura Park Villa Napoleon",85,0,0,0,85
+2018,"Veneto","Monastier Di Treviso","Private","Casa Di Cura Giovanni Xxiii",101,0,0,18,119
+2018,"Veneto","Treviso","State owned","Ospedali Di Treviso",1942,29,56,127,2154
+2018,"Veneto","Venezia","State owned","Ospedale Classificato Villa Salus",96,7,0,27,130
+2018,"Veneto","Venezia","Private","Casa Di Cura Policlinico San Marco",67,0,0,6,73
+2018,"Veneto","Venezia","State owned","Ospedali Azienda Ulss N. 3 Serenissima",1483,0,24,76,1583
+2018,"Veneto","San Dona' Di Piave","Private","Casa Di Cura Sileno E Anna Rizzola",95,0,0,2,97
+2018,"Veneto","San Dona' Di Piave","State owned","Ospedali Di San Dona'",416,0,6,26,448
+2018,"Veneto","Occhiobello","Private","Casa Di Cura Santa Maria Maddalena",47,0,0,13,60
+2018,"Veneto","Rovigo","Private","Casa Di Cura Citt� Di Rovigo",5,0,0,6,11
+2018,"Veneto","Porto Viro","Private","Casa Di Cura Madonna Della Salute",87,0,0,6,93
+2018,"Veneto","Rovigo","State owned","Ospedali Di Rovigo",541,1,16,42,600
+2018,"Veneto","Padova","Private","Casa Di Cura Villa Maria",15,0,0,0,15
+2018,"Veneto","Padova","Private","Casa Di Cura 'Trieste'",9,0,0,4,13
+2018,"Veneto","Abano Terme","Private","Casa Di Cura Abano Terme Polispec. E Ter",127,13,3,13,156
+2018,"Veneto","Teolo","Private","Casa Di Cura Parco Dei Tigli",143,0,0,0,143
+2018,"Veneto","Padova","State owned","Ospedali Euganea",1242,27,41,92,1402
+2018,"Veneto","Bassano Del Grappa","State owned","Ospedali Di Bassano",788,0,10,41,839
+2018,"Veneto","Vicenza","Private","Casa Di Cura Eretenia",65,0,0,10,75
+2018,"Veneto","Vicenza","Private","Casa Di Cura Berica",58,0,0,10,68
+2018,"Veneto","Arcugnano","Private","Casa Di Cura Villa Margherita",60,0,0,0,60
+2018,"Veneto","Vicenza","State owned","Ospedali Di Vicenza",1127,0,19,44,1190
+2018,"Veneto","Negrar Di Valpolicella","State owned","Ospedale Sacro Cuore Don Calabria",353,0,13,54,420
+2018,"Veneto","Verona","State owned","Ospedale Classificato Villa S. Giuliana",116,0,0,0,116
+2018,"Veneto","Peschiera Del Garda","Private","Casa Di Cura Pederzoli",217,0,1,15,233
+2018,"Veneto","Verona","Private","Clinica San Francesco Spa - Casa Di Cura",48,0,12,0,60
+2018,"Veneto","Verona","Private","Casa Di Cura Villa Santa Chiara",107,0,0,0,107
+2018,"Veneto","Verona","State owned","Ospedali Di Legnago",767,0,13,51,831
+2018,"Veneto","Padova","State owned","Azienda Ospedaliera Padova",1252,16,103,15,1386
+2018,"Veneto","Verona","State owned","Az.Osp.Universitaria Integrata Verona",1199,0,122,2,1323
+2018,"Veneto","Padova","State owned","Iov",76,0,38,6,120
+2018,"Friuli Venezia Giulia","Trieste","Private","Sanatorio Triestino  S.P.A.",48,0,2,22,72
+2018,"Friuli Venezia Giulia","Duino-Aurisina","Private","Pineta Del Carso Spa Casa Di Cura",8,0,0,0,8
+2018,"Friuli Venezia Giulia","Trieste","Private","Casa Di Cura Salus",42,0,20,0,62
+2018,"Friuli Venezia Giulia","Trieste","State owned","Presidio Osp. Cattinara E Maggiore Di Ts",639,0,52,24,715
+2018,"Friuli Venezia Giulia","Gorizia","State owned","Po 'Gorizia E Monfalcone'",321,0,35,0,356
+2018,"Friuli Venezia Giulia","Palmanova","State owned","Po 'Latisana E Palmanova'",267,0,20,0,287
+2018,"Friuli Venezia Giulia","Gemona Del Friuli","State owned","P.O. 'San Daniele Del Friuli E Tolmezzo'",311,16,30,0,357
+2018,"Friuli Venezia Giulia","Udine","State owned","Ist.Di Medicina Fisica E Riabilitazione",0,0,4,0,4
+2018,"Friuli Venezia Giulia","Udine","Private","Policlinico Citta` Di Udine - Cc Privata",72,0,1,19,92
+2018,"Friuli Venezia Giulia","Udine","State owned","Presidio Ospedaliero 'S.M.M' Di Udine",864,0,109,5,978
+2018,"Friuli Venezia Giulia","Pordenone","Private","Casa Di Cura Privata 'S.Giorgio' Spa",102,0,33,0,135
+2018,"Friuli Venezia Giulia","Pordenone","State owned","Presidio Ospedaliero Santa Maria Degli A",395,24,37,0,456
+2018,"Friuli Venezia Giulia","San Vito Al Tagliamento","State owned","Presidio Ospedaliero San Vito Al Tagliam",183,14,18,0,215
+2018,"Friuli Venezia Giulia","Trieste","State owned","I.R.C.C.S.  Burlo Garofolo",111,0,15,10,136
+2018,"Friuli Venezia Giulia","Aviano","State owned","Centro  Riferimento Oncologico",98,0,32,0,130
+2018,"Liguria","San Remo","State owned","Presidio Ospedaliero Unificato",441,0,43,26,510
+2018,"Liguria","Albenga","Private","Policlinico Di Monza - Casa Di Cura",29,0,0,0,29
+2018,"Liguria","Savona","State owned","Presidio Ponente",328,0,35,15,378
+2018,"Liguria","Savona","State owned","Presidio Levante",366,0,52,31,449
+2018,"Liguria","Genova","State owned","E.O. Ospedali Galliera",365,0,33,13,411
+2018,"Liguria","Genova","State owned","Ospedale Evangelico Internazionale",102,0,3,18,123
+2018,"Liguria","Genova","State owned","Presidio Ospedaliero Metropolitano",443,7,24,35,509
+2018,"Liguria","Lavagna","State owned","Presidio Ospedaliero Asl4 Chiavarese",275,7,22,23,327
+2018,"Liguria","Rapallo","Private","Iclas  S.R.L.",60,0,3,0,63
+2018,"Liguria","La Spezia","State owned","Presidio Ospedaliero Del Levante Ligure",382,15,34,22,453
+2018,"Liguria","La Spezia","Private","Casa Di Cura 'Alma Mater'",11,0,0,14,25
+2018,"Liguria","Genova","State owned","Irccs Aou S.Martino - Ist",995,9,65,58,1127
+2018,"Liguria","Genova","State owned","Ist.G.Gaslini",293,2,33,14,342
+2018,"Emilia Romagna","Piacenza","State owned","Presidio Unico Piacenza",612,0,44,0,656
+2018,"Emilia Romagna","Piacenza","Private","Casa Di Cura Privata Piacenza S.P.A.",88,0,0,8,96
+2018,"Emilia Romagna","Piacenza","Private","Casa Di Cura Privata S. Antonino S.R.L.",10,0,0,0,10
+2018,"Emilia Romagna","Fidenza","State owned","Presidio Ospedaliero Aziendale (Ausl Par",282,0,19,7,308
+2018,"Emilia Romagna","Parma","Private","Casa Di Cura Citta' Di Parma",164,0,4,8,176
+2018,"Emilia Romagna","Parma","Private","Hospital Piccole Figlie",50,0,1,9,60
+2018,"Emilia Romagna","Montechiarugolo","Private","Villa Maria Luigia",54,0,0,0,54
+2018,"Emilia Romagna","Langhirano","Private","Hospital Val Parma",36,0,0,4,40
+2018,"Emilia Romagna","Reggio Nell'Emilia","State owned","Presidio Ospedaliero Provinciale Di Regg",1155,8,10,74,1247
+2018,"Emilia Romagna","Reggio Nell'Emilia","Private","Salus Hospital (Casa Di Cura Privata)",56,0,1,3,60
+2018,"Emilia Romagna","Reggio Nell'Emilia","Private","Casa Di Cura Privata Polispecialistica V",49,0,7,4,60
+2018,"Emilia Romagna","Carpi","State owned","Presidio Ospedaliero Provinciale",499,0,7,19,525
+2018,"Emilia Romagna","Sassuolo","State owned","Nuovo Ospedale Civile Di Sassuolo S.P.A.",195,0,1,19,215
+2018,"Emilia Romagna","Modena","Private","Hesperia Hospital Modena S.R.L.",92,0,0,0,92
+2018,"Emilia Romagna","Modena","Private","Prof. Fogliani Casa Di Cura S.R.L.",35,0,0,0,35
+2018,"Emilia Romagna","Modena","Private","Ospedale Privato ""Villa Igea S.P.A.""",81,0,10,0,91
+2018,"Emilia Romagna","Modena","Private","Ospedale Privato Accreditato Villa Rosa",23,0,0,0,23
+2018,"Emilia Romagna","Pavullo Nel Frignano","Private","Villa Pineta S.R.L.",14,0,5,0,19
+2018,"Emilia Romagna","Bologna","State owned","Presidio Ospedaliero Unico - Azienda Di",1003,12,17,21,1053
+2018,"Emilia Romagna","Bologna","State owned","Istituto Delle Scienze Neurologiche Di B",105,2,0,1,108
+2018,"Emilia Romagna","Casalecchio Di Reno","Private","Ospedale Privato Accreditato Villa Chiar",61,0,0,6,67
+2018,"Emilia Romagna","Castiglione Dei Pepoli","Private","Casa Di Cura Prof. Nobili S.P.A.",61,0,3,0,64
+2018,"Emilia Romagna","Bologna","Private","Casa Di Cura Villa Erbosa Ospedale Priva",131,0,0,10,141
+2018,"Emilia Romagna","Bologna","Private","Ospedale Privato Accreditato Nigrisoli",65,0,0,0,65
+2018,"Emilia Romagna","Bologna","Private","Ospedale Privato Accreditato Villa Torri",60,0,0,0,60
+2018,"Emilia Romagna","Bologna","Private","Ospedale Privato Accreditato Casa Di Cur",2,0,0,0,2
+2018,"Emilia Romagna","Bologna","Private","Ospedale Privato Accreditato Villa Baruz",29,0,0,0,29
+2018,"Emilia Romagna","Bologna","Private","Ospedale Privato Accreditato Villa Laura",67,0,0,2,69
+2018,"Emilia Romagna","Bologna","Private","Ospedale Privato Accreditato Villa Regin",18,0,0,0,18
+2018,"Emilia Romagna","Imola","State owned","Presidio Ospedaliero Imola - Castel S. P",301,0,6,13,320
+2018,"Emilia Romagna","Comacchio","State owned","Presidio Ospedaliero Unico",349,0,7,16,372
+2018,"Emilia Romagna","Ferrara","Private","Casa Di Cura Quisisana S.R.L.",31,0,0,0,31
+2018,"Emilia Romagna","Ferrara","Private","Casa Di Cura Salus S.R.L.",69,0,0,9,78
+2018,"Emilia Romagna","Ravenna","State owned","Ospedale ""Santa Maria Delle Croci"" Raven",487,9,7,8,511
+2018,"Emilia Romagna","Lugo","State owned","Ospedale ""Umberto 1�"" Lugo",182,0,3,8,193
+2018,"Emilia Romagna","Faenza","State owned","Ospedale ""Degli Infermi "" Faenza",192,0,5,6,203
+2018,"Emilia Romagna","Forli'","State owned","Presidio Ospedaliero Forli'",405,0,12,1,418
+2018,"Emilia Romagna","Cesena","State owned","Presidio Ospedaliero Cesena",435,1,6,9,451
+2018,"Emilia Romagna","Rimini","State owned","Presidio Ospedaliero Rimini-Santarcangel",539,0,36,0,575
+2018,"Emilia Romagna","Riccione","State owned","Presidio Ospedaliero Riccione-Cattolica",208,0,17,0,225
+2018,"Emilia Romagna","Ravenna","Private","Ospedale Privato Domus Nova S.P.A.",72,0,0,4,76
+2018,"Emilia Romagna","Ravenna","Private","Casa Di Cura San Francesco",56,0,2,2,60
+2018,"Emilia Romagna","Cotignola","Private","Villa Maria Cecilia Hospital",169,0,0,0,169
+2018,"Emilia Romagna","Faenza","Private","Ospedale Privato ""San Pier Damiano Hospi",88,0,0,4,92
+2018,"Emilia Romagna","Riolo Terme","Private","Casa Di Cura Privata Villa Azzurra",24,0,0,0,24
+2018,"Emilia Romagna","Forli'","Private","Ospedale Privato Accreditato Villa Igea",38,0,1,21,60
+2018,"Emilia Romagna","Forli'","Private","Villa Serena",50,0,4,6,60
+2018,"Emilia Romagna","Cesena","Private","Malatesta Novello",121,0,4,4,129
+2018,"Emilia Romagna","Cesena","Private","Casa Di Cura Privata San Lorenzino S.P.A",88,0,4,0,92
+2018,"Emilia Romagna","Rimini","Private","Sol Et Salus",34,0,0,6,40
+2018,"Emilia Romagna","Rimini","Private","Casa Di Cura Villa Maria",53,0,0,9,62
+2018,"Emilia Romagna","Morciano Di Romagna","Private","Casa Di Cura Prof. E. Montanari",37,0,0,3,40
+2018,"Emilia Romagna","Meldola","Private","I.R.S.T. Srl Irccs",36,0,6,0,42
+2018,"Emilia Romagna","Parma","State owned","Azienda Ospedaliero-Universitaria Di Par",854,2,66,14,936
+2018,"Emilia Romagna","Modena","State owned","Azienda Ospedaliero-Universitaria Di Mod",943,1,34,8,986
+2018,"Emilia Romagna","Bologna","State owned","Azienda Ospedaliero-Universitaria Di Bol",1312,15,60,0,1387
+2018,"Emilia Romagna","Ferrara","State owned","Azienda Ospedaliero-Universitaria Di Fer",578,0,19,31,628
+2018,"Emilia Romagna","Bologna","State owned","Istituto Ortopedico Rizzoli",243,21,4,10,278
+2018,"Toscana","Montecatini-Terme","Private","Casa Di Cura S. Rita",42,0,0,5,47
+2018,"Toscana","Prato","Private","Casa Di Cura Villa Fiorita",58,0,0,26,84
+2018,"Toscana","Firenze","Private","Villa Dei Pini S.R.L.",60,0,5,0,65
+2018,"Toscana","Firenze","Private","Ifca Spa Casa Di Cura Ulivella E Glicini",104,0,0,19,123
+2018,"Toscana","Firenze","Private","Villa Maria Teresa Hospital Srl",27,0,1,0,28
+2018,"Toscana","Pelago","Private","Casa Di Cura Val Di Sieve Srl",67,0,0,2,69
+2018,"Toscana","Vinci","Private","Casa Di Cura ""Leonardo""",56,0,0,4,60
+2018,"Toscana","Figline E Incisa Valdarno","Private","Casa Di Cura Frate Sole  Srl",39,0,0,1,40
+2018,"Toscana","Pistoia","State owned","Spedali Riuniti",348,5,20,10,383
+2018,"Toscana","Pescia","State owned","Ospedale Della Valdinievole",169,0,13,16,198
+2018,"Toscana","Prato","State owned","Nuovo Ospedale Di Prato S.Stefano",482,0,35,24,541
+2018,"Toscana","Borgo San Lorenzo","State owned","Ospedale Di Borgo San Lorenzo",95,0,8,7,110
+2018,"Toscana","Bagno A Ripoli","State owned","Ospedale Fiorentino Sud-Est",305,0,51,13,369
+2018,"Toscana","Firenze","State owned","Ospedale Fiorentino",355,0,34,29,418
+2018,"Toscana","Empoli","State owned","Presidio Ospedaliero Asl 11 Empoli",359,23,27,21,430
+2018,"Toscana","Forte Dei Marmi","Private","Casa Cura S.Camillo Forte Dei Marmi Srl",27,0,0,39,66
+2018,"Toscana","Lucca","Private","C. Di Cura M.D. Barbantini Santa Chiara",45,0,5,15,65
+2018,"Toscana","Lucca","Private","Casa Di Cura S.Zita",56,0,4,6,66
+2018,"Toscana","Lucca","Private","Casa Di Cura Ville Di Nozzano",39,0,1,0,40
+2018,"Toscana","Pisa","Private","Casa Di Cura Suore Dell'Addolorata",0,0,0,8,8
+2018,"Toscana","Cascina","Private","Casa Di Cura Privata Della Misericordia",29,0,2,0,31
+2018,"Toscana","Livorno","Private","Casa Di Cura Villa Tirrena",12,0,8,0,20
+2018,"Toscana","Fivizzano","State owned","Presidio Ospedaliero  Zona Lunigiana",88,1,4,5,98
+2018,"Toscana","Carrara","State owned","Presidio Ospedaliero Zona Delle Apuane",308,3,24,14,349
+2018,"Toscana","Castelnuovo Di Garfagnana","State owned","Presidio Ospedaliero Valle Del Serchio",107,5,11,5,128
+2018,"Toscana","Lucca","State owned","Presidio Ospedaliero San Luca",303,7,38,17,365
+2018,"Toscana","Volterra","State owned","Presidio Ospedaliero ""S.Maria Maddalena""",45,6,3,4,58
+2018,"Toscana","Pontedera","State owned","Presidio Ospedaliero ""Felice Lotti""",236,9,3,16,264
+2018,"Toscana","Cecina","State owned","Ospedale Cecina",113,3,11,6,133
+2018,"Toscana","Livorno","State owned","Ospedale Livorno",352,5,24,30,411
+2018,"Toscana","Piombino","State owned","Ospedale Piombino",109,3,9,7,128
+2018,"Toscana","Portoferraio","State owned","Ospedale Di Portoferraio",57,3,7,3,70
+2018,"Toscana","Camaiore","State owned","Ospedale Versilia",342,18,38,18,416
+2018,"Toscana","Arezzo","Private","Casa Di Cura Poggio Del Sole",65,0,0,0,65
+2018,"Toscana","Arezzo","Private","Casa Di Cura S.Giuseppe",76,0,0,7,83
+2018,"Toscana","Monteriggioni","Private","Casa Di Cura Rugani",49,0,0,6,55
+2018,"Toscana","Bibbiena","State owned","Ospedale Del Casentino",48,6,3,2,59
+2018,"Toscana","Sansepolcro","State owned","Ospedale Della Valtiberina",43,3,4,7,57
+2018,"Toscana","Arezzo","State owned","Ospedale Area Aretina Nord",295,38,40,16,389
+2018,"Toscana","Massa Marittima","State owned","Ospedale  S.Andrea   Massa Marittima",51,0,8,4,63
+2018,"Toscana","Orbetello","State owned","Ospedale Delle Colline Dell'Albegna",69,0,15,6,90
+2018,"Toscana","Castel Del Piano","State owned","Ospedale Civile Di Castel Del Piano",23,0,4,0,27
+2018,"Toscana","Grosseto","State owned","Ospedale Della Misericordia Grosseto",308,0,27,11,346
+2018,"Toscana","Siena","State owned","Servizio Psichiatrico Diagnosi E Cura",8,0,0,0,8
+2018,"Toscana","Abbadia San Salvatore","State owned","Presidio Ospedaliero Amiata Senese",19,1,4,3,27
+2018,"Toscana","Poggibonsi","State owned","Ospedale Dell'Alta Val D'Elsa",114,4,20,6,144
+2018,"Toscana","Montepulciano","State owned","Ospedali Riuniti Della Val Di Chiana",117,4,18,6,145
+2018,"Toscana","Montevarchi","State owned","Ospedale Nuovo Valdarno",133,4,8,8,153
+2018,"Toscana","Cortona","State owned","Nuovo Ospedale Valdichiana S. Margherita",47,6,6,7,66
+2018,"Toscana","Pisa","State owned","Azienda Ospedaliero-Universitaria Pisana",1004,29,101,35,1169
+2018,"Toscana","Pisa","Private","Fondazione Stella Maris - Calambrone",32,0,19,0,51
+2018,"Toscana","Siena","State owned","Azienda Ospedaliera Universitaria Senese",612,0,71,10,693
+2018,"Toscana","Firenze","State owned","Az. Ospedaliero - Universitaria Careggi",955,32,82,59,1128
+2018,"Toscana","Firenze","State owned","Azienda Ospedaliera Meyer",178,0,72,0,250
+2018,"Umbria","Perugia","Private","Casa Di Cura Villa Fiorita",40,0,0,4,44
+2018,"Umbria","Perugia","Private","Casa Di Cura Porta Sole",65,0,0,6,71
+2018,"Umbria","Perugia","Private","Clinica Lami",45,0,0,5,50
+2018,"Umbria","Perugia","Private","Casa Di Cura Liotti",54,0,0,6,60
+2018,"Umbria","Citta' Di Castello","State owned","Presidio Ospedaliero Alto Tevere",168,0,12,30,210
+2018,"Umbria","Perugia","State owned","Presidio Ospedaliero Unificato",137,0,12,29,178
+2018,"Umbria","Gubbio","State owned","Presidio Ospedaliero Gubbio E G.Tadino",117,0,4,12,133
+2018,"Umbria","Terni","State owned","Servizio Psichiatrico Diagnosi E Cura",10,0,1,0,11
+2018,"Umbria","Foligno","Private","Casa Di Cura Villa Aurora Srl",18,0,0,12,30
+2018,"Umbria","Spoleto","State owned","Polo Ospedaliero Spoleto",124,0,15,16,155
+2018,"Umbria","Orvieto","State owned","Santa Maria Della Stella",113,0,15,19,147
+2018,"Umbria","Narni","State owned","Presidio Ospedaliero Narni Amelia",80,0,16,16,112
+2018,"Umbria","Foligno","State owned","Polo Ospedaliero Foligno",260,0,24,9,293
+2018,"Umbria","Perugia","State owned","Azienda Ospedaliera Di Perugia",735,9,33,21,798
+2018,"Umbria","Terni","State owned","Azienda Ospedaliera 'S. Maria' - Terni",471,0,28,17,516
+2018,"Marche","Fano","State owned","Presidio Ospedaliero Unico Av1",188,0,16,16,220
+2018,"Marche","Fabriano","State owned","Presidio Ospedaliero Unico Av2",563,8,46,26,643
+2018,"Marche","Macerata","State owned","Presidio Ospedaliero Unico Av3",574,0,51,53,678
+2018,"Marche","Fermo","State owned","Presidio Ospedaliero Unico Av4",263,0,23,20,306
+2018,"Marche","Ascoli Piceno","State owned","Presidio Ospedaliero Unico Av5",431,0,38,12,481
+2018,"Marche","San Benedetto Del Tronto","Private","Studio Medico Chir. Polisp.",0,0,0,5,5
+2018,"Marche","Ancona","Private","Cdc Marche - Rete Impresa Area Vasta 2",52,0,0,20,72
+2018,"Marche","Civitanova Marche","Private","Cdc Marche - Rete Impresa Area Vasta 3",85,0,2,14,101
+2018,"Marche","Fermo","Private","Cdc Marche - Rete Impresa Area Vasta 4/5",241,0,0,22,263
+2018,"Marche","Pesaro","State owned","A.O. Ospedali Riuniti Marche Nord",459,0,98,15,572
+2018,"Marche","Ancona","State owned","A.O.U.Ospedali Riuniti - Ancona",819,0,77,5,901
+2018,"Marche","Ancona","State owned","Ospedali Inrca Marche",211,0,11,13,235
+2018,"Lazio","Acquapendente","State owned","Ospedale Di Acquapendente",20,0,0,10,30
+2018,"Lazio","Civita Castellana","State owned","Ospedale Di Civitacastellana",58,0,2,4,64
+2018,"Lazio","Tarquinia","State owned","Ospedale Di Tarquinia",61,0,4,7,72
+2018,"Lazio","Viterbo","Private","Casa Di Cura Salus",20,0,0,0,20
+2018,"Lazio","Viterbo","Private","Nuova  S.Teresa Del Bambin Gesu`",24,0,0,0,24
+2018,"Lazio","Viterbo","State owned","Polo Ospedaliero",331,0,33,22,386
+2018,"Lazio","Rieti","State owned","Polo Ospedaliero Unico Integrato",296,0,24,11,331
+2018,"Lazio","Latina","State owned","Presidio Ospedaliero Nord",360,0,25,21,406
+2018,"Lazio","Terracina","State owned","Presidio Ospedaliero Centro",124,0,15,21,160
+2018,"Lazio","Formia","State owned","Presidio Ospedaliero Sud",125,0,9,7,141
+2018,"Lazio","Formia","Private","Casa Del Sole Clinica Tommaso Costa",108,0,9,0,117
+2018,"Lazio","Latina","Private","Istit Chir Ortop Traumatologico",254,0,15,0,269
+2018,"Lazio","Latina","Private","Casa Di Cura San Marco",45,0,0,5,50
+2018,"Lazio","Aprilia","Private","Casa Di Cura Citta` Di Aprilia",137,0,6,0,143
+2018,"Lazio","Frosinone","State owned","Po Unificato :: Frosinone - Alatri",382,0,12,15,409
+2018,"Lazio","Sora","State owned","Ospedale Civile S.S.Trinita` N.Sede Sora",175,0,11,6,192
+2018,"Lazio","Cassino","State owned","Ospedale S. Scolastica Cassino",258,0,10,8,276
+2018,"Lazio","Cassino","Private","Casa Di Cura Priv. S. Anna S.R.L Cassino",28,0,0,4,32
+2018,"Lazio","Sora","Private","Villa Gioia Casa Di Cura Priv. Srl Sora",18,0,0,4,22
+2018,"Lazio","Cassino","Private","Casa Di Cura Priv. Villa Serena Cassino",25,0,0,0,25
+2018,"Lazio","Isola Del Liri","Private","Casa Di Cura Priv. Santa Teresa Isola L.",12,0,0,8,20
+2018,"Lazio","Cassino","Private","Casa Cura Privata""San Raffaele"" Cassino",30,0,0,0,30
+2018,"Lazio","Roma","State owned","Polo Ospedaliero Santo Spirito",199,0,20,11,230
+2018,"Lazio","Roma","State owned","Ospedale Regionale Oftalmico",10,0,0,8,18
+2018,"Lazio","Roma","State owned","Ospedale San Pietro - Fbf",375,0,12,14,401
+2018,"Lazio","Roma","State owned","Ospedale San Giovanni Calibita - Fbf",233,8,18,4,263
+2018,"Lazio","Roma","State owned","Ospedale San Carlo Di Nancy",139,70,8,14,231
+2018,"Lazio","Roma","State owned","Osp. Gen. Di Zona 'Cristo Re'",170,0,7,8,185
+2018,"Lazio","Roma","Private","Casa Di Cura Villa Domelia S.R.L.",60,0,7,0,67
+2018,"Lazio","Roma","Private","Casa Di Cura Villa Valeria S.R.L.",21,0,4,0,25
+2018,"Lazio","Roma","Private","Casa Di Cura Marco Polo",20,0,9,0,29
+2018,"Lazio","Roma","Private","Casa Di Cura Santa Famiglia",62,0,0,6,68
+2018,"Lazio","Roma","Private","Casa Di Cura Nuova Villa Claudia",31,0,0,4,35
+2018,"Lazio","Roma","Private","Casa Di Cura San Feliciano",75,0,2,3,80
+2018,"Lazio","Roma","Private","Aurelia Hospital",184,0,1,7,192
+2018,"Lazio","Roma","State owned","Centro Per La Salute Della Donna S.Anna",0,0,0,4,4
+2018,"Lazio","Roma","State owned","Presidio Ospedaliero San Filippo Neri",357,0,27,11,395
+2018,"Lazio","Roma","Private","Villa Tiberia Hospital",89,0,9,9,107
+2018,"Lazio","Roma","Private","Casa Di Cura Villa Aurora",25,0,0,5,30
+2018,"Lazio","Roma","Private","I.D.I. - Fondazione Luigi Maria Monti",103,0,34,10,147
+2018,"Lazio","Roma","State owned","Ospedale S. Eugenio",446,0,38,36,520
+2018,"Lazio","Roma","State owned","Madre Giuseppina Vannini",202,0,16,7,225
+2018,"Lazio","Roma","Private","N.C.L. Istituto Di Neuroscienze S.R.L.",26,0,3,0,29
+2018,"Lazio","Roma","Private","Casa Di Cura Villa Fulvia Srl",20,0,0,0,20
+2018,"Lazio","Roma","Private","Casa Di Cura Guarnieri Spa",97,0,3,9,109
+2018,"Lazio","Roma","Private","Concordia Hospital",23,0,0,2,25
+2018,"Lazio","Roma","Private","C.D.C. Fabia Mater",60,0,19,0,79
+2018,"Lazio","Roma","Private","Policlinico Casilino",225,0,17,0,242
+2018,"Lazio","Roma","Private","Casa Di Cura Nuova Itor",122,0,9,0,131
+2018,"Lazio","Roma","Private","Nuova Clinica Annunziatella",28,0,2,4,34
+2018,"Lazio","Roma","State owned","Ospedale Sandro Pertini",305,0,26,19,350
+2018,"Lazio","Roma","Private","Casa Di Cura Karol Wojtyla Hospital",30,0,4,0,34
+2018,"Lazio","Roma","State owned","Ospedale G. B. Grassi",214,0,12,17,243
+2018,"Lazio","Roma","State owned","Ospedale Israelitico",95,12,6,13,126
+2018,"Lazio","Roma","Private","Presidio Ospedaliero ' Luigi Di Liegro '",88,0,2,12,102
+2018,"Lazio","Roma","Private","Casa Di Cura Villa Pia",127,0,3,6,136
+2018,"Lazio","Roma","Private","Casa Di Cura Citta` Di Roma",141,0,5,9,155
+2018,"Lazio","Roma","Private","European Hospital",51,0,0,0,51
+2018,"Lazio","Roma","Private","Casa Di Cura Merry House/C.Geriatrico Ro",30,0,0,0,30
+2018,"Lazio","Civitavecchia","State owned","Ospedale San Paolo",119,0,17,0,136
+2018,"Lazio","Bracciano","State owned","Ospedale  Padre Pio Di Bracciano",47,0,8,0,55
+2018,"Lazio","Civitavecchia","Private","Casa Di Cura Siligato",11,0,0,5,16
+2018,"Lazio","Colleferro","State owned","Ospedale L.Parodi Delfino",108,0,17,0,125
+2018,"Lazio","Monterotondo","State owned","Ospedale Ss. Gonfalone",44,0,0,6,50
+2018,"Lazio","Palestrina","State owned","Ospedale Civile Coniugi Bernardini",83,0,16,0,99
+2018,"Lazio","Subiaco","State owned","Ospedale A. Angelucci",44,0,7,0,51
+2018,"Lazio","Tivoli","State owned","Ospedale S. Giovanni Evangelista(Tivoli)",180,0,33,0,213
+2018,"Lazio","Anzio","State owned","Osp. Anzio-Nettuno",150,0,16,9,175
+2018,"Lazio","Albano Laziale","State owned","Osp.Riuniti Albano-Genzano",178,0,14,7,199
+2018,"Lazio","Frascati","State owned","Osp. S.Sebastiano Frascati",162,0,8,0,170
+2018,"Lazio","Marino","State owned","Osp. S.Giuseppe Marino",0,0,32,20,52
+2018,"Lazio","Velletri","State owned","Osp.'Paolo Colombo' Velletri",132,0,7,8,147
+2018,"Lazio","Albano Laziale","State owned","Osp Regina Apostolorum",175,0,34,1,210
+2018,"Lazio","Nemi","Private","Villa Delle Querce-Poligest",34,0,2,4,40
+2018,"Lazio","Velletri","Private","C.D.C. Madonna Delle Grazie",64,0,5,0,69
+2018,"Lazio","Pomezia","Private","Casa Di Cura S.Anna Pomezia",99,0,6,0,105
+2018,"Lazio","Grottaferrata","Private","C.D.C. I.N.I. Srl",81,0,17,0,98
+2018,"Lazio","Montecompatri","Private","C.D.C San Raffaele Montecompatri",15,0,0,0,15
+2018,"Lazio","Roma","State owned","Az.Osp.San Camillo-Forlanini",704,0,99,52,855
+2018,"Lazio","Roma","State owned","Azienda Osp. S.Giovanni/Addolorata Roma",532,0,43,37,612
+2018,"Lazio","Roma","Private","Ospedale Pediatrico Bambino Gesu`",557,0,160,51,768
+2018,"Lazio","Roma","Private","Policlinico A. Gemelli E C.I.C.",1342,0,99,47,1488
+2018,"Lazio","Roma","State owned","Policlinico U. I",1075,0,93,50,1218
+2018,"Lazio","Roma","State owned","Istituti Fisioterapici Ospitalieri",232,0,37,15,284
+2018,"Lazio","Roma","Private","Irccs San Raffaele Pisana",30,0,0,0,30
+2018,"Lazio","Roma","Private","Policl. Univ. Campus Bio Medico",230,0,23,15,268
+2018,"Lazio","Roma","State owned","Inmi 'L.Spallanzani' - Irccs",161,0,6,0,167
+2018,"Lazio","Roma","State owned","Azienda Ospedaliera Sant`Andrea",401,0,31,16,448
+2018,"Lazio","Roma","State owned","Az. Osp. Univ. Policlinico Tor Vergata",388,0,43,20,451
+2018,"Abruzzo","L'Aquila","State owned","P.O.San Salvatore L'Aquila",301,0,34,21,356
+2018,"Abruzzo","Sulmona","State owned","Po Sulmona ' Dell' Annunziata'",128,0,6,6,140
+2018,"Abruzzo","Avezzano","State owned","Po Avezzano 'S. Filippo E Nicola'",175,0,8,11,194
+2018,"Abruzzo","Castel Di Sangro","State owned","Presidio Ospedaliero Castel Di Sangro",37,0,1,2,40
+2018,"Abruzzo","Avezzano","Private","Casa Di Cura 'Di Lorenzo'",65,0,2,3,70
+2018,"Abruzzo","Celano","Private","Casa Di Cura L'Immacolata",57,0,1,2,60
+2018,"Abruzzo","Canistro","Private","Casa Di Cura I.N.I. Canistro",45,0,1,3,49
+2018,"Abruzzo","L'Aquila","Private","Casa Di Cura Privata Villa Letizia",52,0,1,4,57
+2018,"Abruzzo","Chieti","State owned","P.O. Clinicizz. 'Ss. Annunziata' Chieti",373,0,25,16,414
+2018,"Abruzzo","Lanciano","State owned","P.O. Lanciano Renzetti",149,0,13,14,176
+2018,"Abruzzo","Vasto","State owned","P.O. Vasto S.Pio Da Pietralcina",174,0,13,8,195
+2018,"Abruzzo","Ortona","State owned","P.O.  'G. Bernabeo' Ortona",63,0,9,18,90
+2018,"Abruzzo","Chieti","Private","Casa Di Cura Privata 'Dott. Spatocco'",44,0,2,0,46
+2018,"Abruzzo","Pescara","State owned","P.O. 'Spirito Santo' Pescara",531,0,29,27,587
+2018,"Abruzzo","Penne","State owned","P.O. S. Massimo Di Penne",91,0,4,13,108
+2018,"Abruzzo","Popoli","State owned","P.O.'S.S. Trinita'' Popoli",36,0,2,2,40
+2018,"Abruzzo","Pescara","Private","Casa Di Cura Pierangeli",148,0,3,10,161
+2018,"Abruzzo","Citta' Sant'Angelo","Private","Casa Di Cura Villa Serena",124,0,1,9,134
+2018,"Abruzzo","Teramo","State owned","Ospedale Mazzini",396,0,17,24,437
+2018,"Abruzzo","Giulianova","State owned","Ospedale Maria S.S. Dello Splendore",107,0,6,5,118
+2018,"Abruzzo","Atri","State owned","Ospedale San Liberatore   Di Atri  (Te)",101,6,4,14,125
+2018,"Abruzzo","Sant'Omero","State owned","Ospedale Della Val Vibrata",106,0,4,6,116
+2018,"Molise","Campobasso","State owned","Presidio Ospedaliero 'A.Cardarelli'",242,0,22,23,287
+2018,"Molise","Termoli","State owned","Plesso Ospedaliero 'S Timoteo- Termoli",117,0,13,11,141
+2018,"Molise","Isernia","State owned","Complesso Ospedaliero Isernia",146,0,18,13,177
+2018,"Molise","Campobasso","Private","Casa Di Cura Villa Maria Srl",34,0,3,3,40
+2018,"Molise","Bojano","Private","Casa Di Cura Privata Villa Esther S.R.L.",46,0,3,5,54
+2018,"Molise","Pozzilli","Private","Neuromed I.R.C.C.S.",94,93,6,0,193
+2018,"Campania","Solofra","State owned","Presidio Ospedaliero Di Solofra",114,0,13,6,133
+2018,"Campania","Ariano Irpino","State owned","Ospedale Ariano Irpino",115,0,11,3,129
+2018,"Campania","Avellino","Private","Casa Di Cura Villa Esther",44,0,0,5,49
+2018,"Campania","Baiano","Private","Casa Di Cura Villa Maria",15,0,0,5,20
+2018,"Campania","Atripalda","Private","Casa Di Cura S.Rita",94,0,4,7,105
+2018,"Campania","Mirabella Eclano","Private","Casa Di Cura Villa Maria",30,0,0,10,40
+2018,"Campania","Avellino","Private","Casa Di Cura Villa Dei Pini",150,0,0,0,150
+2018,"Campania","Mercogliano","Private","Casa Di Cura Montevergine",107,0,9,0,116
+2018,"Campania","Avellino","Private","Casa Di Cura Villa Dei Platani",145,0,9,6,160
+2018,"Campania","Sant'Angelo Dei Lombardi","State owned","Ospedale  S.Angelo Dei Lombardi",40,0,3,1,44
+2018,"Campania","Benevento","State owned","Osp.Sacro Cuore Di Gesu`Fatebenefratelli",173,0,7,9,189
+2018,"Campania","Telese Terme","Private","Casa Di Cura Ge.P.O.S. Srl",45,0,0,10,55
+2018,"Campania","Benevento","Private","Casa Di Cura Nuova Clinica S.Rita",60,0,3,9,72
+2018,"Campania","Telese Terme","Private","Casa Di Cura San Francesco",52,0,2,3,57
+2018,"Campania","Santa Maria Capua Vetere","State owned","Ospedale San Giuseppe E Melorio",57,0,3,12,72
+2018,"Campania","Sessa Aurunca","State owned","Presidio Ospedaliero 'San Rocco'",89,0,7,4,100
+2018,"Campania","Aversa","State owned","Presidio Ospedaliero S.G.Moscati Aversa",174,0,24,9,207
+2018,"Campania","Caserta","Private","Clinica Sant`Anna",43,0,0,5,48
+2018,"Campania","Caserta","Private","Villa Del Sole",110,0,4,16,130
+2018,"Campania","Aversa","Private","Casa Di Cura Villa Fiorita",30,0,0,4,34
+2018,"Campania","Aversa","Private","Casa Di Cura San Paolo",36,0,0,14,50
+2018,"Campania","Capua","Private","Casa Di Cura 'Villa Fiorita' Spa",52,0,4,4,60
+2018,"Campania","Maddaloni","Private","Clinica San Michele",96,0,1,3,100
+2018,"Campania","Castel Volturno","Private","Casa Di Cura Pineta Grande",141,0,0,9,150
+2018,"Campania","Santa Maria Capua Vetere","Private","Minerva  S.P.A. Santa Maria Della Salute",45,0,0,5,50
+2018,"Campania","Piedimonte Matese","Private","Villa Dei Pini",56,0,0,4,60
+2018,"Campania","Mondragone","Private","Clinica Padre Pio S.R.L.",72,0,3,5,80
+2018,"Campania","Maddaloni","State owned","Presidio Ospedaliero Maddaloni",62,0,9,9,80
+2018,"Campania","Marcianise","State owned","Presidio Ospedaliero Marcianise",61,0,11,10,82
+2018,"Campania","San Felice A Cancello","State owned","Presidio Ospedaliero S.Felice A Cancello",0,0,7,0,7
+2018,"Campania","Piedimonte Matese","State owned","Presidio Ospedaliero Piedimonte Matese",104,0,18,4,126
+2018,"Campania","Napoli","State owned","Casa Di Cura Ospedale Fatebenefratelli",142,10,11,10,173
+2018,"Campania","Napoli","Private","Casa Di Cura Osp. Internazionale Srl",22,0,0,8,30
+2018,"Campania","Napoli","Private","Alma Mater S.P.A. 'Villa Camaldoli' Spa",212,0,21,0,233
+2018,"Campania","Napoli","Private","Hermitage Capodimonte Spa",120,0,0,0,120
+2018,"Campania","Napoli","Private","Casa Di Cura Villa Delle Querce Spa",55,0,2,4,61
+2018,"Campania","Napoli","Private","Clinica Vesuvio Srl",33,0,0,0,33
+2018,"Campania","Napoli","Private","Clinica Mediterranea Spa",133,0,6,11,150
+2018,"Campania","Napoli","Private","Clinica Santa Patrizia",90,0,0,0,90
+2018,"Campania","Napoli","Private","Casa Di Cura Villa Cinzia Srl",66,0,8,0,74
+2018,"Campania","Napoli","Private","Clinica Pineta Grande Spa",54,0,0,0,54
+2018,"Campania","Napoli","Private","Clinica Sanatrix Spa",96,0,0,0,96
+2018,"Campania","Napoli","State owned","Fondazione Evangelica Betania",132,0,5,13,150
+2018,"Campania","Napoli","State owned","Presidio Ospedaliero Napoli Est",445,7,37,56,545
+2018,"Campania","Napoli","State owned","Presidio Ospedaliero Napoli Ovest",335,2,27,44,408
+2018,"Campania","Napoli","State owned","Presidio Ospedaliero Ospedale Del Mare",218,8,14,25,265
+2018,"Campania","Frattamaggiore","State owned","Ospedale Civile S. Giovanni Di Dio",104,0,17,8,129
+2018,"Campania","Giugliano In Campania","State owned","Ospedale San Giuliano",109,0,27,7,143
+2018,"Campania","Lacco Ameno","State owned","Ospedale Rizzoli",64,0,5,3,72
+2018,"Campania","Acerra","Private","Casa Di Cura Villa Dei Fiori  Srl",139,0,3,34,176
+2018,"Campania","Villaricca","Private","Casa Di Cura Villa Maione",42,0,8,0,50
+2018,"Campania","Casandrino","Private","Casa Di Cura 'Clinica S.Antimo'",30,0,0,0,30
+2018,"Campania","Mugnano Di Napoli","Private","Casa Di Cura Villa Dei Fiori",90,0,3,7,100
+2018,"Campania","Casoria","State owned","Istituto Di Cura Maria Ss.Della Pieta`",87,0,13,16,116
+2018,"Campania","Procida","State owned","Osp.Civ. Gaetanina Scotto",6,0,1,2,9
+2018,"Campania","Pozzuoli","State owned","Ospedale S.M.Delle Grazie",206,0,22,21,249
+2018,"Campania","San Gennaro Vesuviano","Private","Casa Di Cura ' La Madonnina ' Srl",45,0,2,3,50
+2018,"Campania","Massa Di Somma","Private","Casa Di Cura  ' N.S. Di Lourdes ' Spa",135,0,9,6,150
+2018,"Campania","Torre Del Greco","Private","Casa Di Cura S. Maria La Bruna Srl",36,0,0,4,40
+2018,"Campania","Castellammare Di Stabia","Private","Casa Di Cura Villa Stabia",102,0,5,13,120
+2018,"Campania","Ottaviano","Private","Cardiomed S.P.A.",54,0,3,3,60
+2018,"Campania","Pompei","Private","Casa Di Cura Maria Rosaria Spa",75,0,3,22,100
+2018,"Campania","Portici","Private","Stazione Climatica Bianchi Srl",28,0,2,0,30
+2018,"Campania","San Giuseppe Vesuviano","Private","Casa Di Salute  S.Lucia  Srl",98,0,1,6,105
+2018,"Campania","San Giorgio A Cremano","Private","Casa Di Cura A.Grimaldi",107,0,0,0,107
+2018,"Campania","Pomigliano D'Arco","Private","Ios - Casa Di Cura ' Meluccio'  Srl",21,0,1,9,31
+2018,"Campania","Pomigliano D'Arco","Private","Ios - Ex Clinica ' S. Felice'  Srl",33,0,3,4,40
+2018,"Campania","Torre Del Greco","State owned","Ospedali Riuniti Golfo Vesuviano",117,0,16,12,145
+2018,"Campania","Castellammare Di Stabia","State owned","Ospedali  Riuniti Area Stabiese",179,0,23,12,214
+2018,"Campania","Sorrento","State owned","Ospedali Riuniti Penisola Sorrentina",127,0,9,14,150
+2018,"Campania","Nola","State owned","Ospedali Riuniti Area Nolana",125,0,21,0,146
+2018,"Campania","Nocera Inferiore","State owned","P.O. Umberto I Nocera Inferiore",380,0,53,24,457
+2018,"Campania","Oliveto Citra","State owned","P.O. S. Francesco Dassisi Oliveto Citra",67,2,15,0,84
+2018,"Campania","Polla","State owned","Presidio Ospedaliero Di Polla-L.Curto",175,0,8,11,194
+2018,"Campania","Sapri","State owned","Presidio Ospedaliero 'Immacolata' Sapri",84,0,17,6,107
+2018,"Campania","Eboli","State owned","P.O. Maria Ss. Addolorata Eboli",110,0,16,5,131
+2018,"Campania","Sarno","State owned","P.O. Martiri Di  Villa Malta Sarno",127,0,6,8,141
+2018,"Campania","Vallo Della Lucania","State owned","Ospedale S.Luca Vallo Lucania",229,0,20,14,263
+2018,"Campania","Battipaglia","State owned","P.O. S.M.Speranza Battipaglia",106,2,15,0,123
+2018,"Campania","Salerno","Private","'Hyppocratica S.P.A. Casa Di Cura Villa",66,0,8,6,80
+2018,"Campania","Agropoli","Private","Icm-Istituto Clinico Mediterraneo S.P.A.",84,0,10,8,102
+2018,"Campania","Pellezzano","Private","La Quiete - S.R.L.",120,0,0,0,120
+2018,"Campania","Battipaglia","Private","Casa Di Cura Privata Salus S.P.A.",76,0,14,0,90
+2018,"Campania","Eboli","Private","Campolongo Hospital S.P.A.",25,0,5,0,30
+2018,"Campania","Vallo Della Lucania","Private","'Casa Di Cura Prof.Dott. Luigi Cobellis'",95,0,4,0,99
+2018,"Campania","Salerno","Private","Casa Di Cura Tortorella Spa",125,0,18,0,143
+2018,"Campania","Nocera Inferiore","Private","Casa Di Cura Villa Chiarugi Nocera Inf.",152,0,8,0,160
+2018,"Campania","Roccadaspide","State owned","Ospedale Di Roccadaspide",52,0,3,2,57
+2018,"Campania","Agropoli","State owned","Presido Ospedaliero Di Agropoli",20,0,0,0,20
+2018,"Campania","Napoli","State owned","Azienda Ospedaliera 'A. Cardarelli'",706,0,72,55,833
+2018,"Campania","Napoli","State owned","A.O.Santobono-Pausilipon",298,0,63,29,390
+2018,"Campania","Napoli","State owned","A.Zienda Ospedaliera Dei Colli",634,14,137,27,812
+2018,"Campania","Salerno","State owned","A.O.Oo.Rr.S.Giovanni Di Dio E Ruggi D`Ar",677,0,133,4,814
+2018,"Campania","Avellino","State owned","Azienda Ospedaliera S. G. Moscati",466,0,47,33,546
+2018,"Campania","Benevento","State owned","Azienda Ospedale `San Pio`",404,16,48,39,507
+2018,"Campania","Caserta","State owned","A.O. Sant'Anna E San Sebastiano  Caserta",389,0,42,33,464
+2018,"Campania","Napoli","State owned","Azienda Ospedaliera Universitaria Unicam",264,0,104,0,368
+2018,"Campania","Napoli","State owned","A.O.U. 'Federico Ii' Di Napoli",573,0,208,0,781
+2018,"Campania","Napoli","State owned","Istituto Nazionale Tumori Di Napoli",185,0,62,13,260
+2018,"Puglia","Brindisi","Private","Casa Di Cura 'Salus' - Brindisi",60,0,0,0,60
+2018,"Puglia","Ostuni","State owned","Ospedale Ostuni",72,0,5,6,83
+2018,"Puglia","Francavilla Fontana","State owned","Ospedale  Francavilla Fontana",124,0,8,0,132
+2018,"Puglia","Brindisi","State owned","Ospedale Brindisi 'Perrino'",508,0,55,0,563
+2018,"Puglia","Manduria","State owned","Ospedale Manduria 'Giannuzzi'",83,0,6,5,94
+2018,"Puglia","Martina Franca","State owned","Ospedale Civile Martina Franca",123,0,3,7,133
+2018,"Puglia","Taranto","Private","Casa Di Cura Bernardini",96,0,0,0,96
+2018,"Puglia","Taranto","Private","Casa Di Cura D'Amore S.R.L.",40,0,0,0,40
+2018,"Puglia","Taranto","Private","Casa Di Cura San Camillo",93,0,0,0,93
+2018,"Puglia","Taranto","Private","Casa Di Cura Santa Rita S.R.L.",30,0,0,0,30
+2018,"Puglia","Taranto","Private","Casa Di Cura Villa Verde S.R.L.",114,0,0,0,114
+2018,"Puglia","Ginosa","Private","Centro Medico Riabilitazione Ics Maugeri",10,0,0,0,10
+2018,"Puglia","Taranto","Private","Fondazione Cittadella Della Carita`",8,0,0,0,8
+2018,"Puglia","Castellaneta","State owned","Ospedale Castellaneta",88,0,5,9,102
+2018,"Puglia","Taranto","State owned","Presidio Ospedalero Centrale Taranto",488,0,35,18,541
+2018,"Puglia","Andria","State owned","Ospedale Andria - 'L. Bonomo'",180,0,12,3,195
+2018,"Puglia","Barletta","State owned","Ospedale Barletta - 'Mons. R. Dimiccoli'",207,0,10,9,226
+2018,"Puglia","Bisceglie","State owned","Ospedale  Bisceglie",129,0,7,2,138
+2018,"Puglia","Bisceglie","Private","Ospedale Opera Don Uva - Bisceglie",30,0,0,0,30
+2018,"Puglia","Acquaviva Delle Fonti","State owned","Ospedale Regionale Ee 'Miulli'",527,0,4,20,551
+2018,"Puglia","Bari","Private","Casa Di Cura Santa Maria",148,0,0,0,148
+2018,"Puglia","Conversano","Private","Casa Di Cura - Villa Lucia Hospital",73,0,0,0,73
+2018,"Puglia","Noci","Private","Casa Di Cura  ' Monte Imperatore'",22,0,0,0,22
+2018,"Puglia","Bari","Private","Casa Di Cura Anthea",81,0,0,0,81
+2018,"Puglia","Bari","Private","Casa Di Cura C.B.H. Mater Dei Hospital",362,0,0,12,374
+2018,"Puglia","Altamura","State owned","Ospedale Della Murgia - Perinei",174,0,3,2,179
+2018,"Puglia","Bari","State owned","Ospedale Bari 'San Paolo'",428,0,11,7,446
+2018,"Puglia","Monopoli","State owned","Ospedale Monopoli",152,0,3,8,163
+2018,"Puglia","Putignano","State owned","Ospedale Putignano",145,0,2,6,153
+2018,"Puglia","Bari","State owned","Ospedale Bari Di Venere  - Triggiano",303,0,1,7,311
+2018,"Puglia","Cerignola","State owned","Ospedale Cerignola  'G.Tatarella'",159,0,16,0,175
+2018,"Puglia","Foggia","Private","Casa Di Cura Prof. Brodetti",53,0,0,0,53
+2018,"Puglia","Castelnuovo Della Daunia","Private","Casa Di Cura Leonardo De Luca",38,0,0,0,38
+2018,"Puglia","Manfredonia","Private","Casa Di Cura 'S.Michele' Manfredonia",31,0,0,0,31
+2018,"Puglia","Foggia","Private","Casa Di Cura Universo Salute - Don Uva",30,0,0,0,30
+2018,"Puglia","San Severo","State owned","Ospedale San Severo - Teresa Masselli",212,0,10,13,235
+2018,"Puglia","Manfredonia","State owned","Ospedale Manfredonia",93,0,9,2,104
+2018,"Puglia","Foggia","Private","Case Cura Riunite Villa Serena-S. France",84,0,0,0,84
+2018,"Puglia","Galatina","State owned","Ospedale Galatina 'Caterina Novella'",230,0,17,0,247
+2018,"Puglia","Gallipoli","State owned","Ospedale Gallipoli 'Sacro Cuore Di Gesu'",166,0,25,9,200
+2018,"Puglia","Tricase","State owned","Ospedale Regionale Ee 'G. Panico'",334,0,27,0,361
+2018,"Puglia","Lecce","Private","Casa Di Cura 'Prof. Petrucciani' S.R.L.",50,0,0,2,52
+2018,"Puglia","Lecce","Private","Casa Di Cura Villa Bianca",28,0,0,0,28
+2018,"Puglia","Lecce","Private","Casa Di Cura Villa Verde",31,0,0,0,31
+2018,"Puglia","Galatina","Private","Casa Di Cura San Francesco",47,0,0,0,47
+2018,"Puglia","Lecce","Private","Casa Di Cura Citta' Di Lecce",110,0,0,0,110
+2018,"Puglia","Copertino","State owned","Ospedale Copertino",152,0,6,3,161
+2018,"Puglia","Scorrano","State owned","Ospedale Scorrano",163,0,8,2,173
+2018,"Puglia","Casarano","State owned","Ospedale  Casarano",189,0,21,8,218
+2018,"Puglia","Lecce","State owned","Ospedale Lecce - 'V Fazzi' (San Cesario)",577,0,65,0,642
+2018,"Puglia","Bari","State owned","Istituto Tumori Giovanni Paolo Ii",103,0,7,8,118
+2018,"Puglia","Castellana Grotte","State owned","Irccs 'Saverio De Bellis'",95,4,7,0,106
+2018,"Puglia","San Giovanni Rotondo","Private","Ospedale Casa Sollievo Della Sofferenza",740,0,54,28,822
+2018,"Puglia","Cassano Delle Murge","Private","Ics Maugeri Spa Societa' Benefit",24,0,0,0,24
+2018,"Puglia","Bari","State owned","Ao Univ. Cons. Policlinico Bari",1038,0,85,43,1166
+2018,"Puglia","Foggia","State owned","Ao Univ. 'Oo Rr Foggia'",643,0,54,25,722
+2018,"Basilicata","Matera","State owned","Presidio Ospedaliero -  Matera",378,16,52,27,473
+2018,"Basilicata","Potenza","State owned","Azienda Ospedaliera Regionale 'S. Carlo'",856,10,62,43,971
+2018,"Basilicata","Rionero In Vulture","State owned","C.R.O.B. - I.R.C.C.S.",65,0,16,6,87
+2018,"Calabria","Castrovillari","State owned","Ospedale Civile Ferrari - Castrovillari",92,0,20,10,122
+2018,"Calabria","Cosenza","State owned","Ospedale Spoke Rossano - Corigliano",161,0,43,16,220
+2018,"Calabria","Acri","State owned","P.O.Beato Angelico",28,0,18,0,46
+2018,"Calabria","Cetraro","State owned","Ospedale Spoke Cetraro-Paola",163,0,31,19,213
+2018,"Calabria","San Giovanni In Fiore","State owned","Ospedale Civile Sgf",20,0,0,8,28
+2018,"Calabria","Cosenza","Private","Santa Lucia",10,0,0,0,10
+2018,"Calabria","Cosenza","Private","Casa Di Cura Villa Del Sole",40,0,8,0,48
+2018,"Calabria","Belvedere Marittimo","Private","Casa Di Cura Tricarico Rosano Srl",80,0,8,0,88
+2018,"Calabria","Belvedere Marittimo","Private","Casa Di Cura Cascini Srl",80,0,5,31,116
+2018,"Calabria","Cosenza","Private","Casa Di Cura Scarnati",30,0,10,3,43
+2018,"Calabria","Cariati","Private","Igreco Ospedali Riuniti Srl",84,0,0,6,90
+2018,"Calabria","Crotone","State owned","Ospedale Civile San Giovanni Di Dio",259,0,17,12,288
+2018,"Calabria","Rocca Di Neto","Private","Romolo Hospital ( Ex Villa Eva )",30,0,0,3,33
+2018,"Calabria","Crotone","Private","Calabrodental   Srl",0,0,0,8,8
+2018,"Calabria","Cotronei","Private","Casa Di Cura Madonna Dello Scoglio Srl",30,0,3,0,33
+2018,"Calabria","Crotone","Private","Marrelli Hospital",48,0,0,12,60
+2018,"Calabria","Lamezia Terme","State owned","Presidio Ospedaliero Lamezia Terme",200,0,16,7,223
+2018,"Calabria","Soveria Mannelli","State owned","Ospedale Di Soveria Mannelli",19,0,4,2,25
+2018,"Calabria","Catanzaro","Private","Casa Di Cura Villa Del Sole",47,0,0,13,60
+2018,"Calabria","Catanzaro","Private","Casa Di Cura Villa Serena",30,0,0,3,33
+2018,"Calabria","Lamezia Terme","Private","Casa Di Cura Villa Michelino Srl",27,0,0,3,30
+2018,"Calabria","Catanzaro","Private","Casa Di Cura Sant`Anna Hospital",80,0,4,4,88
+2018,"Calabria","Soverato","State owned","Ospedale Basso Ionio",66,0,3,3,72
+2018,"Calabria","Vibo Valentia","State owned","P.O. Jazzolino",117,0,8,6,131
+2018,"Calabria","Tropea","State owned","P.O. Tropea",20,0,7,2,29
+2018,"Calabria","Vibo Valentia","Private","Villa Dei Gerani",20,0,0,2,22
+2018,"Calabria","Serra San Bruno","State owned","P.O. Serra San Bruno",18,0,2,4,24
+2018,"Calabria","Locri","State owned","Ospedale Civile Locri",150,0,27,0,177
+2018,"Calabria","Polistena","State owned","P.O. 'S. Maria Degli Ungheresi'",121,0,13,0,134
+2018,"Calabria","Melito Di Porto Salvo","State owned","Ospedale 'Tiberio Evoli' - Melito P.S.",49,0,4,5,58
+2018,"Calabria","Gioia Tauro","State owned","P.O. 'Giovanni Xxiii'",15,0,7,0,22
+2018,"Calabria","Reggio Di Calabria","Private","Istituto Ortopedico Mezzogiorno D`Italia",70,0,7,0,77
+2018,"Calabria","Reggio Di Calabria","Private","Casa Di Cura 'Villa Aurora'",40,0,0,3,43
+2018,"Calabria","Reggio Di Calabria","Private","Policlinico 'Madonna Della Consolazione'",80,0,5,3,88
+2018,"Calabria","Villa San Giovanni","Private","Casa Di Cura 'Villa Caminiti'",54,0,0,6,60
+2018,"Calabria","Reggio Di Calabria","Private","Casa Di Cura 'Villa S.Anna'",35,0,0,5,40
+2018,"Calabria","Cosenza","State owned","Azienda Ospedaliera Di Cosenza",489,0,44,37,570
+2018,"Calabria","Catanzaro","State owned","Azienda Ospedaliera Pugliese De Lellis",383,0,80,21,484
+2018,"Calabria","Catanzaro","State owned","A.O. Mater Domini Catanzaro",189,0,24,19,232
+2018,"Calabria","Reggio Di Calabria","State owned","Azienda Osp.  Bianchi-Melacrino-Morelli",485,0,40,17,542
+2018,"Calabria","Cosenza","State owned","Inrca",39,0,0,0,39
+2018,"Sicilia","Agrigento","State owned","P.O. S. Giovanni Di Dio",211,0,37,0,248
+2018,"Sicilia","Canicatti'","State owned","P.O. Barone Lombardo - Canicatti'",73,0,12,3,88
+2018,"Sicilia","Licata","State owned","P.O. S. Giacomo D'Altopasso Licata",66,0,6,6,78
+2018,"Sicilia","Ribera","State owned","P.O.  F.Lli Parlapiano - Ribera",18,0,2,2,22
+2018,"Sicilia","Sciacca","State owned","P.O. Giovanni Paolo Ii",154,0,34,0,188
+2018,"Sicilia","Santo Stefano Quisquina","Private","Casa Di Salute Ignazio Attardi S.P.A.",54,0,3,3,60
+2018,"Sicilia","Agrigento","Private","Sia Casa Di Cura S. Anna S.P.A.",76,0,4,5,85
+2018,"Sicilia","Caltanissetta","State owned","P.O. Sant'Elia (Ex Ao)",216,0,43,13,272
+2018,"Sicilia","Mussomeli","State owned","P.O. M. Immacolata  Longo",25,0,4,0,29
+2018,"Sicilia","San Cataldo","State owned","P.O.Maddalena Raimondi",0,0,4,0,4
+2018,"Sicilia","Gela","State owned","P.O. Vittorio Emanuele (Ex Ao)",111,0,18,5,134
+2018,"Sicilia","Mazzarino","State owned","P.O. Santo Stefano",20,0,2,0,22
+2018,"Sicilia","Niscemi","State owned","P.O. Suor Cecilia Basarocco",25,0,2,1,28
+2018,"Sicilia","San Cataldo","Private","Casa Di Cura 'Regina Pacis'",12,0,0,11,23
+2018,"Sicilia","Gela","Private","So.Ge.Sa.Spa.C.Di.C.S.Barbara",48,0,4,8,60
+2018,"Sicilia","Acireale","State owned","P.O. S. Marta E S. Venera Acireale",96,0,8,10,114
+2018,"Sicilia","Giarre","State owned","S.Giovanni Di Dio E S.Isidoro Giarre",22,0,1,0,23
+2018,"Sicilia","Biancavilla","State owned","P.O. Maria Ss.Addolorata Biancavilla",38,0,1,3,42
+2018,"Sicilia","Bronte","State owned","P.O. Castiglione Prestianni Bronte",49,0,2,3,54
+2018,"Sicilia","Paterno'","State owned","P.O. Ss. Salvatore Patern�",40,0,3,3,46
+2018,"Sicilia","Caltagirone","State owned","P.O. Gravina E S. Pietro Caltagirone",162,0,7,9,178
+2018,"Sicilia","Militello In Val Di Catania","State owned","P.O. Basso Ragusa Militello",24,0,2,5,31
+2018,"Sicilia","Catania","Private","Casa Di Cura Di Stefano Velona S.R.L.",36,0,0,10,46
+2018,"Sicilia","Catania","Private","Casa Di Cura Madonna Del Rosario",15,0,4,0,19
+2018,"Sicilia","Catania","Private","Casa Di Cura G.B. Morgagni S.R.L.",93,0,4,6,103
+2018,"Sicilia","Catania","Private","Casa Di Cura S. Rita Srl",21,0,2,6,29
+2018,"Sicilia","Catania","Private","Mater Dei Di G.Nesi & C. S.P.A",37,0,0,5,42
+2018,"Sicilia","Catania","Private","Humanitas Centro Catanese Di Oncologia",76,0,4,8,88
+2018,"Sicilia","Catania","Private","Casa Cura Centro Catanese Med. E Ch.",154,0,4,8,166
+2018,"Sicilia","Catania","Private","Casa Di Cura Gibiino Srl",36,0,0,4,40
+2018,"Sicilia","Viagrande","Private","Istituto Oncologico Del Mediterraneo Spa",80,0,8,2,90
+2018,"Sicilia","Catania","Private","Casa Di Cura Prof.E.Falcidia Srl",27,0,0,3,30
+2018,"Sicilia","Gravina Di Catania","Private","Casa Di Cura Musumeci Gecas Srl",86,0,5,7,98
+2018,"Sicilia","Catania","Private","Casa Di Cura Villa S.Francesco",0,0,0,7,7
+2018,"Sicilia","Catania","Private","Casa Di Cura Valsalva  Srl",35,0,0,10,45
+2018,"Sicilia","Pedara","Private","Iscas Morgagni Nord Srl",58,0,1,2,61
+2018,"Sicilia","Catania","Private","Private Hospital Argento Srl",34,0,0,8,42
+2018,"Sicilia","Catania","Private","Istituto Clinico Vidimura Srl",65,0,2,3,70
+2018,"Sicilia","Enna","State owned","P. O. 'Umberto I'",215,8,26,0,249
+2018,"Sicilia","Piazza Armerina","State owned","P. O. 'M. Chiello'",47,0,13,0,60
+2018,"Sicilia","Leonforte","State owned","P. O. 'Ferro-Capra-Branciforte'",20,2,4,0,26
+2018,"Sicilia","Nicosia","State owned","P. O. 'Carlo Basilotta'",60,2,10,0,72
+2018,"Sicilia","Barcellona Pozzo Di Gotto","State owned","P.O. 'Nuovo Cutroni Zodda' Barcellona",45,0,6,1,52
+2018,"Sicilia","Lipari","State owned","P.O.  Lipari",18,0,2,2,22
+2018,"Sicilia","Milazzo","State owned","P.O. 'G. Fogliani' Milazzo",99,0,5,8,112
+2018,"Sicilia","Taormina","State owned","P.O.' S. Vincenzo' Taormina",151,6,21,8,186
+2018,"Sicilia","Mistretta","State owned","P.O. 'Ss. Salvatore' Mistretta",10,0,2,6,18
+2018,"Sicilia","Patti","State owned","P.O. 'Barone-Romeo' Patti",99,0,5,7,111
+2018,"Sicilia","Sant'Agata Di Militello","State owned","Stabilimento Osped. S. Agata Militello",66,0,8,6,80
+2018,"Sicilia","Messina","Private","I.O.M.I. F.Scalabrino Ganzirri",154,0,0,21,175
+2018,"Sicilia","Messina","Private","Casa Di Cura S.Camillo",64,0,4,10,78
+2018,"Sicilia","Messina","Private","Casa Di Cura Cristo Re",54,0,2,10,66
+2018,"Sicilia","Messina","Private","Casa Di Cura Carmona  Srl",56,0,8,7,71
+2018,"Sicilia","Messina","Private","Casa Di Cura Villa Salus S.A.S.",76,0,7,2,85
+2018,"Sicilia","Messina","Private","C.O.T. S.P.A. (Cure Ortoped. Traum.)",54,0,4,4,62
+2018,"Sicilia","Messina","Private","Casa Di Cura Villa Igea Srl",36,0,4,0,40
+2018,"Sicilia","Messina","Private","Casa Di Cura Cappellani Giomi S.P.A.",38,0,0,9,47
+2018,"Sicilia","Cefalu'","Private","Fond. Ist. S. Raffaele - Giglio",185,0,8,8,201
+2018,"Sicilia","Palermo","State owned","Osp. Buccheri La Ferla Fatebenefratelli",246,0,1,8,255
+2018,"Sicilia","Corleone","State owned","P.O. Dei Bianchi Corleone",48,0,1,3,52
+2018,"Sicilia","Partinico","State owned","P.O. Civico Partinico",81,0,10,8,99
+2018,"Sicilia","Petralia Sottana","State owned","P.O. Madonna Dell'Alto - Petr. Sottana",32,0,3,2,37
+2018,"Sicilia","Termini Imerese","State owned","P.O. S. Cimino Termini Imerese",72,0,10,8,90
+2018,"Sicilia","Palermo","State owned","P.O. G. F. Ingrassia",107,0,4,6,117
+2018,"Sicilia","Partinico","Private","Casa Di Cura Igea S.N.C.",72,0,2,6,80
+2018,"Sicilia","Palermo","Private","Casa Di Cura Candela Spa",85,0,1,8,94
+2018,"Sicilia","Palermo","Private","Casa Di Cure Orestano S.R.L.",84,0,6,10,100
+2018,"Sicilia","Palermo","Private","Casa Di Cura 'Triolo Zancla' S.P.A.",58,0,3,4,65
+2018,"Sicilia","Palermo","Private","Casa Di Cura Serena S.P.A.",102,0,4,7,113
+2018,"Sicilia","Palermo","Private","Casa Di Cura Noto Pasqualino S.R.L.",127,0,3,11,141
+2018,"Sicilia","Palermo","Private","Nuova Casa Di Cura D`Anna Pia Ass. Srl",44,0,4,0,48
+2018,"Sicilia","Palermo","Private","Nuova Casa Di Cura Demma Srl",30,0,0,10,40
+2018,"Sicilia","Palermo","Private","Casa Di Cura Macchiarella S.P.A.",99,0,5,10,114
+2018,"Sicilia","Palermo","Private","Casa Di Cura Torina",81,0,3,6,90
+2018,"Sicilia","Palermo","Private","Casa Di Cura Villa Margherita",26,0,2,0,28
+2018,"Sicilia","Palermo","Private","Casa Di Cure Cosentino Di Karol  S.R.L.",45,0,2,3,50
+2018,"Sicilia","Palermo","Private","Casa Di Cura La Maddalena S.P.A.",75,0,5,3,83
+2018,"Sicilia","Palermo","Private","Centro Andros S.R.L.",0,0,0,11,11
+2018,"Sicilia","Palermo","Private","Casa Di Cura Latteri Valsava S.R.L.",37,0,1,4,42
+2018,"Sicilia","Palermo","Private","Casa Di Cura Villa Maria Eleonora",60,0,2,4,66
+2018,"Sicilia","Ragusa","State owned","Ospedale ' Civile Maria Paterno' Arezzo",230,5,40,6,281
+2018,"Sicilia","Comiso","State owned","Ospedale Regina Margherita  Comiso",0,0,4,4,8
+2018,"Sicilia","Modica","State owned","Ospedale Maggiore Modica",127,0,14,6,147
+2018,"Sicilia","Scicli","State owned","Ospedale Busacca Scicli",10,0,0,0,10
+2018,"Sicilia","Vittoria","State owned","Ospedale Guzzardi Vittoria",138,0,12,5,155
+2018,"Sicilia","Ragusa","Private","Casa Di Cura Clinica Del Mediterraneo",39,0,0,9,48
+2018,"Sicilia","Avola","State owned","P.O. Di Maria Avola",67,0,9,3,79
+2018,"Sicilia","Noto","State owned","P.O. Trigona Noto",43,0,5,2,50
+2018,"Sicilia","Siracusa","State owned","P.O. Umberto I (Ex A.O.)",289,0,24,9,322
+2018,"Sicilia","Augusta","State owned","P.O. Muscatello Augusta",78,0,13,4,95
+2018,"Sicilia","Lentini","State owned","Ospedale Generale Di Zona",84,0,12,4,100
+2018,"Sicilia","Siracusa","Private","Casa Di Cura Santa Lucia Glef",50,0,0,10,60
+2018,"Sicilia","Siracusa","Private","Casa Di Cura Villa Mauritius Arc",49,0,8,0,57
+2018,"Sicilia","Augusta","Private","Ist.Ort. Villa Salus I. Galatioto Srl",123,0,5,20,148
+2018,"Sicilia","Siracusa","Private","C. Di Cura 'Villa Azzurra' - Gesin Srl",36,0,1,2,39
+2018,"Sicilia","Siracusa","Private","Clinica Villa Rizzo",37,0,0,8,45
+2018,"Sicilia","Alcamo","State owned","P.O. San Vito E Santo Spirito -Alcamo",45,0,3,2,50
+2018,"Sicilia","Pantelleria","State owned","P.O. 'B. Nagar' - Pantelleria",10,0,0,2,12
+2018,"Sicilia","Erice","State owned","P.O. S. Antonio Abate  - Trapani",226,0,24,11,261
+2018,"Sicilia","Castelvetrano","State owned","P.O. V.Emanuele Ii Castelvetrano",68,0,13,7,88
+2018,"Sicilia","Marsala","State owned","P.O.Paolo Borsellino - Marsala",102,0,8,8,118
+2018,"Sicilia","Mazara Del Vallo","State owned","P.O.Abele Ajello-Mazara D.Vallo",41,0,1,4,46
+2018,"Sicilia","Salemi","State owned","P.O. Vittorio Emanuele Iii - Salemi",12,0,2,10,24
+2018,"Sicilia","Erice","Private","Casa Di Cura Villa Dei Gerani",37,0,3,10,50
+2018,"Sicilia","Erice","Private","Casa Di Cura Sant`Anna Srl.",54,0,2,8,64
+2018,"Sicilia","Marsala","Private","Casa Di Cura Morana Srl",28,0,5,0,33
+2018,"Sicilia","Catania","State owned","A.O. Per L'Emergenza Cannizzaro",481,0,25,22,528
+2018,"Sicilia","Catania","State owned","Arnas Garibaldi",490,21,51,30,592
+2018,"Sicilia","Catania","State owned","A.O.U. Policlinico - Vittorio Emanuele",705,20,97,34,856
+2018,"Sicilia","Messina","State owned","Azienda Ospedaliera Papardo",302,0,17,0,319
+2018,"Sicilia","Messina","State owned","Azienda Osp. Univ. G. Martino",458,6,18,11,493
+2018,"Sicilia","Palermo","State owned","A.O.R Villa Sofia Cervello",538,0,67,25,630
+2018,"Sicilia","Palermo","State owned","Azienda Ospedaliera 'Civico-Di Cristina-",683,21,54,32,790
+2018,"Sicilia","Palermo","State owned","Az.Osp.Univ.P.Giaccone",383,0,61,0,444
+2018,"Sicilia","Palermo","Private","Irccs Ismett",78,0,7,0,85
+2018,"Sicilia","Troina","Private","Associazione Oasi Maria Ss",78,0,10,0,88
+2018,"Sicilia","Messina","State owned","Irccs Centro Neurolesi 'Bonino Pulejo'",56,0,2,2,60
+2018,"Sicilia","Bagheria","State owned","Dipartimento Rizzoli-Sicilia",30,0,0,6,36
+2018,"Sardegna","Alghero","State owned","Ospedale Civile Alghero",96,0,12,0,108
+2018,"Sardegna","Ozieri","State owned","Ospedale Civile Ozieri",92,0,14,0,106
+2018,"Sardegna","Tempio Pausania","State owned","P.O. Paolo Dettori - Tempio P.",129,0,12,0,141
+2018,"Sardegna","Alghero","State owned","Ospedale Marino Alghero",22,0,8,0,30
+2018,"Sardegna","La Maddalena","State owned","P.O. Paolo Merlo La Maddalena",30,0,5,0,35
+2018,"Sardegna","Olbia","State owned","P.O.  Giovanni Paolo Ii  Olbia",164,0,15,0,179
+2018,"Sardegna","Sassari","Private","Policlinico Sassarese Spa",90,0,2,9,101
+2018,"Sardegna","Nuoro","State owned","P.O.  San Francesco",333,0,53,16,402
+2018,"Sardegna","Nuoro","State owned","P.O. C. Zonchello",26,0,5,0,31
+2018,"Sardegna","Lanusei","State owned","P.O. 'Nostra Signora Della Mercede'",100,0,6,5,111
+2018,"Sardegna","Sorgono","State owned","P.O. San Camillo",33,0,4,1,38
+2018,"Sardegna","Bosa","State owned","P.O. 'A.G. Mastino' - Bosa",39,0,1,4,44
+2018,"Sardegna","Isili","State owned","P.O. S.Giuseppe",20,0,4,0,24
+2018,"Sardegna","Jerzu","Private","Clinica Tommasini Spa",20,0,4,8,32
+2018,"Sardegna","Cagliari","State owned","P.O. R. Binaghi",4,1,5,0,10
+2018,"Sardegna","Cagliari","State owned","P.O. Marino",98,0,0,4,102
+2018,"Sardegna","Carbonia","State owned","P.O.Sirai",126,0,20,4,150
+2018,"Sardegna","Iglesias","State owned","P.O.Santa Barbara",4,0,17,3,24
+2018,"Sardegna","Iglesias","State owned","P.O.Cto",111,0,10,6,127
+2018,"Sardegna","Cagliari","State owned","P.O. Ss. Trinita'",303,0,19,13,335
+2018,"Sardegna","San Gavino Monreale","State owned","Presidio Ospedaliero N.S. Di Bonaria",158,0,11,7,176
+2018,"Sardegna","Muravera","State owned","P.O. San Marcellino",42,0,1,2,45
+2018,"Sardegna","Cagliari","Private","Casa Di Cura S.Anna S.R.L.",51,0,0,6,57
+2018,"Sardegna","Cagliari","Private","Casa Di Cura S. Antonio S.P.A.",172,0,5,4,181
+2018,"Sardegna","Cagliari","Private","Casa Di Cura Villa Elena",66,0,1,7,74
+2018,"Sardegna","Decimomannu","Private","Nuova Casa Di Cura S.R.L.",65,0,11,10,86
+2018,"Sardegna","Oristano","State owned","P. Ospedaliero 'San Martino' - Oristano",214,0,36,3,253
+2018,"Sardegna","Ghilarza","State owned","P. Ospedaliero 'G.P. Delogu' - Ghilarza",32,0,3,5,40
+2018,"Sardegna","Oristano","Private","C.C.  'Madonna Del Rimedio' - Oristano",162,0,12,0,174
+2018,"Sardegna","Quartu Sant'Elena","Private","Kinetika Sardegna",80,0,1,18,99
+2018,"Sardegna","Cagliari","State owned","Azienda Ospedaliera G.Brotzu",669,0,100,31,800
+2018,"Sardegna","Sassari","State owned","Azienda Ospedaliero Universitaria Ss",728,0,79,0,807
+2018,"Sardegna","Cagliari","State owned","A.O.U. Cagliari",415,2,48,23,488
