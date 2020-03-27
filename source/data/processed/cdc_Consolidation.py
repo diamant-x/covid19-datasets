@@ -34,7 +34,7 @@ dfImported.rename(columns=dict(zip(currentColumns, targetColumns)), inplace=True
 dfImported = dfImported[["Date", "Country", "Population", "New confirmed cases", "New deaths"]]
 
 #%% Clean data
-dfImported["Date"] = dfImported["Date"].replace("Cases_on_an_international_conveyance_Japan", "Diamond Princess")
+dfImported["Country"] = dfImported["Country"].replace("Cases_on_an_international_conveyance_Japan", "Diamond Princess")
 dfImported.fillna(0, inplace=True)
 
 #%% Sort data (for proper cumulative sum of Totals).
