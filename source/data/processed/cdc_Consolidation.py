@@ -34,14 +34,14 @@ dfImported.rename(columns=dict(zip(currentColumns, targetColumns)), inplace=True
 dfImported = dfImported[["Date", "Country", "Population", "New confirmed cases", "New deaths"]]
 
 #%% Clean data
-dfImported["Country"] = dfImported["Country"].replace("Cases_on_an_international_conveyance_Japan", "Diamond Princess").replace("_", " ")
+dfImported["Country"] = dfImported["Country"].replace("Cases_on_an_international_conveyance_Japan", "Diamond Princess").str.replace("_", " ")
 dfImported.fillna(0, inplace=True)
 
 #%% Sort data (for proper cumulative sum of Totals).
 dfImported.sort_values(by=['Date', 'Country'], ascending = True, inplace=True)
 
 #%% Calculate data
-dfImported[dfImported["Country"]=="Diamond Princess"]['Population'] = 3711 # February 4, 2020 at 6:00 PM PT https://www.princess.com/news/notices_and_advisories/notices/diamond-princess-update.html
+dfImported.loc[dfImported["Country"]=="Diamond Princess", ['Population']] = 3711 # February 4, 2020 at 6:00 PM PT https://www.princess.com/news/notices_and_advisories/notices/diamond-princess-update.html
 dfImported['Total confirmed cases'] = dfImported.groupby("Country")['New confirmed cases'].transform(pd.Series.cumsum)
 dfImported['Total deaths'] = dfImported.groupby("Country")['New deaths'].transform(pd.Series.cumsum)
 
