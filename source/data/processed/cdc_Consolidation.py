@@ -41,6 +41,7 @@ dfImported.fillna(0, inplace=True)
 dfImported.sort_values(by=['Date', 'Country'], ascending = True, inplace=True)
 
 #%% Calculate data
+dfImported[dfImported["Country"]=="Diamond Princess"]['Population'] = 3711 # February 4, 2020 at 6:00 PM PT https://www.princess.com/news/notices_and_advisories/notices/diamond-princess-update.html
 dfImported['Total confirmed cases'] = dfImported.groupby("Country")['New confirmed cases'].transform(pd.Series.cumsum)
 dfImported['Total deaths'] = dfImported.groupby("Country")['New deaths'].transform(pd.Series.cumsum)
 
