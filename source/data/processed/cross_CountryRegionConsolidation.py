@@ -40,6 +40,7 @@ dfConsolidated.fillna(0, inplace=True)
 
 #%% Calculate new cases and new deaths.
 dfConsolidated["New confirmed cases"] = 0
+dfConsolidated["Current Hospital cases"] = 0
 dfConsolidated["New Hospital cases"] = 0
 dfConsolidated["New ICU cases"] = 0
 dfConsolidated["New deaths"] = 0
@@ -60,12 +61,14 @@ for country in dfConsolidated["Country"].unique():
                 # First date
                 dfConsolidated.loc[indexDate,["New confirmed cases"]] = dfDate["Total confirmed cases"]
                 dfConsolidated.loc[indexDate,["New Hospital cases"]] = dfDate["Total Hospital cases"]
+                dfConsolidated.loc[indexDate,["Current Hospital cases"]] = dfDate["Total Hospital cases"]
                 dfConsolidated.loc[indexDate,["New ICU cases"]] = dfDate["Total ICU cases"]
                 dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"]
                 dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"]
             else:
                 dfConsolidated.loc[indexDate,["New confirmed cases"]] = dfDate["Total confirmed cases"].values-dfMaxDate["Total confirmed cases"].values
                 dfConsolidated.loc[indexDate,["New Hospital cases"]] = dfDate["Total Hospital cases"].values-dfMaxDate["Total Hospital cases"].values
+                dfConsolidated.loc[indexDate,["Current Hospital cases"]] = dfDate["Total Hospital cases"].values-dfMaxDate["Total deaths"].values-dfMaxDate["Total cured"].values
                 dfConsolidated.loc[indexDate,["New ICU cases"]] = dfDate["Total ICU cases"].values-dfMaxDate["Total ICU cases"].values
                 dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"].values-dfMaxDate["Total deaths"].values
                 dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"].values-dfMaxDate["Total cured"].values
@@ -75,6 +78,7 @@ dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"
 dfConsolidated["New confirmed cases"] = dfConsolidated["New confirmed cases"].astype('int64')
 dfConsolidated["Total Hospital cases"] = dfConsolidated["Total Hospital cases"].astype('int64')
 dfConsolidated["New Hospital cases"] = dfConsolidated["New Hospital cases"].astype('int64')
+dfConsolidated["Current Hospital cases"] = dfConsolidated["Current Hospital cases"].astype('int64')
 dfConsolidated["Total ICU cases"] = dfConsolidated["Total ICU cases"].astype('int64')
 dfConsolidated["New ICU cases"] = dfConsolidated["New ICU cases"].astype('int64')
 dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
