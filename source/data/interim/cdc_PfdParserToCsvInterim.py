@@ -23,8 +23,12 @@ for file in rawFiles:
     fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
-    dfImported = pd.read_excel(file, header=0, encoding='utf-8', parse_dates=["DateRep"])
-    dfImported.drop(["Day", "Month", "Year"], axis=1, inplace=True)
+    try:
+        dfImported = pd.read_excel(file, header=0, encoding='utf-8', parse_dates=["DateRep"])
+        dfImported = dfImported[["DateRep","Cases","Deaths","Countries and territories","Pop_Data.2018"]]
+    except (ValueError, KeyError):
+        dfImported = pd.read_excel(file, header=0, encoding='utf-8', parse_dates=["dateRep"])
+        dfImported = dfImported[["dateRep","cases","deaths","countriesAndTerritories","popData2018"]]
     
     #%% Prepare to write the parsing.
     outputFilename = fileName.split(".")[-2] + ".csv"

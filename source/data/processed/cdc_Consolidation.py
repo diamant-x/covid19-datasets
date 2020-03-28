@@ -24,10 +24,10 @@ file = max(rawFiles)
 fileName = file.split(os.sep)[-1]
 print("Processing file: " + fileName)
 
-currentColumns = ["DateRep", "Cases", "Deaths", "Countries and territories", "GeoId", "Pop_Data.2018"]
-targetColumns = ["Date", "New confirmed cases", "New deaths", "Country", "Country Code", "Population"]
+currentColumns = ["DateRep", "Cases", "Deaths", "Countries and territories", "Pop_Data.2018"]
+targetColumns = ["Date", "New confirmed cases", "New deaths", "Country", "Population"]
 
-dfImported = pd.read_csv(file, header=0, encoding='utf-8', usecols = currentColumns, parse_dates=["DateRep"], quoting=csv.QUOTE_NONNUMERIC)
+dfImported = pd.read_csv(file, header=0, encoding='utf-8', names = currentColumns, quoting=csv.QUOTE_NONNUMERIC, index_col=False, skipinitialspace=True)
 
 dfImported.rename(columns=dict(zip(currentColumns, targetColumns)), inplace=True)
 
