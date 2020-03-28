@@ -43,7 +43,7 @@ for file in rawFiles:
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
                     for region in namesOfRegions:
-                        line = line.replace(region, region+",")
+                        line = line.replace(region, region+",").replace("¥", "")
                     outputFileObject.write(line)
                 else:
                     continue
