@@ -11,7 +11,8 @@ import os # To access the OS separator char.
 import requests #To issue REST commands
 import urllib.request # to get contents web
 import shutil # to store to file
-
+import urllib3
+urllib3.disable_warnings() #TODO: Fix SSL validation error.
 
 #%% Constants Setup
 pathOutputFiles = "data/raw/cdc/"
