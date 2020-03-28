@@ -124,6 +124,7 @@ for file in rawFiles:
 
     dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('str').str.replace(",",".").astype('float64')
     dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+    dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('str').str.replace(",",".").astype('float64')
 
     dfImported.insert(0, "Date", date.date(), allow_duplicates=False)
 
