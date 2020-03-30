@@ -57,7 +57,9 @@ for file in rawFiles:
     dateId = int(fileName.split("_")[1])
     dfDatesTemp = dfDatesAll[dfDatesAll["ID"]<dateId]
     firstDateId = int(dfDatesTemp["ID"].max())
-    date = dfDatesTemp["Date"].max() + pd.Timedelta(days=dateId-firstDateId)
+    date = dfDatesTemp["Date"].max() + pd.Timedelta(days=dateId-firstDateId) + pd.Timedelta(hours=21) # All reports are published at 21h.
+
+
 
     # Column Structure will be calculated sequentially based on the previous highest id's date
     fileId = int(fileName.split("_")[1])
@@ -93,7 +95,7 @@ for file in rawFiles:
     except AttributeError:
         pass
   
-    dfImported.insert(0, "Date", date.date(), allow_duplicates=False) 
+    dfImported.insert(0, "Date", date, allow_duplicates=False) 
     
     dfImported.fillna(0, inplace=True)
 
