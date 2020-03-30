@@ -64,7 +64,7 @@ Aruba,46,18.0,0.0,0.0,Local transmission,0.0
 French Guiana,31,0.0,0.0,0.0,Local transmission,1.0
 Bermuda,17,2.0,0.0,0.0,Local transmission,0.0
 "United States VirginIslands",17,0.0,0.0,0.0,Imported cases only,5.0
-Saint Martin,12,0.0,0.0,0.0,Under investigation,1.0
+Saint Martin,6,0.0,0.0,0.0,Under investigation,1.0
 Cayman Islands,8,0.0,1.0,0.0,Imported cases only,3.0
 Curaçao,7,0.0,1.0,0.0,Imported cases only,2.0
 Montserrat,5,0.0,0.0,0.0,Imported cases only,1.0
@@ -85,7 +85,7 @@ Cameroon,91,16.0,2.0,1.0,Local transmission,0.0
 "Democratic Republic ofthe Congo",68,10.0,6.0,2.0,Local transmission,0.0
 Nigeria,65,0.0,1.0,0.0,Local transmission,2.0
 Rwanda,60,6.0,0.0,0.0,Local transmission,0.0
-Togo,29,4.0,0.0,0.0,Imported cases only,0.0
+Togo,28,3.0,0.0,0.0,Imported cases only,0.0
 Madagascar,26,0.0,0.0,0.0,Imported cases only,1.0
 Kenya,25,0.0,1.0,0.0,Local transmission,4.0
 Congo,19,0.0,0.0,0.0,Imported cases only,1.0
@@ -117,8 +117,8 @@ Guinea-Bissau,2,0.0,0.0,0.0,Imported cases only,3.0
 Territories**,,,,,,
 Réunion,143,8.0,0.0,0.0,Local transmission,0.0
 Mayotte,50,0.0,0.0,0.0,Local transmission,2.0
-Subtotal for all regions,634123,63159.0,29884.0,3398.0,,
+Subtotal for all regions,634101,63160.0,29884.0,3398.0,,
 International,,,,,,
 conveyance (Diamond,712,0.0,7.0,0.0,Local transmission,13.0
 Princess),,,,,,
-Grand total,634835,63159.0,29891.0,3398.0,,
+Grand total,634813,63160.0,29891.0,3398.0,,
