@@ -35,7 +35,12 @@ rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
 #%% Iterate through files.
 for file in rawFiles:
     fileName = file.split(os.sep)[-1]
-    print("Processing file: " + fileName)
+
+    if os.path.isfile(pathOutputFile+fileName):
+        print("Skipping file as it was already processed: " + fileName)
+        continue
+    else:
+        print("Processing file: " + fileName)
 
     with io.open(pathOutputFile+fileName, mode='w', encoding="utf-8") as outputFileObject:
         with io.open(file, mode='r', encoding="utf-8") as fileObject:
