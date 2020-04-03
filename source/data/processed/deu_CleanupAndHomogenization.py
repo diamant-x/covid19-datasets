@@ -45,7 +45,7 @@ for file in rawFiles:
             prependNextLine = ""
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
-                    line = line.replace("+", "").replace("  "," ").replace("\"", "")
+                    line = line.replace("+", "").replace("  "," ").replace("\"", "").replace("*", "")
                     line = re.sub(r'\s([0-9])', r' \1', line)
                     line = "\"" + line
                     line = re.sub(r'([a-zA-Z])\s([0-9])', r'\1" \2', line)
@@ -63,7 +63,7 @@ for file in rawFiles:
                                 prependNextLine = value
                     continue
                 elif len(prependNextLine) > 0:
-                    line = line.replace("+", "").replace("  "," ").replace("\"", "")
+                    line = line.replace("+", "").replace("  "," ").replace("\"", "").replace("*", "")
                     line = prependNextLine + line
                     line = re.sub(r'\s([0-9])', r' \1', line)
                     line = "\"" + line
