@@ -8,7 +8,7 @@ import csv #To load the tags metadatas
 import os # To access the OS separator char.
 
 #%% Constants Setup
-inputFileList = ["data/processed/ita/ITA-COVID19_Regional.csv", "data/processed/deu/DEU-COVID19.csv", "data/processed/esp/ESP-COVID19.csv"]
+inputFileList = ["data/processed/ita/ITA-COVID19_Regional.csv", "data/processed/deu/DEU-COVID19.csv", "data/processed/esp/ESP-COVID19.csv", "data/processed/fra/FRA-COVID19.csv"]
 pathOutputFile = "data/processed/"
 
 dfConsolidated = pd.DataFrame()
@@ -22,14 +22,17 @@ for file in inputFileList:
         # No file loaded yet.
         namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total ICU cases", "Total deaths", "Total cured"]
         dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+        dfConsolidated = dfConsolidated.groupby(["Date","Country","Region"], as_index=False).sum()
 
     else:
         try:
             namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total ICU cases", "Total deaths", "Total cured"]
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfImported = dfImported.groupby(["Date","Country","Region"], as_index=False).sum()
         except ValueError:
             namesColumns = ["Date","Country","Region","Total confirmed cases","Total deaths"]
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfImported = dfImported.groupby(["Date","Country","Region"], as_index=False).sum()
 
         dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
 
