@@ -22,7 +22,7 @@ dfCases = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, encoding='
 dfCases = dfCases.loc[dfCases["Age"]=="Total"]
 
 #%% Process Hospital data
-pathInputFile = "data/interim/fra/fra-covid19-departement.csv"
+pathInputFile = "data/interim/fra/fra-covid19-hospitalieres-departement.csv"
 file = pathInputFile
 fileName = file.split(os.sep)[-1]
 print("Processing file: " + fileName)
