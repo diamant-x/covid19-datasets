@@ -18,7 +18,7 @@ Iraq,820,48,54,0.0,Local transmission,0.0
 Bahrain,673,30,4,0.0,Local transmission,0.0
 Lebanon,508,0,17,0.0,Local transmission,1.0
 Tunisia,495,40,18,4.0,Local transmission,0.0
-Kuwait,417,0,0,0.0,Local transmission,1.0
+Kuwait,479,62,1,1.0,Local transmission,1.0
 Jordan,310,11,5,0.0,Local transmission,0.0
 Oman,277,25,1,0.0,Local transmission,0.0
 Afghanistan,270,1,5,0.0,Local transmission,0.0
@@ -133,10 +133,10 @@ Sierra Leone,2,0,0,0.0,Imported cases only,2.0
 Territories**,,,,,,
 Réunion,321,13,0,0.0,Local transmission,0.0
 Mayotte,128,0,2,0.0,Local transmission,1.0
-Subtotal for all,1 050923,79 332,56 974,6664.0,,
+Subtotal for all,1 050985,79 394,56 975,6665.0,,
 ,,,,,,
 regions,,,,,,
 International,,,,,,
 conveyance (Diamond,712,0,11,0.0,Local transmission,19.0
 Princess),,,,,,
-Grand total,1 051635,79 332,56 985,6664.0,,
+Grand total,1 051697,79 394,56 986,6665.0,,

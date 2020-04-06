@@ -1,0 +1,131 @@
+"Date","Country","Total confirmed cases","New cases","Total deaths","Total new deaths","Transmission classification","Days since last reported case"
+"2020-04-05","Thailand",2067,89,20,1.0,"Local transmission",0.0
+"2020-04-05","Sri Lanka",159,8,5,10.0,"Local transmission",0.0
+"2020-04-05","Bangladesh",70,9,8,20.0,"Local transmission",0.0
+"2020-04-05","Myanmar",20,0,1,0.0,"Local transmission",10.0
+"2020-04-05","Maldives",19,0,0,0.0,"Local transmission",20.0
+"2020-04-05","Nepal",9,3,0,0.0,"Local transmission",0.0
+"2020-04-05","Bhutan",5,0,0,0.0,"Imported cases only",20.0
+"2020-04-05","Timor-Leste",1,0,0,0.0,"Imported cases only",150.0
+"2020-04-05","Iran (Islamic Republic of)",55743,2560,3452,1580.0,"Local transmission",0.0
+"2020-04-05","Pakistan",2880,430,45,100.0,"Local transmission",0.0
+"2020-04-05","Saudi Arabia",2370,331,29,40.0,"Local transmission",0.0
+"2020-04-05","United Arab Emirates",1505,241,10,10.0,"Local transmission",0.0
+"2020-04-05","Qatar",1325,250,3,0.0,"Local transmission",0.0
+"2020-04-05","Egypt",1070,85,71,50.0,"Local transmission",0.0
+"2020-04-05","Morocco",960,116,66,160.0,"Local transmission",0.0
+"2020-04-05","Iraq",878,58,56,20.0,"Local transmission",0.0
+"2020-04-05","Bahrain",688,15,4,0.0,"Local transmission",0.0
+"2020-04-05","Kuwait",556,77,1,0.0,"Local transmission",0.0
+"2020-04-05","Tunisia",553,58,19,10.0,"Local transmission",0.0
+"2020-04-05","Lebanon",527,19,18,10.0,"Local transmission",0.0
+"2020-04-05","Jordan",323,13,5,0.0,"Local transmission",0.0
+"2020-04-05","Afghanistan",299,29,7,20.0,"Local transmission",0.0
+"2020-04-05","Oman",298,21,2,10.0,"Local transmission",0.0
+"2020-04-05","Djibouti",51,1,0,0.0,"Local transmission",0.0
+"2020-04-05","Libya",17,0,1,0.0,"Local transmission",10.0
+"2020-04-05","Syrian Arab Republic",16,0,2,0.0,"Local transmission",20.0
+"2020-04-05","Sudan",10,0,2,0.0,"Local transmission",10.0
+"2020-04-05","Somalia",7,0,0,0.0,"Local transmission",10.0
+"2020-04-05","occupied Palestinian territory",217,24,1,0.0,"Local transmission",0.0
+"2020-04-05","United States of America",273808,32105,7020,11660.0,"Local transmission",0.0
+"2020-04-05","Canada",12938,1206,214,620.0,"Local transmission",0.0
+"2020-04-05","Brazil",9056,1146,359,600.0,"Local transmission",0.0
+"2020-04-05","Chile",4161,424,27,50.0,"Local transmission",0.0
+"2020-04-05","Ecuador",3465,302,172,520.0,"Local transmission",0.0
+"2020-04-05","Mexico",1688,178,60,100.0,"Local transmission",0.0
+"2020-04-05","Panama",1673,198,41,40.0,"Local transmission",0.0
+"2020-04-05","Peru",1595,181,61,100.0,"Local transmission",0.0
+"2020-04-05","Dominican Republic",1488,0,68,0.0,"Local transmission",10.0
+"2020-04-05","Argentina",1353,88,42,50.0,"Local transmission",0.0
+"2020-04-05","Colombia",1267,106,25,60.0,"Local transmission",0.0
+"2020-04-05","Costa Rica",416,20,2,0.0,"Local transmission",0.0
+"2020-04-05","Uruguay",386,17,4,0.0,"Local transmission",0.0
+"2020-04-05","Cuba",288,19,6,0.0,"Local transmission",0.0
+"2020-04-05","Honduras",264,42,15,0.0,"Local transmission",0.0
+"2020-04-05","Venezuela (Bolivarian Republic of)",144,0,3,0.0,"Local transmission",20.0
+"2020-04-05","Bolivia (Plurinational State of)",139,7,10,10.0,"Local transmission",0.0
+"2020-04-05","Trinidad and Tobago",100,3,6,0.0,"Local transmission",0.0
+"2020-04-05","Paraguay",96,4,3,0.0,"Local transmission",0.0
+"2020-04-05","El Salvador",56,10,3,10.0,"Local transmission",0.0
+"2020-04-05","Jamaica",53,6,3,0.0,"Local transmission",0.0
+"2020-04-05","Barbados",51,6,0,0.0,"Local transmission",0.0
+"2020-04-05","Guatemala",50,0,1,0.0,"Local transmission",10.0
+"2020-04-05","Bahamas",24,0,3,0.0,"Local transmission",10.0
+"2020-04-05","Guyana",23,4,4,0.0,"Local transmission",0.0
+"2020-04-05","Haiti",18,0,0,0.0,"Imported cases only",10.0
+"2020-04-05","Saint Lucia",13,0,0,0.0,"Local transmission",30.0
+"2020-04-05","Grenada",12,2,0,0.0,"Local transmission",0.0
+"2020-04-05","Dominica",11,0,0,0.0,"Local transmission",90.0
+"2020-04-05","Suriname",10,0,0,0.0,"Local transmission",10.0
+"2020-04-05","Saint Kitts and Nevis",9,1,0,0.0,"Imported cases only",0.0
+"2020-04-05","Antigua and Barbuda",7,0,0,0.0,"Imported cases only",80.0
+"2020-04-05","Nicaragua",5,0,1,0.0,"Imported cases only",30.0
+"2020-04-05","Belize",4,1,0,0.0,"Local transmission",0.0
+"2020-04-05","Saint Vincent and the Grenadines",3,0,0,0.0,"Imported cases only",10.0
+"2020-04-05","Puerto Rico",452,74,18,30.0,"Local transmission",0.0
+"2020-04-05","Martinique",145,7,3,0.0,"Local transmission",0.0
+"2020-04-05","Guadeloupe",130,0,7,0.0,"Local transmission",10.0
+"2020-04-05","Aruba",64,2,0,0.0,"Local transmission",0.0
+"2020-04-05","French Guiana",62,5,0,0.0,"Local transmission",0.0
+"2020-04-05","United States Virgin Islands",40,3,0,0.0,"Local transmission",0.0
+"2020-04-05","Bermuda",35,0,0,0.0,"Local transmission",10.0
+"2020-04-05","Cayman Islands",28,0,1,0.0,"Local transmission",10.0
+"2020-04-05","Saint Martin",24,2,2,0.0,"Under investigation",0.0
+"2020-04-05","Sint Maarten",23,0,2,0.0,"Imported cases only",10.0
+"2020-04-05","Curaçao",11,0,1,0.0,"Imported cases only",50.0
+"2020-04-05","Montserrat",6,1,0,0.0,"Imported cases only",0.0
+"2020-04-05","Saint Barthélemy",6,0,0,0.0,"Under investigation",50.0
+"2020-04-05","Turks and Caicos
+Islands",5,0,0,0.0,"Local transmission",50.0
+"2020-04-05","Anguilla",3,0,0,0.0,"Local transmission",10.0
+"2020-04-05","British Virgin Islands",3,0,0,0.0,"Imported cases only",40.0
+"2020-04-05","Bonaire, Sint Eustatius
+and Saba",2,0,0,0.0,"Imported cases only",10.0
+"2020-04-05","Falkland Islands
+(Malvinas)",1,1,0,0.0,"Under investigation",0.0
+"2020-04-05","South Africa",1585,80,9,20.0,"Local transmission",0.0
+"2020-04-05","Algeria",1251,265,130,470.0,"Local transmission",0.0
+"2020-04-05","Cameroon",555,309,9,20.0,"Local transmission",0.0
+"2020-04-05","Burkina Faso",302,41,15,0.0,"Local transmission",0.0
+"2020-04-05","Côte d’Ivoire",245,42,2,10.0,"Local transmission",0.0
+"2020-04-05","Senegal",219,12,2,10.0,"Local transmission",0.0
+"2020-04-05","Nigeria",210,20,4,20.0,"Local transmission",0.0
+"2020-04-05","Ghana",205,1,5,0.0,"Local transmission",0.0
+"2020-04-05","Mauritius",196,10,7,0.0,"Local transmission",0.0
+"2020-04-05","Democratic Republic of the CongoNiger",144,46,8,30.0,"Local transmission",0.0
+"2020-04-05","Kenya",122,0,4,0.0,"Local transmission",10.0
+"2020-04-05","Guinea",111,59,0,0.0,"Local transmission",0.0
+"2020-04-05","Rwanda",102,13,0,0.0,"Local transmission",0.0
+"2020-04-05","Madagascar",70,5,0,0.0,"Local transmission",0.0
+"2020-04-05","Uganda",48,3,0,0.0,"Local transmission",0.0
+"2020-04-05","Congo",45,4,5,20.0,"Local transmission",0.0
+"2020-04-05","Togo",40,1,3,10.0,"Local transmission",0.0
+"2020-04-05","Mali",39,3,4,10.0,"Local transmission",0.0
+"2020-04-05","Zambia",39,0,1,0.0,"Local transmission",20.0
+"2020-04-05","Ethiopia",38,3,0,0.0,"Local transmission",0.0
+"2020-04-05","Gabon",21,0,1,0.0,"Imported cases only",10.0
+"2020-04-05","Eritrea",20,0,0,0.0,"Local transmission",20.0
+"2020-04-05","United Republic of TanzaniaGuinea-Bissau",18,3,0,0.0,"Imported cases only",0.0
+"2020-04-05","Equatorial Guinea",16,1,0,0.0,"Local transmission",0.0
+"2020-04-05","Namibia",14,1,0,0.0,"Local transmission",0.0
+"2020-04-05","Benin",13,0,0,0.0,"Imported cases only",30.0
+"2020-04-05","Angola",10,0,2,0.0,"Imported cases only",10.0
+"2020-04-05","Liberia",10,3,1,10.0,"Local transmission",0.0
+"2020-04-05","Mozambique",10,0,0,0.0,"Local transmission",30.0
+"2020-04-05","Seychelles",10,0,0,0.0,"Imported cases only",30.0
+"2020-04-05","Central African RepublicEswatini",9,0,0,0.0,"Imported cases only",80.0
+"2020-04-05","Zimbabwe",9,0,1,0.0,"Local transmission",10.0
+"2020-04-05","Chad",7,0,0,0.0,"Imported cases only",40.0
+"2020-04-05","Mauritania",6,0,1,0.0,"Imported cases only",10.0
+"2020-04-05","Cabo Verde",5,0,1,0.0,"Imported cases only",80.0
+"2020-04-05","Botswana",4,0,1,0.0,"Imported cases only",20.0
+"2020-04-05","Gambia",4,0,1,0.0,"Imported cases only",20.0
+"2020-04-05","Sierra Leone",4,2,0,0.0,"Imported cases only",0.0
+"2020-04-05","Burundi",3,0,0,0.0,"Local transmission",10.0
+"2020-04-05","Malawi",3,0,0,0.0,"Local transmission",20.0
+"2020-04-05","Réunion",334,13,0,0.0,"Local transmission",0.0
+"2020-04-05","Mayotte",147,19,2,0.0,"Local transmission",0.0
+"2020-04-05","Diamond Princess",712,0,11,0.0,"Local transmission",200.0
+"2020-04-05","(Diamond",0,0,0,0.0,0,0.0
+"2020-04-05","Princess)",0,0,0,0.0,0,0.0
