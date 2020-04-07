@@ -1,16 +1,17 @@
-"Date","Region","Total confirmed cases","Population Incidence Ratio","Total deaths",4
-"2020-03-27","Bavaria",9481,1.488,73,55.0
-"2020-03-27","Berlin",1955,299.0,52,8.0
-"2020-03-27","Brandenburg",537,60.0,21,1.0
-"2020-03-27","Bremen",241,30.0,35,1.0
-"2020-03-27","Hamburg",1693,428.0,92,2.0
-"2020-03-27","Hesse",2323,166.0,37,7.0
-"2020-03-27","Mecklenburg-Western Pomerania",259,15.0,16,0.0
-"2020-03-27","Lower Saxony",2810,463.0,35,10.0
-"2020-03-27","North Rhine-Westphalia",9235,1.311,51,72.0
-"2020-03-27","Rhineland-Palatinate",1971,155.0,48,8.0
-"2020-03-27","Saarland",505,72.0,51,2.0
-"2020-03-27","Saxony",1305,164.0,32,7.0
-"2020-03-27","Saxony-Anhalt",458,40.0,21,2.0
-"2020-03-27","Schleswig-Holstein",812,137.0,28,4.0
-"2020-03-27","Thuringia",542,74.0,25,4.0
+"Date","Region","Total confirmed cases","First","New cases","Population Incidence Ratio","Total deaths"
+"2020-03-27","Baden-Wuerttemberg",8161,"878",878,74.0,70
+"2020-03-27","Bavaria",9481,"1,488",1488,73.0,55
+"2020-03-27","Berlin",1955,"299",299,52.0,8
+"2020-03-27","Brandenburg",537,"60",60,21.0,1
+"2020-03-27","Bremen",241,"30",30,35.0,1
+"2020-03-27","Hamburg",1693,"428",428,92.0,2
+"2020-03-27","Hesse",2323,"166",166,37.0,7
+"2020-03-27","Mecklenburg-Western Pomerania",259,"15",15,16.0,0
+"2020-03-27","Lower Saxony",2810,"463",463,35.0,10
+"2020-03-27","North Rhine-Westphalia",9235,"1,311",1311,51.0,72
+"2020-03-27","Rhineland-Palatinate",1971,"155",155,48.0,8
+"2020-03-27","Saarland",505,"72",72,51.0,2
+"2020-03-27","Saxony",1305,"164",164,32.0,7
+"2020-03-27","Saxony-Anhalt",458,"40",40,21.0,2
+"2020-03-27","Schleswig-Holstein",812,"137",137,28.0,4
+"2020-03-27","Thuringia",542,"74",74,25.0,4

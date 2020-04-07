@@ -22,7 +22,7 @@ endFileName = "-en.csv"
 
 namesOfMultilineRegions2 = {"Mecklenburg-Western":"Mecklenburg-Western Pomerania\" "}
 
-namesOfRegions = ["Baden-Württemberg","Bavaria","Berlin","Brandenburg","Bremen","Hamburg","Hesse","Mecklenburg-Western Pomerania","Lower Saxony","North Rhine-Westphalia","Rhineland-Palatinate","Saarlan","Saxony","Saxony-Anhalt","Schleswig-Holstein","Thuringia"]
+namesOfRegions = ["Baden-Wuerttemberg", "Baden-Württemberg","Bavaria","Berlin","Brandenburg","Bremen","Hamburg","Hesse","Mecklenburg-Western Pomerania","Lower Saxony","North Rhine-Westphalia","Rhineland-Palatinate","Saarland", "Saarlan","Saxony","Saxony-Anhalt","Schleswig-Holstein","Thuringia"]
 
 #%% Import metadata to use
 dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0, comment="#")
