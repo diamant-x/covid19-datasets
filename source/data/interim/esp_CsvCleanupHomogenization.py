@@ -40,8 +40,8 @@ file = pathInputFile
 fileName = file.split(os.sep)[-1]
 print("Processing file: " + fileName)
 
-namesOriginals = ["CCAA Codigo ISO","Fecha","Casos ","Hospitalizados","UCI","Fallecidos"]
-namesColumns = ["Region","Date","Total confirmed cases", "Total Hospital cases", "Total ICU cases","Total deaths"]
+namesOriginals = ["CCAA","FECHA","CASOS ","Hospitalizados","UCI","Fallecidos","Recuperados"]
+namesColumns = ["Region","Date","Total confirmed cases", "Total Hospital cases", "Total ICU cases","Total deaths","Total cured"]
 renameDict = dict(zip(namesOriginals, namesColumns))
 
 dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, skipfooter=2, usecols=namesOriginals, encoding='latin', engine='python', parse_dates=["Fecha"], dayfirst=True)
