@@ -1,990 +1,1011 @@
 "Date","Country","Region","Total confirmed cases","Total Hospital cases","Total ICU cases","Total deaths"
-"20/2/2020","Spain","Andalucía",0,0,0,0
-"20/2/2020","Spain","Aragón",0,0,0,0
-"20/2/2020","Spain","Asturias",0,0,0,0
-"20/2/2020","Spain","Baleares",1,0,0,0
-"20/2/2020","Spain","Canarias",1,0,0,0
-"20/2/2020","Spain","Cantabria",0,0,0,0
-"20/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"20/2/2020","Spain","Castilla y León",0,0,0,0
-"20/2/2020","Spain","Cataluña",0,0,0,0
-"20/2/2020","Spain","Ceuta",0,0,0,0
-"20/2/2020","Spain","Comunidad Valenciana",0,26,0,0
-"20/2/2020","Spain","Extremadura",0,0,0,0
-"20/2/2020","Spain","Galicia",0,0,0,0
-"20/2/2020","Spain","Madrid",0,0,0,0
-"20/2/2020","Spain","ML",0,0,0,0
-"20/2/2020","Spain","Murcia",0,0,0,0
-"20/2/2020","Spain","Navarra",0,0,0,0
-"20/2/2020","Spain","País Vasco",0,0,0,0
-"20/2/2020","Spain","La Rioja",0,0,0,0
-"21/2/2020","Spain","Andalucía",0,0,0,0
-"21/2/2020","Spain","Aragón",0,0,0,0
-"21/2/2020","Spain","Asturias",0,0,0,0
-"21/2/2020","Spain","Baleares",1,0,0,0
-"21/2/2020","Spain","Canarias",1,0,0,0
-"21/2/2020","Spain","Cantabria",0,0,0,0
-"21/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"21/2/2020","Spain","Castilla y León",0,0,0,0
-"21/2/2020","Spain","Cataluña",0,0,0,0
-"21/2/2020","Spain","Ceuta",0,0,0,0
-"21/2/2020","Spain","Comunidad Valenciana",0,30,1,0
-"21/2/2020","Spain","Extremadura",0,0,0,0
-"21/2/2020","Spain","Galicia",0,0,0,0
-"21/2/2020","Spain","Madrid",0,0,0,0
-"21/2/2020","Spain","ML",0,0,0,0
-"21/2/2020","Spain","Murcia",0,0,0,0
-"21/2/2020","Spain","Navarra",0,0,0,0
-"21/2/2020","Spain","País Vasco",0,0,0,0
-"21/2/2020","Spain","La Rioja",0,0,0,0
-"22/2/2020","Spain","Andalucía",0,0,0,0
-"22/2/2020","Spain","Aragón",0,0,0,0
-"22/2/2020","Spain","Asturias",0,0,0,0
-"22/2/2020","Spain","Baleares",1,0,0,0
-"22/2/2020","Spain","Canarias",1,0,0,0
-"22/2/2020","Spain","Cantabria",0,0,0,0
-"22/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"22/2/2020","Spain","Castilla y León",0,0,0,0
-"22/2/2020","Spain","Cataluña",0,0,0,0
-"22/2/2020","Spain","Ceuta",0,0,0,0
-"22/2/2020","Spain","Comunidad Valenciana",0,33,1,0
-"22/2/2020","Spain","Extremadura",0,0,0,0
-"22/2/2020","Spain","Galicia",0,0,0,0
-"22/2/2020","Spain","Madrid",0,0,0,0
-"22/2/2020","Spain","ML",0,0,0,0
-"22/2/2020","Spain","Murcia",0,0,0,0
-"22/2/2020","Spain","Navarra",0,0,0,0
-"22/2/2020","Spain","País Vasco",0,0,0,0
-"22/2/2020","Spain","La Rioja",0,0,0,0
-"23/2/2020","Spain","Andalucía",0,0,0,0
-"23/2/2020","Spain","Aragón",0,0,0,0
-"23/2/2020","Spain","Asturias",0,0,0,0
-"23/2/2020","Spain","Baleares",1,0,0,0
-"23/2/2020","Spain","Canarias",1,0,0,0
-"23/2/2020","Spain","Cantabria",0,0,0,0
-"23/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"23/2/2020","Spain","Castilla y León",0,0,0,0
-"23/2/2020","Spain","Cataluña",0,0,0,0
-"23/2/2020","Spain","Ceuta",0,0,0,0
-"23/2/2020","Spain","Comunidad Valenciana",0,38,2,0
-"23/2/2020","Spain","Extremadura",0,0,0,0
-"23/2/2020","Spain","Galicia",0,0,0,0
-"23/2/2020","Spain","Madrid",0,0,0,0
-"23/2/2020","Spain","ML",0,0,0,0
-"23/2/2020","Spain","Murcia",0,0,0,0
-"23/2/2020","Spain","Navarra",0,0,0,0
-"23/2/2020","Spain","País Vasco",0,0,0,0
-"23/2/2020","Spain","La Rioja",0,0,0,0
-"24/2/2020","Spain","Andalucía",0,0,0,0
-"24/2/2020","Spain","Aragón",0,0,0,0
-"24/2/2020","Spain","Asturias",0,0,0,0
-"24/2/2020","Spain","Baleares",1,0,0,0
-"24/2/2020","Spain","Canarias",2,0,0,0
-"24/2/2020","Spain","Cantabria",0,0,0,0
-"24/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"24/2/2020","Spain","Castilla y León",0,0,0,0
-"24/2/2020","Spain","Cataluña",0,0,0,0
-"24/2/2020","Spain","Ceuta",0,0,0,0
-"24/2/2020","Spain","Comunidad Valenciana",0,49,2,0
-"24/2/2020","Spain","Extremadura",0,0,0,0
-"24/2/2020","Spain","Galicia",0,0,0,0
-"24/2/2020","Spain","Madrid",0,0,0,0
-"24/2/2020","Spain","ML",0,0,0,0
-"24/2/2020","Spain","Murcia",0,0,0,0
-"24/2/2020","Spain","Navarra",0,0,0,0
-"24/2/2020","Spain","País Vasco",0,0,0,0
-"24/2/2020","Spain","La Rioja",0,0,0,0
-"25/2/2020","Spain","Andalucía",0,0,0,0
-"25/2/2020","Spain","Aragón",0,0,0,0
-"25/2/2020","Spain","Asturias",0,0,0,0
-"25/2/2020","Spain","Baleares",1,0,0,0
-"25/2/2020","Spain","Canarias",5,0,0,0
-"25/2/2020","Spain","Cantabria",0,0,0,0
-"25/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"25/2/2020","Spain","Castilla y León",0,0,0,0
-"25/2/2020","Spain","Cataluña",1,0,0,0
-"25/2/2020","Spain","Ceuta",0,0,0,0
-"25/2/2020","Spain","Comunidad Valenciana",1,58,2,0
-"25/2/2020","Spain","Extremadura",0,0,0,0
-"25/2/2020","Spain","Galicia",0,0,0,0
-"25/2/2020","Spain","Madrid",2,0,0,0
-"25/2/2020","Spain","ML",0,0,0,0
-"25/2/2020","Spain","Murcia",0,0,0,0
-"25/2/2020","Spain","Navarra",0,0,0,0
-"25/2/2020","Spain","País Vasco",0,0,0,0
-"25/2/2020","Spain","La Rioja",0,0,0,0
-"26/2/2020","Spain","Andalucía",1,0,0,0
-"26/2/2020","Spain","Aragón",0,0,0,0
-"26/2/2020","Spain","Asturias",0,0,0,0
-"26/2/2020","Spain","Baleares",1,0,0,0
-"26/2/2020","Spain","Canarias",6,0,0,0
-"26/2/2020","Spain","Cantabria",0,0,0,0
-"26/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"26/2/2020","Spain","Castilla y León",0,0,0,0
-"26/2/2020","Spain","Cataluña",2,0,0,0
-"26/2/2020","Spain","Ceuta",0,0,0,0
-"26/2/2020","Spain","Comunidad Valenciana",2,63,3,0
-"26/2/2020","Spain","Extremadura",0,0,0,0
-"26/2/2020","Spain","Galicia",0,0,0,0
-"26/2/2020","Spain","Madrid",4,0,0,0
-"26/2/2020","Spain","ML",0,0,0,0
-"26/2/2020","Spain","Murcia",0,0,0,0
-"26/2/2020","Spain","Navarra",0,0,0,0
-"26/2/2020","Spain","País Vasco",0,0,0,0
-"26/2/2020","Spain","La Rioja",0,0,0,0
-"27/2/2020","Spain","Andalucía",6,0,0,0
-"27/2/2020","Spain","Aragón",0,0,0,0
-"27/2/2020","Spain","Asturias",0,0,0,0
-"27/2/2020","Spain","Baleares",1,0,0,0
-"27/2/2020","Spain","Canarias",6,0,0,0
-"27/2/2020","Spain","Cantabria",0,0,0,0
-"27/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"27/2/2020","Spain","Castilla y León",0,0,0,0
-"27/2/2020","Spain","Cataluña",3,0,0,0
-"27/2/2020","Spain","Ceuta",0,0,0,0
-"27/2/2020","Spain","Comunidad Valenciana",8,73,3,0
-"27/2/2020","Spain","Extremadura",0,0,0,0
-"27/2/2020","Spain","Galicia",0,0,0,0
-"27/2/2020","Spain","Madrid",5,0,0,0
-"27/2/2020","Spain","ML",0,0,0,0
-"27/2/2020","Spain","Murcia",0,0,0,0
-"27/2/2020","Spain","Navarra",0,0,0,0
-"27/2/2020","Spain","País Vasco",0,0,0,0
-"27/2/2020","Spain","La Rioja",0,0,0,0
-"28/2/2020","Spain","Andalucía",8,0,0,0
-"28/2/2020","Spain","Aragón",0,0,0,0
-"28/2/2020","Spain","Asturias",0,0,0,0
-"28/2/2020","Spain","Baleares",2,0,0,0
-"28/2/2020","Spain","Canarias",6,0,0,0
-"28/2/2020","Spain","Cantabria",0,0,0,0
-"28/2/2020","Spain","Castilla La Mancha",0,0,0,0
-"28/2/2020","Spain","Castilla y León",2,0,0,0
-"28/2/2020","Spain","Cataluña",5,0,0,0
-"28/2/2020","Spain","Ceuta",0,0,0,0
-"28/2/2020","Spain","Comunidad Valenciana",10,78,3,0
-"28/2/2020","Spain","Extremadura",0,0,0,0
-"28/2/2020","Spain","Galicia",0,0,0,0
-"28/2/2020","Spain","Madrid",8,0,0,0
-"28/2/2020","Spain","ML",0,0,0,0
-"28/2/2020","Spain","Murcia",0,0,0,0
-"28/2/2020","Spain","Navarra",0,0,0,0
-"28/2/2020","Spain","País Vasco",2,0,0,0
-"28/2/2020","Spain","La Rioja",0,0,0,0
-"29/2/2020","Spain","Andalucía",12,0,0,0
-"29/2/2020","Spain","Aragón",0,0,0,0
-"29/2/2020","Spain","Asturias",1,0,0,0
-"29/2/2020","Spain","Baleares",2,0,0,0
-"29/2/2020","Spain","Canarias",7,0,0,0
-"29/2/2020","Spain","Cantabria",1,0,0,0
-"29/2/2020","Spain","Castilla La Mancha",1,0,0,0
-"29/2/2020","Spain","Castilla y León",2,0,0,0
-"29/2/2020","Spain","Cataluña",6,0,0,0
-"29/2/2020","Spain","Ceuta",0,0,0,0
-"29/2/2020","Spain","Comunidad Valenciana",15,85,3,0
-"29/2/2020","Spain","Extremadura",4,0,0,0
-"29/2/2020","Spain","Galicia",0,0,0,0
-"29/2/2020","Spain","Madrid",10,0,0,0
-"29/2/2020","Spain","ML",0,0,0,0
-"29/2/2020","Spain","Murcia",0,0,0,0
-"29/2/2020","Spain","Navarra",1,0,0,0
-"29/2/2020","Spain","País Vasco",3,0,0,0
-"29/2/2020","Spain","La Rioja",0,0,0,0
-"1/3/2020","Spain","Andalucía",12,0,0,0
-"1/3/2020","Spain","Aragón",0,0,0,0
-"1/3/2020","Spain","Asturias",1,0,0,0
-"1/3/2020","Spain","Baleares",2,0,0,0
-"1/3/2020","Spain","Canarias",7,0,0,0
-"1/3/2020","Spain","Cantabria",10,0,0,0
-"1/3/2020","Spain","Castilla La Mancha",3,0,0,0
-"1/3/2020","Spain","Castilla y León",2,0,0,0
-"1/3/2020","Spain","Cataluña",15,0,0,0
-"1/3/2020","Spain","Ceuta",0,0,0,0
-"1/3/2020","Spain","Comunidad Valenciana",15,88,3,0
-"1/3/2020","Spain","Extremadura",6,0,0,0
-"1/3/2020","Spain","Galicia",0,0,0,0
-"1/3/2020","Spain","Madrid",29,0,0,0
-"1/3/2020","Spain","ML",0,0,0,0
-"1/3/2020","Spain","Murcia",0,0,0,0
-"1/3/2020","Spain","Navarra",1,0,0,0
-"1/3/2020","Spain","País Vasco",9,0,0,0
-"1/3/2020","Spain","La Rioja",1,0,0,0
-"2/3/2020","Spain","Andalucía",12,0,0,0
-"2/3/2020","Spain","Aragón",0,0,0,0
-"2/3/2020","Spain","Asturias",1,0,0,0
-"2/3/2020","Spain","Baleares",2,0,0,0
-"2/3/2020","Spain","Canarias",7,0,0,0
-"2/3/2020","Spain","Cantabria",10,0,0,0
-"2/3/2020","Spain","Castilla La Mancha",7,0,0,0
-"2/3/2020","Spain","Castilla y León",7,0,0,0
-"2/3/2020","Spain","Cataluña",15,0,0,0
-"2/3/2020","Spain","Ceuta",0,0,0,0
-"2/3/2020","Spain","Comunidad Valenciana",15,93,3,0
-"2/3/2020","Spain","Extremadura",6,0,0,0
-"2/3/2020","Spain","Galicia",0,0,0,0
-"2/3/2020","Spain","Madrid",49,0,0,0
-"2/3/2020","Spain","ML",0,0,0,0
-"2/3/2020","Spain","Murcia",0,0,0,0
-"2/3/2020","Spain","Navarra",1,0,0,0
-"2/3/2020","Spain","País Vasco",13,0,0,0
-"2/3/2020","Spain","La Rioja",3,0,0,0
-"3/3/2020","Spain","Andalucía",12,0,0,0
-"3/3/2020","Spain","Aragón",0,0,0,0
-"3/3/2020","Spain","Asturias",2,0,0,0
-"3/3/2020","Spain","Baleares",5,0,0,0
-"3/3/2020","Spain","Canarias",7,0,0,0
-"3/3/2020","Spain","Cantabria",10,0,0,0
-"3/3/2020","Spain","Castilla La Mancha",12,0,0,0
-"3/3/2020","Spain","Castilla y León",8,0,0,0
-"3/3/2020","Spain","Cataluña",15,0,0,0
-"3/3/2020","Spain","Ceuta",0,0,0,0
-"3/3/2020","Spain","Comunidad Valenciana",19,105,5,0
-"3/3/2020","Spain","Extremadura",6,0,0,0
-"3/3/2020","Spain","Galicia",1,0,0,0
-"3/3/2020","Spain","Madrid",70,0,0,0
-"3/3/2020","Spain","ML",0,0,0,0
-"3/3/2020","Spain","Murcia",0,0,0,0
-"3/3/2020","Spain","Navarra",3,0,0,0
-"3/3/2020","Spain","País Vasco",17,0,0,0
-"3/3/2020","Spain","La Rioja",7,0,0,0
-"4/3/2020","Spain","Andalucía",12,0,0,0
-"4/3/2020","Spain","Aragón",1,0,0,0
-"4/3/2020","Spain","Asturias",5,0,0,0
-"4/3/2020","Spain","Baleares",6,0,0,0
-"4/3/2020","Spain","Canarias",8,0,0,0
-"4/3/2020","Spain","Cantabria",10,0,0,0
-"4/3/2020","Spain","Castilla La Mancha",13,0,0,0
-"4/3/2020","Spain","Castilla y León",12,0,0,0
-"4/3/2020","Spain","Cataluña",24,0,0,0
-"4/3/2020","Spain","Ceuta",0,0,0,0
-"4/3/2020","Spain","Comunidad Valenciana",19,117,6,0
-"4/3/2020","Spain","Extremadura",6,0,0,0
-"4/3/2020","Spain","Galicia",1,0,0,0
-"4/3/2020","Spain","Madrid",90,0,0,0
-"4/3/2020","Spain","ML",0,0,0,0
-"4/3/2020","Spain","Murcia",0,0,0,0
-"4/3/2020","Spain","Navarra",3,0,0,0
-"4/3/2020","Spain","País Vasco",17,0,0,0
-"4/3/2020","Spain","La Rioja",11,0,0,0
-"5/3/2020","Spain","Andalucía",21,0,0,0
-"5/3/2020","Spain","Aragón",6,0,0,0
-"5/3/2020","Spain","Asturias",5,0,0,0
-"5/3/2020","Spain","Baleares",6,0,0,0
-"5/3/2020","Spain","Canarias",11,0,0,0
-"5/3/2020","Spain","Cantabria",10,0,0,0
-"5/3/2020","Spain","Castilla La Mancha",15,0,0,0
-"5/3/2020","Spain","Castilla y León",13,0,0,0
-"5/3/2020","Spain","Cataluña",24,0,0,0
-"5/3/2020","Spain","Ceuta",0,0,0,0
-"5/3/2020","Spain","Comunidad Valenciana",30,130,8,0
-"5/3/2020","Spain","Extremadura",6,0,0,0
-"5/3/2020","Spain","Galicia",3,0,0,0
-"5/3/2020","Spain","Madrid",137,0,0,0
-"5/3/2020","Spain","ML",0,0,0,0
-"5/3/2020","Spain","Murcia",0,0,0,0
-"5/3/2020","Spain","Navarra",3,0,0,0
-"5/3/2020","Spain","País Vasco",45,0,0,0
-"5/3/2020","Spain","La Rioja",29,0,0,0
-"6/3/2020","Spain","Andalucía",27,0,0,0
-"6/3/2020","Spain","Aragón",11,0,0,0
-"6/3/2020","Spain","Asturias",5,0,0,0
-"6/3/2020","Spain","Baleares",6,0,0,0
-"6/3/2020","Spain","Canarias",11,0,0,0
-"6/3/2020","Spain","Cantabria",10,0,0,0
-"6/3/2020","Spain","Castilla La Mancha",15,0,0,0
-"6/3/2020","Spain","Castilla y León",14,0,0,0
-"6/3/2020","Spain","Cataluña",24,0,0,0
-"6/3/2020","Spain","Ceuta",0,0,0,0
-"6/3/2020","Spain","Comunidad Valenciana",30,138,8,0
-"6/3/2020","Spain","Extremadura",6,0,0,0
-"6/3/2020","Spain","Galicia",3,0,0,0
-"6/3/2020","Spain","Madrid",137,0,0,0
-"6/3/2020","Spain","ML",0,0,0,0
-"6/3/2020","Spain","Murcia",0,0,0,0
-"6/3/2020","Spain","Navarra",3,0,0,0
-"6/3/2020","Spain","País Vasco",45,0,0,0
-"6/3/2020","Spain","La Rioja",39,0,0,0
-"7/3/2020","Spain","Andalucía",34,0,0,0
-"7/3/2020","Spain","Aragón",11,0,0,0
-"7/3/2020","Spain","Asturias",7,0,0,0
-"7/3/2020","Spain","Baleares",8,0,0,0
-"7/3/2020","Spain","Canarias",17,0,0,0
-"7/3/2020","Spain","Cantabria",12,0,0,0
-"7/3/2020","Spain","Castilla La Mancha",15,0,0,0
-"7/3/2020","Spain","Castilla y León",21,0,0,0
-"7/3/2020","Spain","Cataluña",49,0,0,0
-"7/3/2020","Spain","Ceuta",0,0,0,0
-"7/3/2020","Spain","Comunidad Valenciana",37,146,9,0
-"7/3/2020","Spain","Extremadura",6,0,0,0
-"7/3/2020","Spain","Galicia",5,0,0,0
-"7/3/2020","Spain","Madrid",175,0,0,0
-"7/3/2020","Spain","ML",0,0,0,0
-"7/3/2020","Spain","Murcia",1,0,0,0
-"7/3/2020","Spain","Navarra",3,0,0,0
-"7/3/2020","Spain","País Vasco",70,0,0,0
-"7/3/2020","Spain","La Rioja",55,0,0,0
-"8/3/2020","Spain","Andalucía",54,0,1,0
-"8/3/2020","Spain","Aragón",13,0,3,3
-"8/3/2020","Spain","Asturias",7,0,2,0
-"8/3/2020","Spain","Baleares",11,0,1,0
-"8/3/2020","Spain","Canarias",22,0,0,0
-"8/3/2020","Spain","Cantabria",12,0,0,0
-"8/3/2020","Spain","Castilla La Mancha",26,0,2,0
-"8/3/2020","Spain","Castilla y León",30,0,2,0
-"8/3/2020","Spain","Cataluña",75,0,0,2
-"8/3/2020","Spain","Ceuta",0,0,0,0
-"8/3/2020","Spain","Comunidad Valenciana",37,153,9,1
-"8/3/2020","Spain","Extremadura",7,0,0,0
-"8/3/2020","Spain","Galicia",6,0,2,0
-"8/3/2020","Spain","Madrid",469,0,53,16
-"8/3/2020","Spain","ML",0,0,0,0
-"8/3/2020","Spain","Murcia",4,0,0,0
-"8/3/2020","Spain","Navarra",3,0,1,0
-"8/3/2020","Spain","País Vasco",149,0,5,6
-"8/3/2020","Spain","La Rioja",81,0,1,0
-"9/3/2020","Spain","Andalucía",71,0,1,0
-"9/3/2020","Spain","Aragón",38,0,3,4
-"9/3/2020","Spain","Asturias",22,0,2,0
-"9/3/2020","Spain","Baleares",13,0,1,0
-"9/3/2020","Spain","Canarias",25,0,1,0
-"9/3/2020","Spain","Cantabria",12,0,0,0
-"9/3/2020","Spain","Castilla La Mancha",39,0,3,0
-"9/3/2020","Spain","Castilla y León",40,0,2,0
-"9/3/2020","Spain","Cataluña",124,0,0,3
-"9/3/2020","Spain","Ceuta",0,0,0,0
-"9/3/2020","Spain","Comunidad Valenciana",50,171,10,1
-"9/3/2020","Spain","Extremadura",8,0,0,0
-"9/3/2020","Spain","Galicia",22,0,2,0
-"9/3/2020","Spain","Madrid",782,0,77,21
-"9/3/2020","Spain","ML",0,0,0,0
-"9/3/2020","Spain","Murcia",9,0,0,0
-"9/3/2020","Spain","Navarra",12,0,2,0
-"9/3/2020","Spain","País Vasco",195,0,5,6
-"9/3/2020","Spain","La Rioja",144,0,1,1
-"10/3/2020","Spain","Andalucía",90,32,3,0
-"10/3/2020","Spain","Aragón",45,22,3,4
-"10/3/2020","Spain","Asturias",32,12,2,0
-"10/3/2020","Spain","Baleares",16,8,1,0
-"10/3/2020","Spain","Canarias",37,10,1,0
-"10/3/2020","Spain","Cantabria",12,0,0,0
-"10/3/2020","Spain","Castilla La Mancha",71,0,5,0
-"10/3/2020","Spain","Castilla y León",64,14,2,0
-"10/3/2020","Spain","Cataluña",156,0,0,3
-"10/3/2020","Spain","Ceuta",0,0,0,0
-"10/3/2020","Spain","Comunidad Valenciana",65,200,12,1
-"10/3/2020","Spain","Extremadura",9,2,1,1
-"10/3/2020","Spain","Galicia",35,7,2,0
-"10/3/2020","Spain","Madrid",1024,0,102,31
-"10/3/2020","Spain","ML",0,0,0,0
-"10/3/2020","Spain","Murcia",11,4,0,0
-"10/3/2020","Spain","Navarra",46,10,3,0
-"10/3/2020","Spain","País Vasco",225,102,15,6
-"10/3/2020","Spain","La Rioja",179,13,1,2
-"11/3/2020","Spain","Andalucía",115,50,4,0
-"11/3/2020","Spain","Aragón",64,28,3,6
-"11/3/2020","Spain","Asturias",47,12,2,1
-"11/3/2020","Spain","Baleares",22,8,2,1
-"11/3/2020","Spain","Canarias",51,15,3,0
-"11/3/2020","Spain","Cantabria",16,3,0,0
-"11/3/2020","Spain","Castilla La Mancha",115,39,9,1
-"11/3/2020","Spain","Castilla y León",71,24,2,0
-"11/3/2020","Spain","Cataluña",260,0,0,4
-"11/3/2020","Spain","Ceuta",0,0,0,0
-"11/3/2020","Spain","Comunidad Valenciana",76,232,15,1
-"11/3/2020","Spain","Extremadura",19,2,1,1
-"11/3/2020","Spain","Galicia",35,7,2,0
-"11/3/2020","Spain","Madrid",1388,0,135,56
-"11/3/2020","Spain","ML",0,0,0,0
-"11/3/2020","Spain","Murcia",26,5,1,0
-"11/3/2020","Spain","Navarra",73,17,3,0
-"11/3/2020","Spain","País Vasco",346,146,18,11
-"11/3/2020","Spain","La Rioja",205,21,1,2
-"12/3/2020","Spain","Andalucía",219,92,8,0
-"12/3/2020","Spain","Aragón",80,30,3,7
-"12/3/2020","Spain","Asturias",67,16,2,1
-"12/3/2020","Spain","Baleares",28,9,2,1
-"12/3/2020","Spain","Canarias",70,15,3,0
-"12/3/2020","Spain","Cantabria",29,3,0,0
-"12/3/2020","Spain","Castilla La Mancha",194,78,10,5
-"12/3/2020","Spain","Castilla y León",92,25,4,0
-"12/3/2020","Spain","Cataluña",316,0,25,6
-"12/3/2020","Spain","Ceuta",0,0,0,0
-"12/3/2020","Spain","Comunidad Valenciana",94,271,22,1
-"12/3/2020","Spain","Extremadura",39,3,1,1
-"12/3/2020","Spain","Galicia",85,15,2,0
-"12/3/2020","Spain","Madrid",1990,1304,180,81
-"12/3/2020","Spain","ML",2,3,0,0
-"12/3/2020","Spain","Murcia",35,8,2,0
-"12/3/2020","Spain","Navarra",130,28,4,0
-"12/3/2020","Spain","País Vasco",417,179,20,14
-"12/3/2020","Spain","La Rioja",243,27,2,3
-"13/3/2020","Spain","Andalucía",269,92,8,2
-"13/3/2020","Spain","Aragón",121,42,5,7
-"13/3/2020","Spain","Asturias",92,16,2,1
-"13/3/2020","Spain","Baleares",28,9,2,1
-"13/3/2020","Spain","Canarias",90,15,6,1
-"13/3/2020","Spain","Cantabria",31,3,0,0
-"13/3/2020","Spain","Castilla La Mancha",289,78,10,6
-"13/3/2020","Spain","Castilla y León",169,25,8,1
-"13/3/2020","Spain","Cataluña",509,0,33,6
-"13/3/2020","Spain","Ceuta",0,0,0,0
-"13/3/2020","Spain","Comunidad Valenciana",130,307,29,4
-"13/3/2020","Spain","Extremadura",66,3,1,2
-"13/3/2020","Spain","Galicia",115,32,7,0
-"13/3/2020","Spain","Madrid",2940,1518,180,86
-"13/3/2020","Spain","ML",3,3,0,0
-"13/3/2020","Spain","Murcia",47,8,2,0
-"13/3/2020","Spain","Navarra",146,28,4,0
-"13/3/2020","Spain","País Vasco",521,179,22,14
-"13/3/2020","Spain","La Rioja",278,38,2,3
-"14/3/2020","Spain","Andalucía",437,92,8,6
-"14/3/2020","Spain","Aragón",147,59,5,7
-"14/3/2020","Spain","Asturias",137,16,3,1
-"14/3/2020","Spain","Baleares",42,9,2,1
-"14/3/2020","Spain","Canarias",109,15,6,1
-"14/3/2020","Spain","Cantabria",51,3,0,0
-"14/3/2020","Spain","Castilla La Mancha",401,78,10,10
-"14/3/2020","Spain","Castilla y León",223,45,8,3
-"14/3/2020","Spain","Cataluña",715,0,33,8
-"14/3/2020","Spain","Ceuta",1,0,0,0
-"14/3/2020","Spain","Comunidad Valenciana",409,339,37,5
-"14/3/2020","Spain","Extremadura",95,8,1,2
-"14/3/2020","Spain","Galicia",195,32,8,2
-"14/3/2020","Spain","Madrid",3544,2337,253,213
-"14/3/2020","Spain","ML",8,4,0,0
-"14/3/2020","Spain","Murcia",71,13,2,0
-"14/3/2020","Spain","Navarra",183,34,4,0
-"14/3/2020","Spain","País Vasco",630,262,29,23
-"14/3/2020","Spain","La Rioja",300,58,7,3
-"15/3/2020","Spain","Andalucía",554,197,11,7
-"15/3/2020","Spain","Aragón",174,64,7,11
-"15/3/2020","Spain","Asturias",177,16,3,1
-"15/3/2020","Spain","Baleares",73,21,4,1
-"15/3/2020","Spain","Canarias",119,40,9,1
-"15/3/2020","Spain","Cantabria",58,18,2,0
-"15/3/2020","Spain","Castilla La Mancha",567,207,23,17
-"15/3/2020","Spain","Castilla y León",292,45,8,6
-"15/3/2020","Spain","Cataluña",903,0,33,12
-"15/3/2020","Spain","Ceuta",1,0,0,0
-"15/3/2020","Spain","Comunidad Valenciana",409,390,47,5
-"15/3/2020","Spain","Extremadura",111,9,1,2
-"15/3/2020","Spain","Galicia",245,49,9,2
-"15/3/2020","Spain","Madrid",4165,2337,253,213
-"15/3/2020","Spain","ML",8,4,0,0
-"15/3/2020","Spain","Murcia",77,13,2,0
-"15/3/2020","Spain","Navarra",274,58,5,1
-"15/3/2020","Spain","País Vasco",630,262,29,23
-"15/3/2020","Spain","La Rioja",312,64,13,4
-"16/3/2020","Spain","Andalucía",683,229,13,11
-"16/3/2020","Spain","Aragón",207,74,9,12
-"16/3/2020","Spain","Asturias",193,34,5,1
-"16/3/2020","Spain","Baleares",92,26,4,1
-"16/3/2020","Spain","Canarias",148,56,13,2
-"16/3/2020","Spain","Cantabria",58,18,2,0
-"16/3/2020","Spain","Castilla La Mancha",567,207,23,17
-"16/3/2020","Spain","Castilla y León",431,95,24,12
-"16/3/2020","Spain","Cataluña",1394,0,33,18
-"16/3/2020","Spain","Ceuta",1,0,0,0
-"16/3/2020","Spain","Comunidad Valenciana",541,456,52,13
-"16/3/2020","Spain","Extremadura",153,18,2,3
-"16/3/2020","Spain","Galicia",292,49,9,3
-"16/3/2020","Spain","Madrid",4871,3710,340,355
-"16/3/2020","Spain","ML",17,4,0,0
-"16/3/2020","Spain","Murcia",97,18,3,0
-"16/3/2020","Spain","Navarra",313,72,10,2
-"16/3/2020","Spain","País Vasco",765,309,33,36
-"16/3/2020","Spain","La Rioja",355,82,13,5
-"17/3/2020","Spain","Andalucía",859,319,21,19
-"17/3/2020","Spain","Aragón",226,81,9,13
-"17/3/2020","Spain","Asturias",242,45,5,1
-"17/3/2020","Spain","Baleares",112,29,4,1
-"17/3/2020","Spain","Canarias",181,73,17,3
-"17/3/2020","Spain","Cantabria",68,25,3,1
-"17/3/2020","Spain","Castilla La Mancha",675,277,29,28
-"17/3/2020","Spain","Castilla y León",668,281,43,22
-"17/3/2020","Spain","Cataluña",1866,0,33,41
-"17/3/2020","Spain","Ceuta",1,0,0,0
-"17/3/2020","Spain","Comunidad Valenciana",726,530,65,22
-"17/3/2020","Spain","Extremadura",194,27,3,6
-"17/3/2020","Spain","Galicia",341,63,12,3
-"17/3/2020","Spain","Madrid",5637,3778,491,390
-"17/3/2020","Spain","ML",20,4,0,0
-"17/3/2020","Spain","Murcia",122,22,4,0
-"17/3/2020","Spain","Navarra",386,93,10,3
-"17/3/2020","Spain","País Vasco",973,353,37,40
-"17/3/2020","Spain","La Rioja",419,99,13,5
-"18/3/2020","Spain","Andalucía",1008,384,25,23
-"18/3/2020","Spain","Aragón",281,101,14,15
-"18/3/2020","Spain","Asturias",292,61,6,1
-"18/3/2020","Spain","Baleares",169,31,7,2
-"18/3/2020","Spain","Canarias",220,82,23,3
-"18/3/2020","Spain","Cantabria",83,40,4,1
-"18/3/2020","Spain","Castilla La Mancha",801,313,37,42
-"18/3/2020","Spain","Castilla y León",868,362,54,29
-"18/3/2020","Spain","Cataluña",2702,0,33,55
-"18/3/2020","Spain","Ceuta",1,0,0,0
-"18/3/2020","Spain","Comunidad Valenciana",921,647,85,24
-"18/3/2020","Spain","Extremadura",241,36,3,8
-"18/3/2020","Spain","Galicia",453,100,15,4
-"18/3/2020","Spain","Madrid",6777,5168,590,498
-"18/3/2020","Spain","ML",23,4,0,0
-"18/3/2020","Spain","Murcia",167,36,6,0
-"18/3/2020","Spain","Navarra",482,132,11,4
-"18/3/2020","Spain","País Vasco",1190,455,44,53
-"18/3/2020","Spain","La Rioja",468,121,15,5
-"19/3/2020","Spain","Andalucía",1287,501,38,30
-"19/3/2020","Spain","Aragón",360,127,28,17
-"19/3/2020","Spain","Asturias",344,87,7,2
-"19/3/2020","Spain","Baleares",203,48,10,2
-"19/3/2020","Spain","Canarias",287,115,25,4
-"19/3/2020","Spain","Cantabria",144,61,7,1
-"19/3/2020","Spain","Castilla La Mancha",1044,313,37,42
-"19/3/2020","Spain","Castilla y León",1147,476,69,43
-"19/3/2020","Spain","Cataluña",3270,1002,33,82
-"19/3/2020","Spain","Ceuta",5,0,0,0
-"19/3/2020","Spain","Comunidad Valenciana",1105,777,101,33
-"19/3/2020","Spain","Extremadura",297,44,4,10
-"19/3/2020","Spain","Galicia",578,138,19,5
-"19/3/2020","Spain","Madrid",7165,6338,678,628
-"19/3/2020","Spain","ML",24,5,1,0
-"19/3/2020","Spain","Murcia",204,47,11,0
-"19/3/2020","Spain","Navarra",554,172,19,5
-"19/3/2020","Spain","País Vasco",1465,550,53,71
-"19/3/2020","Spain","La Rioja",497,122,15,7
-"20/3/2020","Spain","Andalucía",1515,605,53,40
-"20/3/2020","Spain","Aragón",424,192,33,22
-"20/3/2020","Spain","Asturias",486,133,12,5
-"20/3/2020","Spain","Baleares",246,60,14,4
-"20/3/2020","Spain","Canarias",348,139,29,7
-"20/3/2020","Spain","Cantabria",215,92,9,2
-"20/3/2020","Spain","Castilla La Mancha",1423,635,65,84
-"20/3/2020","Spain","Castilla y León",1466,629,85,55
-"20/3/2020","Spain","Cataluña",4203,1681,298,122
-"20/3/2020","Spain","Ceuta",5,0,0,0
-"20/3/2020","Spain","Comunidad Valenciana",1363,947,129,50
-"20/3/2020","Spain","Extremadura",354,65,6,12
-"20/3/2020","Spain","Galicia",739,168,29,9
-"20/3/2020","Spain","Madrid",8921,7388,767,804
-"20/3/2020","Spain","ML",25,8,1,0
-"20/3/2020","Spain","Murcia",240,61,14,1
-"20/3/2020","Spain","Navarra",664,222,25,9
-"20/3/2020","Spain","País Vasco",1725,654,71,85
-"20/3/2020","Spain","La Rioja",564,128,17,15
-"21/3/2020","Spain","Andalucía",1725,724,55,47
-"21/3/2020","Spain","Aragón",532,241,45,24
-"21/3/2020","Spain","Asturias",545,171,15,8
-"21/3/2020","Spain","Baleares",331,79,14,4
-"21/3/2020","Spain","Canarias",414,150,32,9
-"21/3/2020","Spain","Cantabria",282,116,9,5
-"21/3/2020","Spain","Castilla La Mancha",1819,838,76,112
-"21/3/2020","Spain","Castilla y León",1744,798,106,74
-"21/3/2020","Spain","Cataluña",4704,1681,298,191
-"21/3/2020","Spain","Ceuta",5,0,0,0
-"21/3/2020","Spain","Comunidad Valenciana",1604,1136,152,69
-"21/3/2020","Spain","Extremadura",384,87,8,14
-"21/3/2020","Spain","Galicia",915,227,35,12
-"21/3/2020","Spain","Madrid",9702,8441,834,1021
-"21/3/2020","Spain","ML",25,12,1,0
-"21/3/2020","Spain","Murcia",296,78,16,1
-"21/3/2020","Spain","Navarra",794,288,30,14
-"21/3/2020","Spain","País Vasco",2097,988,81,97
-"21/3/2020","Spain","La Rioja",654,134,17,18
-"22/3/2020","Spain","Andalucía",1961,865,77,58
-"22/3/2020","Spain","Aragón",638,298,52,32
-"22/3/2020","Spain","Asturias",594,194,22,12
-"22/3/2020","Spain","Baleares",400,87,27,10
-"22/3/2020","Spain","Canarias",481,172,32,11
-"22/3/2020","Spain","Cantabria",347,157,14,6
-"22/3/2020","Spain","Castilla La Mancha",2078,1547,142,145
-"22/3/2020","Spain","Castilla y León",2055,977,120,102
-"22/3/2020","Spain","Cataluña",5925,1681,551,245
-"22/3/2020","Spain","Ceuta",6,0,0,0
-"22/3/2020","Spain","Comunidad Valenciana",1901,1311,181,94
-"22/3/2020","Spain","Extremadura",493,131,13,18
-"22/3/2020","Spain","Galicia",1208,270,47,18
-"22/3/2020","Spain","Madrid",10575,9561,942,1263
-"22/3/2020","Spain","ML",28,12,1,0
-"22/3/2020","Spain","Murcia",345,80,23,2
-"22/3/2020","Spain","Navarra",886,339,40,24
-"22/3/2020","Spain","País Vasco",2421,1252,92,120
-"22/3/2020","Spain","La Rioja",747,166,22,22
-"23/3/2020","Spain","Andalucía",2471,1132,102,87
-"23/3/2020","Spain","Aragón",758,384,66,37
-"23/3/2020","Spain","Asturias",662,224,23,22
-"23/3/2020","Spain","Baleares",478,127,35,10
-"23/3/2020","Spain","Canarias",557,207,36,16
-"23/3/2020","Spain","Cantabria",425,200,16,9
-"23/3/2020","Spain","Castilla La Mancha",2465,1826,182,216
-"23/3/2020","Spain","Castilla y León",2460,1197,137,124
-"23/3/2020","Spain","Cataluña",7864,3599,551,282
-"23/3/2020","Spain","Ceuta",6,0,0,0
-"23/3/2020","Spain","Comunidad Valenciana",2167,1562,222,115
-"23/3/2020","Spain","Extremadura",636,161,20,26
-"23/3/2020","Spain","Galicia",1415,338,55,20
-"23/3/2020","Spain","Madrid",12352,10443,1050,1535
-"23/3/2020","Spain","ML",28,12,1,0
-"23/3/2020","Spain","Murcia",385,99,26,3
-"23/3/2020","Spain","Navarra",1014,405,45,31
-"23/3/2020","Spain","País Vasco",2728,1425,106,133
-"23/3/2020","Spain","La Rioja",802,206,24,30
-"24/3/2020","Spain","Andalucía",3010,1433,116,113
-"24/3/2020","Spain","Aragón",907,459,75,40
-"24/3/2020","Spain","Asturias",779,263,29,25
-"24/3/2020","Spain","Baleares",562,164,40,13
-"24/3/2020","Spain","Canarias",657,235,43,21
-"24/3/2020","Spain","Cantabria",510,241,18,14
-"24/3/2020","Spain","Castilla La Mancha",2780,2162,210,263
-"24/3/2020","Spain","Castilla y León",2940,1457,170,165
-"24/3/2020","Spain","Cataluña",9937,5434,781,516
-"24/3/2020","Spain","Ceuta",9,2,1,0
-"24/3/2020","Spain","Comunidad Valenciana",2616,1842,255,143
-"24/3/2020","Spain","Extremadura",742,209,28,39
-"24/3/2020","Spain","Galicia",1653,412,69,27
-"24/3/2020","Spain","Madrid",14597,11153,1150,1825
-"24/3/2020","Spain","ML",38,14,2,0
-"24/3/2020","Spain","Murcia",477,127,33,5
-"24/3/2020","Spain","Navarra",1197,506,51,33
-"24/3/2020","Spain","País Vasco",3271,1577,119,155
-"24/3/2020","Spain","La Rioja",928,254,33,37
-"25/3/2020","Spain","Andalucía",3406,1626,134,134
-"25/3/2020","Spain","Aragón",1116,562,93,48
-"25/3/2020","Spain","Asturias",841,300,34,27
-"25/3/2020","Spain","Baleares",660,205,43,17
-"25/3/2020","Spain","Canarias",784,279,45,24
-"25/3/2020","Spain","Cantabria",671,300,26,17
-"25/3/2020","Spain","Castilla La Mancha",3383,2162,243,316
-"25/3/2020","Spain","Castilla y León",3488,1823,202,206
-"25/3/2020","Spain","Cataluña",11592,7439,1021,672
-"25/3/2020","Spain","Ceuta",10,2,2,0
-"25/3/2020","Spain","Comunidad Valenciana",3200,2097,289,167
-"25/3/2020","Spain","Extremadura",969,241,34,58
-"25/3/2020","Spain","Galicia",1915,503,86,32
-"25/3/2020","Spain","Madrid",17166,12440,1221,2090
-"25/3/2020","Spain","ML",39,16,2,1
-"25/3/2020","Spain","Murcia",596,172,36,8
-"25/3/2020","Spain","Navarra",1411,649,54,49
-"25/3/2020","Spain","País Vasco",3946,1907,137,180
-"25/3/2020","Spain","La Rioja",995,316,36,43
-"26/3/2020","Spain","Andalucía",3793,1843,148,144
-"26/3/2020","Spain","Aragón",1338,693,114,58
-"26/3/2020","Spain","Asturias",900,339,47,29
-"26/3/2020","Spain","Baleares",755,237,46,22
-"26/3/2020","Spain","Canarias",878,328,61,27
-"26/3/2020","Spain","Cantabria",810,355,29,21
-"26/3/2020","Spain","Castilla La Mancha",3934,2707,273,367
-"26/3/2020","Spain","Castilla y León",4132,2214,228,252
-"26/3/2020","Spain","Cataluña",12940,8545,1187,880
-"26/3/2020","Spain","Ceuta",17,2,2,0
-"26/3/2020","Spain","Comunidad Valenciana",3532,2357,325,198
-"26/3/2020","Spain","Extremadura",1231,277,41,69
-"26/3/2020","Spain","Galicia",2322,557,98,43
-"26/3/2020","Spain","Madrid",19243,13580,1312,2412
-"26/3/2020","Spain","ML",42,18,2,1
-"26/3/2020","Spain","Murcia",714,209,53,15
-"26/3/2020","Spain","Navarra",1641,732,75,58
-"26/3/2020","Spain","País Vasco",4601,2270,154,207
-"26/3/2020","Spain","La Rioja",1236,388,43,55
-"27/3/2020","Spain","Andalucía",4277,2106,172,175
-"27/3/2020","Spain","Aragón",1592,835,124,93
-"27/3/2020","Spain","Asturias",1004,408,50,33
-"27/3/2020","Spain","Baleares",862,283,59,26
-"27/3/2020","Spain","Canarias",1025,377,68,36
-"27/3/2020","Spain","Cantabria",937,406,37,22
-"27/3/2020","Spain","Castilla La Mancha",4512,2977,289,448
-"27/3/2020","Spain","Castilla y León",4791,2648,249,321
-"27/3/2020","Spain","Cataluña",14263,9900,1324,1070
-"27/3/2020","Spain","Ceuta",17,2,2,1
-"27/3/2020","Spain","Comunidad Valenciana",4034,2606,348,234
-"27/3/2020","Spain","Extremadura",1394,312,40,88
-"27/3/2020","Spain","Galicia",2772,906,112,47
-"27/3/2020","Spain","Madrid",21520,14211,1404,2757
-"27/3/2020","Spain","ML",45,22,2,1
-"27/3/2020","Spain","Murcia",802,231,58,17
-"27/3/2020","Spain","Navarra",1829,827,84,70
-"27/3/2020","Spain","País Vasco",5136,2612,176,241
-"27/3/2020","Spain","La Rioja",1436,458,43,65
-"28/3/2020","Spain","Andalucía",4682,2294,201,207
-"28/3/2020","Spain","Aragón",1858,835,124,104
-"28/3/2020","Spain","Asturias",1088,466,57,41
-"28/3/2020","Spain","Baleares",958,345,71,29
-"28/3/2020","Spain","Canarias",1125,425,78,39
-"28/3/2020","Spain","Cantabria",1023,449,40,26
-"28/3/2020","Spain","Castilla La Mancha",5246,3018,299,539
-"28/3/2020","Spain","Castilla y León",5414,3160,278,380
-"28/3/2020","Spain","Cataluña",15026,10688,1391,1226
-"28/3/2020","Spain","Ceuta",21,2,2,1
-"28/3/2020","Spain","Comunidad Valenciana",4784,2773,375,267
-"28/3/2020","Spain","Extremadura",1456,313,41,100
-"28/3/2020","Spain","Galicia",3139,1043,123,60
-"28/3/2020","Spain","Madrid",22677,14454,1429,3082
-"28/3/2020","Spain","ML",48,24,2,1
-"28/3/2020","Spain","Murcia",872,260,58,20
-"28/3/2020","Spain","Navarra",2011,896,90,84
-"28/3/2020","Spain","País Vasco",5740,3106,271,265
-"28/3/2020","Spain","La Rioja",1629,497,43,68
-"29/3/2020","Spain","Andalucía",5405,2671,216,236
-"29/3/2020","Spain","Aragón",2078,1094,156,106
-"29/3/2020","Spain","Asturias",1158,479,60,49
-"29/3/2020","Spain","Baleares",1000,353,80,37
-"29/3/2020","Spain","Canarias",1204,444,84,40
-"29/3/2020","Spain","Cantabria",1100,481,46,27
-"29/3/2020","Spain","Castilla La Mancha",5858,3134,302,622
-"29/3/2020","Spain","Castilla y León",5801,3411,307,442
-"29/3/2020","Spain","Cataluña",16157,11769,1512,1410
-"29/3/2020","Spain","Ceuta",25,2,2,1
-"29/3/2020","Spain","Comunidad Valenciana",5110,2914,393,310
-"29/3/2020","Spain","Extremadura",1560,353,43,106
-"29/3/2020","Spain","Galicia",3723,1147,134,66
-"29/3/2020","Spain","Madrid",24090,14917,1460,3392
-"29/3/2020","Spain","ML",51,27,3,1
-"29/3/2020","Spain","Murcia",939,265,58,25
-"29/3/2020","Spain","Navarra",2146,955,96,102
-"29/3/2020","Spain","País Vasco",6057,3427,293,297
-"29/3/2020","Spain","La Rioja",1733,517,43,71
-"30/3/2020","Spain","Andalucía",5818,2867,235,248
-"30/3/2020","Spain","Aragón",2272,1176,165,138
-"30/3/2020","Spain","Asturias",1236,529,65,55
-"30/3/2020","Spain","Baleares",1069,399,85,42
-"30/3/2020","Spain","Canarias",1262,483,94,55
-"30/3/2020","Spain","Cantabria",1171,522,50,37
-"30/3/2020","Spain","Castilla La Mancha",6424,3225,344,708
-"30/3/2020","Spain","Castilla y León",6211,3629,325,516
-"30/3/2020","Spain","Cataluña",18773,12974,1652,1672
-"30/3/2020","Spain","Ceuta",34,3,3,1
-"30/3/2020","Spain","Comunidad Valenciana",5508,3111,416,339
-"30/3/2020","Spain","Extremadura",1628,371,51,133
-"30/3/2020","Spain","Galicia",4039,1250,149,84
-"30/3/2020","Spain","Madrid",27509,15140,1514,3603
-"30/3/2020","Spain","ML",54,27,3,1
-"30/3/2020","Spain","Murcia",974,283,59,34
-"30/3/2020","Spain","Navarra",2305,1035,99,113
-"30/3/2020","Spain","País Vasco",6320,3594,307,325
-"30/3/2020","Spain","La Rioja",1810,575,51,85
-"31/3/2020","Spain","Andalucía",6392,3147,260,308
-"31/3/2020","Spain","Aragón",2491,1234,168,169
-"31/3/2020","Spain","Asturias",1322,590,76,63
-"31/3/2020","Spain","Baleares",1131,468,95,46
-"31/3/2020","Spain","Canarias",1380,532,110,62
-"31/3/2020","Spain","Cantabria",1213,543,54,54
-"31/3/2020","Spain","Castilla La Mancha",7047,3230,353,774
-"31/3/2020","Spain","Castilla y León",6847,3951,345,585
-"31/3/2020","Spain","Cataluña",19991,13969,1769,1849
-"31/3/2020","Spain","Ceuta",51,6,3,1
-"31/3/2020","Spain","Comunidad Valenciana",5922,3253,434,395
-"31/3/2020","Spain","Extremadura",1679,372,58,152
-"31/3/2020","Spain","Galicia",4432,1338,158,103
-"31/3/2020","Spain","Madrid",29840,15227,1514,3865
-"31/3/2020","Spain","ML",62,32,3,1
-"31/3/2020","Spain","Murcia",1041,304,59,37
-"31/3/2020","Spain","Navarra",2497,1120,104,130
-"31/3/2020","Spain","País Vasco",6838,3806,324,369
-"31/3/2020","Spain","La Rioja",1960,619,54,90
-"1/4/2020","Spain","Andalucía",6972,3444,280,343
-"1/4/2020","Spain","Aragón",2700,1320,178,200
-"1/4/2020","Spain","Asturias",1384,640,79,69
-"1/4/2020","Spain","Baleares",1204,517,105,58
-"1/4/2020","Spain","Canarias",1444,566,113,68
-"1/4/2020","Spain","Cantabria",1268,567,57,60
-"1/4/2020","Spain","Castilla La Mancha",7682,3230,355,854
-"1/4/2020","Spain","Castilla y León",7355,4207,353,641
-"1/4/2020","Spain","Cataluña",21804,15489,1855,2093
-"1/4/2020","Spain","Ceuta",55,7,3,1
-"1/4/2020","Spain","Comunidad Valenciana",6308,3389,449,443
-"1/4/2020","Spain","Extremadura",1837,412,62,181
-"1/4/2020","Spain","Galicia",4842,1447,165,120
-"1/4/2020","Spain","Madrid",32155,15227,1528,4175
-"1/4/2020","Spain","ML",62,32,3,1
-"1/4/2020","Spain","Murcia",1084,389,68,42
-"1/4/2020","Spain","Navarra",2682,1181,108,141
-"1/4/2020","Spain","País Vasco",7317,4087,344,412
-"1/4/2020","Spain","La Rioja",2083,660,57,101
-"2/4/2020","Spain","Andalucía",7374,3673,338,376
-"2/4/2020","Spain","Aragón",2889,1431,180,224
-"2/4/2020","Spain","Asturias",1433,702,86,70
-"2/4/2020","Spain","Baleares",1257,587,112,69
-"2/4/2020","Spain","Canarias",1490,605,120,73
-"2/4/2020","Spain","Cantabria",1321,592,59,64
-"2/4/2020","Spain","Castilla La Mancha",8523,3168,355,916
-"2/4/2020","Spain","Castilla y León",7875,4472,355,723
-"2/4/2020","Spain","Cataluña",23460,17257,2053,2335
-"2/4/2020","Spain","Ceuta",62,8,3,1
-"2/4/2020","Spain","Comunidad Valenciana",6624,3492,460,511
-"2/4/2020","Spain","Extremadura",1893,415,64,200
-"2/4/2020","Spain","Galicia",5219,1630,178,138
-"2/4/2020","Spain","Madrid",34188,15050,1506,4483
-"2/4/2020","Spain","ML",70,34,3,2
-"2/4/2020","Spain","Murcia",1145,405,72,46
-"2/4/2020","Spain","Navarra",2836,1284,119,151
-"2/4/2020","Spain","País Vasco",7827,4283,363,444
-"2/4/2020","Spain","La Rioja",2224,738,64,109
-"3/4/2020","Spain","Andalucía",7869,3896,364,426
-"3/4/2020","Spain","Aragón",3078,1505,190,251
-"3/4/2020","Spain","Asturias",1522,766,87,76
-"3/4/2020","Spain","Baleares",1271,634,114,71
-"3/4/2020","Spain","Canarias",1564,632,128,78
-"3/4/2020","Spain","Cantabria",1384,619,60,68
-"3/4/2020","Spain","Castilla La Mancha",9324,3133,360,989
-"3/4/2020","Spain","Castilla y León",8332,4685,348,786
-"3/4/2020","Spain","Cataluña",24734,17678,2108,2508
-"3/4/2020","Spain","Ceuta",73,8,4,1
-"3/4/2020","Spain","Comunidad Valenciana",6901,3560,470,571
-"3/4/2020","Spain","Extremadura",1979,453,64,208
-"3/4/2020","Spain","Galicia",5625,1767,178,159
-"3/4/2020","Spain","Madrid",36249,14741,1498,4723
-"3/4/2020","Spain","ML",79,37,3,2
-"3/4/2020","Spain","Murcia",1188,434,79,51
-"3/4/2020","Spain","Navarra",2972,1341,120,171
-"3/4/2020","Spain","País Vasco",8187,4522,377,477
-"3/4/2020","Spain","La Rioja",2405,805,64,128
-"4/4/2020","Spain","Andalucía",8301,4107,474,470
-"4/4/2020","Spain","Aragón",3232,1588,233,270
-"4/4/2020","Spain","Asturias",1605,808,90,80
-"4/4/2020","Spain","Baleares",1293,664,120,75
-"4/4/2020","Spain","Canarias",1622,644,129,80
-"4/4/2020","Spain","Cantabria",1441,639,62,68
-"4/4/2020","Spain","Castilla La Mancha",10031,2950,357,1055
-"4/4/2020","Spain","Castilla y León",8749,4905,351,847
-"4/4/2020","Spain","Cataluña",26032,18656,2249,2637
-"4/4/2020","Spain","Ceuta",83,9,4,2
-"4/4/2020","Spain","Comunidad Valenciana",7184,3620,478,613
-"4/4/2020","Spain","Extremadura",2047,417,66,218
-"4/4/2020","Spain","Galicia",5944,1831,170,174
-"4/4/2020","Spain","Madrid",37584,14551,1499,4941
-"4/4/2020","Spain","ML",83,38,3,2
-"4/4/2020","Spain","Murcia",1235,447,80,59
-"4/4/2020","Spain","Navarra",3073,1399,123,178
-"4/4/2020","Spain","País Vasco",8628,4666,404,515
-"4/4/2020","Spain","La Rioja",2592,855,66,134
-"5/4/2020","Spain","Andalucía",8581,4227,489,491
-"5/4/2020","Spain","Aragón",3347,1637,237,284
-"5/4/2020","Spain","Asturias",1646,846,90,86
-"5/4/2020","Spain","Baleares",1320,683,121,81
-"5/4/2020","Spain","Canarias",1649,651,133,85
-"5/4/2020","Spain","Cantabria",1483,658,65,77
-"5/4/2020","Spain","Castilla La Mancha",10602,2901,354,1132
-"5/4/2020","Spain","Castilla y León",9116,5041,348,919
-"5/4/2020","Spain","Cataluña",26824,19143,2276,2760
-"5/4/2020","Spain","Ceuta",83,9,4,3
-"5/4/2020","Spain","Comunidad Valenciana",7334,3668,487,637
-"5/4/2020","Spain","Extremadura",2068,453,66,228
-"5/4/2020","Spain","Galicia",6151,1916,170,190
-"5/4/2020","Spain","Madrid",38723,14501,1510,5136
-"5/4/2020","Spain","ML",86,38,3,2
-"5/4/2020","Spain","Murcia",1259,468,81,68
-"5/4/2020","Spain","Navarra",3231,1432,124,187
-"5/4/2020","Spain","País Vasco",8810,4794,410,548
-"5/4/2020","Spain","La Rioja",2719,888,66,141
-"6/4/2020","Spain","Andalucía",8767,4335,499,528
-"6/4/2020","Spain","Aragón",3449,1663,247,312
-"6/4/2020","Spain","Asturias",1679,889,91,96
-"6/4/2020","Spain","Baleares",1369,705,124,84
-"6/4/2020","Spain","Canarias",1725,689,137,89
-"6/4/2020","Spain","Cantabria",1501,677,66,85
-"6/4/2020","Spain","Castilla La Mancha",11077,2908,360,1177
-"6/4/2020","Spain","Castilla y León",9581,5180,346,982
-"6/4/2020","Spain","Cataluña",28323,19745,2391,2908
-"6/4/2020","Spain","Ceuta",83,9,4,4
-"6/4/2020","Spain","Comunidad Valenciana",7443,3698,492,672
-"6/4/2020","Spain","Extremadura",2116,686,70,258
-"6/4/2020","Spain","Galicia",6331,1968,162,204
-"6/4/2020","Spain","Madrid",40469,13950,1494,5371
-"6/4/2020","Spain","ML",92,40,3,2
-"6/4/2020","Spain","Murcia",1283,500,84,78
-"6/4/2020","Spain","Navarra",3355,1488,124,202
-"6/4/2020","Spain","País Vasco",9021,4856,417,586
-"6/4/2020","Spain","La Rioja",2846,918,66,160
-"7/4/2020","Spain","Andalucía",8997,4463,520,605
-"7/4/2020","Spain","Aragón",3549,1716,255,349
-"7/4/2020","Spain","Asturias",1705,958,91,102
-"7/4/2020","Spain","Baleares",1412,731,129,89
-"7/4/2020","Spain","Canarias",1762,703,138,91
-"7/4/2020","Spain","Cantabria",1572,700,69,92
-"7/4/2020","Spain","Castilla La Mancha",11788,2731,354,1255
-"7/4/2020","Spain","Castilla y León",10058,5322,342,1028
-"7/4/2020","Spain","Cataluña",29647,20250,2442,3041
-"7/4/2020","Spain","Ceuta",84,9,4,4
-"7/4/2020","Spain","Comunidad Valenciana",7655,3713,496,724
-"7/4/2020","Spain","Extremadura",2184,898,98,271
-"7/4/2020","Spain","Galicia",6538,2014,158,213
-"7/4/2020","Spain","Madrid",42450,13289,1450,5586
-"7/4/2020","Spain","ML",93,40,3,2
-"7/4/2020","Spain","Murcia",1326,515,86,85
-"7/4/2020","Spain","Navarra",3467,1526,124,206
-"7/4/2020","Spain","País Vasco",9452,4982,430,635
-"7/4/2020","Spain","La Rioja",2951,955,68,177
-"8/4/2020","Spain","Andalucía",9261,4599,538,652
-"8/4/2020","Spain","Aragón",3685,1765,261,385
-"8/4/2020","Spain","Asturias",1737,1018,94,110
-"8/4/2020","Spain","Baleares",1448,751,132,89
-"8/4/2020","Spain","Canarias",1834,730,140,92
-"8/4/2020","Spain","Cantabria",1619,720,71,98
-"8/4/2020","Spain","Castilla La Mancha",12489,2575,342,1322
-"8/4/2020","Spain","Castilla y León",10518,5523,338,1082
-"8/4/2020","Spain","Cataluña",31043,20943,2507,3148
-"8/4/2020","Spain","Ceuta",84,9,4,4
-"8/4/2020","Spain","Comunidad Valenciana",7964,3815,541,767
-"8/4/2020","Spain","Extremadura",2273,958,99,283
-"8/4/2020","Spain","Galicia",6758,2094,155,231
-"8/4/2020","Spain","Madrid",43877,12853,1433,5800
-"8/4/2020","Spain","ML",93,40,3,2
-"8/4/2020","Spain","Murcia",1356,533,87,88
-"8/4/2020","Spain","Navarra",3575,1526,124,214
-"8/4/2020","Spain","País Vasco",9806,5130,433,689
-"8/4/2020","Spain","La Rioja",3026,997,69,182
-"9/4/2020","Spain","Andalucía",9510,4715,582,691
-"9/4/2020","Spain","Aragón",3831,1822,263,409
-"9/4/2020","Spain","Asturias",1799,1083,100,121
-"9/4/2020","Spain","Baleares",1488,777,136,97
-"9/4/2020","Spain","Canarias",1858,738,141,94
-"9/4/2020","Spain","Cantabria",1659,747,73,102
-"9/4/2020","Spain","Castilla La Mancha",13063,2359,329,1431
-"9/4/2020","Spain","Castilla y León",11102,5674,332,1129
-"9/4/2020","Spain","Cataluña",31824,21530,2582,3231
-"9/4/2020","Spain","Ceuta",91,9,4,4
-"9/4/2020","Spain","Comunidad Valenciana",8331,3987,561,796
-"9/4/2020","Spain","Extremadura",2332,1003,101,288
-"9/4/2020","Spain","Galicia",6946,2165,151,243
-"9/4/2020","Spain","Madrid",44783,12432,1399,5972
-"9/4/2020","Spain","ML",95,41,3,2
-"9/4/2020","Spain","Murcia",1383,533,88,90
-"9/4/2020","Spain","Navarra",3748,1620,124,218
-"9/4/2020","Spain","País Vasco",10103,5290,442,729
-"9/4/2020","Spain","La Rioja",3076,1047,71,196
-"10/4/2020","Spain","Andalucía",9712,4808,602,737
-"10/4/2020","Spain","Aragón",3969,1860,266,425
-"10/4/2020","Spain","Asturias",1827,1147,105,128
-"10/4/2020","Spain","Baleares",1507,778,137,102
-"10/4/2020","Spain","Canarias",1887,745,144,95
-"10/4/2020","Spain","Cantabria",1719,773,75,107
-"10/4/2020","Spain","Castilla La Mancha",13456,2198,316,1483
-"10/4/2020","Spain","Castilla y León",11543,5817,327,1180
-"10/4/2020","Spain","Cataluña",32984,21921,2629,3331
-"10/4/2020","Spain","Ceuta",93,9,4,4
-"10/4/2020","Spain","Comunidad Valenciana",8578,4132,565,818
-"10/4/2020","Spain","Extremadura",2486,1052,104,303
-"10/4/2020","Spain","Galicia",7176,2215,144,261
-"10/4/2020","Spain","Madrid",45849,11894,1376,6084
-"10/4/2020","Spain","ML",98,43,3,2
-"10/4/2020","Spain","Murcia",1413,533,88,94
-"10/4/2020","Spain","Navarra",3817,1641,124,227
-"10/4/2020","Spain","País Vasco",10515,5402,453,765
-"10/4/2020","Spain","La Rioja",3223,1082,73,207
-"11/4/2020","Spain","Andalucía",10006,4950,619,799
-"11/4/2020","Spain","Aragón",4070,1901,272,450
-"11/4/2020","Spain","Asturias",1892,1208,106,140
-"11/4/2020","Spain","Baleares",1534,805,142,112
-"11/4/2020","Spain","Canarias",1918,758,144,95
-"11/4/2020","Spain","Cantabria",1752,805,75,110
-"11/4/2020","Spain","Castilla La Mancha",13698,6838,316,1543
-"11/4/2020","Spain","Castilla y León",12118,5957,323,1221
-"11/4/2020","Spain","Cataluña",34027,22369,2658,3442
-"11/4/2020","Spain","Ceuta",93,9,4,4
-"11/4/2020","Spain","Comunidad Valenciana",8841,4149,567,838
-"11/4/2020","Spain","Extremadura",2580,1074,106,312
-"11/4/2020","Spain","Galicia",7336,2306,140,274
-"11/4/2020","Spain","Madrid",46587,11424,1332,6278
-"11/4/2020","Spain","ML",98,43,3,2
-"11/4/2020","Spain","Murcia",1449,537,91,97
-"11/4/2020","Spain","Navarra",3969,1663,124,232
-"11/4/2020","Spain","País Vasco",10772,5547,459,804
-"11/4/2020","Spain","La Rioja",3279,1122,73,219
-"None","Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad el autor",0,0,0,0
+"2020-02-20 00:00:00","Spain","Andalucía",0,0,0,0
+"2020-02-20 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-20 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-20 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-20 00:00:00","Spain","Canarias",1,0,0,0
+"2020-02-20 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-20 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-20 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-20 00:00:00","Spain","Cataluña",0,0,0,0
+"2020-02-20 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-20 00:00:00","Spain","Comunidad Valenciana",0,26,0,0
+"2020-02-20 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-20 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-20 00:00:00","Spain","Madrid",0,0,0,0
+"2020-02-20 00:00:00","Spain","ML",0,0,0,0
+"2020-02-20 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-20 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-20 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-20 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-21 00:00:00","Spain","Andalucía",0,0,0,0
+"2020-02-21 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-21 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-21 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-21 00:00:00","Spain","Canarias",1,0,0,0
+"2020-02-21 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-21 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-21 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-21 00:00:00","Spain","Cataluña",0,0,0,0
+"2020-02-21 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-21 00:00:00","Spain","Comunidad Valenciana",0,30,1,0
+"2020-02-21 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-21 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-21 00:00:00","Spain","Madrid",0,0,0,0
+"2020-02-21 00:00:00","Spain","ML",0,0,0,0
+"2020-02-21 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-21 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-21 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-21 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-22 00:00:00","Spain","Andalucía",0,0,0,0
+"2020-02-22 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-22 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-22 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-22 00:00:00","Spain","Canarias",1,0,0,0
+"2020-02-22 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-22 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-22 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-22 00:00:00","Spain","Cataluña",0,0,0,0
+"2020-02-22 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-22 00:00:00","Spain","Comunidad Valenciana",0,33,1,0
+"2020-02-22 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-22 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-22 00:00:00","Spain","Madrid",0,0,0,0
+"2020-02-22 00:00:00","Spain","ML",0,0,0,0
+"2020-02-22 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-22 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-22 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-22 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-23 00:00:00","Spain","Andalucía",0,0,0,0
+"2020-02-23 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-23 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-23 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-23 00:00:00","Spain","Canarias",1,0,0,0
+"2020-02-23 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-23 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-23 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-23 00:00:00","Spain","Cataluña",0,0,0,0
+"2020-02-23 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-23 00:00:00","Spain","Comunidad Valenciana",0,38,2,0
+"2020-02-23 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-23 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-23 00:00:00","Spain","Madrid",0,0,0,0
+"2020-02-23 00:00:00","Spain","ML",0,0,0,0
+"2020-02-23 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-23 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-23 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-23 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-24 00:00:00","Spain","Andalucía",0,0,0,0
+"2020-02-24 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-24 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-24 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-24 00:00:00","Spain","Canarias",2,0,0,0
+"2020-02-24 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-24 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-24 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-24 00:00:00","Spain","Cataluña",0,0,0,0
+"2020-02-24 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-24 00:00:00","Spain","Comunidad Valenciana",0,49,2,0
+"2020-02-24 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-24 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-24 00:00:00","Spain","Madrid",0,0,0,0
+"2020-02-24 00:00:00","Spain","ML",0,0,0,0
+"2020-02-24 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-24 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-24 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-24 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-25 00:00:00","Spain","Andalucía",0,0,0,0
+"2020-02-25 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-25 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-25 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-25 00:00:00","Spain","Canarias",5,0,0,0
+"2020-02-25 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-25 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-25 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-25 00:00:00","Spain","Cataluña",1,0,0,0
+"2020-02-25 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-25 00:00:00","Spain","Comunidad Valenciana",1,58,2,0
+"2020-02-25 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-25 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-25 00:00:00","Spain","Madrid",2,0,0,0
+"2020-02-25 00:00:00","Spain","ML",0,0,0,0
+"2020-02-25 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-25 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-25 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-25 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-26 00:00:00","Spain","Andalucía",1,0,0,0
+"2020-02-26 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-26 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-26 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-26 00:00:00","Spain","Canarias",6,0,0,0
+"2020-02-26 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-26 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-26 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-26 00:00:00","Spain","Cataluña",2,0,0,0
+"2020-02-26 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-26 00:00:00","Spain","Comunidad Valenciana",2,63,3,0
+"2020-02-26 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-26 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-26 00:00:00","Spain","Madrid",4,0,0,0
+"2020-02-26 00:00:00","Spain","ML",0,0,0,0
+"2020-02-26 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-26 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-26 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-26 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-27 00:00:00","Spain","Andalucía",6,0,0,0
+"2020-02-27 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-27 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-27 00:00:00","Spain","Baleares",1,0,0,0
+"2020-02-27 00:00:00","Spain","Canarias",6,0,0,0
+"2020-02-27 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-27 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-27 00:00:00","Spain","Castilla y León",0,0,0,0
+"2020-02-27 00:00:00","Spain","Cataluña",3,0,0,0
+"2020-02-27 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-27 00:00:00","Spain","Comunidad Valenciana",8,73,3,0
+"2020-02-27 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-27 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-27 00:00:00","Spain","Madrid",5,0,0,0
+"2020-02-27 00:00:00","Spain","ML",0,0,0,0
+"2020-02-27 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-27 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-27 00:00:00","Spain","País Vasco",0,0,0,0
+"2020-02-27 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-28 00:00:00","Spain","Andalucía",8,0,0,0
+"2020-02-28 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-28 00:00:00","Spain","Asturias",0,0,0,0
+"2020-02-28 00:00:00","Spain","Baleares",2,0,0,0
+"2020-02-28 00:00:00","Spain","Canarias",6,0,0,0
+"2020-02-28 00:00:00","Spain","Cantabria",0,0,0,0
+"2020-02-28 00:00:00","Spain","Castilla La Mancha",0,0,0,0
+"2020-02-28 00:00:00","Spain","Castilla y León",2,0,0,0
+"2020-02-28 00:00:00","Spain","Cataluña",5,0,0,0
+"2020-02-28 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-28 00:00:00","Spain","Comunidad Valenciana",10,78,3,0
+"2020-02-28 00:00:00","Spain","Extremadura",0,0,0,0
+"2020-02-28 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-28 00:00:00","Spain","Madrid",8,0,0,0
+"2020-02-28 00:00:00","Spain","ML",0,0,0,0
+"2020-02-28 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-28 00:00:00","Spain","Navarra",0,0,0,0
+"2020-02-28 00:00:00","Spain","País Vasco",2,0,0,0
+"2020-02-28 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-02-29 00:00:00","Spain","Andalucía",12,0,0,0
+"2020-02-29 00:00:00","Spain","Aragón",0,0,0,0
+"2020-02-29 00:00:00","Spain","Asturias",1,0,0,0
+"2020-02-29 00:00:00","Spain","Baleares",2,0,0,0
+"2020-02-29 00:00:00","Spain","Canarias",7,0,0,0
+"2020-02-29 00:00:00","Spain","Cantabria",1,0,0,0
+"2020-02-29 00:00:00","Spain","Castilla La Mancha",1,0,0,0
+"2020-02-29 00:00:00","Spain","Castilla y León",2,0,0,0
+"2020-02-29 00:00:00","Spain","Cataluña",6,0,0,0
+"2020-02-29 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-02-29 00:00:00","Spain","Comunidad Valenciana",15,85,3,0
+"2020-02-29 00:00:00","Spain","Extremadura",4,0,0,0
+"2020-02-29 00:00:00","Spain","Galicia",0,0,0,0
+"2020-02-29 00:00:00","Spain","Madrid",10,0,0,0
+"2020-02-29 00:00:00","Spain","ML",0,0,0,0
+"2020-02-29 00:00:00","Spain","Murcia",0,0,0,0
+"2020-02-29 00:00:00","Spain","Navarra",1,0,0,0
+"2020-02-29 00:00:00","Spain","País Vasco",3,0,0,0
+"2020-02-29 00:00:00","Spain","La Rioja",0,0,0,0
+"2020-03-01 00:00:00","Spain","Andalucía",12,0,0,0
+"2020-03-01 00:00:00","Spain","Aragón",0,0,0,0
+"2020-03-01 00:00:00","Spain","Asturias",1,0,0,0
+"2020-03-01 00:00:00","Spain","Baleares",2,0,0,0
+"2020-03-01 00:00:00","Spain","Canarias",7,0,0,0
+"2020-03-01 00:00:00","Spain","Cantabria",10,0,0,0
+"2020-03-01 00:00:00","Spain","Castilla La Mancha",3,0,0,0
+"2020-03-01 00:00:00","Spain","Castilla y León",2,0,0,0
+"2020-03-01 00:00:00","Spain","Cataluña",15,0,0,0
+"2020-03-01 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-01 00:00:00","Spain","Comunidad Valenciana",15,88,3,0
+"2020-03-01 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-01 00:00:00","Spain","Galicia",0,0,0,0
+"2020-03-01 00:00:00","Spain","Madrid",29,0,0,0
+"2020-03-01 00:00:00","Spain","ML",0,0,0,0
+"2020-03-01 00:00:00","Spain","Murcia",0,0,0,0
+"2020-03-01 00:00:00","Spain","Navarra",1,0,0,0
+"2020-03-01 00:00:00","Spain","País Vasco",9,0,0,0
+"2020-03-01 00:00:00","Spain","La Rioja",1,0,0,0
+"2020-03-02 00:00:00","Spain","Andalucía",12,0,0,0
+"2020-03-02 00:00:00","Spain","Aragón",0,0,0,0
+"2020-03-02 00:00:00","Spain","Asturias",1,0,0,0
+"2020-03-02 00:00:00","Spain","Baleares",2,0,0,0
+"2020-03-02 00:00:00","Spain","Canarias",7,0,0,0
+"2020-03-02 00:00:00","Spain","Cantabria",10,0,0,0
+"2020-03-02 00:00:00","Spain","Castilla La Mancha",7,0,0,0
+"2020-03-02 00:00:00","Spain","Castilla y León",7,0,0,0
+"2020-03-02 00:00:00","Spain","Cataluña",15,0,0,0
+"2020-03-02 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-02 00:00:00","Spain","Comunidad Valenciana",15,93,3,0
+"2020-03-02 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-02 00:00:00","Spain","Galicia",0,0,0,0
+"2020-03-02 00:00:00","Spain","Madrid",49,0,0,0
+"2020-03-02 00:00:00","Spain","ML",0,0,0,0
+"2020-03-02 00:00:00","Spain","Murcia",0,0,0,0
+"2020-03-02 00:00:00","Spain","Navarra",1,0,0,0
+"2020-03-02 00:00:00","Spain","País Vasco",13,0,0,0
+"2020-03-02 00:00:00","Spain","La Rioja",3,0,0,0
+"2020-03-03 00:00:00","Spain","Andalucía",12,0,0,0
+"2020-03-03 00:00:00","Spain","Aragón",0,0,0,0
+"2020-03-03 00:00:00","Spain","Asturias",2,0,0,0
+"2020-03-03 00:00:00","Spain","Baleares",5,0,0,0
+"2020-03-03 00:00:00","Spain","Canarias",7,0,0,0
+"2020-03-03 00:00:00","Spain","Cantabria",10,0,0,0
+"2020-03-03 00:00:00","Spain","Castilla La Mancha",12,0,0,0
+"2020-03-03 00:00:00","Spain","Castilla y León",8,0,0,0
+"2020-03-03 00:00:00","Spain","Cataluña",15,0,0,0
+"2020-03-03 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-03 00:00:00","Spain","Comunidad Valenciana",19,105,5,0
+"2020-03-03 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-03 00:00:00","Spain","Galicia",1,0,0,0
+"2020-03-03 00:00:00","Spain","Madrid",70,0,0,0
+"2020-03-03 00:00:00","Spain","ML",0,0,0,0
+"2020-03-03 00:00:00","Spain","Murcia",0,0,0,0
+"2020-03-03 00:00:00","Spain","Navarra",3,0,0,0
+"2020-03-03 00:00:00","Spain","País Vasco",17,0,0,0
+"2020-03-03 00:00:00","Spain","La Rioja",7,0,0,0
+"2020-03-04 00:00:00","Spain","Andalucía",12,0,0,0
+"2020-03-04 00:00:00","Spain","Aragón",1,0,0,0
+"2020-03-04 00:00:00","Spain","Asturias",5,0,0,0
+"2020-03-04 00:00:00","Spain","Baleares",6,0,0,0
+"2020-03-04 00:00:00","Spain","Canarias",8,0,0,0
+"2020-03-04 00:00:00","Spain","Cantabria",10,0,0,0
+"2020-03-04 00:00:00","Spain","Castilla La Mancha",13,0,0,0
+"2020-03-04 00:00:00","Spain","Castilla y León",12,0,0,0
+"2020-03-04 00:00:00","Spain","Cataluña",24,0,0,0
+"2020-03-04 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-04 00:00:00","Spain","Comunidad Valenciana",19,117,6,0
+"2020-03-04 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-04 00:00:00","Spain","Galicia",1,0,0,0
+"2020-03-04 00:00:00","Spain","Madrid",90,0,0,0
+"2020-03-04 00:00:00","Spain","ML",0,0,0,0
+"2020-03-04 00:00:00","Spain","Murcia",0,0,0,0
+"2020-03-04 00:00:00","Spain","Navarra",3,0,0,0
+"2020-03-04 00:00:00","Spain","País Vasco",17,0,0,0
+"2020-03-04 00:00:00","Spain","La Rioja",11,0,0,0
+"2020-03-05 00:00:00","Spain","Andalucía",21,0,0,0
+"2020-03-05 00:00:00","Spain","Aragón",6,0,0,0
+"2020-03-05 00:00:00","Spain","Asturias",5,0,0,0
+"2020-03-05 00:00:00","Spain","Baleares",6,0,0,0
+"2020-03-05 00:00:00","Spain","Canarias",11,0,0,0
+"2020-03-05 00:00:00","Spain","Cantabria",10,0,0,0
+"2020-03-05 00:00:00","Spain","Castilla La Mancha",15,0,0,0
+"2020-03-05 00:00:00","Spain","Castilla y León",13,0,0,0
+"2020-03-05 00:00:00","Spain","Cataluña",24,0,0,0
+"2020-03-05 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-05 00:00:00","Spain","Comunidad Valenciana",30,130,8,0
+"2020-03-05 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-05 00:00:00","Spain","Galicia",3,0,0,0
+"2020-03-05 00:00:00","Spain","Madrid",137,0,0,0
+"2020-03-05 00:00:00","Spain","ML",0,0,0,0
+"2020-03-05 00:00:00","Spain","Murcia",0,0,0,0
+"2020-03-05 00:00:00","Spain","Navarra",3,0,0,0
+"2020-03-05 00:00:00","Spain","País Vasco",45,0,0,0
+"2020-03-05 00:00:00","Spain","La Rioja",29,0,0,0
+"2020-03-06 00:00:00","Spain","Andalucía",27,0,0,0
+"2020-03-06 00:00:00","Spain","Aragón",11,0,0,0
+"2020-03-06 00:00:00","Spain","Asturias",5,0,0,0
+"2020-03-06 00:00:00","Spain","Baleares",6,0,0,0
+"2020-03-06 00:00:00","Spain","Canarias",11,0,0,0
+"2020-03-06 00:00:00","Spain","Cantabria",10,0,0,0
+"2020-03-06 00:00:00","Spain","Castilla La Mancha",15,0,0,0
+"2020-03-06 00:00:00","Spain","Castilla y León",14,0,0,0
+"2020-03-06 00:00:00","Spain","Cataluña",24,0,0,0
+"2020-03-06 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-06 00:00:00","Spain","Comunidad Valenciana",30,138,8,0
+"2020-03-06 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-06 00:00:00","Spain","Galicia",3,0,0,0
+"2020-03-06 00:00:00","Spain","Madrid",137,0,0,0
+"2020-03-06 00:00:00","Spain","ML",0,0,0,0
+"2020-03-06 00:00:00","Spain","Murcia",0,0,0,0
+"2020-03-06 00:00:00","Spain","Navarra",3,0,0,0
+"2020-03-06 00:00:00","Spain","País Vasco",45,0,0,0
+"2020-03-06 00:00:00","Spain","La Rioja",39,0,0,0
+"2020-03-07 00:00:00","Spain","Andalucía",34,0,0,0
+"2020-03-07 00:00:00","Spain","Aragón",11,0,0,0
+"2020-03-07 00:00:00","Spain","Asturias",7,0,0,0
+"2020-03-07 00:00:00","Spain","Baleares",8,0,0,0
+"2020-03-07 00:00:00","Spain","Canarias",17,0,0,0
+"2020-03-07 00:00:00","Spain","Cantabria",12,0,0,0
+"2020-03-07 00:00:00","Spain","Castilla La Mancha",15,0,0,0
+"2020-03-07 00:00:00","Spain","Castilla y León",21,0,0,0
+"2020-03-07 00:00:00","Spain","Cataluña",49,0,0,0
+"2020-03-07 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-07 00:00:00","Spain","Comunidad Valenciana",37,146,9,0
+"2020-03-07 00:00:00","Spain","Extremadura",6,0,0,0
+"2020-03-07 00:00:00","Spain","Galicia",5,0,0,0
+"2020-03-07 00:00:00","Spain","Madrid",175,0,0,0
+"2020-03-07 00:00:00","Spain","ML",0,0,0,0
+"2020-03-07 00:00:00","Spain","Murcia",1,0,0,0
+"2020-03-07 00:00:00","Spain","Navarra",3,0,0,0
+"2020-03-07 00:00:00","Spain","País Vasco",70,0,0,0
+"2020-03-07 00:00:00","Spain","La Rioja",55,0,0,0
+"2020-03-08 00:00:00","Spain","Andalucía",54,0,1,0
+"2020-03-08 00:00:00","Spain","Aragón",13,0,3,3
+"2020-03-08 00:00:00","Spain","Asturias",7,0,2,0
+"2020-03-08 00:00:00","Spain","Baleares",11,0,1,0
+"2020-03-08 00:00:00","Spain","Canarias",22,0,0,0
+"2020-03-08 00:00:00","Spain","Cantabria",12,0,0,0
+"2020-03-08 00:00:00","Spain","Castilla La Mancha",26,0,2,0
+"2020-03-08 00:00:00","Spain","Castilla y León",30,0,2,0
+"2020-03-08 00:00:00","Spain","Cataluña",75,0,0,2
+"2020-03-08 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-08 00:00:00","Spain","Comunidad Valenciana",37,153,9,1
+"2020-03-08 00:00:00","Spain","Extremadura",7,0,0,0
+"2020-03-08 00:00:00","Spain","Galicia",6,0,2,0
+"2020-03-08 00:00:00","Spain","Madrid",469,0,53,16
+"2020-03-08 00:00:00","Spain","ML",0,0,0,0
+"2020-03-08 00:00:00","Spain","Murcia",4,0,0,0
+"2020-03-08 00:00:00","Spain","Navarra",3,0,1,0
+"2020-03-08 00:00:00","Spain","País Vasco",149,0,5,6
+"2020-03-08 00:00:00","Spain","La Rioja",81,0,1,0
+"2020-03-09 00:00:00","Spain","Andalucía",71,0,1,0
+"2020-03-09 00:00:00","Spain","Aragón",38,0,3,4
+"2020-03-09 00:00:00","Spain","Asturias",22,0,2,0
+"2020-03-09 00:00:00","Spain","Baleares",13,0,1,0
+"2020-03-09 00:00:00","Spain","Canarias",25,0,1,0
+"2020-03-09 00:00:00","Spain","Cantabria",12,0,0,0
+"2020-03-09 00:00:00","Spain","Castilla La Mancha",39,0,3,0
+"2020-03-09 00:00:00","Spain","Castilla y León",40,0,2,0
+"2020-03-09 00:00:00","Spain","Cataluña",124,0,0,3
+"2020-03-09 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-09 00:00:00","Spain","Comunidad Valenciana",50,171,10,1
+"2020-03-09 00:00:00","Spain","Extremadura",8,0,0,0
+"2020-03-09 00:00:00","Spain","Galicia",22,0,2,0
+"2020-03-09 00:00:00","Spain","Madrid",782,0,77,21
+"2020-03-09 00:00:00","Spain","ML",0,0,0,0
+"2020-03-09 00:00:00","Spain","Murcia",9,0,0,0
+"2020-03-09 00:00:00","Spain","Navarra",12,0,2,0
+"2020-03-09 00:00:00","Spain","País Vasco",195,0,5,6
+"2020-03-09 00:00:00","Spain","La Rioja",144,0,1,1
+"2020-03-10 00:00:00","Spain","Andalucía",90,32,3,0
+"2020-03-10 00:00:00","Spain","Aragón",45,22,3,4
+"2020-03-10 00:00:00","Spain","Asturias",32,12,2,0
+"2020-03-10 00:00:00","Spain","Baleares",16,8,1,0
+"2020-03-10 00:00:00","Spain","Canarias",37,10,1,0
+"2020-03-10 00:00:00","Spain","Cantabria",12,0,0,0
+"2020-03-10 00:00:00","Spain","Castilla La Mancha",71,0,5,0
+"2020-03-10 00:00:00","Spain","Castilla y León",64,14,2,0
+"2020-03-10 00:00:00","Spain","Cataluña",156,0,0,3
+"2020-03-10 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-10 00:00:00","Spain","Comunidad Valenciana",65,200,12,1
+"2020-03-10 00:00:00","Spain","Extremadura",9,2,1,1
+"2020-03-10 00:00:00","Spain","Galicia",35,7,2,0
+"2020-03-10 00:00:00","Spain","Madrid",1024,0,102,31
+"2020-03-10 00:00:00","Spain","ML",0,0,0,0
+"2020-03-10 00:00:00","Spain","Murcia",11,4,0,0
+"2020-03-10 00:00:00","Spain","Navarra",46,10,3,0
+"2020-03-10 00:00:00","Spain","País Vasco",225,102,15,6
+"2020-03-10 00:00:00","Spain","La Rioja",179,13,1,2
+"2020-03-11 00:00:00","Spain","Andalucía",115,50,4,0
+"2020-03-11 00:00:00","Spain","Aragón",64,28,3,6
+"2020-03-11 00:00:00","Spain","Asturias",47,12,2,1
+"2020-03-11 00:00:00","Spain","Baleares",22,8,2,1
+"2020-03-11 00:00:00","Spain","Canarias",51,15,3,0
+"2020-03-11 00:00:00","Spain","Cantabria",16,3,0,0
+"2020-03-11 00:00:00","Spain","Castilla La Mancha",115,39,9,1
+"2020-03-11 00:00:00","Spain","Castilla y León",71,24,2,0
+"2020-03-11 00:00:00","Spain","Cataluña",260,0,0,4
+"2020-03-11 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-11 00:00:00","Spain","Comunidad Valenciana",76,232,15,1
+"2020-03-11 00:00:00","Spain","Extremadura",19,2,1,1
+"2020-03-11 00:00:00","Spain","Galicia",35,7,2,0
+"2020-03-11 00:00:00","Spain","Madrid",1388,0,135,56
+"2020-03-11 00:00:00","Spain","ML",0,0,0,0
+"2020-03-11 00:00:00","Spain","Murcia",26,5,1,0
+"2020-03-11 00:00:00","Spain","Navarra",73,17,3,0
+"2020-03-11 00:00:00","Spain","País Vasco",346,146,18,11
+"2020-03-11 00:00:00","Spain","La Rioja",205,21,1,2
+"2020-03-12 00:00:00","Spain","Andalucía",219,92,8,0
+"2020-03-12 00:00:00","Spain","Aragón",80,30,3,7
+"2020-03-12 00:00:00","Spain","Asturias",67,16,2,1
+"2020-03-12 00:00:00","Spain","Baleares",28,9,2,1
+"2020-03-12 00:00:00","Spain","Canarias",70,15,3,0
+"2020-03-12 00:00:00","Spain","Cantabria",29,3,0,0
+"2020-03-12 00:00:00","Spain","Castilla La Mancha",194,78,10,5
+"2020-03-12 00:00:00","Spain","Castilla y León",92,25,4,0
+"2020-03-12 00:00:00","Spain","Cataluña",316,0,25,6
+"2020-03-12 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-12 00:00:00","Spain","Comunidad Valenciana",94,271,22,1
+"2020-03-12 00:00:00","Spain","Extremadura",39,3,1,1
+"2020-03-12 00:00:00","Spain","Galicia",85,15,2,0
+"2020-03-12 00:00:00","Spain","Madrid",1990,1304,180,81
+"2020-03-12 00:00:00","Spain","ML",2,3,0,0
+"2020-03-12 00:00:00","Spain","Murcia",35,8,2,0
+"2020-03-12 00:00:00","Spain","Navarra",130,28,4,0
+"2020-03-12 00:00:00","Spain","País Vasco",417,179,20,14
+"2020-03-12 00:00:00","Spain","La Rioja",243,27,2,3
+"2020-03-13 00:00:00","Spain","Andalucía",269,92,8,2
+"2020-03-13 00:00:00","Spain","Aragón",121,42,5,7
+"2020-03-13 00:00:00","Spain","Asturias",92,16,2,1
+"2020-03-13 00:00:00","Spain","Baleares",28,9,2,1
+"2020-03-13 00:00:00","Spain","Canarias",90,15,6,1
+"2020-03-13 00:00:00","Spain","Cantabria",31,3,0,0
+"2020-03-13 00:00:00","Spain","Castilla La Mancha",289,78,10,6
+"2020-03-13 00:00:00","Spain","Castilla y León",169,25,8,1
+"2020-03-13 00:00:00","Spain","Cataluña",509,0,33,6
+"2020-03-13 00:00:00","Spain","Ceuta",0,0,0,0
+"2020-03-13 00:00:00","Spain","Comunidad Valenciana",130,307,29,4
+"2020-03-13 00:00:00","Spain","Extremadura",66,3,1,2
+"2020-03-13 00:00:00","Spain","Galicia",115,32,7,0
+"2020-03-13 00:00:00","Spain","Madrid",2940,1518,180,86
+"2020-03-13 00:00:00","Spain","ML",3,3,0,0
+"2020-03-13 00:00:00","Spain","Murcia",47,8,2,0
+"2020-03-13 00:00:00","Spain","Navarra",146,28,4,0
+"2020-03-13 00:00:00","Spain","País Vasco",521,179,22,14
+"2020-03-13 00:00:00","Spain","La Rioja",278,38,2,3
+"2020-03-14 00:00:00","Spain","Andalucía",437,92,8,6
+"2020-03-14 00:00:00","Spain","Aragón",147,59,5,7
+"2020-03-14 00:00:00","Spain","Asturias",137,16,3,1
+"2020-03-14 00:00:00","Spain","Baleares",42,9,2,1
+"2020-03-14 00:00:00","Spain","Canarias",109,15,6,1
+"2020-03-14 00:00:00","Spain","Cantabria",51,3,0,0
+"2020-03-14 00:00:00","Spain","Castilla La Mancha",401,78,10,10
+"2020-03-14 00:00:00","Spain","Castilla y León",223,45,8,3
+"2020-03-14 00:00:00","Spain","Cataluña",715,0,33,8
+"2020-03-14 00:00:00","Spain","Ceuta",1,0,0,0
+"2020-03-14 00:00:00","Spain","Comunidad Valenciana",409,339,37,5
+"2020-03-14 00:00:00","Spain","Extremadura",95,8,1,2
+"2020-03-14 00:00:00","Spain","Galicia",195,32,8,2
+"2020-03-14 00:00:00","Spain","Madrid",3544,2337,253,213
+"2020-03-14 00:00:00","Spain","ML",8,4,0,0
+"2020-03-14 00:00:00","Spain","Murcia",71,13,2,0
+"2020-03-14 00:00:00","Spain","Navarra",183,34,4,0
+"2020-03-14 00:00:00","Spain","País Vasco",630,262,29,23
+"2020-03-14 00:00:00","Spain","La Rioja",300,58,7,3
+"2020-03-15 00:00:00","Spain","Andalucía",554,197,11,7
+"2020-03-15 00:00:00","Spain","Aragón",174,64,7,11
+"2020-03-15 00:00:00","Spain","Asturias",177,16,3,1
+"2020-03-15 00:00:00","Spain","Baleares",73,21,4,1
+"2020-03-15 00:00:00","Spain","Canarias",119,40,9,1
+"2020-03-15 00:00:00","Spain","Cantabria",58,18,2,0
+"2020-03-15 00:00:00","Spain","Castilla La Mancha",567,207,23,17
+"2020-03-15 00:00:00","Spain","Castilla y León",292,45,8,6
+"2020-03-15 00:00:00","Spain","Cataluña",903,0,33,12
+"2020-03-15 00:00:00","Spain","Ceuta",1,0,0,0
+"2020-03-15 00:00:00","Spain","Comunidad Valenciana",409,390,47,5
+"2020-03-15 00:00:00","Spain","Extremadura",111,9,1,2
+"2020-03-15 00:00:00","Spain","Galicia",245,49,9,2
+"2020-03-15 00:00:00","Spain","Madrid",4165,2337,253,213
+"2020-03-15 00:00:00","Spain","ML",8,4,0,0
+"2020-03-15 00:00:00","Spain","Murcia",77,13,2,0
+"2020-03-15 00:00:00","Spain","Navarra",274,58,5,1
+"2020-03-15 00:00:00","Spain","País Vasco",630,262,29,23
+"2020-03-15 00:00:00","Spain","La Rioja",312,64,13,4
+"2020-03-16 00:00:00","Spain","Andalucía",683,229,13,11
+"2020-03-16 00:00:00","Spain","Aragón",207,74,9,12
+"2020-03-16 00:00:00","Spain","Asturias",193,34,5,1
+"2020-03-16 00:00:00","Spain","Baleares",92,26,4,1
+"2020-03-16 00:00:00","Spain","Canarias",148,56,13,2
+"2020-03-16 00:00:00","Spain","Cantabria",58,18,2,0
+"2020-03-16 00:00:00","Spain","Castilla La Mancha",567,207,23,17
+"2020-03-16 00:00:00","Spain","Castilla y León",431,95,24,12
+"2020-03-16 00:00:00","Spain","Cataluña",1394,0,33,18
+"2020-03-16 00:00:00","Spain","Ceuta",1,0,0,0
+"2020-03-16 00:00:00","Spain","Comunidad Valenciana",541,456,52,13
+"2020-03-16 00:00:00","Spain","Extremadura",153,18,2,3
+"2020-03-16 00:00:00","Spain","Galicia",292,49,9,3
+"2020-03-16 00:00:00","Spain","Madrid",4871,3710,340,355
+"2020-03-16 00:00:00","Spain","ML",17,4,0,0
+"2020-03-16 00:00:00","Spain","Murcia",97,18,3,0
+"2020-03-16 00:00:00","Spain","Navarra",313,72,10,2
+"2020-03-16 00:00:00","Spain","País Vasco",765,309,33,36
+"2020-03-16 00:00:00","Spain","La Rioja",355,82,13,5
+"2020-03-17 00:00:00","Spain","Andalucía",859,319,21,19
+"2020-03-17 00:00:00","Spain","Aragón",226,81,9,13
+"2020-03-17 00:00:00","Spain","Asturias",242,45,5,1
+"2020-03-17 00:00:00","Spain","Baleares",112,29,4,1
+"2020-03-17 00:00:00","Spain","Canarias",181,73,17,3
+"2020-03-17 00:00:00","Spain","Cantabria",68,25,3,1
+"2020-03-17 00:00:00","Spain","Castilla La Mancha",675,277,29,28
+"2020-03-17 00:00:00","Spain","Castilla y León",668,281,43,22
+"2020-03-17 00:00:00","Spain","Cataluña",1866,0,33,41
+"2020-03-17 00:00:00","Spain","Ceuta",1,0,0,0
+"2020-03-17 00:00:00","Spain","Comunidad Valenciana",726,530,65,22
+"2020-03-17 00:00:00","Spain","Extremadura",194,27,3,6
+"2020-03-17 00:00:00","Spain","Galicia",341,63,12,3
+"2020-03-17 00:00:00","Spain","Madrid",5637,3778,491,390
+"2020-03-17 00:00:00","Spain","ML",20,4,0,0
+"2020-03-17 00:00:00","Spain","Murcia",122,22,4,0
+"2020-03-17 00:00:00","Spain","Navarra",386,93,10,3
+"2020-03-17 00:00:00","Spain","País Vasco",973,353,37,40
+"2020-03-17 00:00:00","Spain","La Rioja",419,99,13,5
+"2020-03-18 00:00:00","Spain","Andalucía",1008,384,25,23
+"2020-03-18 00:00:00","Spain","Aragón",281,101,14,15
+"2020-03-18 00:00:00","Spain","Asturias",292,61,6,1
+"2020-03-18 00:00:00","Spain","Baleares",169,31,7,2
+"2020-03-18 00:00:00","Spain","Canarias",220,82,23,3
+"2020-03-18 00:00:00","Spain","Cantabria",83,40,4,1
+"2020-03-18 00:00:00","Spain","Castilla La Mancha",801,313,37,42
+"2020-03-18 00:00:00","Spain","Castilla y León",868,362,54,29
+"2020-03-18 00:00:00","Spain","Cataluña",2702,0,33,55
+"2020-03-18 00:00:00","Spain","Ceuta",1,0,0,0
+"2020-03-18 00:00:00","Spain","Comunidad Valenciana",921,647,85,24
+"2020-03-18 00:00:00","Spain","Extremadura",241,36,3,8
+"2020-03-18 00:00:00","Spain","Galicia",453,100,15,4
+"2020-03-18 00:00:00","Spain","Madrid",6777,5168,590,498
+"2020-03-18 00:00:00","Spain","ML",23,4,0,0
+"2020-03-18 00:00:00","Spain","Murcia",167,36,6,0
+"2020-03-18 00:00:00","Spain","Navarra",482,132,11,4
+"2020-03-18 00:00:00","Spain","País Vasco",1190,455,44,53
+"2020-03-18 00:00:00","Spain","La Rioja",468,121,15,5
+"2020-03-19 00:00:00","Spain","Andalucía",1287,501,38,30
+"2020-03-19 00:00:00","Spain","Aragón",360,127,28,17
+"2020-03-19 00:00:00","Spain","Asturias",344,87,7,2
+"2020-03-19 00:00:00","Spain","Baleares",203,48,10,2
+"2020-03-19 00:00:00","Spain","Canarias",287,115,25,4
+"2020-03-19 00:00:00","Spain","Cantabria",144,61,7,1
+"2020-03-19 00:00:00","Spain","Castilla La Mancha",1044,313,37,42
+"2020-03-19 00:00:00","Spain","Castilla y León",1147,476,69,43
+"2020-03-19 00:00:00","Spain","Cataluña",3270,1002,33,82
+"2020-03-19 00:00:00","Spain","Ceuta",5,0,0,0
+"2020-03-19 00:00:00","Spain","Comunidad Valenciana",1105,777,101,33
+"2020-03-19 00:00:00","Spain","Extremadura",297,44,4,10
+"2020-03-19 00:00:00","Spain","Galicia",578,138,19,5
+"2020-03-19 00:00:00","Spain","Madrid",7165,6338,678,628
+"2020-03-19 00:00:00","Spain","ML",24,5,1,0
+"2020-03-19 00:00:00","Spain","Murcia",204,47,11,0
+"2020-03-19 00:00:00","Spain","Navarra",554,172,19,5
+"2020-03-19 00:00:00","Spain","País Vasco",1465,550,53,71
+"2020-03-19 00:00:00","Spain","La Rioja",497,122,15,7
+"2020-03-20 00:00:00","Spain","Andalucía",1515,605,53,40
+"2020-03-20 00:00:00","Spain","Aragón",424,192,33,22
+"2020-03-20 00:00:00","Spain","Asturias",486,133,12,5
+"2020-03-20 00:00:00","Spain","Baleares",246,60,14,4
+"2020-03-20 00:00:00","Spain","Canarias",348,139,29,7
+"2020-03-20 00:00:00","Spain","Cantabria",215,92,9,2
+"2020-03-20 00:00:00","Spain","Castilla La Mancha",1423,635,65,84
+"2020-03-20 00:00:00","Spain","Castilla y León",1466,629,85,55
+"2020-03-20 00:00:00","Spain","Cataluña",4203,1681,298,122
+"2020-03-20 00:00:00","Spain","Ceuta",5,0,0,0
+"2020-03-20 00:00:00","Spain","Comunidad Valenciana",1363,947,129,50
+"2020-03-20 00:00:00","Spain","Extremadura",354,65,6,12
+"2020-03-20 00:00:00","Spain","Galicia",739,168,29,9
+"2020-03-20 00:00:00","Spain","Madrid",8921,7388,767,804
+"2020-03-20 00:00:00","Spain","ML",25,8,1,0
+"2020-03-20 00:00:00","Spain","Murcia",240,61,14,1
+"2020-03-20 00:00:00","Spain","Navarra",664,222,25,9
+"2020-03-20 00:00:00","Spain","País Vasco",1725,654,71,85
+"2020-03-20 00:00:00","Spain","La Rioja",564,128,17,15
+"2020-03-21 00:00:00","Spain","Andalucía",1725,724,55,47
+"2020-03-21 00:00:00","Spain","Aragón",532,241,45,24
+"2020-03-21 00:00:00","Spain","Asturias",545,171,15,8
+"2020-03-21 00:00:00","Spain","Baleares",331,79,14,4
+"2020-03-21 00:00:00","Spain","Canarias",414,150,32,9
+"2020-03-21 00:00:00","Spain","Cantabria",282,116,9,5
+"2020-03-21 00:00:00","Spain","Castilla La Mancha",1819,838,76,112
+"2020-03-21 00:00:00","Spain","Castilla y León",1744,798,106,74
+"2020-03-21 00:00:00","Spain","Cataluña",4704,1681,298,191
+"2020-03-21 00:00:00","Spain","Ceuta",5,0,0,0
+"2020-03-21 00:00:00","Spain","Comunidad Valenciana",1604,1136,152,69
+"2020-03-21 00:00:00","Spain","Extremadura",384,87,8,14
+"2020-03-21 00:00:00","Spain","Galicia",915,227,35,12
+"2020-03-21 00:00:00","Spain","Madrid",9702,8441,834,1021
+"2020-03-21 00:00:00","Spain","ML",25,12,1,0
+"2020-03-21 00:00:00","Spain","Murcia",296,78,16,1
+"2020-03-21 00:00:00","Spain","Navarra",794,288,30,14
+"2020-03-21 00:00:00","Spain","País Vasco",2097,988,81,97
+"2020-03-21 00:00:00","Spain","La Rioja",654,134,17,18
+"2020-03-22 00:00:00","Spain","Andalucía",1961,865,77,58
+"2020-03-22 00:00:00","Spain","Aragón",638,298,52,32
+"2020-03-22 00:00:00","Spain","Asturias",594,194,22,12
+"2020-03-22 00:00:00","Spain","Baleares",400,87,27,10
+"2020-03-22 00:00:00","Spain","Canarias",481,172,32,11
+"2020-03-22 00:00:00","Spain","Cantabria",347,157,14,6
+"2020-03-22 00:00:00","Spain","Castilla La Mancha",2078,1547,142,145
+"2020-03-22 00:00:00","Spain","Castilla y León",2055,977,120,102
+"2020-03-22 00:00:00","Spain","Cataluña",5925,1681,551,245
+"2020-03-22 00:00:00","Spain","Ceuta",6,0,0,0
+"2020-03-22 00:00:00","Spain","Comunidad Valenciana",1901,1311,181,94
+"2020-03-22 00:00:00","Spain","Extremadura",493,131,13,18
+"2020-03-22 00:00:00","Spain","Galicia",1208,270,47,18
+"2020-03-22 00:00:00","Spain","Madrid",10575,9561,942,1263
+"2020-03-22 00:00:00","Spain","ML",28,12,1,0
+"2020-03-22 00:00:00","Spain","Murcia",345,80,23,2
+"2020-03-22 00:00:00","Spain","Navarra",886,339,40,24
+"2020-03-22 00:00:00","Spain","País Vasco",2421,1252,92,120
+"2020-03-22 00:00:00","Spain","La Rioja",747,166,22,22
+"2020-03-23 00:00:00","Spain","Andalucía",2471,1132,102,87
+"2020-03-23 00:00:00","Spain","Aragón",758,384,66,37
+"2020-03-23 00:00:00","Spain","Asturias",662,224,23,22
+"2020-03-23 00:00:00","Spain","Baleares",478,127,35,10
+"2020-03-23 00:00:00","Spain","Canarias",557,207,36,16
+"2020-03-23 00:00:00","Spain","Cantabria",425,200,16,9
+"2020-03-23 00:00:00","Spain","Castilla La Mancha",2465,1826,182,216
+"2020-03-23 00:00:00","Spain","Castilla y León",2460,1197,137,124
+"2020-03-23 00:00:00","Spain","Cataluña",7864,3599,551,282
+"2020-03-23 00:00:00","Spain","Ceuta",6,0,0,0
+"2020-03-23 00:00:00","Spain","Comunidad Valenciana",2167,1562,222,115
+"2020-03-23 00:00:00","Spain","Extremadura",636,161,20,26
+"2020-03-23 00:00:00","Spain","Galicia",1415,338,55,20
+"2020-03-23 00:00:00","Spain","Madrid",12352,10443,1050,1535
+"2020-03-23 00:00:00","Spain","ML",28,12,1,0
+"2020-03-23 00:00:00","Spain","Murcia",385,99,26,3
+"2020-03-23 00:00:00","Spain","Navarra",1014,405,45,31
+"2020-03-23 00:00:00","Spain","País Vasco",2728,1425,106,133
+"2020-03-23 00:00:00","Spain","La Rioja",802,206,24,30
+"2020-03-24 00:00:00","Spain","Andalucía",3010,1433,116,113
+"2020-03-24 00:00:00","Spain","Aragón",907,459,75,40
+"2020-03-24 00:00:00","Spain","Asturias",779,263,29,25
+"2020-03-24 00:00:00","Spain","Baleares",562,164,40,13
+"2020-03-24 00:00:00","Spain","Canarias",657,235,43,21
+"2020-03-24 00:00:00","Spain","Cantabria",510,241,18,14
+"2020-03-24 00:00:00","Spain","Castilla La Mancha",2780,2162,210,263
+"2020-03-24 00:00:00","Spain","Castilla y León",2940,1457,170,165
+"2020-03-24 00:00:00","Spain","Cataluña",9937,5434,781,516
+"2020-03-24 00:00:00","Spain","Ceuta",9,2,1,0
+"2020-03-24 00:00:00","Spain","Comunidad Valenciana",2616,1842,255,143
+"2020-03-24 00:00:00","Spain","Extremadura",742,209,28,39
+"2020-03-24 00:00:00","Spain","Galicia",1653,412,69,27
+"2020-03-24 00:00:00","Spain","Madrid",14597,11153,1150,1825
+"2020-03-24 00:00:00","Spain","ML",38,14,2,0
+"2020-03-24 00:00:00","Spain","Murcia",477,127,33,5
+"2020-03-24 00:00:00","Spain","Navarra",1197,506,51,33
+"2020-03-24 00:00:00","Spain","País Vasco",3271,1577,119,155
+"2020-03-24 00:00:00","Spain","La Rioja",928,254,33,37
+"2020-03-25 00:00:00","Spain","Andalucía",3406,1626,134,134
+"2020-03-25 00:00:00","Spain","Aragón",1116,562,93,48
+"2020-03-25 00:00:00","Spain","Asturias",841,300,34,27
+"2020-03-25 00:00:00","Spain","Baleares",660,205,43,17
+"2020-03-25 00:00:00","Spain","Canarias",784,279,45,24
+"2020-03-25 00:00:00","Spain","Cantabria",671,300,26,17
+"2020-03-25 00:00:00","Spain","Castilla La Mancha",3383,2162,243,316
+"2020-03-25 00:00:00","Spain","Castilla y León",3488,1823,202,206
+"2020-03-25 00:00:00","Spain","Cataluña",11592,7439,1021,672
+"2020-03-25 00:00:00","Spain","Ceuta",10,2,2,0
+"2020-03-25 00:00:00","Spain","Comunidad Valenciana",3200,2097,289,167
+"2020-03-25 00:00:00","Spain","Extremadura",969,241,34,58
+"2020-03-25 00:00:00","Spain","Galicia",1915,503,86,32
+"2020-03-25 00:00:00","Spain","Madrid",17166,12440,1221,2090
+"2020-03-25 00:00:00","Spain","ML",39,16,2,1
+"2020-03-25 00:00:00","Spain","Murcia",596,172,36,8
+"2020-03-25 00:00:00","Spain","Navarra",1411,649,54,49
+"2020-03-25 00:00:00","Spain","País Vasco",3946,1907,137,180
+"2020-03-25 00:00:00","Spain","La Rioja",995,316,36,43
+"2020-03-26 00:00:00","Spain","Andalucía",3793,1843,148,144
+"2020-03-26 00:00:00","Spain","Aragón",1338,693,114,58
+"2020-03-26 00:00:00","Spain","Asturias",900,339,47,29
+"2020-03-26 00:00:00","Spain","Baleares",755,237,46,22
+"2020-03-26 00:00:00","Spain","Canarias",878,328,61,27
+"2020-03-26 00:00:00","Spain","Cantabria",810,355,29,21
+"2020-03-26 00:00:00","Spain","Castilla La Mancha",3934,2707,273,367
+"2020-03-26 00:00:00","Spain","Castilla y León",4132,2214,228,252
+"2020-03-26 00:00:00","Spain","Cataluña",12940,8545,1187,880
+"2020-03-26 00:00:00","Spain","Ceuta",17,2,2,0
+"2020-03-26 00:00:00","Spain","Comunidad Valenciana",3532,2357,325,198
+"2020-03-26 00:00:00","Spain","Extremadura",1231,277,41,69
+"2020-03-26 00:00:00","Spain","Galicia",2322,557,98,43
+"2020-03-26 00:00:00","Spain","Madrid",19243,13580,1312,2412
+"2020-03-26 00:00:00","Spain","ML",42,18,2,1
+"2020-03-26 00:00:00","Spain","Murcia",714,209,53,15
+"2020-03-26 00:00:00","Spain","Navarra",1641,732,75,58
+"2020-03-26 00:00:00","Spain","País Vasco",4601,2270,154,207
+"2020-03-26 00:00:00","Spain","La Rioja",1236,388,43,55
+"2020-03-27 00:00:00","Spain","Andalucía",4277,2106,172,175
+"2020-03-27 00:00:00","Spain","Aragón",1592,835,124,93
+"2020-03-27 00:00:00","Spain","Asturias",1004,408,50,33
+"2020-03-27 00:00:00","Spain","Baleares",862,283,59,26
+"2020-03-27 00:00:00","Spain","Canarias",1025,377,68,36
+"2020-03-27 00:00:00","Spain","Cantabria",937,406,37,22
+"2020-03-27 00:00:00","Spain","Castilla La Mancha",4512,2977,289,448
+"2020-03-27 00:00:00","Spain","Castilla y León",4791,2648,249,321
+"2020-03-27 00:00:00","Spain","Cataluña",14263,9900,1324,1070
+"2020-03-27 00:00:00","Spain","Ceuta",17,2,2,1
+"2020-03-27 00:00:00","Spain","Comunidad Valenciana",4034,2606,348,234
+"2020-03-27 00:00:00","Spain","Extremadura",1394,312,40,88
+"2020-03-27 00:00:00","Spain","Galicia",2772,906,112,47
+"2020-03-27 00:00:00","Spain","Madrid",21520,14211,1404,2757
+"2020-03-27 00:00:00","Spain","ML",45,22,2,1
+"2020-03-27 00:00:00","Spain","Murcia",802,231,58,17
+"2020-03-27 00:00:00","Spain","Navarra",1829,827,84,70
+"2020-03-27 00:00:00","Spain","País Vasco",5136,2612,176,241
+"2020-03-27 00:00:00","Spain","La Rioja",1436,458,43,65
+"2020-03-28 00:00:00","Spain","Andalucía",4682,2294,201,207
+"2020-03-28 00:00:00","Spain","Aragón",1858,835,124,104
+"2020-03-28 00:00:00","Spain","Asturias",1088,466,57,41
+"2020-03-28 00:00:00","Spain","Baleares",958,345,71,29
+"2020-03-28 00:00:00","Spain","Canarias",1125,425,78,39
+"2020-03-28 00:00:00","Spain","Cantabria",1023,449,40,26
+"2020-03-28 00:00:00","Spain","Castilla La Mancha",5246,3018,299,539
+"2020-03-28 00:00:00","Spain","Castilla y León",5414,3160,278,380
+"2020-03-28 00:00:00","Spain","Cataluña",15026,10688,1391,1226
+"2020-03-28 00:00:00","Spain","Ceuta",21,2,2,1
+"2020-03-28 00:00:00","Spain","Comunidad Valenciana",4784,2773,375,267
+"2020-03-28 00:00:00","Spain","Extremadura",1456,313,41,100
+"2020-03-28 00:00:00","Spain","Galicia",3139,1043,123,60
+"2020-03-28 00:00:00","Spain","Madrid",22677,14454,1429,3082
+"2020-03-28 00:00:00","Spain","ML",48,24,2,1
+"2020-03-28 00:00:00","Spain","Murcia",872,260,58,20
+"2020-03-28 00:00:00","Spain","Navarra",2011,896,90,84
+"2020-03-28 00:00:00","Spain","País Vasco",5740,3106,271,265
+"2020-03-28 00:00:00","Spain","La Rioja",1629,497,43,68
+"2020-03-29 00:00:00","Spain","Andalucía",5405,2671,216,236
+"2020-03-29 00:00:00","Spain","Aragón",2078,1094,156,106
+"2020-03-29 00:00:00","Spain","Asturias",1158,479,60,49
+"2020-03-29 00:00:00","Spain","Baleares",1000,353,80,37
+"2020-03-29 00:00:00","Spain","Canarias",1204,444,84,40
+"2020-03-29 00:00:00","Spain","Cantabria",1100,481,46,27
+"2020-03-29 00:00:00","Spain","Castilla La Mancha",5858,3134,302,622
+"2020-03-29 00:00:00","Spain","Castilla y León",5801,3411,307,442
+"2020-03-29 00:00:00","Spain","Cataluña",16157,11769,1512,1410
+"2020-03-29 00:00:00","Spain","Ceuta",25,2,2,1
+"2020-03-29 00:00:00","Spain","Comunidad Valenciana",5110,2914,393,310
+"2020-03-29 00:00:00","Spain","Extremadura",1560,353,43,106
+"2020-03-29 00:00:00","Spain","Galicia",3723,1147,134,66
+"2020-03-29 00:00:00","Spain","Madrid",24090,14917,1460,3392
+"2020-03-29 00:00:00","Spain","ML",51,27,3,1
+"2020-03-29 00:00:00","Spain","Murcia",939,265,58,25
+"2020-03-29 00:00:00","Spain","Navarra",2146,955,96,102
+"2020-03-29 00:00:00","Spain","País Vasco",6057,3427,293,297
+"2020-03-29 00:00:00","Spain","La Rioja",1733,517,43,71
+"2020-03-30 00:00:00","Spain","Andalucía",5818,2867,235,248
+"2020-03-30 00:00:00","Spain","Aragón",2272,1176,165,138
+"2020-03-30 00:00:00","Spain","Asturias",1236,529,65,55
+"2020-03-30 00:00:00","Spain","Baleares",1069,399,85,42
+"2020-03-30 00:00:00","Spain","Canarias",1262,483,94,55
+"2020-03-30 00:00:00","Spain","Cantabria",1171,522,50,37
+"2020-03-30 00:00:00","Spain","Castilla La Mancha",6424,3225,344,708
+"2020-03-30 00:00:00","Spain","Castilla y León",6211,3629,325,516
+"2020-03-30 00:00:00","Spain","Cataluña",18773,12974,1652,1672
+"2020-03-30 00:00:00","Spain","Ceuta",34,3,3,1
+"2020-03-30 00:00:00","Spain","Comunidad Valenciana",5508,3111,416,339
+"2020-03-30 00:00:00","Spain","Extremadura",1628,371,51,133
+"2020-03-30 00:00:00","Spain","Galicia",4039,1250,149,84
+"2020-03-30 00:00:00","Spain","Madrid",27509,15140,1514,3603
+"2020-03-30 00:00:00","Spain","ML",54,27,3,1
+"2020-03-30 00:00:00","Spain","Murcia",974,283,59,34
+"2020-03-30 00:00:00","Spain","Navarra",2305,1035,99,113
+"2020-03-30 00:00:00","Spain","País Vasco",6320,3594,307,325
+"2020-03-30 00:00:00","Spain","La Rioja",1810,575,51,85
+"2020-03-31 00:00:00","Spain","Andalucía",6392,3147,260,308
+"2020-03-31 00:00:00","Spain","Aragón",2491,1234,168,169
+"2020-03-31 00:00:00","Spain","Asturias",1322,590,76,63
+"2020-03-31 00:00:00","Spain","Baleares",1131,468,95,46
+"2020-03-31 00:00:00","Spain","Canarias",1380,532,110,62
+"2020-03-31 00:00:00","Spain","Cantabria",1213,543,54,54
+"2020-03-31 00:00:00","Spain","Castilla La Mancha",7047,3230,353,774
+"2020-03-31 00:00:00","Spain","Castilla y León",6847,3951,345,585
+"2020-03-31 00:00:00","Spain","Cataluña",19991,13969,1769,1849
+"2020-03-31 00:00:00","Spain","Ceuta",51,6,3,1
+"2020-03-31 00:00:00","Spain","Comunidad Valenciana",5922,3253,434,395
+"2020-03-31 00:00:00","Spain","Extremadura",1679,372,58,152
+"2020-03-31 00:00:00","Spain","Galicia",4432,1338,158,103
+"2020-03-31 00:00:00","Spain","Madrid",29840,15227,1514,3865
+"2020-03-31 00:00:00","Spain","ML",62,32,3,1
+"2020-03-31 00:00:00","Spain","Murcia",1041,304,59,37
+"2020-03-31 00:00:00","Spain","Navarra",2497,1120,104,130
+"2020-03-31 00:00:00","Spain","País Vasco",6838,3806,324,369
+"2020-03-31 00:00:00","Spain","La Rioja",1960,619,54,90
+"2020-04-01 00:00:00","Spain","Andalucía",6972,3444,280,343
+"2020-04-01 00:00:00","Spain","Aragón",2700,1320,178,200
+"2020-04-01 00:00:00","Spain","Asturias",1384,640,79,69
+"2020-04-01 00:00:00","Spain","Baleares",1204,517,105,58
+"2020-04-01 00:00:00","Spain","Canarias",1444,566,113,68
+"2020-04-01 00:00:00","Spain","Cantabria",1268,567,57,60
+"2020-04-01 00:00:00","Spain","Castilla La Mancha",7682,3230,355,854
+"2020-04-01 00:00:00","Spain","Castilla y León",7355,4207,353,641
+"2020-04-01 00:00:00","Spain","Cataluña",21804,15489,1855,2093
+"2020-04-01 00:00:00","Spain","Ceuta",55,7,3,1
+"2020-04-01 00:00:00","Spain","Comunidad Valenciana",6308,3389,449,443
+"2020-04-01 00:00:00","Spain","Extremadura",1837,412,62,181
+"2020-04-01 00:00:00","Spain","Galicia",4842,1447,165,120
+"2020-04-01 00:00:00","Spain","Madrid",32155,15227,1528,4175
+"2020-04-01 00:00:00","Spain","ML",62,32,3,1
+"2020-04-01 00:00:00","Spain","Murcia",1084,389,68,42
+"2020-04-01 00:00:00","Spain","Navarra",2682,1181,108,141
+"2020-04-01 00:00:00","Spain","País Vasco",7317,4087,344,412
+"2020-04-01 00:00:00","Spain","La Rioja",2083,660,57,101
+"2020-04-02 00:00:00","Spain","Andalucía",7374,3673,338,376
+"2020-04-02 00:00:00","Spain","Aragón",2889,1431,180,224
+"2020-04-02 00:00:00","Spain","Asturias",1433,702,86,70
+"2020-04-02 00:00:00","Spain","Baleares",1257,587,112,69
+"2020-04-02 00:00:00","Spain","Canarias",1490,605,120,73
+"2020-04-02 00:00:00","Spain","Cantabria",1321,592,59,64
+"2020-04-02 00:00:00","Spain","Castilla La Mancha",8523,3168,355,916
+"2020-04-02 00:00:00","Spain","Castilla y León",7875,4472,355,723
+"2020-04-02 00:00:00","Spain","Cataluña",23460,17257,2053,2335
+"2020-04-02 00:00:00","Spain","Ceuta",62,8,3,1
+"2020-04-02 00:00:00","Spain","Comunidad Valenciana",6624,3492,460,511
+"2020-04-02 00:00:00","Spain","Extremadura",1893,415,64,200
+"2020-04-02 00:00:00","Spain","Galicia",5219,1630,178,138
+"2020-04-02 00:00:00","Spain","Madrid",34188,15050,1506,4483
+"2020-04-02 00:00:00","Spain","ML",70,34,3,2
+"2020-04-02 00:00:00","Spain","Murcia",1145,405,72,46
+"2020-04-02 00:00:00","Spain","Navarra",2836,1284,119,151
+"2020-04-02 00:00:00","Spain","País Vasco",7827,4283,363,444
+"2020-04-02 00:00:00","Spain","La Rioja",2224,738,64,109
+"2020-04-03 00:00:00","Spain","Andalucía",7869,3896,364,426
+"2020-04-03 00:00:00","Spain","Aragón",3078,1505,190,251
+"2020-04-03 00:00:00","Spain","Asturias",1522,766,87,76
+"2020-04-03 00:00:00","Spain","Baleares",1271,634,114,71
+"2020-04-03 00:00:00","Spain","Canarias",1564,632,128,78
+"2020-04-03 00:00:00","Spain","Cantabria",1384,619,60,68
+"2020-04-03 00:00:00","Spain","Castilla La Mancha",9324,3133,360,989
+"2020-04-03 00:00:00","Spain","Castilla y León",8332,4685,348,786
+"2020-04-03 00:00:00","Spain","Cataluña",24734,17678,2108,2508
+"2020-04-03 00:00:00","Spain","Ceuta",73,8,4,1
+"2020-04-03 00:00:00","Spain","Comunidad Valenciana",6901,3560,470,571
+"2020-04-03 00:00:00","Spain","Extremadura",1979,453,64,208
+"2020-04-03 00:00:00","Spain","Galicia",5625,1767,178,159
+"2020-04-03 00:00:00","Spain","Madrid",36249,14741,1498,4723
+"2020-04-03 00:00:00","Spain","ML",79,37,3,2
+"2020-04-03 00:00:00","Spain","Murcia",1188,434,79,51
+"2020-04-03 00:00:00","Spain","Navarra",2972,1341,120,171
+"2020-04-03 00:00:00","Spain","País Vasco",8187,4522,377,477
+"2020-04-03 00:00:00","Spain","La Rioja",2405,805,64,128
+"2020-04-04 00:00:00","Spain","Andalucía",8301,4107,474,470
+"2020-04-04 00:00:00","Spain","Aragón",3232,1588,233,270
+"2020-04-04 00:00:00","Spain","Asturias",1605,808,90,80
+"2020-04-04 00:00:00","Spain","Baleares",1293,664,120,75
+"2020-04-04 00:00:00","Spain","Canarias",1622,644,129,80
+"2020-04-04 00:00:00","Spain","Cantabria",1441,639,62,68
+"2020-04-04 00:00:00","Spain","Castilla La Mancha",10031,2950,357,1055
+"2020-04-04 00:00:00","Spain","Castilla y León",8749,4905,351,847
+"2020-04-04 00:00:00","Spain","Cataluña",26032,18656,2249,2637
+"2020-04-04 00:00:00","Spain","Ceuta",83,9,4,2
+"2020-04-04 00:00:00","Spain","Comunidad Valenciana",7184,3620,478,613
+"2020-04-04 00:00:00","Spain","Extremadura",2047,417,66,218
+"2020-04-04 00:00:00","Spain","Galicia",5944,1831,170,174
+"2020-04-04 00:00:00","Spain","Madrid",37584,14551,1499,4941
+"2020-04-04 00:00:00","Spain","ML",83,38,3,2
+"2020-04-04 00:00:00","Spain","Murcia",1235,447,80,59
+"2020-04-04 00:00:00","Spain","Navarra",3073,1399,123,178
+"2020-04-04 00:00:00","Spain","País Vasco",8628,4666,404,515
+"2020-04-04 00:00:00","Spain","La Rioja",2592,855,66,134
+"2020-04-05 00:00:00","Spain","Andalucía",8581,4227,489,491
+"2020-04-05 00:00:00","Spain","Aragón",3347,1637,237,284
+"2020-04-05 00:00:00","Spain","Asturias",1646,846,90,86
+"2020-04-05 00:00:00","Spain","Baleares",1320,683,121,81
+"2020-04-05 00:00:00","Spain","Canarias",1649,651,133,85
+"2020-04-05 00:00:00","Spain","Cantabria",1483,658,65,77
+"2020-04-05 00:00:00","Spain","Castilla La Mancha",10602,2901,354,1132
+"2020-04-05 00:00:00","Spain","Castilla y León",9116,5041,348,919
+"2020-04-05 00:00:00","Spain","Cataluña",26824,19143,2276,2760
+"2020-04-05 00:00:00","Spain","Ceuta",83,9,4,3
+"2020-04-05 00:00:00","Spain","Comunidad Valenciana",7334,3668,487,637
+"2020-04-05 00:00:00","Spain","Extremadura",2068,453,66,228
+"2020-04-05 00:00:00","Spain","Galicia",6151,1916,170,190
+"2020-04-05 00:00:00","Spain","Madrid",38723,14501,1510,5136
+"2020-04-05 00:00:00","Spain","ML",86,38,3,2
+"2020-04-05 00:00:00","Spain","Murcia",1259,468,81,68
+"2020-04-05 00:00:00","Spain","Navarra",3231,1432,124,187
+"2020-04-05 00:00:00","Spain","País Vasco",8810,4794,410,548
+"2020-04-05 00:00:00","Spain","La Rioja",2719,888,66,141
+"2020-04-06 00:00:00","Spain","Andalucía",8767,4335,499,528
+"2020-04-06 00:00:00","Spain","Aragón",3449,1663,247,312
+"2020-04-06 00:00:00","Spain","Asturias",1679,889,91,96
+"2020-04-06 00:00:00","Spain","Baleares",1369,705,124,84
+"2020-04-06 00:00:00","Spain","Canarias",1725,689,137,89
+"2020-04-06 00:00:00","Spain","Cantabria",1501,677,66,85
+"2020-04-06 00:00:00","Spain","Castilla La Mancha",11077,2908,360,1177
+"2020-04-06 00:00:00","Spain","Castilla y León",9581,5180,346,982
+"2020-04-06 00:00:00","Spain","Cataluña",28323,19745,2391,2908
+"2020-04-06 00:00:00","Spain","Ceuta",83,9,4,4
+"2020-04-06 00:00:00","Spain","Comunidad Valenciana",7443,3698,492,672
+"2020-04-06 00:00:00","Spain","Extremadura",2116,686,70,258
+"2020-04-06 00:00:00","Spain","Galicia",6331,1968,162,204
+"2020-04-06 00:00:00","Spain","Madrid",40469,13950,1494,5371
+"2020-04-06 00:00:00","Spain","ML",92,40,3,2
+"2020-04-06 00:00:00","Spain","Murcia",1283,500,84,78
+"2020-04-06 00:00:00","Spain","Navarra",3355,1488,124,202
+"2020-04-06 00:00:00","Spain","País Vasco",9021,4856,417,586
+"2020-04-06 00:00:00","Spain","La Rioja",2846,918,66,160
+"2020-04-07 00:00:00","Spain","Andalucía",8997,4463,520,605
+"2020-04-07 00:00:00","Spain","Aragón",3549,1716,255,349
+"2020-04-07 00:00:00","Spain","Asturias",1705,958,91,102
+"2020-04-07 00:00:00","Spain","Baleares",1412,731,129,89
+"2020-04-07 00:00:00","Spain","Canarias",1762,703,138,91
+"2020-04-07 00:00:00","Spain","Cantabria",1572,700,69,92
+"2020-04-07 00:00:00","Spain","Castilla La Mancha",11788,2731,354,1255
+"2020-04-07 00:00:00","Spain","Castilla y León",10058,5322,342,1028
+"2020-04-07 00:00:00","Spain","Cataluña",29647,20250,2442,3041
+"2020-04-07 00:00:00","Spain","Ceuta",84,9,4,4
+"2020-04-07 00:00:00","Spain","Comunidad Valenciana",7655,3713,496,724
+"2020-04-07 00:00:00","Spain","Extremadura",2184,898,98,271
+"2020-04-07 00:00:00","Spain","Galicia",6538,2014,158,213
+"2020-04-07 00:00:00","Spain","Madrid",42450,13289,1450,5586
+"2020-04-07 00:00:00","Spain","ML",93,40,3,2
+"2020-04-07 00:00:00","Spain","Murcia",1326,515,86,85
+"2020-04-07 00:00:00","Spain","Navarra",3467,1526,124,206
+"2020-04-07 00:00:00","Spain","País Vasco",9452,4982,430,635
+"2020-04-07 00:00:00","Spain","La Rioja",2951,955,68,177
+"2020-04-08 00:00:00","Spain","Andalucía",9261,4599,538,652
+"2020-04-08 00:00:00","Spain","Aragón",3685,1765,261,385
+"2020-04-08 00:00:00","Spain","Asturias",1737,1018,94,110
+"2020-04-08 00:00:00","Spain","Baleares",1448,751,132,89
+"2020-04-08 00:00:00","Spain","Canarias",1834,730,140,92
+"2020-04-08 00:00:00","Spain","Cantabria",1619,720,71,98
+"2020-04-08 00:00:00","Spain","Castilla La Mancha",12489,2575,342,1322
+"2020-04-08 00:00:00","Spain","Castilla y León",10518,5523,338,1082
+"2020-04-08 00:00:00","Spain","Cataluña",31043,20943,2507,3148
+"2020-04-08 00:00:00","Spain","Ceuta",84,9,4,4
+"2020-04-08 00:00:00","Spain","Comunidad Valenciana",7964,3815,541,767
+"2020-04-08 00:00:00","Spain","Extremadura",2273,958,99,283
+"2020-04-08 00:00:00","Spain","Galicia",6758,2094,155,231
+"2020-04-08 00:00:00","Spain","Madrid",43877,12853,1433,5800
+"2020-04-08 00:00:00","Spain","ML",93,40,3,2
+"2020-04-08 00:00:00","Spain","Murcia",1356,533,87,88
+"2020-04-08 00:00:00","Spain","Navarra",3575,1526,124,214
+"2020-04-08 00:00:00","Spain","País Vasco",9806,5130,433,689
+"2020-04-08 00:00:00","Spain","La Rioja",3026,997,69,182
+"2020-04-09 00:00:00","Spain","Andalucía",9510,4715,582,691
+"2020-04-09 00:00:00","Spain","Aragón",3831,1822,263,409
+"2020-04-09 00:00:00","Spain","Asturias",1799,1083,100,121
+"2020-04-09 00:00:00","Spain","Baleares",1488,777,136,97
+"2020-04-09 00:00:00","Spain","Canarias",1858,738,141,94
+"2020-04-09 00:00:00","Spain","Cantabria",1659,747,73,102
+"2020-04-09 00:00:00","Spain","Castilla La Mancha",13063,2359,329,1431
+"2020-04-09 00:00:00","Spain","Castilla y León",11102,5674,332,1129
+"2020-04-09 00:00:00","Spain","Cataluña",31824,21530,2582,3231
+"2020-04-09 00:00:00","Spain","Ceuta",91,9,4,4
+"2020-04-09 00:00:00","Spain","Comunidad Valenciana",8331,3987,561,796
+"2020-04-09 00:00:00","Spain","Extremadura",2332,1003,101,288
+"2020-04-09 00:00:00","Spain","Galicia",6946,2165,151,243
+"2020-04-09 00:00:00","Spain","Madrid",44783,12432,1399,5972
+"2020-04-09 00:00:00","Spain","ML",95,41,3,2
+"2020-04-09 00:00:00","Spain","Murcia",1383,533,88,90
+"2020-04-09 00:00:00","Spain","Navarra",3748,1620,124,218
+"2020-04-09 00:00:00","Spain","País Vasco",10103,5290,442,729
+"2020-04-09 00:00:00","Spain","La Rioja",3076,1047,71,196
+"2020-04-10 00:00:00","Spain","Andalucía",9712,4808,602,737
+"2020-04-10 00:00:00","Spain","Aragón",3969,1860,266,425
+"2020-04-10 00:00:00","Spain","Asturias",1827,1147,105,128
+"2020-04-10 00:00:00","Spain","Baleares",1507,778,137,102
+"2020-04-10 00:00:00","Spain","Canarias",1887,745,144,95
+"2020-04-10 00:00:00","Spain","Cantabria",1719,773,75,107
+"2020-04-10 00:00:00","Spain","Castilla La Mancha",13456,2198,316,1483
+"2020-04-10 00:00:00","Spain","Castilla y León",11543,5817,327,1180
+"2020-04-10 00:00:00","Spain","Cataluña",32984,21921,2629,3331
+"2020-04-10 00:00:00","Spain","Ceuta",93,9,4,4
+"2020-04-10 00:00:00","Spain","Comunidad Valenciana",8578,4132,565,818
+"2020-04-10 00:00:00","Spain","Extremadura",2486,1052,104,303
+"2020-04-10 00:00:00","Spain","Galicia",7176,2215,144,261
+"2020-04-10 00:00:00","Spain","Madrid",45849,11894,1376,6084
+"2020-04-10 00:00:00","Spain","ML",98,43,3,2
+"2020-04-10 00:00:00","Spain","Murcia",1413,533,88,94
+"2020-04-10 00:00:00","Spain","Navarra",3817,1641,124,227
+"2020-04-10 00:00:00","Spain","País Vasco",10515,5402,453,765
+"2020-04-10 00:00:00","Spain","La Rioja",3223,1082,73,207
+"2020-04-11 00:00:00","Spain","Andalucía",10006,4950,619,799
+"2020-04-11 00:00:00","Spain","Aragón",4070,1901,272,450
+"2020-04-11 00:00:00","Spain","Asturias",1892,1208,106,140
+"2020-04-11 00:00:00","Spain","Baleares",1534,805,142,112
+"2020-04-11 00:00:00","Spain","Canarias",1918,758,144,95
+"2020-04-11 00:00:00","Spain","Cantabria",1752,805,75,110
+"2020-04-11 00:00:00","Spain","Castilla La Mancha",13698,6838,316,1543
+"2020-04-11 00:00:00","Spain","Castilla y León",12118,5957,323,1221
+"2020-04-11 00:00:00","Spain","Cataluña",34027,22369,2658,3442
+"2020-04-11 00:00:00","Spain","Ceuta",93,9,4,4
+"2020-04-11 00:00:00","Spain","Comunidad Valenciana",8841,4149,567,838
+"2020-04-11 00:00:00","Spain","Extremadura",2580,1074,106,312
+"2020-04-11 00:00:00","Spain","Galicia",7336,2306,140,274
+"2020-04-11 00:00:00","Spain","Madrid",46587,11424,1332,6278
+"2020-04-11 00:00:00","Spain","ML",98,43,3,2
+"2020-04-11 00:00:00","Spain","Murcia",1449,537,91,97
+"2020-04-11 00:00:00","Spain","Navarra",3969,1663,124,232
+"2020-04-11 00:00:00","Spain","País Vasco",10772,5547,459,804
+"2020-04-11 00:00:00","Spain","La Rioja",3279,1122,73,219
+"2020-04-12 00:00:00","Spain","Andalucía",10187,4993,621,815
+"2020-04-12 00:00:00","Spain","Aragón",4187,1938,274,464
+"2020-04-12 00:00:00","Spain","Asturias",1958,1265,110,149
+"2020-04-12 00:00:00","Spain","Baleares",1550,811,143,117
+"2020-04-12 00:00:00","Spain","Canarias",1944,763,145,96
+"2020-04-12 00:00:00","Spain","Cantabria",1777,827,75,117
+"2020-04-12 00:00:00","Spain","Castilla La Mancha",14054,7782,475,1626
+"2020-04-12 00:00:00","Spain","Castilla y León",12628,6077,312,1263
+"2020-04-12 00:00:00","Spain","Cataluña",34726,22780,2713,3538
+"2020-04-12 00:00:00","Spain","Ceuta",95,9,4,4
+"2020-04-12 00:00:00","Spain","Comunidad Valenciana",9060,4269,576,876
+"2020-04-12 00:00:00","Spain","Extremadura",2658,1096,108,321
+"2020-04-12 00:00:00","Spain","Galicia",7494,2344,136,284
+"2020-04-12 00:00:00","Spain","Madrid",47146,11233,1327,6423
+"2020-04-12 00:00:00","Spain","ML",101,43,3,2
+"2020-04-12 00:00:00","Spain","Murcia",1463,543,94,101
+"2020-04-12 00:00:00","Spain","Navarra",4092,1693,124,239
+"2020-04-12 00:00:00","Spain","País Vasco",11018,5622,464,831
+"2020-04-12 00:00:00","Spain","La Rioja",3358,1141,73,223
+0,"Spain",0,0,0,0,0
+0,"Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro debe hacerse con precaución y es únicamente la responsabilidad el autor.",0,0,0,0
+0,"Spain","Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación (CL(UCIs)-GA(UCIS)-CM*-MD)",0,0,0,0
