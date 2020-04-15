@@ -2731,7 +2731,7 @@
 "2020-04-06","France","Auvergne-Rhône-Alpes","Allier",7,1,50,18,61,8,119,18,3
 "2020-04-06","France","Auvergne-Rhône-Alpes","Ardèche",24,3,102,16,140,30,272,16,88
 "2020-04-06","France","Auvergne-Rhône-Alpes","Cantal",1,0,28,7,3,0,31,7,4
-"2020-04-06","France","Auvergne-Rhône-Alpes","Drôme",35,5,260,71,133,63,456,71,88
+"2020-04-06","France","Auvergne-Rhône-Alpes","Drôme",36,6,260,71,133,63,456,71,89
 "2020-04-06","France","Auvergne-Rhône-Alpes","Haute-Loire",7,1,30,6,29,3,62,6,8
 "2020-04-06","France","Auvergne-Rhône-Alpes","Haute-Savoie",79,15,292,95,269,64,625,95,364
 "2020-04-06","France","Auvergne-Rhône-Alpes","Isère",21,4,241,65,137,27,405,65,103
@@ -2741,7 +2741,7 @@
 "2020-04-06","France","Auvergne-Rhône-Alpes","Savoie",10,4,118,34,127,18,263,34,27
 "2020-04-06","France","Bourgogne-Franche-Comté","Côte-d'Or",34,6,284,76,311,76,671,76,63
 "2020-04-06","France","Bourgogne-Franche-Comté","Doubs",42,13,183,75,184,51,418,75,103
-"2020-04-06","France","Bourgogne-Franche-Comté","Haute-Saône",34,9,79,16,72,44,195,16,139
+"2020-04-06","France","Bourgogne-Franche-Comté","Haute-Saône",35,10,79,16,72,44,195,16,140
 "2020-04-06","France","Bourgogne-Franche-Comté","Jura",34,12,77,10,42,17,136,10,42
 "2020-04-06","France","Bourgogne-Franche-Comté","Nièvre",54,3,36,10,6,6,48,10,50
 "2020-04-06","France","Bourgogne-Franche-Comté","Saône-et-Loire",108,26,193,38,170,69,432,38,108
@@ -2777,7 +2777,7 @@
 "2020-04-06","France","Hauts-de-France","Pas-de-Calais",120,20,391,123,201,55,647,123,133
 "2020-04-06","France","Hauts-de-France","Somme",75,23,364,72,156,90,610,72,214
 "2020-04-06","France","La Réunion","La Réunion",0,0,45,4,43,0,88,4,0
-"2020-04-06","France","Martinique","Martinique",0,0,55,20,37,4,96,20,4
+"2020-04-06","France","Martinique","Martinique",2,0,55,20,37,4,96,20,4
 "2020-04-06","France","Mayotte","Mayotte",0,0,16,3,13,2,31,3,1
 "2020-04-06","France","Normandie","Calvados",65,6,146,59,58,23,227,59,107
 "2020-04-06","France","Normandie","Eure",162,20,67,11,23,15,105,11,153
@@ -2832,7 +2832,7 @@
 "2020-04-07","France","Auvergne-Rhône-Alpes","Allier",5,1,52,19,65,8,125,19,4
 "2020-04-07","France","Auvergne-Rhône-Alpes","Ardèche",25,7,106,19,150,32,288,19,95
 "2020-04-07","France","Auvergne-Rhône-Alpes","Cantal",0,0,26,9,6,0,32,9,4
-"2020-04-07","France","Auvergne-Rhône-Alpes","Drôme",25,4,244,68,159,64,467,68,92
+"2020-04-07","France","Auvergne-Rhône-Alpes","Drôme",25,4,244,68,159,64,467,68,93
 "2020-04-07","France","Auvergne-Rhône-Alpes","Haute-Loire",12,1,27,7,33,4,64,7,9
 "2020-04-07","France","Auvergne-Rhône-Alpes","Haute-Savoie",94,27,285,88,296,68,649,88,391
 "2020-04-07","France","Auvergne-Rhône-Alpes","Isère",35,4,248,66,146,30,424,66,107
@@ -2842,7 +2842,7 @@
 "2020-04-07","France","Auvergne-Rhône-Alpes","Savoie",13,1,123,32,140,19,282,32,28
 "2020-04-07","France","Bourgogne-Franche-Comté","Côte-d'Or",6,0,307,79,324,83,714,79,63
 "2020-04-07","France","Bourgogne-Franche-Comté","Doubs",30,10,196,81,188,58,442,81,113
-"2020-04-07","France","Bourgogne-Franche-Comté","Haute-Saône",32,7,84,17,82,45,211,17,146
+"2020-04-07","France","Bourgogne-Franche-Comté","Haute-Saône",32,7,84,17,82,45,211,17,147
 "2020-04-07","France","Bourgogne-Franche-Comté","Jura",11,3,90,11,47,18,155,11,45
 "2020-04-07","France","Bourgogne-Franche-Comté","Nièvre",41,2,34,9,8,7,49,9,52
 "2020-04-07","France","Bourgogne-Franche-Comté","Saône-et-Loire",68,9,191,36,192,74,457,36,117
@@ -2869,7 +2869,7 @@
 "2020-04-07","France","Grand Est","Meurthe-et-Moselle",21,3,496,173,287,126,909,173,104
 "2020-04-07","France","Grand Est","Meuse",11,1,168,23,141,33,342,23,31
 "2020-04-07","France","Grand Est","Moselle",31,6,1020,173,630,389,2039,173,296
-"2020-04-07","France","Grand Est","Vosges",75,24,253,35,222,128,603,35,295
+"2020-04-07","France","Grand Est","Vosges",76,25,253,35,222,128,603,35,296
 "2020-04-07","France","Guadeloupe","Guadeloupe",1,0,34,17,43,8,85,17,12
 "2020-04-07","France","Guyane","Guyane",1,0,7,1,8,0,15,1,2
 "2020-04-07","France","Hauts-de-France","Aisne",100,39,255,35,218,115,588,35,247
@@ -2917,14 +2917,14 @@
 "2020-04-07","France","Pays de la Loire","Vendée",3,0,72,22,44,16,132,22,8
 "2020-04-07","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",173,14,252,81,192,48,492,81,204
 "2020-04-07","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",37,0,29,3,56,4,89,3,32
-"2020-04-07","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",718,61,1074,249,929,137,2140,249,1300
+"2020-04-07","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",719,62,1074,249,929,137,2140,249,1301
 "2020-04-07","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",10,0,64,17,48,2,114,17,2
 "2020-04-07","France","Provence-Alpes-Côte d'Azur","Var",87,14,233,61,264,46,543,61,262
-"2020-04-07","France","Provence-Alpes-Côte d'Azur","Vaucluse",59,2,86,23,85,16,187,23,87
+"2020-04-07","France","Provence-Alpes-Côte d'Azur","Vaucluse",65,2,86,23,85,16,187,23,87
 "2020-04-07","France","Île-de-France","Essonne",151,68,958,215,363,147,1468,215,1107
 "2020-04-07","France","Île-de-France","Hauts-de-Seine",276,88,1932,440,1085,377,3394,440,1802
-"2020-04-07","France","Île-de-France","Paris",327,110,3169,849,1507,683,5359,849,2589
-"2020-04-07","France","Île-de-France","Seine-Saint-Denis",208,79,1461,241,628,368,2457,241,1509
+"2020-04-07","France","Île-de-France","Paris",328,111,3169,849,1507,683,5359,849,2590
+"2020-04-07","France","Île-de-France","Seine-Saint-Denis",209,80,1461,241,628,368,2457,241,1510
 "2020-04-07","France","Île-de-France","Seine-et-Marne",247,79,740,192,546,161,1447,192,752
 "2020-04-07","France","Île-de-France","Val-d'Oise",102,47,866,173,761,282,1909,173,1350
 "2020-04-07","France","Île-de-France","Val-de-Marne",173,60,1956,302,784,400,3140,302,976
@@ -2933,20 +2933,20 @@
 "2020-04-08","France","Auvergne-Rhône-Alpes","Allier",5,1,53,21,67,10,130,21,5
 "2020-04-08","France","Auvergne-Rhône-Alpes","Ardèche",15,4,107,20,156,35,298,20,99
 "2020-04-08","France","Auvergne-Rhône-Alpes","Cantal",0,0,26,9,8,0,34,9,4
-"2020-04-08","France","Auvergne-Rhône-Alpes","Drôme",7,0,247,66,168,69,484,66,92
+"2020-04-08","France","Auvergne-Rhône-Alpes","Drôme",7,0,247,66,168,69,484,66,93
 "2020-04-08","France","Auvergne-Rhône-Alpes","Haute-Loire",8,0,22,7,39,4,65,7,9
-"2020-04-08","France","Auvergne-Rhône-Alpes","Haute-Savoie",75,14,280,81,323,73,676,81,405
+"2020-04-08","France","Auvergne-Rhône-Alpes","Haute-Savoie",76,14,280,81,323,73,676,81,405
 "2020-04-08","France","Auvergne-Rhône-Alpes","Isère",30,4,228,55,172,35,435,55,111
 "2020-04-08","France","Auvergne-Rhône-Alpes","Loire",4,0,475,104,243,90,808,104,11
 "2020-04-08","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",4,0,74,37,66,14,154,37,1
 "2020-04-08","France","Auvergne-Rhône-Alpes","Rhône",2,0,1150,271,834,273,2257,271,173
 "2020-04-08","France","Auvergne-Rhône-Alpes","Savoie",13,4,122,31,149,20,291,31,32
-"2020-04-08","France","Bourgogne-Franche-Comté","Côte-d'Or",8,2,310,74,336,94,740,74,65
+"2020-04-08","France","Bourgogne-Franche-Comté","Côte-d'Or",9,2,310,74,336,94,740,74,65
 "2020-04-08","France","Bourgogne-Franche-Comté","Doubs",44,11,199,81,205,59,463,81,124
-"2020-04-08","France","Bourgogne-Franche-Comté","Haute-Saône",32,8,87,18,85,45,217,18,154
+"2020-04-08","France","Bourgogne-Franche-Comté","Haute-Saône",32,8,87,18,85,45,217,18,155
 "2020-04-08","France","Bourgogne-Franche-Comté","Jura",11,0,100,12,50,19,169,12,45
 "2020-04-08","France","Bourgogne-Franche-Comté","Nièvre",32,8,36,9,11,7,54,9,60
-"2020-04-08","France","Bourgogne-Franche-Comté","Saône-et-Loire",71,13,191,36,211,75,477,36,130
+"2020-04-08","France","Bourgogne-Franche-Comté","Saône-et-Loire",73,13,191,36,211,75,477,36,130
 "2020-04-08","France","Bourgogne-Franche-Comté","Territoire de Belfort",25,9,209,43,204,96,509,43,77
 "2020-04-08","France","Bourgogne-Franche-Comté","Yonne",5,1,95,19,58,17,170,19,31
 "2020-04-08","France","Bretagne","Côtes-d'Armor",2,0,66,13,45,14,125,13,0
@@ -2956,30 +2956,30 @@
 "2020-04-08","France","Centre-Val de Loire","Cher",57,31,51,15,25,26,102,15,156
 "2020-04-08","France","Centre-Val de Loire","Eure-et-Loir",152,32,177,31,124,36,337,31,363
 "2020-04-08","France","Centre-Val de Loire","Indre",65,15,63,11,16,25,104,11,166
-"2020-04-08","France","Centre-Val de Loire","Indre-et-Loire",45,5,192,60,82,23,297,60,73
+"2020-04-08","France","Centre-Val de Loire","Indre-et-Loire",46,5,192,60,82,23,297,60,73
 "2020-04-08","France","Centre-Val de Loire","Loir-et-Cher",13,1,91,16,47,16,154,16,34
 "2020-04-08","France","Centre-Val de Loire","Loiret",114,21,263,80,141,28,432,80,261
 "2020-04-08","France","Corse","Corse-du-Sud",0,0,81,19,45,29,155,19,0
 "2020-04-08","France","Corse","Haute-Corse",0,0,9,2,65,3,77,2,0
 "2020-04-08","France","Grand Est","Ardennes",46,3,75,17,39,7,121,17,39
-"2020-04-08","France","Grand Est","Aube",109,27,153,24,54,47,254,24,194
+"2020-04-08","France","Grand Est","Aube",110,28,153,24,54,47,254,24,195
 "2020-04-08","France","Grand Est","Bas-Rhin",76,19,1077,274,782,318,2177,274,300
-"2020-04-08","France","Grand Est","Haut-Rhin",198,55,1028,152,1106,548,2682,152,724
+"2020-04-08","France","Grand Est","Haut-Rhin",200,56,1028,152,1106,548,2682,152,725
 "2020-04-08","France","Grand Est","Haute-Marne",2,1,107,16,58,37,202,16,26
 "2020-04-08","France","Grand Est","Marne",78,16,374,63,347,104,825,63,227
-"2020-04-08","France","Grand Est","Meurthe-et-Moselle",108,9,480,163,334,136,950,163,113
+"2020-04-08","France","Grand Est","Meurthe-et-Moselle",109,9,480,163,334,136,950,163,113
 "2020-04-08","France","Grand Est","Meuse",31,5,164,23,147,39,350,23,36
-"2020-04-08","France","Grand Est","Moselle",343,89,1002,167,692,414,2108,167,385
-"2020-04-08","France","Grand Est","Vosges",53,17,248,38,238,131,617,38,312
+"2020-04-08","France","Grand Est","Moselle",344,90,1002,167,692,414,2108,167,386
+"2020-04-08","France","Grand Est","Vosges",53,17,248,38,238,131,617,38,313
 "2020-04-08","France","Guadeloupe","Guadeloupe",1,0,33,16,46,10,89,16,12
 "2020-04-08","France","Guyane","Guyane",2,1,9,1,8,0,17,1,3
 "2020-04-08","France","Hauts-de-France","Aisne",77,18,260,39,230,119,609,39,265
-"2020-04-08","France","Hauts-de-France","Nord",103,18,895,273,526,197,1618,273,202
-"2020-04-08","France","Hauts-de-France","Oise",158,51,424,70,360,188,972,70,738
+"2020-04-08","France","Hauts-de-France","Nord",104,18,895,273,526,197,1618,273,202
+"2020-04-08","France","Hauts-de-France","Oise",165,52,424,70,360,188,972,70,739
 "2020-04-08","France","Hauts-de-France","Pas-de-Calais",105,17,434,119,258,74,766,119,185
 "2020-04-08","France","Hauts-de-France","Somme",80,19,353,72,201,101,655,72,253
 "2020-04-08","France","La Réunion","La Réunion",1,0,39,4,55,0,94,4,0
-"2020-04-08","France","Martinique","Martinique",0,0,49,19,43,4,96,19,4
+"2020-04-08","France","Martinique","Martinique",2,0,49,19,43,4,96,19,4
 "2020-04-08","France","Mayotte","Mayotte",0,0,15,4,25,2,42,4,1
 "2020-04-08","France","Normandie","Calvados",47,4,156,57,68,29,253,57,116
 "2020-04-08","France","Normandie","Eure",195,26,50,6,40,28,118,6,242
@@ -2987,7 +2987,7 @@
 "2020-04-08","France","Normandie","Orne",35,4,68,14,78,12,158,14,43
 "2020-04-08","France","Normandie","Seine-Maritime",113,11,341,113,224,79,644,113,238
 "2020-04-08","France","Nouvelle-Aquitaine","Charente",24,2,11,4,28,8,47,4,15
-"2020-04-08","France","Nouvelle-Aquitaine","Charente-Maritime",159,1,91,24,50,21,162,24,69
+"2020-04-08","France","Nouvelle-Aquitaine","Charente-Maritime",160,1,91,24,50,21,162,24,69
 "2020-04-08","France","Nouvelle-Aquitaine","Corrèze",7,3,43,9,26,11,80,9,12
 "2020-04-08","France","Nouvelle-Aquitaine","Creuse",1,1,28,9,5,4,37,9,5
 "2020-04-08","France","Nouvelle-Aquitaine","Deux-Sèvres",1,1,33,9,17,9,59,9,2
@@ -2995,7 +2995,7 @@
 "2020-04-08","France","Nouvelle-Aquitaine","Gironde",146,11,290,89,392,58,740,89,269
 "2020-04-08","France","Nouvelle-Aquitaine","Haute-Vienne",1,0,72,19,35,11,118,19,2
 "2020-04-08","France","Nouvelle-Aquitaine","Landes",8,1,29,14,25,6,60,14,17
-"2020-04-08","France","Nouvelle-Aquitaine","Lot-et-Garonne",13,0,29,7,16,3,48,7,9
+"2020-04-08","France","Nouvelle-Aquitaine","Lot-et-Garonne",14,1,29,7,16,3,48,7,10
 "2020-04-08","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",25,1,88,28,79,14,181,28,55
 "2020-04-08","France","Nouvelle-Aquitaine","Vienne",4,0,60,24,43,19,122,24,14
 "2020-04-08","France","Occitanie","Ariège",0,0,20,4,10,1,31,4,5
@@ -3018,520 +3018,621 @@
 "2020-04-08","France","Pays de la Loire","Vendée",1,0,65,21,55,17,137,21,8
 "2020-04-08","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",222,3,258,87,208,56,522,87,207
 "2020-04-08","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",25,0,30,3,58,4,92,3,32
-"2020-04-08","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",749,68,1107,253,991,144,2242,253,1368
+"2020-04-08","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",808,89,1107,253,991,144,2242,253,1390
 "2020-04-08","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",4,0,61,16,53,2,116,16,2
 "2020-04-08","France","Provence-Alpes-Côte d'Azur","Var",230,24,258,56,278,44,580,56,286
 "2020-04-08","France","Provence-Alpes-Côte d'Azur","Vaucluse",170,3,82,22,96,19,197,22,90
-"2020-04-08","France","Île-de-France","Essonne",230,98,1125,222,394,163,1682,222,1205
-"2020-04-08","France","Île-de-France","Hauts-de-Seine",303,91,1987,456,1172,396,3555,456,1893
-"2020-04-08","France","Île-de-France","Paris",374,113,3154,855,1654,732,5540,855,2702
-"2020-04-08","France","Île-de-France","Seine-Saint-Denis",204,64,1499,242,714,402,2615,242,1573
-"2020-04-08","France","Île-de-France","Seine-et-Marne",210,82,734,198,631,178,1543,198,834
+"2020-04-08","France","Île-de-France","Essonne",235,100,1125,222,394,163,1682,222,1207
+"2020-04-08","France","Île-de-France","Hauts-de-Seine",337,95,1987,456,1172,396,3555,456,1897
+"2020-04-08","France","Île-de-France","Paris",378,114,3154,855,1654,732,5540,855,2704
+"2020-04-08","France","Île-de-France","Seine-Saint-Denis",210,67,1499,242,714,402,2615,242,1577
+"2020-04-08","France","Île-de-France","Seine-et-Marne",216,82,734,198,631,178,1543,198,834
 "2020-04-08","France","Île-de-France","Val-d'Oise",105,34,894,167,821,307,2022,167,1384
-"2020-04-08","France","Île-de-France","Val-de-Marne",271,87,2046,335,873,453,3372,335,1063
+"2020-04-08","France","Île-de-France","Val-de-Marne",273,87,2046,335,873,453,3372,335,1063
 "2020-04-08","France","Île-de-France","Yvelines",118,46,1040,193,598,219,1857,193,668
-"2020-04-09","France","Auvergne-Rhône-Alpes","Ain",0,0,125,33,112,35,272,33,222
-"2020-04-09","France","Auvergne-Rhône-Alpes","Allier",0,0,57,22,66,10,133,22,5
-"2020-04-09","France","Auvergne-Rhône-Alpes","Ardèche",0,0,107,23,166,38,311,23,99
-"2020-04-09","France","Auvergne-Rhône-Alpes","Cantal",0,0,27,9,9,0,36,9,4
-"2020-04-09","France","Auvergne-Rhône-Alpes","Drôme",0,0,241,66,182,71,494,66,92
+"2020-04-09","France","Auvergne-Rhône-Alpes","Ain",34,5,125,33,112,35,272,33,227
+"2020-04-09","France","Auvergne-Rhône-Alpes","Allier",6,0,57,22,66,10,133,22,5
+"2020-04-09","France","Auvergne-Rhône-Alpes","Ardèche",14,2,107,23,166,38,311,23,101
+"2020-04-09","France","Auvergne-Rhône-Alpes","Cantal",1,1,27,9,9,0,36,9,5
+"2020-04-09","France","Auvergne-Rhône-Alpes","Drôme",6,0,241,66,182,71,494,66,93
 "2020-04-09","France","Auvergne-Rhône-Alpes","Haute-Loire",0,0,24,7,42,4,70,7,9
-"2020-04-09","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,282,79,341,77,700,79,405
-"2020-04-09","France","Auvergne-Rhône-Alpes","Isère",0,0,236,60,190,38,464,60,111
+"2020-04-09","France","Auvergne-Rhône-Alpes","Haute-Savoie",49,7,282,79,341,77,700,79,412
+"2020-04-09","France","Auvergne-Rhône-Alpes","Isère",20,1,236,60,190,38,464,60,112
 "2020-04-09","France","Auvergne-Rhône-Alpes","Loire",0,0,472,95,266,95,833,95,11
 "2020-04-09","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",0,0,73,36,70,15,158,36,1
-"2020-04-09","France","Auvergne-Rhône-Alpes","Rhône",0,0,1197,263,896,282,2375,263,173
-"2020-04-09","France","Auvergne-Rhône-Alpes","Savoie",0,0,121,27,168,20,309,27,32
-"2020-04-09","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,290,73,364,95,749,73,65
-"2020-04-09","France","Bourgogne-Franche-Comté","Doubs",0,0,199,77,219,60,478,77,124
-"2020-04-09","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,91,18,91,45,227,18,154
-"2020-04-09","France","Bourgogne-Franche-Comté","Jura",0,0,105,13,58,23,186,13,45
-"2020-04-09","France","Bourgogne-Franche-Comté","Nièvre",0,0,37,8,11,7,55,8,60
-"2020-04-09","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,188,35,222,81,491,35,130
+"2020-04-09","France","Auvergne-Rhône-Alpes","Rhône",6,0,1197,263,896,282,2375,263,173
+"2020-04-09","France","Auvergne-Rhône-Alpes","Savoie",21,1,121,27,168,20,309,27,33
+"2020-04-09","France","Bourgogne-Franche-Comté","Côte-d'Or",12,3,290,73,364,95,749,73,68
+"2020-04-09","France","Bourgogne-Franche-Comté","Doubs",19,1,199,77,219,60,478,77,125
+"2020-04-09","France","Bourgogne-Franche-Comté","Haute-Saône",31,5,91,18,91,45,227,18,160
+"2020-04-09","France","Bourgogne-Franche-Comté","Jura",6,2,105,13,58,23,186,13,47
+"2020-04-09","France","Bourgogne-Franche-Comté","Nièvre",86,33,37,8,11,7,55,8,93
+"2020-04-09","France","Bourgogne-Franche-Comté","Saône-et-Loire",128,14,188,35,222,81,491,35,144
 "2020-04-09","France","Bourgogne-Franche-Comté","Territoire de Belfort",0,0,210,41,210,98,518,41,77
-"2020-04-09","France","Bourgogne-Franche-Comté","Yonne",0,0,91,18,62,18,171,18,31
+"2020-04-09","France","Bourgogne-Franche-Comté","Yonne",5,2,91,18,62,18,171,18,33
 "2020-04-09","France","Bretagne","Côtes-d'Armor",0,0,64,12,49,16,129,12,0
 "2020-04-09","France","Bretagne","Finistère",0,0,109,40,69,11,189,40,7
-"2020-04-09","France","Bretagne","Ille-et-Vilaine",0,0,173,48,117,27,317,48,7
+"2020-04-09","France","Bretagne","Ille-et-Vilaine",1,0,173,48,117,27,317,48,7
 "2020-04-09","France","Bretagne","Morbihan",0,0,147,33,162,55,364,33,2
-"2020-04-09","France","Centre-Val de Loire","Cher",0,0,60,13,26,26,112,13,156
-"2020-04-09","France","Centre-Val de Loire","Eure-et-Loir",0,0,186,29,132,37,355,29,363
-"2020-04-09","France","Centre-Val de Loire","Indre",0,0,66,11,19,25,110,11,166
-"2020-04-09","France","Centre-Val de Loire","Indre-et-Loire",0,0,193,61,89,28,310,61,73
-"2020-04-09","France","Centre-Val de Loire","Loir-et-Cher",0,0,103,17,48,16,167,17,34
-"2020-04-09","France","Centre-Val de Loire","Loiret",0,0,256,76,160,32,448,76,261
+"2020-04-09","France","Centre-Val de Loire","Cher",24,5,60,13,26,26,112,13,161
+"2020-04-09","France","Centre-Val de Loire","Eure-et-Loir",112,36,186,29,132,37,355,29,399
+"2020-04-09","France","Centre-Val de Loire","Indre",87,21,66,11,19,25,110,11,187
+"2020-04-09","France","Centre-Val de Loire","Indre-et-Loire",40,3,193,61,89,28,310,61,76
+"2020-04-09","France","Centre-Val de Loire","Loir-et-Cher",15,1,103,17,48,16,167,17,35
+"2020-04-09","France","Centre-Val de Loire","Loiret",84,19,256,76,160,32,448,76,280
 "2020-04-09","France","Corse","Corse-du-Sud",0,0,78,17,47,31,156,17,0
 "2020-04-09","France","Corse","Haute-Corse",0,0,10,2,65,3,78,2,0
-"2020-04-09","France","Grand Est","Ardennes",0,0,78,18,44,9,131,18,39
-"2020-04-09","France","Grand Est","Aube",0,0,202,27,147,58,407,27,194
-"2020-04-09","France","Grand Est","Bas-Rhin",0,0,1090,268,855,332,2277,268,300
-"2020-04-09","France","Grand Est","Haut-Rhin",0,0,1012,143,1170,561,2743,143,724
-"2020-04-09","France","Grand Est","Haute-Marne",0,0,97,16,61,36,194,16,26
-"2020-04-09","France","Grand Est","Marne",0,0,386,62,365,108,859,62,227
-"2020-04-09","France","Grand Est","Meurthe-et-Moselle",0,0,470,160,362,141,973,160,113
-"2020-04-09","France","Grand Est","Meuse",0,0,158,23,161,41,360,23,36
-"2020-04-09","France","Grand Est","Moselle",0,0,1022,166,737,429,2188,166,385
-"2020-04-09","France","Grand Est","Vosges",0,0,254,33,258,139,651,33,312
+"2020-04-09","France","Grand Est","Ardennes",48,12,78,18,44,9,131,18,51
+"2020-04-09","France","Grand Est","Aube",122,24,202,27,147,58,407,27,219
+"2020-04-09","France","Grand Est","Bas-Rhin",52,10,1090,268,855,332,2277,268,310
+"2020-04-09","France","Grand Est","Haut-Rhin",131,25,1012,143,1170,561,2743,143,750
+"2020-04-09","France","Grand Est","Haute-Marne",7,1,97,16,61,36,194,16,27
+"2020-04-09","France","Grand Est","Marne",61,17,386,62,365,108,859,62,244
+"2020-04-09","France","Grand Est","Meurthe-et-Moselle",124,15,470,160,362,141,973,160,128
+"2020-04-09","France","Grand Est","Meuse",32,0,158,23,161,41,360,23,36
+"2020-04-09","France","Grand Est","Moselle",393,74,1022,166,737,429,2188,166,460
+"2020-04-09","France","Grand Est","Vosges",54,10,254,33,258,139,651,33,323
 "2020-04-09","France","Guadeloupe","Guadeloupe",0,0,33,17,49,10,92,17,12
 "2020-04-09","France","Guyane","Guyane",0,0,9,1,12,0,21,1,3
-"2020-04-09","France","Hauts-de-France","Aisne",0,0,270,39,249,128,647,39,265
-"2020-04-09","France","Hauts-de-France","Nord",0,0,912,268,576,213,1701,268,202
-"2020-04-09","France","Hauts-de-France","Oise",0,0,424,70,383,189,996,70,738
-"2020-04-09","France","Hauts-de-France","Pas-de-Calais",0,0,457,126,285,81,823,126,185
-"2020-04-09","France","Hauts-de-France","Somme",0,0,366,77,210,104,680,77,253
+"2020-04-09","France","Hauts-de-France","Aisne",97,15,270,39,249,128,647,39,280
+"2020-04-09","France","Hauts-de-France","Nord",84,14,912,268,576,213,1701,268,216
+"2020-04-09","France","Hauts-de-France","Oise",202,44,424,70,383,189,996,70,783
+"2020-04-09","France","Hauts-de-France","Pas-de-Calais",124,23,457,126,285,81,823,126,208
+"2020-04-09","France","Hauts-de-France","Somme",84,19,366,77,210,104,680,77,272
 "2020-04-09","France","La Réunion","La Réunion",0,0,36,3,58,0,94,3,0
 "2020-04-09","France","Martinique","Martinique",0,0,47,17,45,5,97,17,4
 "2020-04-09","France","Mayotte","Mayotte",0,0,16,4,26,2,44,4,1
-"2020-04-09","France","Normandie","Calvados",0,0,157,58,71,31,259,58,116
-"2020-04-09","France","Normandie","Eure",0,0,67,6,44,31,142,6,242
-"2020-04-09","France","Normandie","Manche",0,0,71,23,44,19,134,23,66
-"2020-04-09","France","Normandie","Orne",0,0,72,14,79,14,165,14,43
-"2020-04-09","France","Normandie","Seine-Maritime",0,0,330,111,240,84,654,111,238
-"2020-04-09","France","Nouvelle-Aquitaine","Charente",0,0,11,4,28,8,47,4,15
-"2020-04-09","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,80,23,54,21,155,23,69
-"2020-04-09","France","Nouvelle-Aquitaine","Corrèze",0,0,44,10,29,12,85,10,12
+"2020-04-09","France","Normandie","Calvados",38,6,157,58,71,31,259,58,122
+"2020-04-09","France","Normandie","Eure",92,22,67,6,44,31,142,6,264
+"2020-04-09","France","Normandie","Manche",72,7,71,23,44,19,134,23,73
+"2020-04-09","France","Normandie","Orne",15,0,72,14,79,14,165,14,43
+"2020-04-09","France","Normandie","Seine-Maritime",91,22,330,111,240,84,654,111,260
+"2020-04-09","France","Nouvelle-Aquitaine","Charente",19,0,11,4,28,8,47,4,15
+"2020-04-09","France","Nouvelle-Aquitaine","Charente-Maritime",229,4,80,23,54,21,155,23,73
+"2020-04-09","France","Nouvelle-Aquitaine","Corrèze",1,0,44,10,29,12,85,10,12
 "2020-04-09","France","Nouvelle-Aquitaine","Creuse",0,0,29,10,6,4,39,10,5
-"2020-04-09","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,36,10,18,9,63,10,2
-"2020-04-09","France","Nouvelle-Aquitaine","Dordogne",0,0,22,6,25,1,48,6,23
-"2020-04-09","France","Nouvelle-Aquitaine","Gironde",0,0,282,87,423,62,767,87,269
+"2020-04-09","France","Nouvelle-Aquitaine","Deux-Sèvres",2,1,36,10,18,9,63,10,3
+"2020-04-09","France","Nouvelle-Aquitaine","Dordogne",7,0,22,6,25,1,48,6,23
+"2020-04-09","France","Nouvelle-Aquitaine","Gironde",143,11,282,87,423,62,767,87,280
 "2020-04-09","France","Nouvelle-Aquitaine","Haute-Vienne",0,0,74,20,37,11,122,20,2
-"2020-04-09","France","Nouvelle-Aquitaine","Landes",0,0,30,14,29,8,67,14,17
-"2020-04-09","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,29,7,16,4,49,7,9
-"2020-04-09","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,96,28,79,14,189,28,55
-"2020-04-09","France","Nouvelle-Aquitaine","Vienne",0,0,59,22,45,19,123,22,14
-"2020-04-09","France","Occitanie","Ariège",0,0,18,4,11,1,30,4,5
-"2020-04-09","France","Occitanie","Aude",0,0,69,15,84,36,189,15,80
-"2020-04-09","France","Occitanie","Aveyron",0,0,52,9,50,15,117,9,3
-"2020-04-09","France","Occitanie","Gard",0,0,106,41,72,21,199,41,5
-"2020-04-09","France","Occitanie","Gers",0,0,28,5,16,8,52,5,58
-"2020-04-09","France","Occitanie","Haute-Garonne",0,0,247,106,213,23,483,106,5
-"2020-04-09","France","Occitanie","Hautes-Pyrénées",0,0,64,7,37,7,108,7,28
-"2020-04-09","France","Occitanie","Hérault",0,0,224,66,324,62,610,66,26
-"2020-04-09","France","Occitanie","Lot",0,0,20,9,43,1,64,9,10
+"2020-04-09","France","Nouvelle-Aquitaine","Landes",4,0,30,14,29,8,67,14,17
+"2020-04-09","France","Nouvelle-Aquitaine","Lot-et-Garonne",11,0,29,7,16,4,49,7,10
+"2020-04-09","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",11,2,96,28,79,14,189,28,57
+"2020-04-09","France","Nouvelle-Aquitaine","Vienne",4,0,59,22,45,19,123,22,14
+"2020-04-09","France","Occitanie","Ariège",2,0,18,4,11,1,30,4,5
+"2020-04-09","France","Occitanie","Aude",10,0,69,15,84,36,189,15,80
+"2020-04-09","France","Occitanie","Aveyron",2,0,52,9,50,15,117,9,3
+"2020-04-09","France","Occitanie","Gard",2,0,106,41,72,21,199,41,5
+"2020-04-09","France","Occitanie","Gers",25,4,28,5,16,8,52,5,62
+"2020-04-09","France","Occitanie","Haute-Garonne",96,7,247,106,213,23,483,106,12
+"2020-04-09","France","Occitanie","Hautes-Pyrénées",33,2,64,7,37,7,108,7,30
+"2020-04-09","France","Occitanie","Hérault",8,0,224,66,324,62,610,66,26
+"2020-04-09","France","Occitanie","Lot",3,0,20,9,43,1,64,9,10
 "2020-04-09","France","Occitanie","Lozère",0,0,6,1,11,0,17,1,1
 "2020-04-09","France","Occitanie","Pyrénées-Orientales",0,0,87,32,169,19,275,32,5
 "2020-04-09","France","Occitanie","Tarn",0,0,51,22,43,7,101,22,11
 "2020-04-09","France","Occitanie","Tarn-et-Garonne",0,0,20,11,8,3,31,11,6
 "2020-04-09","France","Pays de la Loire","Loire-Atlantique",0,0,274,66,197,57,528,66,38
 "2020-04-09","France","Pays de la Loire","Maine-et-Loire",0,0,191,53,218,47,456,53,6
-"2020-04-09","France","Pays de la Loire","Mayenne",0,0,75,14,28,14,117,14,2
-"2020-04-09","France","Pays de la Loire","Sarthe",0,0,130,20,115,23,268,20,2
-"2020-04-09","France","Pays de la Loire","Vendée",0,0,71,23,57,17,145,23,8
-"2020-04-09","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,264,84,219,61,544,84,207
-"2020-04-09","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,31,3,58,4,93,3,32
-"2020-04-09","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1045,248,1108,154,2307,248,1368
-"2020-04-09","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",0,0,54,15,61,2,117,15,2
-"2020-04-09","France","Provence-Alpes-Côte d'Azur","Var",0,0,268,56,296,46,610,56,286
-"2020-04-09","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,86,20,99,19,204,20,90
-"2020-04-09","France","Île-de-France","Essonne",0,0,1134,224,466,176,1776,224,1205
-"2020-04-09","France","Île-de-France","Hauts-de-Seine",0,0,1968,439,1309,419,3696,439,1893
-"2020-04-09","France","Île-de-France","Paris",0,0,3155,831,1824,770,5749,831,2702
-"2020-04-09","France","Île-de-France","Seine-Saint-Denis",0,0,1575,247,829,446,2850,247,1573
-"2020-04-09","France","Île-de-France","Seine-et-Marne",0,0,752,201,722,197,1671,201,834
-"2020-04-09","France","Île-de-France","Val-d'Oise",0,0,946,188,875,323,2144,188,1384
-"2020-04-09","France","Île-de-France","Val-de-Marne",0,0,2116,338,948,474,3538,338,1063
-"2020-04-09","France","Île-de-France","Yvelines",0,0,1035,186,647,235,1917,186,668
-"2020-04-10","France","Auvergne-Rhône-Alpes","Ain",0,0,128,28,119,40,287,28,222
-"2020-04-10","France","Auvergne-Rhône-Alpes","Allier",0,0,56,22,72,10,138,22,5
-"2020-04-10","France","Auvergne-Rhône-Alpes","Ardèche",0,0,105,24,176,40,321,24,99
-"2020-04-10","France","Auvergne-Rhône-Alpes","Cantal",0,0,27,8,9,0,36,8,4
-"2020-04-10","France","Auvergne-Rhône-Alpes","Drôme",0,0,230,61,193,73,496,61,92
+"2020-04-09","France","Pays de la Loire","Mayenne",2,0,75,14,28,14,117,14,2
+"2020-04-09","France","Pays de la Loire","Sarthe",1,0,130,20,115,23,268,20,2
+"2020-04-09","France","Pays de la Loire","Vendée",1,0,71,23,57,17,145,23,8
+"2020-04-09","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",262,28,264,84,219,61,544,84,235
+"2020-04-09","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",33,0,31,3,58,4,93,3,32
+"2020-04-09","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",918,73,1045,248,1108,154,2307,248,1463
+"2020-04-09","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",6,0,54,15,61,2,117,15,2
+"2020-04-09","France","Provence-Alpes-Côte d'Azur","Var",102,8,268,56,296,46,610,56,294
+"2020-04-09","France","Provence-Alpes-Côte d'Azur","Vaucluse",103,1,86,20,99,19,204,20,91
+"2020-04-09","France","Île-de-France","Essonne",304,91,1134,224,466,176,1776,224,1298
+"2020-04-09","France","Île-de-France","Hauts-de-Seine",401,79,1968,439,1309,419,3696,439,1976
+"2020-04-09","France","Île-de-France","Paris",486,141,3155,831,1824,770,5749,831,2845
+"2020-04-09","France","Île-de-France","Seine-Saint-Denis",207,88,1575,247,829,446,2850,247,1665
+"2020-04-09","France","Île-de-France","Seine-et-Marne",270,82,752,201,722,197,1671,201,916
+"2020-04-09","France","Île-de-France","Val-d'Oise",66,18,946,188,875,323,2144,188,1402
+"2020-04-09","France","Île-de-France","Val-de-Marne",237,70,2116,338,948,474,3538,338,1133
+"2020-04-09","France","Île-de-France","Yvelines",124,28,1035,186,647,235,1917,186,696
+"2020-04-10","France","Auvergne-Rhône-Alpes","Ain",15,2,128,28,119,40,287,28,229
+"2020-04-10","France","Auvergne-Rhône-Alpes","Allier",5,0,56,22,72,10,138,22,5
+"2020-04-10","France","Auvergne-Rhône-Alpes","Ardèche",0,0,105,24,176,40,321,24,101
+"2020-04-10","France","Auvergne-Rhône-Alpes","Cantal",0,0,27,8,9,0,36,8,5
+"2020-04-10","France","Auvergne-Rhône-Alpes","Drôme",4,0,230,61,193,73,496,61,93
 "2020-04-10","France","Auvergne-Rhône-Alpes","Haute-Loire",0,0,24,7,45,5,74,7,9
-"2020-04-10","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,282,76,354,78,714,76,405
-"2020-04-10","France","Auvergne-Rhône-Alpes","Isère",0,0,249,56,201,41,491,56,111
+"2020-04-10","France","Auvergne-Rhône-Alpes","Haute-Savoie",88,28,282,76,354,78,714,76,440
+"2020-04-10","France","Auvergne-Rhône-Alpes","Isère",0,0,249,56,201,41,491,56,112
 "2020-04-10","France","Auvergne-Rhône-Alpes","Loire",0,0,464,101,299,101,864,101,11
 "2020-04-10","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",0,0,73,34,77,15,165,34,1
-"2020-04-10","France","Auvergne-Rhône-Alpes","Rhône",0,0,1194,258,968,295,2457,258,173
-"2020-04-10","France","Auvergne-Rhône-Alpes","Savoie",0,0,118,23,178,23,319,23,32
-"2020-04-10","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,350,79,370,102,822,79,65
-"2020-04-10","France","Bourgogne-Franche-Comté","Doubs",0,0,190,75,234,65,489,75,124
-"2020-04-10","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,89,17,98,47,234,17,154
-"2020-04-10","France","Bourgogne-Franche-Comté","Jura",0,0,111,16,60,24,195,16,45
-"2020-04-10","France","Bourgogne-Franche-Comté","Nièvre",0,0,48,10,13,7,68,10,60
-"2020-04-10","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,184,36,234,89,507,36,130
+"2020-04-10","France","Auvergne-Rhône-Alpes","Rhône",5,2,1194,258,968,295,2457,258,175
+"2020-04-10","France","Auvergne-Rhône-Alpes","Savoie",7,0,118,23,178,23,319,23,33
+"2020-04-10","France","Bourgogne-Franche-Comté","Côte-d'Or",15,1,350,79,370,102,822,79,69
+"2020-04-10","France","Bourgogne-Franche-Comté","Doubs",15,2,190,75,234,65,489,75,127
+"2020-04-10","France","Bourgogne-Franche-Comté","Haute-Saône",28,3,89,17,98,47,234,17,163
+"2020-04-10","France","Bourgogne-Franche-Comté","Jura",30,6,111,16,60,24,195,16,53
+"2020-04-10","France","Bourgogne-Franche-Comté","Nièvre",25,1,48,10,13,7,68,10,94
+"2020-04-10","France","Bourgogne-Franche-Comté","Saône-et-Loire",56,8,184,36,234,89,507,36,152
 "2020-04-10","France","Bourgogne-Franche-Comté","Territoire de Belfort",0,0,222,37,226,102,550,37,77
-"2020-04-10","France","Bourgogne-Franche-Comté","Yonne",0,0,88,20,74,23,185,20,31
-"2020-04-10","France","Bretagne","Côtes-d'Armor",0,0,70,11,54,17,141,11,0
+"2020-04-10","France","Bourgogne-Franche-Comté","Yonne",3,0,88,20,74,23,185,20,33
+"2020-04-10","France","Bretagne","Côtes-d'Armor",1,0,70,11,54,17,141,11,0
 "2020-04-10","France","Bretagne","Finistère",0,0,110,40,78,12,200,40,7
 "2020-04-10","France","Bretagne","Ille-et-Vilaine",0,0,171,42,124,36,331,42,7
 "2020-04-10","France","Bretagne","Morbihan",0,0,139,34,175,56,370,34,2
-"2020-04-10","France","Centre-Val de Loire","Cher",0,0,66,14,30,28,124,14,156
-"2020-04-10","France","Centre-Val de Loire","Eure-et-Loir",0,0,198,30,144,40,382,30,363
-"2020-04-10","France","Centre-Val de Loire","Indre",0,0,79,9,20,29,128,9,166
-"2020-04-10","France","Centre-Val de Loire","Indre-et-Loire",0,0,193,61,95,30,318,61,73
-"2020-04-10","France","Centre-Val de Loire","Loir-et-Cher",0,0,93,17,58,18,169,17,34
-"2020-04-10","France","Centre-Val de Loire","Loiret",0,0,265,79,181,34,480,79,261
+"2020-04-10","France","Centre-Val de Loire","Cher",33,3,66,14,30,28,124,14,164
+"2020-04-10","France","Centre-Val de Loire","Eure-et-Loir",213,87,198,30,144,40,382,30,486
+"2020-04-10","France","Centre-Val de Loire","Indre",39,7,79,9,20,29,128,9,194
+"2020-04-10","France","Centre-Val de Loire","Indre-et-Loire",33,2,193,61,95,30,318,61,78
+"2020-04-10","France","Centre-Val de Loire","Loir-et-Cher",14,2,93,17,58,18,169,17,37
+"2020-04-10","France","Centre-Val de Loire","Loiret",130,13,265,79,181,34,480,79,293
 "2020-04-10","France","Corse","Corse-du-Sud",0,0,72,14,51,32,155,14,0
 "2020-04-10","France","Corse","Haute-Corse",0,0,6,1,69,3,78,1,0
-"2020-04-10","France","Grand Est","Ardennes",0,0,74,16,52,11,137,16,39
-"2020-04-10","France","Grand Est","Aube",0,0,213,27,196,59,468,27,194
-"2020-04-10","France","Grand Est","Bas-Rhin",0,0,1106,266,942,343,2391,266,300
-"2020-04-10","France","Grand Est","Haut-Rhin",0,0,1023,132,1206,570,2799,132,724
-"2020-04-10","France","Grand Est","Haute-Marne",0,0,100,19,72,37,209,19,26
-"2020-04-10","France","Grand Est","Marne",0,0,392,60,389,118,899,60,227
-"2020-04-10","France","Grand Est","Meurthe-et-Moselle",0,0,508,151,378,163,1049,151,113
-"2020-04-10","France","Grand Est","Meuse",0,0,154,24,174,42,370,24,36
-"2020-04-10","France","Grand Est","Moselle",0,0,1052,160,788,452,2292,160,385
-"2020-04-10","France","Grand Est","Vosges",0,0,277,34,248,157,682,34,312
-"2020-04-10","France","Guadeloupe","Guadeloupe",0,0,33,19,50,10,93,19,12
+"2020-04-10","France","Grand Est","Ardennes",20,0,74,16,52,11,137,16,51
+"2020-04-10","France","Grand Est","Aube",122,21,213,27,196,59,468,27,240
+"2020-04-10","France","Grand Est","Bas-Rhin",0,0,1106,266,942,343,2391,266,310
+"2020-04-10","France","Grand Est","Haut-Rhin",11,4,1023,132,1206,570,2799,132,754
+"2020-04-10","France","Grand Est","Haute-Marne",5,2,100,19,72,37,209,19,29
+"2020-04-10","France","Grand Est","Marne",87,13,392,60,389,118,899,60,257
+"2020-04-10","France","Grand Est","Meurthe-et-Moselle",84,10,508,151,378,163,1049,151,138
+"2020-04-10","France","Grand Est","Meuse",31,2,154,24,174,42,370,24,38
+"2020-04-10","France","Grand Est","Moselle",7,0,1052,160,788,452,2292,160,460
+"2020-04-10","France","Grand Est","Vosges",40,6,277,34,248,157,682,34,329
+"2020-04-10","France","Guadeloupe","Guadeloupe",1,0,33,19,50,10,93,19,12
 "2020-04-10","France","Guyane","Guyane",0,0,9,1,13,0,22,1,3
-"2020-04-10","France","Hauts-de-France","Aisne",0,0,280,44,263,136,679,44,265
-"2020-04-10","France","Hauts-de-France","Nord",0,0,937,270,634,228,1799,270,202
-"2020-04-10","France","Hauts-de-France","Oise",0,0,434,70,409,196,1039,70,738
-"2020-04-10","France","Hauts-de-France","Pas-de-Calais",0,0,446,104,334,92,872,104,185
-"2020-04-10","France","Hauts-de-France","Somme",0,0,359,76,233,110,702,76,253
+"2020-04-10","France","Hauts-de-France","Aisne",60,13,280,44,263,136,679,44,293
+"2020-04-10","France","Hauts-de-France","Nord",46,7,937,270,634,228,1799,270,223
+"2020-04-10","France","Hauts-de-France","Oise",130,38,434,70,409,196,1039,70,821
+"2020-04-10","France","Hauts-de-France","Pas-de-Calais",90,21,446,104,334,92,872,104,229
+"2020-04-10","France","Hauts-de-France","Somme",66,11,359,76,233,110,702,76,283
 "2020-04-10","France","La Réunion","La Réunion",0,0,42,3,58,0,100,3,0
-"2020-04-10","France","Martinique","Martinique",0,0,44,16,48,5,97,16,4
+"2020-04-10","France","Martinique","Martinique",1,0,44,16,48,5,97,16,4
 "2020-04-10","France","Mayotte","Mayotte",0,0,20,4,24,2,46,4,1
-"2020-04-10","France","Normandie","Calvados",0,0,165,59,72,32,269,59,116
-"2020-04-10","France","Normandie","Eure",0,0,87,8,47,33,167,8,242
-"2020-04-10","France","Normandie","Manche",0,0,79,23,46,19,144,23,66
-"2020-04-10","France","Normandie","Orne",0,0,75,13,89,14,178,13,43
-"2020-04-10","France","Normandie","Seine-Maritime",0,0,335,107,258,90,683,107,238
-"2020-04-10","France","Nouvelle-Aquitaine","Charente",0,0,10,4,30,8,48,4,15
-"2020-04-10","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,78,21,56,21,155,21,69
-"2020-04-10","France","Nouvelle-Aquitaine","Corrèze",0,0,39,10,34,12,85,10,12
+"2020-04-10","France","Normandie","Calvados",131,0,165,59,72,32,269,59,122
+"2020-04-10","France","Normandie","Eure",121,33,87,8,47,33,167,8,297
+"2020-04-10","France","Normandie","Manche",95,8,79,23,46,19,144,23,81
+"2020-04-10","France","Normandie","Orne",18,1,75,13,89,14,178,13,44
+"2020-04-10","France","Normandie","Seine-Maritime",108,27,335,107,258,90,683,107,287
+"2020-04-10","France","Nouvelle-Aquitaine","Charente",7,0,10,4,30,8,48,4,15
+"2020-04-10","France","Nouvelle-Aquitaine","Charente-Maritime",57,3,78,21,56,21,155,21,76
+"2020-04-10","France","Nouvelle-Aquitaine","Corrèze",3,1,39,10,34,12,85,10,13
 "2020-04-10","France","Nouvelle-Aquitaine","Creuse",0,0,29,13,9,4,42,13,5
-"2020-04-10","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,38,12,19,9,66,12,2
-"2020-04-10","France","Nouvelle-Aquitaine","Dordogne",0,0,26,5,27,1,54,5,23
-"2020-04-10","France","Nouvelle-Aquitaine","Gironde",0,0,281,81,338,60,679,81,269
-"2020-04-10","France","Nouvelle-Aquitaine","Haute-Vienne",0,0,68,13,43,11,122,13,2
-"2020-04-10","France","Nouvelle-Aquitaine","Landes",0,0,25,13,31,9,65,13,17
-"2020-04-10","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,28,6,17,4,49,6,9
-"2020-04-10","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,97,28,86,16,199,28,55
-"2020-04-10","France","Nouvelle-Aquitaine","Vienne",0,0,56,23,52,19,127,23,14
-"2020-04-10","France","Occitanie","Ariège",0,0,15,4,15,1,31,4,5
-"2020-04-10","France","Occitanie","Aude",0,0,63,15,91,37,191,15,80
+"2020-04-10","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,38,12,19,9,66,12,3
+"2020-04-10","France","Nouvelle-Aquitaine","Dordogne",17,0,26,5,27,1,54,5,23
+"2020-04-10","France","Nouvelle-Aquitaine","Gironde",113,7,281,81,338,60,679,81,287
+"2020-04-10","France","Nouvelle-Aquitaine","Haute-Vienne",1,0,68,13,43,11,122,13,2
+"2020-04-10","France","Nouvelle-Aquitaine","Landes",7,0,25,13,31,9,65,13,17
+"2020-04-10","France","Nouvelle-Aquitaine","Lot-et-Garonne",9,0,28,6,17,4,49,6,10
+"2020-04-10","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",10,2,97,28,86,16,199,28,59
+"2020-04-10","France","Nouvelle-Aquitaine","Vienne",10,1,56,23,52,19,127,23,15
+"2020-04-10","France","Occitanie","Ariège",26,0,15,4,15,1,31,4,5
+"2020-04-10","France","Occitanie","Aude",42,11,63,15,91,37,191,15,91
 "2020-04-10","France","Occitanie","Aveyron",0,0,50,8,56,17,123,8,3
-"2020-04-10","France","Occitanie","Gard",0,0,108,41,83,22,213,41,5
-"2020-04-10","France","Occitanie","Gers",0,0,25,4,20,8,53,4,58
-"2020-04-10","France","Occitanie","Haute-Garonne",0,0,250,97,228,26,504,97,5
-"2020-04-10","France","Occitanie","Hautes-Pyrénées",0,0,68,6,43,7,118,6,28
-"2020-04-10","France","Occitanie","Hérault",0,0,212,67,349,70,631,67,26
+"2020-04-10","France","Occitanie","Gard",7,0,108,41,83,22,213,41,5
+"2020-04-10","France","Occitanie","Gers",21,2,25,4,20,8,53,4,64
+"2020-04-10","France","Occitanie","Haute-Garonne",105,3,250,97,228,26,504,97,15
+"2020-04-10","France","Occitanie","Hautes-Pyrénées",11,0,68,6,43,7,118,6,30
+"2020-04-10","France","Occitanie","Hérault",33,0,212,67,349,70,631,67,26
 "2020-04-10","France","Occitanie","Lot",0,0,18,8,49,2,69,8,10
 "2020-04-10","France","Occitanie","Lozère",0,0,6,1,11,0,17,1,1
-"2020-04-10","France","Occitanie","Pyrénées-Orientales",0,0,79,33,182,20,281,33,5
-"2020-04-10","France","Occitanie","Tarn",0,0,45,20,49,9,103,20,11
+"2020-04-10","France","Occitanie","Pyrénées-Orientales",3,0,79,33,182,20,281,33,5
+"2020-04-10","France","Occitanie","Tarn",36,2,45,20,49,9,103,20,13
 "2020-04-10","France","Occitanie","Tarn-et-Garonne",0,0,19,10,11,3,33,10,6
 "2020-04-10","France","Pays de la Loire","Loire-Atlantique",0,0,289,70,210,60,559,70,38
 "2020-04-10","France","Pays de la Loire","Maine-et-Loire",0,0,194,54,233,49,476,54,6
-"2020-04-10","France","Pays de la Loire","Mayenne",0,0,74,14,30,17,121,14,2
-"2020-04-10","France","Pays de la Loire","Sarthe",0,0,143,21,110,24,277,21,2
-"2020-04-10","France","Pays de la Loire","Vendée",0,0,72,21,58,19,149,21,8
-"2020-04-10","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,278,83,231,63,572,83,207
-"2020-04-10","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,35,4,60,4,99,4,32
-"2020-04-10","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1089,267,1167,160,2416,267,1368
-"2020-04-10","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",0,0,52,15,65,2,119,15,2
-"2020-04-10","France","Provence-Alpes-Côte d'Azur","Var",0,0,269,53,316,49,634,53,286
-"2020-04-10","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,81,19,107,21,209,19,90
-"2020-04-10","France","Île-de-France","Essonne",0,0,1184,233,515,192,1891,233,1205
-"2020-04-10","France","Île-de-France","Hauts-de-Seine",0,0,1974,434,1415,463,3852,434,1893
-"2020-04-10","France","Île-de-France","Paris",0,0,3181,841,2005,839,6025,841,2702
-"2020-04-10","France","Île-de-France","Seine-Saint-Denis",0,0,1597,251,929,480,3006,251,1573
-"2020-04-10","France","Île-de-France","Seine-et-Marne",0,0,782,208,779,213,1774,208,834
-"2020-04-10","France","Île-de-France","Val-d'Oise",0,0,911,179,962,353,2226,179,1384
-"2020-04-10","France","Île-de-France","Val-de-Marne",0,0,2190,328,1023,510,3723,328,1063
-"2020-04-10","France","Île-de-France","Yvelines",0,0,1042,191,685,250,1977,191,668
-"2020-04-11","France","Auvergne-Rhône-Alpes","Ain",0,0,118,30,132,42,292,30,222
+"2020-04-10","France","Pays de la Loire","Mayenne",7,1,74,14,30,17,121,14,3
+"2020-04-10","France","Pays de la Loire","Sarthe",1,0,143,21,110,24,277,21,2
+"2020-04-10","France","Pays de la Loire","Vendée",1,0,72,21,58,19,149,21,8
+"2020-04-10","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",306,8,278,83,231,63,572,83,243
+"2020-04-10","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",15,1,35,4,60,4,99,4,33
+"2020-04-10","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",716,94,1089,267,1167,160,2416,267,1557
+"2020-04-10","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",8,0,52,15,65,2,119,15,2
+"2020-04-10","France","Provence-Alpes-Côte d'Azur","Var",257,4,269,53,316,49,634,53,298
+"2020-04-10","France","Provence-Alpes-Côte d'Azur","Vaucluse",144,2,81,19,107,21,209,19,93
+"2020-04-10","France","Île-de-France","Essonne",361,138,1184,233,515,192,1891,233,1436
+"2020-04-10","France","Île-de-France","Hauts-de-Seine",145,44,1974,434,1415,463,3852,434,2020
+"2020-04-10","France","Île-de-France","Paris",487,142,3181,841,2005,839,6025,841,2987
+"2020-04-10","France","Île-de-France","Seine-Saint-Denis",215,80,1597,251,929,480,3006,251,1745
+"2020-04-10","France","Île-de-France","Seine-et-Marne",281,74,782,208,779,213,1774,208,990
+"2020-04-10","France","Île-de-France","Val-d'Oise",94,33,911,179,962,353,2226,179,1435
+"2020-04-10","France","Île-de-France","Val-de-Marne",171,73,2190,328,1023,510,3723,328,1206
+"2020-04-10","France","Île-de-France","Yvelines",160,61,1042,191,685,250,1977,191,757
+"2020-04-11","France","Auvergne-Rhône-Alpes","Ain",0,0,118,30,132,42,292,30,229
 "2020-04-11","France","Auvergne-Rhône-Alpes","Allier",0,0,60,22,74,12,146,22,5
-"2020-04-11","France","Auvergne-Rhône-Alpes","Ardèche",0,0,102,26,182,40,324,26,99
-"2020-04-11","France","Auvergne-Rhône-Alpes","Cantal",0,0,27,7,9,0,36,7,4
-"2020-04-11","France","Auvergne-Rhône-Alpes","Drôme",0,0,227,60,205,77,509,60,92
+"2020-04-11","France","Auvergne-Rhône-Alpes","Ardèche",0,0,102,26,182,40,324,26,101
+"2020-04-11","France","Auvergne-Rhône-Alpes","Cantal",0,0,27,7,9,0,36,7,5
+"2020-04-11","France","Auvergne-Rhône-Alpes","Drôme",0,0,227,60,205,77,509,60,93
 "2020-04-11","France","Auvergne-Rhône-Alpes","Haute-Loire",0,0,30,7,45,5,80,7,9
-"2020-04-11","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,283,75,387,84,754,75,405
-"2020-04-11","France","Auvergne-Rhône-Alpes","Isère",0,0,246,54,208,45,499,54,111
+"2020-04-11","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,283,75,387,84,754,75,440
+"2020-04-11","France","Auvergne-Rhône-Alpes","Isère",0,0,246,54,208,45,499,54,112
 "2020-04-11","France","Auvergne-Rhône-Alpes","Loire",0,0,470,98,316,104,890,98,11
 "2020-04-11","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",0,0,72,27,79,18,169,27,1
-"2020-04-11","France","Auvergne-Rhône-Alpes","Rhône",0,0,1243,253,1029,305,2577,253,173
-"2020-04-11","France","Auvergne-Rhône-Alpes","Savoie",0,0,107,23,191,23,321,23,32
-"2020-04-11","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,325,72,402,106,833,72,65
-"2020-04-11","France","Bourgogne-Franche-Comté","Doubs",0,0,186,77,248,68,502,77,124
-"2020-04-11","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,87,17,100,48,235,17,154
-"2020-04-11","France","Bourgogne-Franche-Comté","Jura",0,0,112,14,65,26,203,14,45
-"2020-04-11","France","Bourgogne-Franche-Comté","Nièvre",0,0,53,10,15,7,75,10,60
-"2020-04-11","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,174,33,258,91,523,33,130
+"2020-04-11","France","Auvergne-Rhône-Alpes","Rhône",0,0,1243,253,1029,305,2577,253,175
+"2020-04-11","France","Auvergne-Rhône-Alpes","Savoie",0,0,107,23,191,23,321,23,33
+"2020-04-11","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,325,72,402,106,833,72,69
+"2020-04-11","France","Bourgogne-Franche-Comté","Doubs",0,0,186,77,248,68,502,77,127
+"2020-04-11","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,87,17,100,48,235,17,163
+"2020-04-11","France","Bourgogne-Franche-Comté","Jura",0,0,112,14,65,26,203,14,53
+"2020-04-11","France","Bourgogne-Franche-Comté","Nièvre",0,0,53,10,15,7,75,10,94
+"2020-04-11","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,174,33,258,91,523,33,152
 "2020-04-11","France","Bourgogne-Franche-Comté","Territoire de Belfort",0,0,217,35,238,107,562,35,77
-"2020-04-11","France","Bourgogne-Franche-Comté","Yonne",0,0,85,20,85,25,195,20,31
+"2020-04-11","France","Bourgogne-Franche-Comté","Yonne",0,0,85,20,85,25,195,20,33
 "2020-04-11","France","Bretagne","Côtes-d'Armor",0,0,69,12,59,18,146,12,0
 "2020-04-11","France","Bretagne","Finistère",0,0,116,39,82,13,211,39,7
 "2020-04-11","France","Bretagne","Ille-et-Vilaine",0,0,172,38,135,39,346,38,7
 "2020-04-11","France","Bretagne","Morbihan",0,0,130,35,194,59,383,35,2
-"2020-04-11","France","Centre-Val de Loire","Cher",0,0,66,15,35,29,130,15,156
-"2020-04-11","France","Centre-Val de Loire","Eure-et-Loir",0,0,202,25,148,41,391,25,363
-"2020-04-11","France","Centre-Val de Loire","Indre",0,0,84,9,23,30,137,9,166
-"2020-04-11","France","Centre-Val de Loire","Indre-et-Loire",0,0,200,64,103,33,336,64,73
-"2020-04-11","France","Centre-Val de Loire","Loir-et-Cher",0,0,93,15,61,21,175,15,34
-"2020-04-11","France","Centre-Val de Loire","Loiret",0,0,277,74,198,39,514,74,261
+"2020-04-11","France","Centre-Val de Loire","Cher",0,0,66,15,35,29,130,15,164
+"2020-04-11","France","Centre-Val de Loire","Eure-et-Loir",0,0,202,25,148,41,391,25,486
+"2020-04-11","France","Centre-Val de Loire","Indre",0,0,84,9,23,30,137,9,194
+"2020-04-11","France","Centre-Val de Loire","Indre-et-Loire",0,0,200,64,103,33,336,64,78
+"2020-04-11","France","Centre-Val de Loire","Loir-et-Cher",0,0,93,15,61,21,175,15,37
+"2020-04-11","France","Centre-Val de Loire","Loiret",0,0,277,74,198,39,514,74,293
 "2020-04-11","France","Corse","Corse-du-Sud",0,0,70,14,53,33,156,14,0
 "2020-04-11","France","Corse","Haute-Corse",0,0,6,1,69,3,78,1,0
-"2020-04-11","France","Grand Est","Ardennes",0,0,69,17,57,13,139,17,39
-"2020-04-11","France","Grand Est","Aube",0,0,219,27,196,61,476,27,194
-"2020-04-11","France","Grand Est","Bas-Rhin",0,0,1107,261,955,346,2408,261,300
-"2020-04-11","France","Grand Est","Haut-Rhin",0,0,1026,139,1228,576,2830,139,724
-"2020-04-11","France","Grand Est","Haute-Marne",0,0,99,18,78,40,217,18,26
-"2020-04-11","France","Grand Est","Marne",0,0,366,58,419,131,916,58,227
-"2020-04-11","France","Grand Est","Meurthe-et-Moselle",0,0,508,150,390,171,1069,150,113
-"2020-04-11","France","Grand Est","Meuse",0,0,143,21,183,45,371,21,36
-"2020-04-11","France","Grand Est","Moselle",0,0,1038,160,814,467,2319,160,385
-"2020-04-11","France","Grand Est","Vosges",0,0,266,30,261,158,685,30,312
+"2020-04-11","France","Grand Est","Ardennes",0,0,69,17,57,13,139,17,51
+"2020-04-11","France","Grand Est","Aube",0,0,219,27,196,61,476,27,240
+"2020-04-11","France","Grand Est","Bas-Rhin",0,0,1107,261,955,346,2408,261,310
+"2020-04-11","France","Grand Est","Haut-Rhin",0,0,1026,139,1228,576,2830,139,754
+"2020-04-11","France","Grand Est","Haute-Marne",0,0,99,18,78,40,217,18,29
+"2020-04-11","France","Grand Est","Marne",0,0,366,58,419,131,916,58,257
+"2020-04-11","France","Grand Est","Meurthe-et-Moselle",0,0,508,150,390,171,1069,150,138
+"2020-04-11","France","Grand Est","Meuse",0,0,143,21,183,45,371,21,38
+"2020-04-11","France","Grand Est","Moselle",0,0,1038,160,814,467,2319,160,460
+"2020-04-11","France","Grand Est","Vosges",0,0,266,30,261,158,685,30,329
 "2020-04-11","France","Guadeloupe","Guadeloupe",0,0,37,20,50,10,97,20,12
 "2020-04-11","France","Guyane","Guyane",0,0,9,1,13,0,22,1,3
-"2020-04-11","France","Hauts-de-France","Aisne",0,0,279,43,285,140,704,43,265
-"2020-04-11","France","Hauts-de-France","Nord",0,0,935,267,680,248,1863,267,202
-"2020-04-11","France","Hauts-de-France","Oise",0,0,444,71,427,204,1075,71,738
-"2020-04-11","France","Hauts-de-France","Pas-de-Calais",0,0,434,98,352,96,882,98,185
-"2020-04-11","France","Hauts-de-France","Somme",0,0,352,71,273,118,743,71,253
+"2020-04-11","France","Hauts-de-France","Aisne",0,0,279,43,285,140,704,43,293
+"2020-04-11","France","Hauts-de-France","Nord",0,0,935,267,680,248,1863,267,223
+"2020-04-11","France","Hauts-de-France","Oise",0,0,444,71,427,204,1075,71,821
+"2020-04-11","France","Hauts-de-France","Pas-de-Calais",0,0,434,98,352,96,882,98,229
+"2020-04-11","France","Hauts-de-France","Somme",0,0,352,71,273,118,743,71,283
 "2020-04-11","France","La Réunion","La Réunion",0,0,30,3,70,0,100,3,0
 "2020-04-11","France","Martinique","Martinique",0,0,41,15,50,5,96,15,4
 "2020-04-11","France","Mayotte","Mayotte",0,0,20,3,25,3,48,3,1
-"2020-04-11","France","Normandie","Calvados",0,0,166,55,82,33,281,55,116
-"2020-04-11","France","Normandie","Eure",0,0,94,8,47,33,174,8,242
-"2020-04-11","France","Normandie","Manche",0,0,71,21,53,21,145,21,66
-"2020-04-11","France","Normandie","Orne",0,0,67,13,98,16,181,13,43
-"2020-04-11","France","Normandie","Seine-Maritime",0,0,328,105,274,93,695,105,238
+"2020-04-11","France","Normandie","Calvados",0,0,166,55,82,33,281,55,122
+"2020-04-11","France","Normandie","Eure",0,0,94,8,47,33,174,8,297
+"2020-04-11","France","Normandie","Manche",0,0,71,21,53,21,145,21,81
+"2020-04-11","France","Normandie","Orne",0,0,67,13,98,16,181,13,44
+"2020-04-11","France","Normandie","Seine-Maritime",0,0,328,105,274,93,695,105,287
 "2020-04-11","France","Nouvelle-Aquitaine","Charente",0,0,13,7,30,8,51,7,15
-"2020-04-11","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,79,22,57,22,158,22,69
-"2020-04-11","France","Nouvelle-Aquitaine","Corrèze",0,0,46,12,37,13,96,12,12
+"2020-04-11","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,79,22,57,22,158,22,76
+"2020-04-11","France","Nouvelle-Aquitaine","Corrèze",0,0,46,12,37,13,96,12,13
 "2020-04-11","France","Nouvelle-Aquitaine","Creuse",0,0,31,14,9,4,44,14,5
-"2020-04-11","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,38,8,20,9,67,8,2
+"2020-04-11","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,38,8,20,9,67,8,3
 "2020-04-11","France","Nouvelle-Aquitaine","Dordogne",0,0,24,6,32,1,57,6,23
-"2020-04-11","France","Nouvelle-Aquitaine","Gironde",0,0,308,102,362,64,734,102,269
+"2020-04-11","France","Nouvelle-Aquitaine","Gironde",0,0,308,102,362,64,734,102,287
 "2020-04-11","France","Nouvelle-Aquitaine","Haute-Vienne",0,0,69,18,48,11,128,18,2
 "2020-04-11","France","Nouvelle-Aquitaine","Landes",0,0,25,13,31,9,65,13,17
-"2020-04-11","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,27,6,17,4,48,6,9
-"2020-04-11","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,92,27,95,16,203,27,55
-"2020-04-11","France","Nouvelle-Aquitaine","Vienne",0,0,63,29,56,19,138,29,14
+"2020-04-11","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,27,6,17,4,48,6,10
+"2020-04-11","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,92,27,95,16,203,27,59
+"2020-04-11","France","Nouvelle-Aquitaine","Vienne",0,0,63,29,56,19,138,29,15
 "2020-04-11","France","Occitanie","Ariège",0,0,15,4,15,1,31,4,5
-"2020-04-11","France","Occitanie","Aude",0,0,66,14,96,37,199,14,80
+"2020-04-11","France","Occitanie","Aude",0,0,66,14,96,37,199,14,91
 "2020-04-11","France","Occitanie","Aveyron",0,0,55,6,58,17,130,6,3
 "2020-04-11","France","Occitanie","Gard",0,0,97,40,96,23,216,40,5
-"2020-04-11","France","Occitanie","Gers",0,0,23,4,21,9,53,4,58
-"2020-04-11","France","Occitanie","Haute-Garonne",0,0,239,97,249,28,516,97,5
-"2020-04-11","France","Occitanie","Hautes-Pyrénées",0,0,74,5,46,8,128,5,28
+"2020-04-11","France","Occitanie","Gers",0,0,23,4,21,9,53,4,64
+"2020-04-11","France","Occitanie","Haute-Garonne",0,0,239,97,249,28,516,97,15
+"2020-04-11","France","Occitanie","Hautes-Pyrénées",0,0,74,5,46,8,128,5,30
 "2020-04-11","France","Occitanie","Hérault",0,0,185,56,375,74,634,56,26
 "2020-04-11","France","Occitanie","Lot",0,0,20,10,53,2,75,10,10
 "2020-04-11","France","Occitanie","Lozère",0,0,6,1,11,0,17,1,1
 "2020-04-11","France","Occitanie","Pyrénées-Orientales",0,0,78,29,185,21,284,29,5
-"2020-04-11","France","Occitanie","Tarn",0,0,42,19,53,10,105,19,11
+"2020-04-11","France","Occitanie","Tarn",0,0,42,19,53,10,105,19,13
 "2020-04-11","France","Occitanie","Tarn-et-Garonne",0,0,18,10,13,3,34,10,6
 "2020-04-11","France","Pays de la Loire","Loire-Atlantique",0,0,288,65,227,62,577,65,38
 "2020-04-11","France","Pays de la Loire","Maine-et-Loire",0,0,203,46,242,53,498,46,6
-"2020-04-11","France","Pays de la Loire","Mayenne",0,0,65,11,39,18,122,11,2
+"2020-04-11","France","Pays de la Loire","Mayenne",0,0,65,11,39,18,122,11,3
 "2020-04-11","France","Pays de la Loire","Sarthe",0,0,147,22,118,25,290,22,2
 "2020-04-11","France","Pays de la Loire","Vendée",0,0,75,20,62,20,157,20,8
-"2020-04-11","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,267,79,249,67,583,79,207
-"2020-04-11","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,35,5,63,4,102,5,32
-"2020-04-11","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1064,264,1223,173,2460,264,1368
+"2020-04-11","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,267,79,249,67,583,79,243
+"2020-04-11","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,35,5,63,4,102,5,33
+"2020-04-11","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1064,264,1223,173,2460,264,1557
 "2020-04-11","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",0,0,50,15,68,2,120,15,2
-"2020-04-11","France","Provence-Alpes-Côte d'Azur","Var",0,0,274,55,333,50,657,55,286
-"2020-04-11","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,76,18,117,21,214,18,90
-"2020-04-11","France","Île-de-France","Essonne",0,0,1206,236,556,203,1965,236,1205
-"2020-04-11","France","Île-de-France","Hauts-de-Seine",0,0,1978,441,1491,483,3952,441,1893
-"2020-04-11","France","Île-de-France","Paris",0,0,3219,811,2131,867,6217,811,2702
-"2020-04-11","France","Île-de-France","Seine-Saint-Denis",0,0,1619,244,1000,494,3113,244,1573
-"2020-04-11","France","Île-de-France","Seine-et-Marne",0,0,798,204,807,223,1828,204,834
-"2020-04-11","France","Île-de-France","Val-d'Oise",0,0,916,175,1019,364,2299,175,1384
-"2020-04-11","France","Île-de-France","Val-de-Marne",0,0,2233,316,1069,524,3826,316,1063
-"2020-04-11","France","Île-de-France","Yvelines",0,0,1056,190,723,258,2037,190,668
-"2020-04-12","France","Auvergne-Rhône-Alpes","Ain",0,0,118,30,136,42,296,30,222
+"2020-04-11","France","Provence-Alpes-Côte d'Azur","Var",0,0,274,55,333,50,657,55,298
+"2020-04-11","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,76,18,117,21,214,18,93
+"2020-04-11","France","Île-de-France","Essonne",0,0,1206,236,556,203,1965,236,1436
+"2020-04-11","France","Île-de-France","Hauts-de-Seine",0,0,1978,441,1491,483,3952,441,2020
+"2020-04-11","France","Île-de-France","Paris",0,0,3219,811,2131,867,6217,811,2987
+"2020-04-11","France","Île-de-France","Seine-Saint-Denis",0,0,1619,244,1000,494,3113,244,1745
+"2020-04-11","France","Île-de-France","Seine-et-Marne",0,0,798,204,807,223,1828,204,990
+"2020-04-11","France","Île-de-France","Val-d'Oise",0,0,916,175,1019,364,2299,175,1435
+"2020-04-11","France","Île-de-France","Val-de-Marne",0,0,2233,316,1069,524,3826,316,1206
+"2020-04-11","France","Île-de-France","Yvelines",0,0,1056,190,723,258,2037,190,757
+"2020-04-12","France","Auvergne-Rhône-Alpes","Ain",0,0,118,30,136,42,296,30,229
 "2020-04-12","France","Auvergne-Rhône-Alpes","Allier",0,0,58,20,79,13,150,20,5
-"2020-04-12","France","Auvergne-Rhône-Alpes","Ardèche",0,0,102,25,184,40,326,25,99
-"2020-04-12","France","Auvergne-Rhône-Alpes","Cantal",0,0,28,7,9,0,37,7,4
-"2020-04-12","France","Auvergne-Rhône-Alpes","Drôme",0,0,236,58,207,79,522,58,92
+"2020-04-12","France","Auvergne-Rhône-Alpes","Ardèche",0,0,102,25,184,40,326,25,101
+"2020-04-12","France","Auvergne-Rhône-Alpes","Cantal",0,0,28,7,9,0,37,7,5
+"2020-04-12","France","Auvergne-Rhône-Alpes","Drôme",0,0,236,58,207,79,522,58,93
 "2020-04-12","France","Auvergne-Rhône-Alpes","Haute-Loire",0,0,32,7,45,5,82,7,9
-"2020-04-12","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,285,73,395,87,767,73,405
-"2020-04-12","France","Auvergne-Rhône-Alpes","Isère",0,0,248,52,217,47,512,52,111
+"2020-04-12","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,285,73,395,87,767,73,440
+"2020-04-12","France","Auvergne-Rhône-Alpes","Isère",0,0,248,52,217,47,512,52,112
 "2020-04-12","France","Auvergne-Rhône-Alpes","Loire",0,0,493,101,331,109,933,101,11
 "2020-04-12","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",0,0,76,27,79,18,173,27,1
-"2020-04-12","France","Auvergne-Rhône-Alpes","Rhône",0,0,1241,250,1057,310,2608,250,173
-"2020-04-12","France","Auvergne-Rhône-Alpes","Savoie",0,0,108,24,197,23,328,24,32
-"2020-04-12","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,344,72,406,116,866,72,65
-"2020-04-12","France","Bourgogne-Franche-Comté","Doubs",0,0,213,75,263,72,548,75,124
-"2020-04-12","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,85,17,102,49,236,17,154
-"2020-04-12","France","Bourgogne-Franche-Comté","Jura",0,0,117,15,65,27,209,15,45
-"2020-04-12","France","Bourgogne-Franche-Comté","Nièvre",0,0,56,10,16,7,79,10,60
-"2020-04-12","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,175,34,262,92,529,34,130
+"2020-04-12","France","Auvergne-Rhône-Alpes","Rhône",0,0,1241,250,1057,310,2608,250,175
+"2020-04-12","France","Auvergne-Rhône-Alpes","Savoie",0,0,108,24,197,23,328,24,33
+"2020-04-12","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,344,72,406,116,866,72,69
+"2020-04-12","France","Bourgogne-Franche-Comté","Doubs",0,0,213,75,263,72,548,75,127
+"2020-04-12","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,85,17,102,49,236,17,163
+"2020-04-12","France","Bourgogne-Franche-Comté","Jura",0,0,117,15,65,27,209,15,53
+"2020-04-12","France","Bourgogne-Franche-Comté","Nièvre",0,0,56,10,16,7,79,10,94
+"2020-04-12","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,175,34,262,92,529,34,152
 "2020-04-12","France","Bourgogne-Franche-Comté","Territoire de Belfort",0,0,220,35,242,111,573,35,77
-"2020-04-12","France","Bourgogne-Franche-Comté","Yonne",0,0,84,20,85,26,195,20,31
+"2020-04-12","France","Bourgogne-Franche-Comté","Yonne",0,0,84,20,85,26,195,20,33
 "2020-04-12","France","Bretagne","Côtes-d'Armor",0,0,73,12,61,20,154,12,0
 "2020-04-12","France","Bretagne","Finistère",0,0,123,38,82,13,218,38,7
 "2020-04-12","France","Bretagne","Ille-et-Vilaine",0,0,182,35,141,39,362,35,7
 "2020-04-12","France","Bretagne","Morbihan",0,0,132,34,197,60,389,34,2
-"2020-04-12","France","Centre-Val de Loire","Cher",0,0,68,14,35,31,134,14,156
-"2020-04-12","France","Centre-Val de Loire","Eure-et-Loir",0,0,219,25,149,41,409,25,363
-"2020-04-12","France","Centre-Val de Loire","Indre",0,0,82,9,24,32,138,9,166
-"2020-04-12","France","Centre-Val de Loire","Indre-et-Loire",0,0,194,58,106,36,336,58,73
-"2020-04-12","France","Centre-Val de Loire","Loir-et-Cher",0,0,96,15,61,21,178,15,34
-"2020-04-12","France","Centre-Val de Loire","Loiret",0,0,284,72,206,40,530,72,261
+"2020-04-12","France","Centre-Val de Loire","Cher",0,0,68,14,35,31,134,14,164
+"2020-04-12","France","Centre-Val de Loire","Eure-et-Loir",0,0,219,25,149,41,409,25,486
+"2020-04-12","France","Centre-Val de Loire","Indre",0,0,82,9,24,32,138,9,194
+"2020-04-12","France","Centre-Val de Loire","Indre-et-Loire",0,0,194,58,106,36,336,58,78
+"2020-04-12","France","Centre-Val de Loire","Loir-et-Cher",0,0,96,15,61,21,178,15,37
+"2020-04-12","France","Centre-Val de Loire","Loiret",0,0,284,72,206,40,530,72,293
 "2020-04-12","France","Corse","Corse-du-Sud",0,0,70,14,55,33,158,14,0
 "2020-04-12","France","Corse","Haute-Corse",0,0,4,0,71,3,78,0,0
-"2020-04-12","France","Grand Est","Ardennes",0,0,79,15,66,17,162,15,39
-"2020-04-12","France","Grand Est","Aube",0,0,239,27,197,61,497,27,194
-"2020-04-12","France","Grand Est","Bas-Rhin",0,0,1102,261,993,352,2447,261,300
-"2020-04-12","France","Grand Est","Haut-Rhin",0,0,1027,142,1242,588,2857,142,724
-"2020-04-12","France","Grand Est","Haute-Marne",0,0,99,18,82,42,223,18,26
-"2020-04-12","France","Grand Est","Marne",0,0,383,61,428,137,948,61,227
-"2020-04-12","France","Grand Est","Meurthe-et-Moselle",0,0,496,146,419,174,1089,146,113
-"2020-04-12","France","Grand Est","Meuse",0,0,144,20,190,49,383,20,36
-"2020-04-12","France","Grand Est","Moselle",0,0,1050,159,842,480,2372,159,385
-"2020-04-12","France","Grand Est","Vosges",0,0,268,29,266,164,698,29,312
+"2020-04-12","France","Grand Est","Ardennes",0,0,79,15,66,17,162,15,51
+"2020-04-12","France","Grand Est","Aube",0,0,239,27,197,61,497,27,240
+"2020-04-12","France","Grand Est","Bas-Rhin",0,0,1102,261,993,352,2447,261,310
+"2020-04-12","France","Grand Est","Haut-Rhin",0,0,1027,142,1242,588,2857,142,754
+"2020-04-12","France","Grand Est","Haute-Marne",0,0,99,18,82,42,223,18,29
+"2020-04-12","France","Grand Est","Marne",0,0,383,61,428,137,948,61,257
+"2020-04-12","France","Grand Est","Meurthe-et-Moselle",0,0,496,146,419,174,1089,146,138
+"2020-04-12","France","Grand Est","Meuse",0,0,144,20,190,49,383,20,38
+"2020-04-12","France","Grand Est","Moselle",0,0,1050,159,842,480,2372,159,460
+"2020-04-12","France","Grand Est","Vosges",0,0,268,29,266,164,698,29,329
 "2020-04-12","France","Guadeloupe","Guadeloupe",0,0,38,19,51,10,99,19,12
 "2020-04-12","France","Guyane","Guyane",0,0,15,1,13,0,28,1,3
-"2020-04-12","France","Hauts-de-France","Aisne",0,0,283,44,287,142,712,44,265
-"2020-04-12","France","Hauts-de-France","Nord",0,0,950,266,691,259,1900,266,202
-"2020-04-12","France","Hauts-de-France","Oise",0,0,463,73,442,214,1119,73,738
-"2020-04-12","France","Hauts-de-France","Pas-de-Calais",0,0,440,95,372,103,915,95,185
-"2020-04-12","France","Hauts-de-France","Somme",0,0,348,71,283,122,753,71,253
+"2020-04-12","France","Hauts-de-France","Aisne",0,0,283,44,287,142,712,44,293
+"2020-04-12","France","Hauts-de-France","Nord",0,0,950,266,691,259,1900,266,223
+"2020-04-12","France","Hauts-de-France","Oise",0,0,463,73,442,214,1119,73,821
+"2020-04-12","France","Hauts-de-France","Pas-de-Calais",0,0,440,95,372,103,915,95,229
+"2020-04-12","France","Hauts-de-France","Somme",0,0,348,71,283,122,753,71,283
 "2020-04-12","France","La Réunion","La Réunion",0,0,28,3,72,0,100,3,0
 "2020-04-12","France","Martinique","Martinique",0,0,38,15,52,6,96,15,4
 "2020-04-12","France","Mayotte","Mayotte",0,0,22,3,25,3,50,3,1
-"2020-04-12","France","Normandie","Calvados",0,0,162,51,90,35,287,51,116
-"2020-04-12","France","Normandie","Eure",0,0,94,7,49,33,176,7,242
-"2020-04-12","France","Normandie","Manche",0,0,72,20,55,21,148,20,66
-"2020-04-12","France","Normandie","Orne",0,0,73,14,99,17,189,14,43
-"2020-04-12","France","Normandie","Seine-Maritime",0,0,315,94,293,95,703,94,238
+"2020-04-12","France","Normandie","Calvados",0,0,162,51,90,35,287,51,122
+"2020-04-12","France","Normandie","Eure",0,0,94,7,49,33,176,7,297
+"2020-04-12","France","Normandie","Manche",0,0,72,20,55,21,148,20,81
+"2020-04-12","France","Normandie","Orne",0,0,73,14,99,17,189,14,44
+"2020-04-12","France","Normandie","Seine-Maritime",0,0,315,94,293,95,703,94,287
 "2020-04-12","France","Nouvelle-Aquitaine","Charente",0,0,14,6,31,8,53,6,15
-"2020-04-12","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,86,21,57,23,166,21,69
-"2020-04-12","France","Nouvelle-Aquitaine","Corrèze",0,0,48,12,38,14,100,12,12
+"2020-04-12","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,86,21,57,23,166,21,76
+"2020-04-12","France","Nouvelle-Aquitaine","Corrèze",0,0,48,12,38,14,100,12,13
 "2020-04-12","France","Nouvelle-Aquitaine","Creuse",0,0,33,15,9,4,46,15,5
-"2020-04-12","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,35,7,23,10,68,7,2
+"2020-04-12","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,35,7,23,10,68,7,3
 "2020-04-12","France","Nouvelle-Aquitaine","Dordogne",0,0,26,6,32,1,59,6,23
-"2020-04-12","France","Nouvelle-Aquitaine","Gironde",0,0,299,99,378,68,745,99,269
+"2020-04-12","France","Nouvelle-Aquitaine","Gironde",0,0,299,99,378,68,745,99,287
 "2020-04-12","France","Nouvelle-Aquitaine","Haute-Vienne",0,0,77,18,50,11,138,18,2
 "2020-04-12","France","Nouvelle-Aquitaine","Landes",0,0,24,12,31,10,65,12,17
-"2020-04-12","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,30,6,18,4,52,6,9
-"2020-04-12","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,93,26,96,18,207,26,55
-"2020-04-12","France","Nouvelle-Aquitaine","Vienne",0,0,67,29,52,19,138,29,14
+"2020-04-12","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,30,6,18,4,52,6,10
+"2020-04-12","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,93,26,96,18,207,26,59
+"2020-04-12","France","Nouvelle-Aquitaine","Vienne",0,0,67,29,52,19,138,29,15
 "2020-04-12","France","Occitanie","Ariège",0,0,16,4,15,1,32,4,5
-"2020-04-12","France","Occitanie","Aude",0,0,81,14,96,38,215,14,80
+"2020-04-12","France","Occitanie","Aude",0,0,81,14,96,38,215,14,91
 "2020-04-12","France","Occitanie","Aveyron",0,0,56,6,58,18,132,6,3
 "2020-04-12","France","Occitanie","Gard",0,0,95,40,97,26,218,40,5
-"2020-04-12","France","Occitanie","Gers",0,0,28,4,21,9,58,4,58
-"2020-04-12","France","Occitanie","Haute-Garonne",0,0,244,97,258,28,530,97,5
-"2020-04-12","France","Occitanie","Hautes-Pyrénées",0,0,84,6,46,8,138,6,28
+"2020-04-12","France","Occitanie","Gers",0,0,28,4,21,9,58,4,64
+"2020-04-12","France","Occitanie","Haute-Garonne",0,0,244,97,258,28,530,97,15
+"2020-04-12","France","Occitanie","Hautes-Pyrénées",0,0,84,6,46,8,138,6,30
 "2020-04-12","France","Occitanie","Hérault",0,0,183,56,382,74,639,56,26
 "2020-04-12","France","Occitanie","Lot",0,0,20,10,53,2,75,10,10
 "2020-04-12","France","Occitanie","Lozère",0,0,6,1,11,0,17,1,1
 "2020-04-12","France","Occitanie","Pyrénées-Orientales",0,0,79,27,185,22,286,27,5
-"2020-04-12","France","Occitanie","Tarn",0,0,44,19,52,10,106,19,11
+"2020-04-12","France","Occitanie","Tarn",0,0,44,19,52,10,106,19,13
 "2020-04-12","France","Occitanie","Tarn-et-Garonne",0,0,18,10,13,3,34,10,6
 "2020-04-12","France","Pays de la Loire","Loire-Atlantique",0,0,295,65,233,64,592,65,38
 "2020-04-12","France","Pays de la Loire","Maine-et-Loire",0,0,220,47,245,53,518,47,6
-"2020-04-12","France","Pays de la Loire","Mayenne",0,0,69,11,39,18,126,11,2
+"2020-04-12","France","Pays de la Loire","Mayenne",0,0,69,11,39,18,126,11,3
 "2020-04-12","France","Pays de la Loire","Sarthe",0,0,151,23,121,27,299,23,2
 "2020-04-12","France","Pays de la Loire","Vendée",0,0,75,21,65,20,160,21,8
-"2020-04-12","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,270,80,249,68,587,80,207
-"2020-04-12","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,34,5,63,5,102,5,32
-"2020-04-12","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1133,268,1234,175,2542,268,1368
+"2020-04-12","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,270,80,249,68,587,80,243
+"2020-04-12","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,34,5,63,5,102,5,33
+"2020-04-12","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1133,268,1234,175,2542,268,1557
 "2020-04-12","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",0,0,49,13,68,3,120,13,2
-"2020-04-12","France","Provence-Alpes-Côte d'Azur","Var",0,0,265,53,363,55,683,53,286
-"2020-04-12","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,79,19,120,22,221,19,90
-"2020-04-12","France","Île-de-France","Essonne",0,0,1230,234,580,213,2023,234,1205
-"2020-04-12","France","Île-de-France","Hauts-de-Seine",0,0,2024,451,1526,505,4055,451,1893
-"2020-04-12","France","Île-de-France","Paris",0,0,3249,807,2226,912,6387,807,2702
-"2020-04-12","France","Île-de-France","Seine-Saint-Denis",0,0,1638,243,1055,504,3197,243,1573
-"2020-04-12","France","Île-de-France","Seine-et-Marne",0,0,811,207,831,230,1872,207,834
-"2020-04-12","France","Île-de-France","Val-d'Oise",0,0,919,179,1039,375,2333,179,1384
-"2020-04-12","France","Île-de-France","Val-de-Marne",0,0,2231,317,1123,541,3895,317,1063
-"2020-04-12","France","Île-de-France","Yvelines",0,0,1063,188,739,268,2070,188,668
-"2020-04-13","France","Auvergne-Rhône-Alpes","Ain",0,0,120,30,139,44,303,30,222
+"2020-04-12","France","Provence-Alpes-Côte d'Azur","Var",0,0,265,53,363,55,683,53,298
+"2020-04-12","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,79,19,120,22,221,19,93
+"2020-04-12","France","Île-de-France","Essonne",0,0,1230,234,580,213,2023,234,1436
+"2020-04-12","France","Île-de-France","Hauts-de-Seine",0,0,2024,451,1526,505,4055,451,2020
+"2020-04-12","France","Île-de-France","Paris",0,0,3249,807,2226,912,6387,807,2987
+"2020-04-12","France","Île-de-France","Seine-Saint-Denis",0,0,1638,243,1055,504,3197,243,1745
+"2020-04-12","France","Île-de-France","Seine-et-Marne",0,0,811,207,831,230,1872,207,990
+"2020-04-12","France","Île-de-France","Val-d'Oise",0,0,919,179,1039,375,2333,179,1435
+"2020-04-12","France","Île-de-France","Val-de-Marne",0,0,2231,317,1123,541,3895,317,1206
+"2020-04-12","France","Île-de-France","Yvelines",0,0,1063,188,739,268,2070,188,757
+"2020-04-13","France","Auvergne-Rhône-Alpes","Ain",0,0,120,30,139,44,303,30,229
 "2020-04-13","France","Auvergne-Rhône-Alpes","Allier",0,0,58,20,82,13,153,20,5
-"2020-04-13","France","Auvergne-Rhône-Alpes","Ardèche",0,0,106,24,185,43,334,24,99
-"2020-04-13","France","Auvergne-Rhône-Alpes","Cantal",0,0,29,7,9,0,38,7,4
-"2020-04-13","France","Auvergne-Rhône-Alpes","Drôme",0,0,234,56,213,80,527,56,92
+"2020-04-13","France","Auvergne-Rhône-Alpes","Ardèche",0,0,106,24,185,43,334,24,101
+"2020-04-13","France","Auvergne-Rhône-Alpes","Cantal",0,0,29,7,9,0,38,7,5
+"2020-04-13","France","Auvergne-Rhône-Alpes","Drôme",0,0,234,56,213,80,527,56,93
 "2020-04-13","France","Auvergne-Rhône-Alpes","Haute-Loire",0,0,31,6,46,6,83,6,9
-"2020-04-13","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,289,72,401,88,778,72,405
-"2020-04-13","France","Auvergne-Rhône-Alpes","Isère",0,0,255,49,220,48,523,49,111
+"2020-04-13","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,289,72,401,88,778,72,440
+"2020-04-13","France","Auvergne-Rhône-Alpes","Isère",0,0,255,49,220,48,523,49,112
 "2020-04-13","France","Auvergne-Rhône-Alpes","Loire",0,0,490,103,335,110,935,103,11
 "2020-04-13","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",0,0,80,27,79,18,177,27,1
-"2020-04-13","France","Auvergne-Rhône-Alpes","Rhône",0,0,1252,252,1063,320,2635,252,173
-"2020-04-13","France","Auvergne-Rhône-Alpes","Savoie",0,0,111,25,198,24,333,25,32
-"2020-04-13","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,340,73,418,119,877,73,65
-"2020-04-13","France","Bourgogne-Franche-Comté","Doubs",0,0,212,75,268,72,552,75,124
-"2020-04-13","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,85,17,102,50,237,17,154
-"2020-04-13","France","Bourgogne-Franche-Comté","Jura",0,0,124,17,65,28,217,17,45
-"2020-04-13","France","Bourgogne-Franche-Comté","Nièvre",0,0,60,11,16,8,84,11,60
-"2020-04-13","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,176,34,263,92,531,34,130
+"2020-04-13","France","Auvergne-Rhône-Alpes","Rhône",0,0,1252,252,1063,320,2635,252,175
+"2020-04-13","France","Auvergne-Rhône-Alpes","Savoie",0,0,111,25,198,24,333,25,33
+"2020-04-13","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,340,73,418,119,877,73,69
+"2020-04-13","France","Bourgogne-Franche-Comté","Doubs",0,0,212,75,268,72,552,75,127
+"2020-04-13","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,85,17,102,50,237,17,163
+"2020-04-13","France","Bourgogne-Franche-Comté","Jura",0,0,124,17,65,28,217,17,53
+"2020-04-13","France","Bourgogne-Franche-Comté","Nièvre",0,0,60,11,16,8,84,11,94
+"2020-04-13","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,176,34,263,92,531,34,152
 "2020-04-13","France","Bourgogne-Franche-Comté","Territoire de Belfort",0,0,229,37,246,115,590,37,77
-"2020-04-13","France","Bourgogne-Franche-Comté","Yonne",0,0,83,20,85,28,196,20,31
+"2020-04-13","France","Bourgogne-Franche-Comté","Yonne",0,0,83,20,85,28,196,20,33
 "2020-04-13","France","Bretagne","Côtes-d'Armor",0,0,74,11,62,20,156,11,0
 "2020-04-13","France","Bretagne","Finistère",0,0,121,37,84,16,221,37,7
 "2020-04-13","France","Bretagne","Ille-et-Vilaine",0,0,184,35,144,40,368,35,7
 "2020-04-13","France","Bretagne","Morbihan",0,0,131,35,200,60,391,35,2
-"2020-04-13","France","Centre-Val de Loire","Cher",0,0,72,14,34,35,141,14,156
-"2020-04-13","France","Centre-Val de Loire","Eure-et-Loir",0,0,232,25,149,42,423,25,363
-"2020-04-13","France","Centre-Val de Loire","Indre",0,0,94,9,24,38,156,9,166
-"2020-04-13","France","Centre-Val de Loire","Indre-et-Loire",0,0,196,57,108,36,340,57,73
-"2020-04-13","France","Centre-Val de Loire","Loir-et-Cher",0,0,97,14,62,22,181,14,34
-"2020-04-13","France","Centre-Val de Loire","Loiret",0,0,292,77,218,41,551,77,261
+"2020-04-13","France","Centre-Val de Loire","Cher",0,0,72,14,34,35,141,14,164
+"2020-04-13","France","Centre-Val de Loire","Eure-et-Loir",0,0,232,25,149,42,423,25,486
+"2020-04-13","France","Centre-Val de Loire","Indre",0,0,94,9,24,38,156,9,194
+"2020-04-13","France","Centre-Val de Loire","Indre-et-Loire",0,0,196,57,108,36,340,57,78
+"2020-04-13","France","Centre-Val de Loire","Loir-et-Cher",0,0,97,14,62,22,181,14,37
+"2020-04-13","France","Centre-Val de Loire","Loiret",0,0,292,77,218,41,551,77,293
 "2020-04-13","France","Corse","Corse-du-Sud",0,0,71,15,55,35,161,15,0
 "2020-04-13","France","Corse","Haute-Corse",0,0,4,0,71,3,78,0,0
-"2020-04-13","France","Grand Est","Ardennes",0,0,79,15,66,17,162,15,39
-"2020-04-13","France","Grand Est","Aube",0,0,260,27,198,62,520,27,194
-"2020-04-13","France","Grand Est","Bas-Rhin",0,0,1106,256,1003,357,2466,256,300
-"2020-04-13","France","Grand Est","Haut-Rhin",0,0,1023,140,1261,595,2879,140,724
-"2020-04-13","France","Grand Est","Haute-Marne",0,0,100,18,83,42,225,18,26
-"2020-04-13","France","Grand Est","Marne",0,0,395,60,432,139,966,60,227
-"2020-04-13","France","Grand Est","Meurthe-et-Moselle",0,0,506,149,426,179,1111,149,113
-"2020-04-13","France","Grand Est","Meuse",0,0,143,20,191,49,383,20,36
-"2020-04-13","France","Grand Est","Moselle",0,0,1047,164,856,497,2400,164,385
-"2020-04-13","France","Grand Est","Vosges",0,0,269,31,272,168,709,31,312
+"2020-04-13","France","Grand Est","Ardennes",0,0,79,15,66,17,162,15,51
+"2020-04-13","France","Grand Est","Aube",0,0,260,27,198,62,520,27,240
+"2020-04-13","France","Grand Est","Bas-Rhin",0,0,1106,256,1003,357,2466,256,310
+"2020-04-13","France","Grand Est","Haut-Rhin",0,0,1023,140,1261,595,2879,140,754
+"2020-04-13","France","Grand Est","Haute-Marne",0,0,100,18,83,42,225,18,29
+"2020-04-13","France","Grand Est","Marne",0,0,395,60,432,139,966,60,257
+"2020-04-13","France","Grand Est","Meurthe-et-Moselle",0,0,506,149,426,179,1111,149,138
+"2020-04-13","France","Grand Est","Meuse",0,0,143,20,191,49,383,20,38
+"2020-04-13","France","Grand Est","Moselle",0,0,1047,164,856,497,2400,164,460
+"2020-04-13","France","Grand Est","Vosges",0,0,269,31,272,168,709,31,329
 "2020-04-13","France","Guadeloupe","Guadeloupe",0,0,41,18,51,10,102,18,12
 "2020-04-13","France","Guyane","Guyane",0,0,15,1,13,0,28,1,3
-"2020-04-13","France","Hauts-de-France","Aisne",0,0,286,44,288,147,721,44,265
-"2020-04-13","France","Hauts-de-France","Nord",0,0,970,266,698,274,1942,266,202
-"2020-04-13","France","Hauts-de-France","Oise",0,0,461,72,444,221,1126,72,738
-"2020-04-13","France","Hauts-de-France","Pas-de-Calais",0,0,447,92,385,105,937,92,185
-"2020-04-13","France","Hauts-de-France","Somme",0,0,361,69,287,126,774,69,253
+"2020-04-13","France","Hauts-de-France","Aisne",0,0,286,44,288,147,721,44,293
+"2020-04-13","France","Hauts-de-France","Nord",0,0,970,266,698,274,1942,266,223
+"2020-04-13","France","Hauts-de-France","Oise",0,0,461,72,444,221,1126,72,821
+"2020-04-13","France","Hauts-de-France","Pas-de-Calais",0,0,447,92,385,105,937,92,229
+"2020-04-13","France","Hauts-de-France","Somme",0,0,361,69,287,126,774,69,283
 "2020-04-13","France","La Réunion","La Réunion",0,0,28,3,72,0,100,3,0
 "2020-04-13","France","Martinique","Martinique",0,0,39,16,52,6,97,16,4
 "2020-04-13","France","Mayotte","Mayotte",0,0,22,3,25,3,50,3,1
-"2020-04-13","France","Normandie","Calvados",0,0,156,49,94,36,286,49,116
-"2020-04-13","France","Normandie","Eure",0,0,92,7,49,35,176,7,242
-"2020-04-13","France","Normandie","Manche",0,0,73,20,55,21,149,20,66
-"2020-04-13","France","Normandie","Orne",0,0,71,14,101,19,191,14,43
-"2020-04-13","France","Normandie","Seine-Maritime",0,0,321,99,298,100,719,99,238
+"2020-04-13","France","Normandie","Calvados",0,0,156,49,94,36,286,49,122
+"2020-04-13","France","Normandie","Eure",0,0,92,7,49,35,176,7,297
+"2020-04-13","France","Normandie","Manche",0,0,73,20,55,21,149,20,81
+"2020-04-13","France","Normandie","Orne",0,0,71,14,101,19,191,14,44
+"2020-04-13","France","Normandie","Seine-Maritime",0,0,321,99,298,100,719,99,287
 "2020-04-13","France","Nouvelle-Aquitaine","Charente",0,0,14,6,31,8,53,6,15
-"2020-04-13","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,85,19,58,23,166,19,69
-"2020-04-13","France","Nouvelle-Aquitaine","Corrèze",0,0,51,13,38,14,103,13,12
+"2020-04-13","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,85,19,58,23,166,19,76
+"2020-04-13","France","Nouvelle-Aquitaine","Corrèze",0,0,51,13,38,14,103,13,13
 "2020-04-13","France","Nouvelle-Aquitaine","Creuse",0,0,34,15,9,4,47,15,5
-"2020-04-13","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,36,7,23,10,69,7,2
+"2020-04-13","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,36,7,23,10,69,7,3
 "2020-04-13","France","Nouvelle-Aquitaine","Dordogne",0,0,31,7,32,1,64,7,23
-"2020-04-13","France","Nouvelle-Aquitaine","Gironde",0,0,311,103,386,69,766,103,269
+"2020-04-13","France","Nouvelle-Aquitaine","Gironde",0,0,311,103,386,69,766,103,287
 "2020-04-13","France","Nouvelle-Aquitaine","Haute-Vienne",0,0,78,18,52,11,141,18,2
 "2020-04-13","France","Nouvelle-Aquitaine","Landes",0,0,24,12,31,10,65,12,17
-"2020-04-13","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,30,6,18,4,52,6,9
-"2020-04-13","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,92,24,98,19,209,24,55
-"2020-04-13","France","Nouvelle-Aquitaine","Vienne",0,0,71,29,52,21,144,29,14
+"2020-04-13","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,30,6,18,4,52,6,10
+"2020-04-13","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,92,24,98,19,209,24,59
+"2020-04-13","France","Nouvelle-Aquitaine","Vienne",0,0,71,29,52,21,144,29,15
 "2020-04-13","France","Occitanie","Ariège",0,0,16,4,15,1,32,4,5
-"2020-04-13","France","Occitanie","Aude",0,0,91,14,96,40,227,14,80
+"2020-04-13","France","Occitanie","Aude",0,0,91,14,96,40,227,14,91
 "2020-04-13","France","Occitanie","Aveyron",0,0,57,5,59,19,135,5,3
 "2020-04-13","France","Occitanie","Gard",0,0,92,40,99,27,218,40,5
-"2020-04-13","France","Occitanie","Gers",0,0,31,4,21,9,61,4,58
-"2020-04-13","France","Occitanie","Haute-Garonne",0,0,243,95,263,28,534,95,5
-"2020-04-13","France","Occitanie","Hautes-Pyrénées",0,0,83,5,48,10,141,5,28
+"2020-04-13","France","Occitanie","Gers",0,0,31,4,21,9,61,4,64
+"2020-04-13","France","Occitanie","Haute-Garonne",0,0,243,95,263,28,534,95,15
+"2020-04-13","France","Occitanie","Hautes-Pyrénées",0,0,83,5,48,10,141,5,30
 "2020-04-13","France","Occitanie","Hérault",0,0,198,58,386,76,660,58,26
 "2020-04-13","France","Occitanie","Lot",0,0,20,10,53,2,75,10,10
 "2020-04-13","France","Occitanie","Lozère",0,0,6,1,11,0,17,1,1
 "2020-04-13","France","Occitanie","Pyrénées-Orientales",0,0,74,26,196,22,292,26,5
-"2020-04-13","France","Occitanie","Tarn",0,0,45,19,53,11,109,19,11
+"2020-04-13","France","Occitanie","Tarn",0,0,45,19,53,11,109,19,13
 "2020-04-13","France","Occitanie","Tarn-et-Garonne",0,0,18,10,13,3,34,10,6
 "2020-04-13","France","Pays de la Loire","Loire-Atlantique",0,0,299,64,236,71,606,64,38
 "2020-04-13","France","Pays de la Loire","Maine-et-Loire",0,0,222,45,253,54,529,45,6
-"2020-04-13","France","Pays de la Loire","Mayenne",0,0,68,11,41,19,128,11,2
+"2020-04-13","France","Pays de la Loire","Mayenne",0,0,68,11,41,19,128,11,3
 "2020-04-13","France","Pays de la Loire","Sarthe",0,0,155,22,122,27,304,22,2
 "2020-04-13","France","Pays de la Loire","Vendée",0,0,79,20,67,21,167,20,8
-"2020-04-13","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,278,79,257,75,610,79,207
-"2020-04-13","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,33,4,63,5,101,4,32
-"2020-04-13","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1147,270,1250,182,2579,270,1368
+"2020-04-13","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,278,79,257,75,610,79,243
+"2020-04-13","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,33,4,63,5,101,4,33
+"2020-04-13","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1147,270,1250,182,2579,270,1557
 "2020-04-13","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",0,0,49,13,70,3,122,13,2
-"2020-04-13","France","Provence-Alpes-Côte d'Azur","Var",0,0,279,54,363,61,703,54,286
-"2020-04-13","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,73,17,123,22,218,17,90
-"2020-04-13","France","Île-de-France","Essonne",0,0,1231,237,586,220,2037,237,1205
-"2020-04-13","France","Île-de-France","Hauts-de-Seine",0,0,2005,436,1575,527,4107,436,1893
-"2020-04-13","France","Île-de-France","Paris",0,0,3266,796,2287,959,6512,796,2702
-"2020-04-13","France","Île-de-France","Seine-Saint-Denis",0,0,1619,245,1099,527,3245,245,1573
-"2020-04-13","France","Île-de-France","Seine-et-Marne",0,0,828,206,851,240,1919,206,834
-"2020-04-13","France","Île-de-France","Val-d'Oise",0,0,928,178,1065,385,2378,178,1384
-"2020-04-13","France","Île-de-France","Val-de-Marne",0,0,2249,323,1150,570,3969,323,1063
-"2020-04-13","France","Île-de-France","Yvelines",0,0,1070,183,774,276,2120,183,668
+"2020-04-13","France","Provence-Alpes-Côte d'Azur","Var",0,0,279,54,363,61,703,54,298
+"2020-04-13","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,73,17,123,22,218,17,93
+"2020-04-13","France","Île-de-France","Essonne",0,0,1231,237,586,220,2037,237,1436
+"2020-04-13","France","Île-de-France","Hauts-de-Seine",0,0,2005,436,1575,527,4107,436,2020
+"2020-04-13","France","Île-de-France","Paris",0,0,3266,796,2287,959,6512,796,2987
+"2020-04-13","France","Île-de-France","Seine-Saint-Denis",0,0,1619,245,1099,527,3245,245,1745
+"2020-04-13","France","Île-de-France","Seine-et-Marne",0,0,828,206,851,240,1919,206,990
+"2020-04-13","France","Île-de-France","Val-d'Oise",0,0,928,178,1065,385,2378,178,1435
+"2020-04-13","France","Île-de-France","Val-de-Marne",0,0,2249,323,1150,570,3969,323,1206
+"2020-04-13","France","Île-de-France","Yvelines",0,0,1070,183,774,276,2120,183,757
+"2020-04-14","France","Auvergne-Rhône-Alpes","Ain",0,0,134,29,144,46,324,29,229
+"2020-04-14","France","Auvergne-Rhône-Alpes","Allier",0,0,62,21,81,16,159,21,5
+"2020-04-14","France","Auvergne-Rhône-Alpes","Ardèche",0,0,106,24,193,45,344,24,101
+"2020-04-14","France","Auvergne-Rhône-Alpes","Cantal",0,0,29,9,10,0,39,9,5
+"2020-04-14","France","Auvergne-Rhône-Alpes","Drôme",0,0,226,58,223,85,534,58,93
+"2020-04-14","France","Auvergne-Rhône-Alpes","Haute-Loire",0,0,29,4,50,6,85,4,9
+"2020-04-14","France","Auvergne-Rhône-Alpes","Haute-Savoie",0,0,295,70,409,88,792,70,440
+"2020-04-14","France","Auvergne-Rhône-Alpes","Isère",0,0,249,47,227,52,528,47,112
+"2020-04-14","France","Auvergne-Rhône-Alpes","Loire",0,0,489,99,352,116,957,99,11
+"2020-04-14","France","Auvergne-Rhône-Alpes","Puy-de-Dôme",0,0,79,27,80,18,177,27,1
+"2020-04-14","France","Auvergne-Rhône-Alpes","Rhône",0,0,1247,251,1097,336,2680,251,175
+"2020-04-14","France","Auvergne-Rhône-Alpes","Savoie",0,0,99,20,215,28,342,20,33
+"2020-04-14","France","Bourgogne-Franche-Comté","Côte-d'Or",0,0,346,73,419,133,898,73,69
+"2020-04-14","France","Bourgogne-Franche-Comté","Doubs",0,0,234,75,277,80,591,75,127
+"2020-04-14","France","Bourgogne-Franche-Comté","Haute-Saône",0,0,95,18,104,51,250,18,163
+"2020-04-14","France","Bourgogne-Franche-Comté","Jura",0,0,131,18,65,30,226,18,53
+"2020-04-14","France","Bourgogne-Franche-Comté","Nièvre",0,0,58,10,17,12,87,10,94
+"2020-04-14","France","Bourgogne-Franche-Comté","Saône-et-Loire",0,0,180,34,268,97,545,34,152
+"2020-04-14","France","Bourgogne-Franche-Comté","Territoire de Belfort",0,0,226,36,248,116,590,36,77
+"2020-04-14","France","Bourgogne-Franche-Comté","Yonne",0,0,91,21,90,32,213,21,33
+"2020-04-14","France","Bretagne","Côtes-d'Armor",0,0,77,10,66,21,164,10,0
+"2020-04-14","France","Bretagne","Finistère",0,0,120,37,86,19,225,37,7
+"2020-04-14","France","Bretagne","Ille-et-Vilaine",0,0,190,36,152,44,386,36,7
+"2020-04-14","France","Bretagne","Morbihan",0,0,127,34,207,65,399,34,2
+"2020-04-14","France","Centre-Val de Loire","Cher",0,0,72,13,35,35,142,13,164
+"2020-04-14","France","Centre-Val de Loire","Eure-et-Loir",0,0,236,24,163,47,446,24,486
+"2020-04-14","France","Centre-Val de Loire","Indre",0,0,92,9,26,38,156,9,194
+"2020-04-14","France","Centre-Val de Loire","Indre-et-Loire",0,0,195,50,115,38,348,50,78
+"2020-04-14","France","Centre-Val de Loire","Loir-et-Cher",0,0,104,15,64,25,193,15,37
+"2020-04-14","France","Centre-Val de Loire","Loiret",0,0,297,77,226,44,567,77,293
+"2020-04-14","France","Corse","Corse-du-Sud",0,0,71,16,57,35,163,16,0
+"2020-04-14","France","Corse","Haute-Corse",0,0,3,0,72,3,78,0,0
+"2020-04-14","France","Grand Est","Ardennes",0,0,78,17,71,21,170,17,51
+"2020-04-14","France","Grand Est","Aube",0,0,274,26,198,65,537,26,240
+"2020-04-14","France","Grand Est","Bas-Rhin",0,0,1122,250,1024,375,2521,250,310
+"2020-04-14","France","Grand Est","Haut-Rhin",0,0,1041,140,1298,596,2935,140,754
+"2020-04-14","France","Grand Est","Haute-Marne",0,0,103,19,83,43,229,19,29
+"2020-04-14","France","Grand Est","Marne",0,0,387,58,451,146,984,58,257
+"2020-04-14","France","Grand Est","Meurthe-et-Moselle",0,0,509,147,449,184,1142,147,138
+"2020-04-14","France","Grand Est","Meuse",0,0,146,22,199,50,395,22,38
+"2020-04-14","France","Grand Est","Moselle",0,0,1064,162,879,513,2456,162,460
+"2020-04-14","France","Grand Est","Vosges",0,0,269,31,276,173,718,31,329
+"2020-04-14","France","Guadeloupe","Guadeloupe",0,0,41,18,51,10,102,18,12
+"2020-04-14","France","Guyane","Guyane",0,0,18,1,13,0,31,1,3
+"2020-04-14","France","Hauts-de-France","Aisne",0,0,279,45,296,152,727,45,293
+"2020-04-14","France","Hauts-de-France","Nord",0,0,984,258,722,295,2001,258,223
+"2020-04-14","France","Hauts-de-France","Oise",0,0,458,70,468,230,1156,70,821
+"2020-04-14","France","Hauts-de-France","Pas-de-Calais",0,0,463,97,397,114,974,97,229
+"2020-04-14","France","Hauts-de-France","Somme",0,0,368,68,301,129,798,68,283
+"2020-04-14","France","La Réunion","La Réunion",0,0,28,3,72,0,100,3,0
+"2020-04-14","France","Martinique","Martinique",0,0,39,16,52,6,97,16,4
+"2020-04-14","France","Mayotte","Mayotte",0,0,15,3,35,3,53,3,1
+"2020-04-14","France","Normandie","Calvados",0,0,152,43,100,41,293,43,122
+"2020-04-14","France","Normandie","Eure",0,0,85,7,51,41,177,7,297
+"2020-04-14","France","Normandie","Manche",0,0,78,20,56,26,160,20,81
+"2020-04-14","France","Normandie","Orne",0,0,74,13,107,19,200,13,44
+"2020-04-14","France","Normandie","Seine-Maritime",0,0,316,94,312,103,731,94,287
+"2020-04-14","France","Nouvelle-Aquitaine","Charente",0,0,14,6,31,8,53,6,15
+"2020-04-14","France","Nouvelle-Aquitaine","Charente-Maritime",0,0,94,20,60,25,179,20,76
+"2020-04-14","France","Nouvelle-Aquitaine","Corrèze",0,0,53,12,39,16,108,12,13
+"2020-04-14","France","Nouvelle-Aquitaine","Creuse",0,0,32,14,11,4,47,14,5
+"2020-04-14","France","Nouvelle-Aquitaine","Deux-Sèvres",0,0,37,7,24,10,71,7,3
+"2020-04-14","France","Nouvelle-Aquitaine","Dordogne",0,0,29,7,34,3,66,7,23
+"2020-04-14","France","Nouvelle-Aquitaine","Gironde",0,0,317,102,401,72,790,102,287
+"2020-04-14","France","Nouvelle-Aquitaine","Haute-Vienne",0,0,71,14,58,13,142,14,2
+"2020-04-14","France","Nouvelle-Aquitaine","Landes",0,0,27,12,32,10,69,12,17
+"2020-04-14","France","Nouvelle-Aquitaine","Lot-et-Garonne",0,0,32,6,19,4,55,6,10
+"2020-04-14","France","Nouvelle-Aquitaine","Pyrénées-Atlantiques",0,0,92,23,98,20,210,23,59
+"2020-04-14","France","Nouvelle-Aquitaine","Vienne",0,0,68,28,59,22,149,28,15
+"2020-04-14","France","Occitanie","Ariège",0,0,16,4,15,1,32,4,5
+"2020-04-14","France","Occitanie","Aude",0,0,86,12,98,41,225,12,91
+"2020-04-14","France","Occitanie","Aveyron",0,0,56,5,61,19,136,5,3
+"2020-04-14","France","Occitanie","Gard",0,0,97,36,105,28,230,36,5
+"2020-04-14","France","Occitanie","Gers",0,0,32,3,22,10,64,3,64
+"2020-04-14","France","Occitanie","Haute-Garonne",0,0,243,98,278,30,551,98,15
+"2020-04-14","France","Occitanie","Hautes-Pyrénées",0,0,83,5,50,12,145,5,30
+"2020-04-14","France","Occitanie","Hérault",0,0,192,57,393,83,668,57,26
+"2020-04-14","France","Occitanie","Lot",0,0,24,9,52,4,80,9,10
+"2020-04-14","France","Occitanie","Lozère",0,0,6,1,11,0,17,1,1
+"2020-04-14","France","Occitanie","Pyrénées-Orientales",0,0,65,21,205,22,292,21,5
+"2020-04-14","France","Occitanie","Tarn",0,0,44,19,55,13,112,19,13
+"2020-04-14","France","Occitanie","Tarn-et-Garonne",0,0,18,9,15,3,36,9,6
+"2020-04-14","France","Pays de la Loire","Loire-Atlantique",0,0,296,63,244,77,617,63,38
+"2020-04-14","France","Pays de la Loire","Maine-et-Loire",0,0,232,44,257,56,545,44,6
+"2020-04-14","France","Pays de la Loire","Mayenne",0,0,71,11,42,19,132,11,3
+"2020-04-14","France","Pays de la Loire","Sarthe",0,0,142,21,136,33,311,21,2
+"2020-04-14","France","Pays de la Loire","Vendée",0,0,79,16,70,24,173,16,8
+"2020-04-14","France","Provence-Alpes-Côte d'Azur","Alpes-Maritimes",0,0,282,79,270,81,633,79,243
+"2020-04-14","France","Provence-Alpes-Côte d'Azur","Alpes-de-Haute-Provence",0,0,34,4,71,5,110,4,33
+"2020-04-14","France","Provence-Alpes-Côte d'Azur","Bouches-du-Rhône",0,0,1142,261,1324,199,2665,261,1557
+"2020-04-14","France","Provence-Alpes-Côte d'Azur","Hautes-Alpes",0,0,46,13,73,3,122,13,2
+"2020-04-14","France","Provence-Alpes-Côte d'Azur","Var",0,0,315,48,377,64,756,48,298
+"2020-04-14","France","Provence-Alpes-Côte d'Azur","Vaucluse",0,0,75,17,125,22,222,17,93
+"2020-04-14","France","Île-de-France","Essonne",0,0,1217,231,627,247,2091,231,1436
+"2020-04-14","France","Île-de-France","Hauts-de-Seine",0,0,2006,423,1646,563,4215,423,2020
+"2020-04-14","France","Île-de-France","Paris",0,0,3281,790,2336,1003,6620,790,2987
+"2020-04-14","France","Île-de-France","Seine-Saint-Denis",0,0,1613,240,1186,560,3359,240,1745
+"2020-04-14","France","Île-de-France","Seine-et-Marne",0,0,830,209,898,269,1997,209,990
+"2020-04-14","France","Île-de-France","Val-d'Oise",0,0,961,180,1098,397,2456,180,1435
+"2020-04-14","France","Île-de-France","Val-de-Marne",0,0,2247,343,1185,606,4038,343,1206
+"2020-04-14","France","Île-de-France","Yvelines",0,0,1054,183,814,292,2160,183,757
