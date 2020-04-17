@@ -66,14 +66,16 @@ for file in rawFiles:
             namesColumns = ["Date", "Region","Total Hospital cases","Total ICU cases","Total deaths", "Total cured"]
 
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
-            dfConsolidated.update(dfImported) #, on=["Date", "Region"], how="left" dfConsolidated = 
-        
-        dfConsolidated.fillna(0, inplace=True)
+            for region in dfImported["Region"].unique():
+                for columnName in namesColumns[2:]:
+                    #print("Fecha: " + dfImported["Date"][0] + " Region: "+ region + " Column: "+ columnName + " Value to be set: "+str(dfImported.loc[dfImported["Region"]==region][columnName].iloc[0]))
+                    dfConsolidated.loc[(dfConsolidated["Date"]==dfImported["Date"][0]) & (dfConsolidated["Region"]==region), columnName] = dfImported.loc[dfImported["Region"]==region][columnName].iloc[0]
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
 #%% Add Country column.
-dfConsolidated.insert(1, "Country", "Spain", allow_duplicates=False) 
+dfConsolidated.fillna(0, inplace=True)
+dfConsolidated.insert(1, "Country", "Spain", allow_duplicates=False)
 
 dfConsolidated["Date"] = dfConsolidated["Date"].astype(str)
 dfConsolidated["Region"] = dfConsolidated["Region"].astype(str)
