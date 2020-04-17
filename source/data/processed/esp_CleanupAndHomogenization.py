@@ -1,5 +1,5 @@
 #%% [markdown]
-# # CSV Consolidation ESP
+# # CSV Cleanup ESP
 # Creation date: 2020-03-20
 
 #%% Imports
@@ -9,6 +9,7 @@ import csv #To load the tags metadatas
 import os # To access the OS separator char.
 import glob #To be able to dynamically load files matching pattern.
 import io # To work with files read/write 
+import re #Regxp commands to find and replace.
 
 #%% Constants Setup
 pathInputFile = "data/interim/esp/"
@@ -17,7 +18,7 @@ metadataFile = "data/raw/esp/tabulaParameters.csv"
 datesFile = "data/raw/esp/reportDates.csv"
 
 startFileName = "Actualizacion_"
-endFileName = "_COVID-19.csv"
+endFileName = ".csv"
 
 namesOfRegions = ["Andalucía","Aragón","Asturias","Baleares","Canarias","Cantabria","Castilla-La Mancha","Castilla La Mancha","Castilla y León","Cataluña","Ceuta","C. Valenciana","Extremadura","Galicia","Madrid","Melilla","Murcia","Navarra","País Vasco","La Rioja"]
 
@@ -48,7 +49,8 @@ for file in rawFiles:
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
                     for region in namesOfRegions:
-                        line = line.replace(region, region+",").replace("¥", "").replace("*", "")
+                        line = line.replace(region, region+";").replace("¥", "").replace("*", "").replace("\"", "")
+                        line = re.sub(r'([0-9])\s([0-9])', r'\1;\2', line)
                     outputFileObject.write(line)
                 else:
                     continue
@@ -73,8 +75,13 @@ for file in rawFiles:
         namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "Total ICU cases","Total deaths","New cases"]
     elif fileStructureId == 5:
         namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "Total ICU cases","Total deaths","Total cured","New cases"]
+    elif (fileStructureId == 6) and ("-0" in fileName):
+        namesColumns = ["Region","Total confirmed cases","New cases","Total Tests", "Total Fast Tests","Population Incidence Ratio"]
+    elif (fileStructureId == 6) and ("-1" in fileName):
+        namesColumns = ["Region","Total Hospital cases", "New Hospital cases","Total ICU cases","New ICU cases","Total deaths", "New deaths", "Total cured", "New cured"]
+        
 
-    dfImported = pd.read_csv(pathOutputFile+fileName, sep=",", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
+    dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
 
     #%% Data cleaning
     #% Cross-file
@@ -92,12 +99,10 @@ for file in rawFiles:
         dfImported.drop("Total confirmed cases", axis=1, inplace=True)
 
         dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
-    except AttributeError:
+    except (KeyError, AttributeError):
         pass
   
     dfImported.insert(0, "Date", date, allow_duplicates=False) 
-    
-    dfImported.fillna(0, inplace=True)
 
     # Clean points for correct decimal comma.
     for col in namesColumns:
@@ -108,35 +113,89 @@ for file in rawFiles:
             #Column is not a string-type.
             pass
 
+    dfImported.fillna(0, inplace=True)
+    dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
+
     #% File specific
-    if fileStructureId >= 3:
-        dfImported["Region"] = dfImported["Region"].str.replace("-"," ").str.replace("C\.","Comunidad")
+    if fileStructureId == 3:
         dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
         dfImported.loc[dfImported["Total ICU cases"].round() != dfImported["Total ICU cases"], "Total ICU cases"] = dfImported["Total ICU cases"]*1000
         dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
-    if fileStructureId >= 4: 
+    elif fileStructureId == 4: 
+        dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+        dfImported.loc[dfImported["Total ICU cases"].round() != dfImported["Total ICU cases"], "Total ICU cases"] = dfImported["Total ICU cases"]*1000
+        dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
+        #%% New fields
         dfImported.loc[dfImported["Total Hospital cases"].round() != dfImported["Total Hospital cases"], "Total Hospital cases"] = dfImported["Total Hospital cases"]*1000
         dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
-    if fileStructureId >= 5:
+    elif fileStructureId == 5:
+        dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+        dfImported.loc[dfImported["Total ICU cases"].round() != dfImported["Total ICU cases"], "Total ICU cases"] = dfImported["Total ICU cases"]*1000
+        dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
+        #%% New fields
+        dfImported.loc[dfImported["Total Hospital cases"].round() != dfImported["Total Hospital cases"], "Total Hospital cases"] = dfImported["Total Hospital cases"]*1000
+        dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
+        #%% New Fields
         dfImported.loc[dfImported["Total cured"].round() != dfImported["Total cured"], "Total cured"] = dfImported["Total cured"]*1000
+    elif (fileStructureId == 6) and ("-0" in fileName):
+        dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+        dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
+        dfImported.loc[dfImported["Total Tests"].round() != dfImported["Total Tests"], "Total Tests"] = dfImported["Total Tests"]*1000
+        dfImported.loc[dfImported["Total Fast Tests"].round() != dfImported["Total Fast Tests"], "Total Fast Tests"] = dfImported["Total Fast Tests"]*1000
+    elif (fileStructureId == 6) and ("-1" in fileName):
+        dfImported.loc[dfImported["Total Hospital cases"].round() != dfImported["Total Hospital cases"], "Total Hospital cases"] = dfImported["Total Hospital cases"]*1000
+        dfImported.loc[dfImported["New Hospital cases"].round() != dfImported["New Hospital cases"], "New Hospital cases"] = dfImported["New Hospital cases"]*1000
+        dfImported.loc[dfImported["Total ICU cases"].round() != dfImported["Total ICU cases"], "Total ICU cases"] = dfImported["Total ICU cases"]*1000
+        dfImported.loc[dfImported["New ICU cases"].round() != dfImported["New ICU cases"], "New ICU cases"] = dfImported["New ICU cases"]*1000
+        dfImported.loc[dfImported["Total deaths"].round() != dfImported["Total deaths"], "Total deaths"] = dfImported["Total deaths"]*1000
+        dfImported.loc[dfImported["New deaths"].round() != dfImported["New deaths"], "New deaths"] = dfImported["New deaths"]*1000
+        dfImported.loc[dfImported["Total cured"].round() != dfImported["Total cured"], "Total cured"] = dfImported["Total cured"]*1000
+        dfImported.loc[dfImported["New cured"].round() != dfImported["New cured"], "New cured"] = dfImported["New cured"]*1000 
 
     #%% Type alignment.
-    if fileStructureId >= 3:
-        dfImported["Date"] = dfImported["Date"].astype(str)
-        dfImported["Region"] = dfImported["Region"].astype(str)
+    dfImported["Date"] = dfImported["Date"].astype(str)
+    dfImported["Region"] = dfImported["Region"].astype(str)
+    if fileStructureId == 3:
         dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
         dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
         dfImported["Total ICU cases"] = dfImported["Total ICU cases"].astype('int64')
         dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
-    if fileStructureId >= 4:
+    elif fileStructureId == 4:
+        dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
+        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
+        dfImported["Total ICU cases"] = dfImported["Total ICU cases"].astype('int64')
+        dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+        # New fields
         dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')
         dfImported["New cases"] = dfImported["New cases"].astype('int64')
-    if fileStructureId >= 5:
+    elif fileStructureId == 5:
+        dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
+        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
+        dfImported["Total ICU cases"] = dfImported["Total ICU cases"].astype('int64')
+        dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+        # New fields
+        dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')
+        dfImported["New cases"] = dfImported["New cases"].astype('int64')
+        # New fields
         dfImported["Total cured"] = dfImported["Total cured"].astype('int64')
+    elif (fileStructureId == 6) and ("-0" in fileName):
+        dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
+        dfImported["New cases"] = dfImported["New cases"].astype('int64')
+        dfImported["Total Tests"] = dfImported["Total Tests"].astype('int64')
+        dfImported["Total Fast Tests"] = dfImported["Total Fast Tests"].astype('int64')
+        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
+    elif (fileStructureId == 6) and ("-1" in fileName):
+        dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')
+        dfImported["New Hospital cases"] = dfImported["New Hospital cases"].astype('int64')
+        dfImported["Total ICU cases"] = dfImported["Total ICU cases"].astype('int64')
+        dfImported["New ICU cases"] = dfImported["New ICU cases"].astype('int64')
+        dfImported["Total deaths"] = dfImported["Total deaths"].astype('int64')
+        dfImported["New deaths"] = dfImported["New deaths"].astype('int64')
+        dfImported["Total cured"] = dfImported["Total cured"].astype('int64')
+        dfImported["New cured"] = dfImported["New cured"].astype('int64')
 
     #%% Write to file cleaned dataframe
     dfImported.to_csv(path_or_buf=pathOutputFile+fileName, index=False, quoting=csv.QUOTE_NONNUMERIC)
-
 print("Done.")
 
 # %%

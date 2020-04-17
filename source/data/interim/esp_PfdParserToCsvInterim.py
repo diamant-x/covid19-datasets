@@ -47,22 +47,22 @@ for file in rawFiles:
     if pd.isnull(fileMetadata["area"]):
         try:
             parsedFile = tabula.read_pdf(file, lattice = fileMetadata["lattice"], stream=fileMetadata["stream"], multiple_tables=fileMetadata["multiple_tables"], pages=int(fileMetadata["pages"]), silent = True)
-        except TypeError:
+        except (ValueError, TypeError):
             parsedFile = tabula.read_pdf(file, lattice = fileMetadata["lattice"], stream=fileMetadata["stream"], multiple_tables=fileMetadata["multiple_tables"], pages=str(fileMetadata["pages"]), silent = True)
     else:
         try:
             parsedFile = tabula.read_pdf(file, lattice = fileMetadata["lattice"], stream=fileMetadata["stream"], relative_area=True, area=literal_eval(fileMetadata["area"]), multiple_tables=fileMetadata["multiple_tables"], pages=int(fileMetadata["pages"]), silent = True)
-        except TypeError:
+        except (ValueError, TypeError):
             parsedFile = tabula.read_pdf(file, lattice = fileMetadata["lattice"], stream=fileMetadata["stream"], relative_area=True, area=literal_eval(fileMetadata["area"]), multiple_tables=fileMetadata["multiple_tables"], pages=str(fileMetadata["pages"]), silent = True)
     if len(parsedFile) > 1:
         tableId = 0
         for table in parsedFile:
             #%% Prepare to write the parsing.
             outputFilename = fileName.split(".")[-2] + "-" + str(tableId) + ".csv"
-            table.to_csv(pathOutputFile+outputFilename, index=False)
+            table.to_csv(pathOutputFile+outputFilename, index=False, sep=";")
             tableId = tableId + 1
     else:
         dfFile = parsedFile[0]
         #%% Prepare to write the parsing.
         outputFilename = fileName.split(".")[-2] + ".csv"
-        dfFile.to_csv(pathOutputFile+outputFilename, index=False)
+        dfFile.to_csv(pathOutputFile+outputFilename, index=False, sep=";")

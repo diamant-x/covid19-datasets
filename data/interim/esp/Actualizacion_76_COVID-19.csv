@@ -1,24 +1,24 @@
-Unnamed: 0,confirmados* (14 d.),Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
-,,hospitalización,UCI,,,
-Andalucía,"10.595** 49,95",5.147,665,865.0,2.224,289**
-Aragón,4.338 140,2.006,282,514.0,1.012,93
-Asturias,"2.096 75,67",1.387,114,166.0,487.0,45
-Baleares,"1.606 41,32",857,149,125.0,881.0,35
-Canarias,"1.975 27,63",781,152,104.0,622.0,17
-Cantabria,"1.823 104,98",873,76,132.0,363.0,27
-Castilla La Mancha,"14.680 375,48",7.896,495,1.755,2.998,351
-Castilla y León,"13.697 285,47",6.306,306¥,1.337,4.521,517
-Cataluña,"36.505 215,16",23.372,2.789,3.7560000000000002,16.651,1.308
-Ceuta,"98 55,44",9,4,4.0,30.0,2
-C. Valenciana,"9.424 69,99",4.465,588,945.0,3.36,211
-Extremadura,"2.762 101,43",1.155,109,342.0,615.0,78
-Galicia,"7.708 121,36",2.471,128¥,299.0,1.298,111
-Madrid,"49.526 295,44",10.116¥,1.244¥,6.724,27.433000000000003,1.478
-Melilla,"102 46,25",43,3,2.0,24.0,1
-Murcia,"1.520 32,06",574,97,109.0,513.0,33
-Navarra,"4.246 267,34",1.731,124,252.0,808.0,96
-País Vasco,"11.475 210,03",5.750,471,902.0,5.428,249
-La Rioja,"3.457 472,54",1.182,75,246.0,1.585,37
-ESPAÑA,"177.633 160,54",,,18.579,70.85300000000001,4.978
-IA (14 d.): Incidencia acumulada (casos acumulados por 100.000 habitantes notificados en los últimos 14 días.,,,,,,
-Los datos de las CCAA están en continua revisión y ciertas oscilaciones diarias pueden deberse a procesos de depuración de datos y,,,,,,
+Unnamed: 0;confirmados* (14 d.);Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;Unnamed: 6
+;;hospitalización;UCI;;;
+Andalucía;10.595** 49,95;5.147;665;865.0;2.224;289**
+Aragón;4.338 140;2.006;282;514.0;1.012;93
+Asturias;2.096 75,67;1.387;114;166.0;487.0;45
+Baleares;1.606 41,32;857;149;125.0;881.0;35
+Canarias;1.975 27,63;781;152;104.0;622.0;17
+Cantabria;1.823 104,98;873;76;132.0;363.0;27
+Castilla La Mancha;14.680 375,48;7.896;495;1.755;2.998;351
+Castilla y León;13.697 285,47;6.306;306¥;1.337;4.521;517
+Cataluña;36.505 215,16;23.372;2.789;3.7560000000000002;16.651;1.308
+Ceuta;98 55,44;9;4;4.0;30.0;2
+C. Valenciana;9.424 69,99;4.465;588;945.0;3.36;211
+Extremadura;2.762 101,43;1.155;109;342.0;615.0;78
+Galicia;7.708 121,36;2.471;128¥;299.0;1.298;111
+Madrid;49.526 295,44;10.116¥;1.244¥;6.724;27.433000000000003;1.478
+Melilla;102 46,25;43;3;2.0;24.0;1
+Murcia;1.520 32,06;574;97;109.0;513.0;33
+Navarra;4.246 267,34;1.731;124;252.0;808.0;96
+País Vasco;11.475 210,03;5.750;471;902.0;5.428;249
+La Rioja;3.457 472,54;1.182;75;246.0;1.585;37
+ESPAÑA;177.633 160,54;;;18.579;70.85300000000001;4.978
+IA (14 d.): Incidencia acumulada (casos acumulados por 100.000 habitantes notificados en los últimos 14 días.;;;;;;
+Los datos de las CCAA están en continua revisión y ciertas oscilaciones diarias pueden deberse a procesos de depuración de datos y;;;;;;

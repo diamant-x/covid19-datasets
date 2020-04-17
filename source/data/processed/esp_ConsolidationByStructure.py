@@ -15,7 +15,7 @@ pathOutputFile = "data/processed/esp/"
 metadataFile = "data/raw/esp/tabulaParameters.csv"
 datesFile = "data/raw/esp/reportDates.csv"
 startFileName = "Actualizacion_"
-endFileName = "_COVID-19.csv"
+endFileName = ".csv"
 
 #%% Import metadata to use
 dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0)
@@ -44,14 +44,30 @@ for file in rawFiles:
     else:
         if fileStructureId == 3:
             namesColumns = ["Date","Region","Total confirmed cases","Population Incidence Ratio","Total ICU cases","Total deaths"]
+            
+            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
         elif fileStructureId == 4:
             namesColumns = ["Date","Region","Total confirmed cases","Population Incidence Ratio", "Total Hospital cases", "Total ICU cases","Total deaths"]
+
+            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
         elif fileStructureId == 5:
             namesColumns = ["Date","Region","Total confirmed cases","Population Incidence Ratio", "Total Hospital cases", "Total ICU cases","Total deaths","Total cured"]
-        
-        dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
 
-        dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
+            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
+        elif (fileStructureId == 6) and ("-0" in fileName):
+            namesColumns = ["Date", "Region","Total confirmed cases","Population Incidence Ratio"]
+
+            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
+        elif (fileStructureId == 6) and ("-1" in fileName):
+            namesColumns = ["Date", "Region","Total Hospital cases","Total ICU cases","Total deaths", "Total cured"]
+
+            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+            dfConsolidated.update(dfImported) #, on=["Date", "Region"], how="left" dfConsolidated = 
+        
         dfConsolidated.fillna(0, inplace=True)
 
     print("Total records: " + str(dfConsolidated["Date"].size))
