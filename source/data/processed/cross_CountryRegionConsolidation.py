@@ -32,9 +32,6 @@ for file in inputFileList:
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
-#%% Fill empty cells with zeros.
-dfConsolidated.fillna(0, inplace=True)
-
 #%% Calculate new columns where Na
 dfConsolidated["Current Hospital cases"] = 0
 
@@ -65,19 +62,14 @@ for country in dfConsolidated["Country"].unique():
                 dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"].values-dfMaxDate["Total deaths"].values
                 dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"].values-dfMaxDate["Total cured"].values
 
-#%% Align data types.
-dfConsolidated["Total confirmed cases"] = dfConsolidated["Total confirmed cases"].astype('int64')
-dfConsolidated["New cases"] = dfConsolidated["New cases"].astype('int64')
-dfConsolidated["Total Hospital cases"] = dfConsolidated["Total Hospital cases"].astype('int64')
-dfConsolidated["New Hospital cases"] = dfConsolidated["New Hospital cases"].astype('int64')
-dfConsolidated["Current Hospital cases"] = dfConsolidated["Current Hospital cases"].astype('int64')
-dfConsolidated["Total ICU cases"] = dfConsolidated["Total ICU cases"].astype('int64')
-dfConsolidated["New ICU cases"] = dfConsolidated["New ICU cases"].astype('int64')
-dfConsolidated["Total deaths"] = dfConsolidated["Total deaths"].astype('int64')
-dfConsolidated["New deaths"] = dfConsolidated["New deaths"].astype('int64')
-dfConsolidated["Total cured"] = dfConsolidated["Total cured"].astype('int64')
-dfConsolidated["New cured"] = dfConsolidated["New cured"].astype('int64')
+#%% Fill empty cells with zeros.
+dfConsolidated.fillna(0, inplace=True)
 
+#%% Align data types.
+# INT fields
+intColumns = ["Total confirmed cases", "New cases", "Total Hospital cases", "New Hospital cases", "Current Hospital cases", "Total ICU cases", "New ICU cases", "Total deaths", "New deaths", "Total cured", "New cured"]
+for column in intColumns:
+    dfConsolidated[column] = dfConsolidated[column].astype('int64')
 
 #%% Write to file consolidated dataframe
 dfConsolidated.to_csv(path_or_buf=pathOutputFile+"ALL-COVID19_CountryRegion.csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
