@@ -1,513 +1,513 @@
-"Date","Country","Region","Total confirmed cases","Population Incidence Ratio","Total deaths"
-"2020-03-17","Germany","Baden-Württemberg",1479.0,13.4,2.0
-"2020-03-17","Germany","Bavaria",1109.0,8.5,4.0
-"2020-03-17","Germany","Berlin",345.0,9.2,0.0
-"2020-03-17","Germany","Brandenburg",73.0,2.9,0.0
-"2020-03-17","Germany","Bremen",57.0,8.3,0.0
-"2020-03-17","Germany","Hamburg",310.0,16.8,0.0
-"2020-03-17","Germany","Hesse",373.0,6.0,0.0
-"2020-03-17","Germany","Mecklenburg-Western Pomerania",45.0,2.8,0.0
-"2020-03-17","Germany","Lower Saxony",325.0,4.1,0.0
-"2020-03-17","Germany","North Rhine-Westphalia",2105.0,11.7,6.0
-"2020-03-17","Germany","Rhineland-Palatinate",442.0,10.8,0.0
-"2020-03-17","Germany","Saarland",75.0,7.6,0.0
-"2020-03-17","Germany","Saxony",182.0,4.5,0.0
-"2020-03-17","Germany","Saxony-Anhalt",58.0,2.6,0.0
-"2020-03-17","Germany","Schleswig-Holstein",127.0,4.4,0.0
-"2020-03-17","Germany","Thuringia",51.0,2.4,0.0
-"2020-03-18","Germany","Baden-Württemberg",1609.0,14.5,2.0
-"2020-03-18","Germany","Bavaria",1243.0,9.5,4.0
-"2020-03-18","Germany","Berlin",391.0,10.4,0.0
-"2020-03-18","Germany","Brandenburg",92.0,3.7,0.0
-"2020-03-18","Germany","Bremen",69.0,10.1,0.0
-"2020-03-18","Germany","Hamburg",358.0,19.4,0.0
-"2020-03-18","Germany","Hesse",432.0,6.9,0.0
-"2020-03-18","Germany","Mecklenburg-Western Pomerania",56.0,3.5,0.0
-"2020-03-18","Germany","Lower Saxony",478.0,6.0,0.0
-"2020-03-18","Germany","North Rhine-Westphalia",2372.0,13.2,6.0
-"2020-03-18","Germany","Rhineland-Palatinate",474.0,11.6,0.0
-"2020-03-18","Germany","Saarland",88.0,8.9,0.0
-"2020-03-18","Germany","Saxony",198.0,4.9,0.0
-"2020-03-18","Germany","Saxony-Anhalt",105.0,4.8,0.0
-"2020-03-18","Germany","Schleswig-Holstein",159.0,5.5,0.0
-"2020-03-18","Germany","Thuringia",74.0,3.5,0.0
-"2020-03-19","Germany","Baden-Württemberg",2155.0,19.47,6.0
-"2020-03-19","Germany","Bavaria",1692.0,12.94,8.0
-"2020-03-19","Germany","Berlin",573.0,15.29,0.0
-"2020-03-19","Germany","Brandenburg",134.0,5.33,0.0
-"2020-03-19","Germany","Bremen",80.0,11.71,0.0
-"2020-03-19","Germany","Hamburg",432.0,23.46,0.0
-"2020-03-19","Germany","Hesse",682.0,10.88,0.0
-"2020-03-19","Germany","Mecklenburg-Western Pomerania",98.0,6.09,0.0
-"2020-03-19","Germany","Lower Saxony",669.0,8.38,0.0
-"2020-03-19","Germany","North Rhine-Westphalia",3033.0,16.91,6.0
-"2020-03-19","Germany","Rhineland-Palatinate",637.0,15.59,0.0
-"2020-03-19","Germany","Saarland",99.0,9.99,0.0
-"2020-03-19","Germany","Saxony",275.0,6.74,0.0
-"2020-03-19","Germany","Saxony-Anhalt",140.0,6.34,0.0
-"2020-03-19","Germany","Schleswig-Holstein",202.0,6.97,0.0
-"2020-03-19","Germany","Thuringia",98.0,4.57,0.0
-"2020-03-20","Germany","Baden-Württemberg",2746.0,25.0,10.0
-"2020-03-20","Germany","Bavaria",2401.0,18.0,12.0
-"2020-03-20","Germany","Berlin",731.0,20.0,0.0
-"2020-03-20","Germany","Brandenburg",192.0,8.0,0.0
-"2020-03-20","Germany","Bremen",121.0,18.0,0.0
-"2020-03-20","Germany","Hamburg",586.0,32.0,0.0
-"2020-03-20","Germany","Hesse",813.0,13.0,1.0
-"2020-03-20","Germany","Mecklenburg-Western Pomerania",131.0,8.0,0.0
-"2020-03-20","Germany","Lower Saxony",803.0,10.0,0.0
-"2020-03-20","Germany","North Rhine-Westphalia",3497.0,20.0,6.0
-"2020-03-20","Germany","Rhineland-Palatinate",801.0,20.0,1.0
-"2020-03-20","Germany","Saarland",146.0,15.0,0.0
-"2020-03-20","Germany","Saxony",394.0,10.0,0.0
-"2020-03-20","Germany","Saxony-Anhalt",180.0,8.0,0.0
-"2020-03-20","Germany","Schleswig-Holstein",266.0,9.0,1.0
-"2020-03-20","Germany","Thuringia",149.0,7.0,0.0
-"2020-03-21","Germany","Baden-Württemberg",3668.0,33.0,16.0
-"2020-03-21","Germany","Bavaria",2960.0,23.0,19.0
-"2020-03-21","Germany","Berlin",866.0,23.0,1.0
-"2020-03-21","Germany","Brandenburg",254.0,10.0,0.0
-"2020-03-21","Germany","Bremen",142.0,21.0,0.0
-"2020-03-21","Germany","Hamburg",587.0,32.0,0.0
-"2020-03-21","Germany","Hesse",1080.0,17.0,2.0
-"2020-03-21","Germany","Mecklenburg-Western Pomerania",165.0,10.0,0.0
-"2020-03-21","Germany","Lower Saxony",1023.0,13.0,0.0
-"2020-03-21","Germany","North Rhine-Westphalia",3542.0,20.0,6.0
-"2020-03-21","Germany","Rhineland-Palatinate",938.0,23.0,1.0
-"2020-03-21","Germany","Saarland",187.0,19.0,0.0
-"2020-03-21","Germany","Saxony",567.0,14.0,0.0
-"2020-03-21","Germany","Saxony-Anhalt",188.0,9.0,1.0
-"2020-03-21","Germany","Schleswig-Holstein",308.0,11.0,1.0
-"2020-03-21","Germany","Thuringia",187.0,9.0,0.0
-"2020-03-22","Germany","Baden-Württemberg",3807.0,34.0,21.0
-"2020-03-22","Germany","Bavaria",3650.0,28.0,21.0
-"2020-03-22","Germany","Berlin",1024.0,27.0,1.0
-"2020-03-22","Germany","Brandenburg",274.0,11.0,0.0
-"2020-03-22","Germany","Bremen",165.0,24.0,0.0
-"2020-03-22","Germany","Hamburg",872.0,47.0,0.0
-"2020-03-22","Germany","Hesse",1175.0,19.0,2.0
-"2020-03-22","Germany","Mecklenburg-Western Pomerania",172.0,11.0,0.0
-"2020-03-22","Germany","Lower Saxony",1306.0,16.0,1.0
-"2020-03-22","Germany","North Rhine-Westphalia",3545.0,20.0,6.0
-"2020-03-22","Germany","Rhineland-Palatinate",1053.0,26.0,2.0
-"2020-03-22","Germany","Saarland",187.0,19.0,0.0
-"2020-03-22","Germany","Saxony",606.0,15.0,0.0
-"2020-03-22","Germany","Saxony-Anhalt",211.0,10.0,0.0
-"2020-03-22","Germany","Schleswig-Holstein",347.0,12.0,1.0
-"2020-03-22","Germany","Thuringia",216.0,10.0,0.0
-"2020-03-23","Germany","Baden-Württemberg",3811.0,34.0,21.0
-"2020-03-23","Germany","Bavaria",4892.0,37.0,26.0
-"2020-03-23","Germany","Berlin",1077.0,29.0,1.0
-"2020-03-23","Germany","Brandenburg",288.0,11.0,0.0
-"2020-03-23","Germany","Bremen",170.0,25.0,0.0
-"2020-03-23","Germany","Hamburg",943.0,51.0,0.0
-"2020-03-23","Germany","Hesse",1347.0,21.0,3.0
-"2020-03-23","Germany","Mecklenburg-Western Pomerania",172.0,11.0,0.0
-"2020-03-23","Germany","Lower Saxony",1483.0,19.0,4.0
-"2020-03-23","Germany","North Rhine-Westphalia",5615.0,31.0,28.0
-"2020-03-23","Germany","Rhineland-Palatinate",1177.0,29.0,2.0
-"2020-03-23","Germany","Saarland",200.0,20.0,0.0
-"2020-03-23","Germany","Saxony",653.0,16.0,0.0
-"2020-03-23","Germany","Saxony-Anhalt",212.0,10.0,0.0
-"2020-03-23","Germany","Schleswig-Holstein",383.0,13.0,1.0
-"2020-03-23","Germany","Thuringia",249.0,12.0,0.0
-"2020-03-24","Germany","Baden-Württemberg",5348.0,48.0,30.0
-"2020-03-24","Germany","Bavaria",5754.0,44.0,30.0
-"2020-03-24","Germany","Berlin",1220.0,33.0,1.0
-"2020-03-24","Germany","Brandenburg",343.0,14.0,0.0
-"2020-03-24","Germany","Bremen",183.0,27.0,0.0
-"2020-03-24","Germany","Hamburg",1043.0,57.0,0.0
-"2020-03-24","Germany","Hesse",1620.0,26.0,4.0
-"2020-03-24","Germany","Mecklenburg-Western Pomerania",199.0,12.0,0.0
-"2020-03-24","Germany","Lower Saxony",1764.0,22.0,6.0
-"2020-03-24","Germany","North Rhine-Westphalia",6318.0,35.0,33.0
-"2020-03-24","Germany","Rhineland-Palatinate",1370.0,34.0,5.0
-"2020-03-24","Germany","Saarland",337.0,34.0,1.0
-"2020-03-24","Germany","Saxony",811.0,20.0,1.0
-"2020-03-24","Germany","Saxony-Anhalt",321.0,15.0,0.0
-"2020-03-24","Germany","Schleswig-Holstein",478.0,17.0,2.0
-"2020-03-24","Germany","Thuringia",327.0,15.0,1.0
-"2020-03-25","Germany","Baden-Württemberg",6069.0,55.0,37.0
-"2020-03-25","Germany","Bavaria",6558.0,50.0,37.0
-"2020-03-25","Germany","Berlin",1428.0,38.0,2.0
-"2020-03-25","Germany","Brandenburg",429.0,17.0,1.0
-"2020-03-25","Germany","Bremen",200.0,29.0,0.0
-"2020-03-25","Germany","Hamburg",1262.0,69.0,0.0
-"2020-03-25","Germany","Hesse",1754.0,28.0,4.0
-"2020-03-25","Germany","Mecklenburg-Western Pomerania",218.0,14.0,0.0
-"2020-03-25","Germany","Lower Saxony",2140.0,27.0,7.0
-"2020-03-25","Germany","North Rhine-Westphalia",7197.0,40.0,43.0
-"2020-03-25","Germany","Rhineland-Palatinate",1591.0,39.0,5.0
-"2020-03-25","Germany","Saarland",403.0,41.0,2.0
-"2020-03-25","Germany","Saxony",959.0,24.0,6.0
-"2020-03-25","Germany","Saxony-Anhalt",375.0,17.0,1.0
-"2020-03-25","Germany","Schleswig-Holstein",577.0,20.0,3.0
-"2020-03-25","Germany","Thuringia",394.0,18.0,1.0
-"2020-03-26","Germany","Baden-Wuerttemberg",7282.0,66.0,56.0
-"2020-03-26","Germany","Bavaria",7992.0,61.0,47.0
-"2020-03-26","Germany","Berlin",1656.0,44.0,4.0
-"2020-03-26","Germany","Brandenburg",477.0,19.0,1.0
-"2020-03-26","Germany","Bremen",211.0,31.0,1.0
-"2020-03-26","Germany","Hamburg",1265.0,69.0,0.0
-"2020-03-26","Germany","Hesse",2157.0,34.0,6.0
-"2020-03-26","Germany","Mecklenburg-Western Pomerania",244.0,15.0,0.0
-"2020-03-26","Germany","Lower Saxony",2347.0,29.0,8.0
-"2020-03-26","Germany","North Rhine-Westphalia",7923.0,44.0,53.0
-"2020-03-26","Germany","Rhineland-Palatinate",1815.0,44.0,6.0
-"2020-03-26","Germany","Saarland",433.0,44.0,2.0
-"2020-03-26","Germany","Saxony",1141.0,28.0,7.0
-"2020-03-26","Germany","Saxony-Anhalt",418.0,19.0,1.0
-"2020-03-26","Germany","Schleswig-Holstein",675.0,23.0,3.0
-"2020-03-26","Germany","Thuringia",468.0,22.0,3.0
-"2020-03-27","Germany","Baden-Wuerttemberg",8161.0,74.0,70.0
-"2020-03-27","Germany","Bavaria",9481.0,73.0,55.0
-"2020-03-27","Germany","Berlin",1955.0,52.0,8.0
-"2020-03-27","Germany","Brandenburg",537.0,21.0,1.0
-"2020-03-27","Germany","Bremen",241.0,35.0,1.0
-"2020-03-27","Germany","Hamburg",1693.0,92.0,2.0
-"2020-03-27","Germany","Hesse",2323.0,37.0,7.0
-"2020-03-27","Germany","Mecklenburg-Western Pomerania",259.0,16.0,0.0
-"2020-03-27","Germany","Lower Saxony",2810.0,35.0,10.0
-"2020-03-27","Germany","North Rhine-Westphalia",9235.0,51.0,72.0
-"2020-03-27","Germany","Rhineland-Palatinate",1971.0,48.0,8.0
-"2020-03-27","Germany","Saarland",505.0,51.0,2.0
-"2020-03-27","Germany","Saxony",1305.0,32.0,7.0
-"2020-03-27","Germany","Saxony-Anhalt",458.0,21.0,2.0
-"2020-03-27","Germany","Schleswig-Holstein",812.0,28.0,4.0
-"2020-03-27","Germany","Thuringia",542.0,25.0,4.0
-"2020-03-28","Germany","Baden-Wuerttemberg",9781.0,88.0,101.0
-"2020-03-28","Germany","Bavaria",11150.0,85.0,77.0
-"2020-03-28","Germany","Berlin",2161.0,58.0,8.0
-"2020-03-28","Germany","Brandenburg",645.0,26.0,1.0
-"2020-03-28","Germany","Bremen",260.0,38.0,2.0
-"2020-03-28","Germany","Hamburg",1765.0,96.0,2.0
-"2020-03-28","Germany","Hesse",2604.0,42.0,9.0
-"2020-03-28","Germany","Mecklenburg-Western Pomerania",308.0,19.0,0.0
-"2020-03-28","Germany","Lower Saxony",3150.0,39.0,12.0
-"2020-03-28","Germany","North Rhine-Westphalia",10607.0,59.0,80.0
-"2020-03-28","Germany","Rhineland-Palatinate",2212.0,54.0,11.0
-"2020-03-28","Germany","Saarland",550.0,56.0,2.0
-"2020-03-28","Germany","Saxony",1432.0,35.0,9.0
-"2020-03-28","Germany","Saxony-Anhalt",458.0,21.0,2.0
-"2020-03-28","Germany","Schleswig-Holstein",915.0,32.0,4.0
-"2020-03-28","Germany","Thuringia",584.0,27.0,5.0
-"2020-03-29","Germany","Baden-Wuerttemberg",9794.0,88.0,101.0
-"2020-03-29","Germany","Bavaria",12881.0,99.0,107.0
-"2020-03-29","Germany","Berlin",2360.0,63.0,9.0
-"2020-03-29","Germany","Brandenburg",721.0,29.0,1.0
-"2020-03-29","Germany","Bremen",275.0,40.0,2.0
-"2020-03-29","Germany","Hamburg",1846.0,100.0,4.0
-"2020-03-29","Germany","Hesse",2605.0,42.0,9.0
-"2020-03-29","Germany","Mecklenburg-Western Pomerania",348.0,22.0,1.0
-"2020-03-29","Germany","Lower Saxony",3450.0,43.0,21.0
-"2020-03-29","Germany","North Rhine-Westphalia",11400.0,64.0,98.0
-"2020-03-29","Germany","Rhineland-Palatinate",2396.0,59.0,12.0
-"2020-03-29","Germany","Saarland",560.0,57.0,2.0
-"2020-03-29","Germany","Saxony",1617.0,40.0,9.0
-"2020-03-29","Germany","Saxony-Anhalt",592.0,27.0,2.0
-"2020-03-29","Germany","Schleswig-Holstein",1005.0,35.0,6.0
-"2020-03-29","Germany","Thuringia",697.0,33.0,5.0
-"2020-03-30","Germany","Baden-Wuerttemberg",10943.0,99.0,119.0
-"2020-03-30","Germany","Bavaria",13989.0,107.0,127.0
-"2020-03-30","Germany","Berlin",2464.0,66.0,11.0
-"2020-03-30","Germany","Brandenburg",761.0,30.0,2.0
-"2020-03-30","Germany","Bremen",286.0,42.0,2.0
-"2020-03-30","Germany","Hamburg",2053.0,112.0,5.0
-"2020-03-30","Germany","Hesse",3091.0,49.0,13.0
-"2020-03-30","Germany","Mecklenburg-Western Pomerania",356.0,22.0,1.0
-"2020-03-30","Germany","Lower Saxony",3732.0,47.0,26.0
-"2020-03-30","Germany","North Rhine-Westphalia",12178.0,68.0,101.0
-"2020-03-30","Germany","Rhineland-Palatinate",2584.0,63.0,18.0
-"2020-03-30","Germany","Saarland",706.0,71.0,7.0
-"2020-03-30","Germany","Saxony",1795.0,44.0,9.0
-"2020-03-30","Germany","Saxony-Anhalt",592.0,27.0,2.0
-"2020-03-30","Germany","Schleswig-Holstein",1049.0,36.0,7.0
-"2020-03-30","Germany","Thuringia",719.0,34.0,5.0
-"2020-03-31","Germany","Baden-Wuerttemberg",12334.0,111.0,165.0
-"2020-03-31","Germany","Bavaria",14810.0,113.0,162.0
-"2020-03-31","Germany","Berlin",2575.0,69.0,13.0
-"2020-03-31","Germany","Brandenburg",798.0,32.0,2.0
-"2020-03-31","Germany","Bremen",294.0,43.0,4.0
-"2020-03-31","Germany","Hamburg",2191.0,119.0,9.0
-"2020-03-31","Germany","Hesse",3283.0,52.0,17.0
-"2020-03-31","Germany","Mecklenburg-Western Pomerania",366.0,23.0,1.0
-"2020-03-31","Germany","Lower Saxony",4063.0,51.0,34.0
-"2020-03-31","Germany","North Rhine-Westphalia",13225.0,74.0,117.0
-"2020-03-31","Germany","Rhineland-Palatinate",2726.0,67.0,19.0
-"2020-03-31","Germany","Saarland",782.0,79.0,7.0
-"2020-03-31","Germany","Saxony",1882.0,46.0,12.0
-"2020-03-31","Germany","Saxony-Anhalt",680.0,31.0,6.0
-"2020-03-31","Germany","Schleswig-Holstein",1120.0,39.0,9.0
-"2020-03-31","Germany","Thuringia",784.0,37.0,6.0
-"2020-04-01","Germany","Baden-Wuerttemberg",13410.0,121.0,197.0
-"2020-04-01","Germany","Bavaria",16497.0,126.0,225.0
-"2020-04-01","Germany","Berlin",2754.0,73.0,16.0
-"2020-04-01","Germany","Brandenburg",881.0,35.0,4.0
-"2020-04-01","Germany","Bremen",311.0,46.0,5.0
-"2020-04-01","Germany","Hamburg",2311.0,126.0,14.0
-"2020-04-01","Germany","Hesse",3445.0,55.0,21.0
-"2020-04-01","Germany","Mecklenburg-Western Pomerania",406.0,25.0,3.0
-"2020-04-01","Germany","Lower Saxony",4382.0,55.0,42.0
-"2020-04-01","Germany","North Rhine-Westphalia",14351.0,80.0,134.0
-"2020-04-01","Germany","Rhineland-Palatinate",2899.0,71.0,23.0
-"2020-04-01","Germany","Saarland",829.0,84.0,8.0
-"2020-04-01","Germany","Saxony",2034.0,50.0,17.0
-"2020-04-01","Germany","Saxony-Anhalt",750.0,34.0,7.0
-"2020-04-01","Germany","Schleswig-Holstein",1246.0,43.0,10.0
-"2020-04-01","Germany","Thuringia",860.0,40.0,6.0
-"2020-04-02","Germany","Baden-Wuerttemberg",14662.0,132.0,241.0
-"2020-04-02","Germany","Bavaria",18496.0,141.0,268.0
-"2020-04-02","Germany","Berlin",2970.0,79.0,19.0
-"2020-04-02","Germany","Brandenburg",995.0,40.0,7.0
-"2020-04-02","Germany","Bremen",327.0,48.0,6.0
-"2020-04-02","Germany","Hamburg",2406.0,131.0,14.0
-"2020-04-02","Germany","Hesse",3707.0,59.0,27.0
-"2020-04-02","Germany","Mecklenburg-Western Pomerania",438.0,27.0,3.0
-"2020-04-02","Germany","Lower Saxony",4695.0,59.0,45.0
-"2020-04-02","Germany","North Rhine-Westphalia",15427.0,86.0,161.0
-"2020-04-02","Germany","Rhineland-Palatinate",3132.0,77.0,26.0
-"2020-04-02","Germany","Saarland",1020.0,103.0,11.0
-"2020-04-02","Germany","Saxony",2183.0,54.0,18.0
-"2020-04-02","Germany","Saxony-Anhalt",804.0,36.0,8.0
-"2020-04-02","Germany","Schleswig-Holstein",1335.0,46.0,11.0
-"2020-04-02","Germany","Thuringia",925.0,43.0,7.0
-"2020-04-03","Germany","Baden-Wuerttemberg",16059.0,145.0,285.0
-"2020-04-03","Germany","Bavaria",20237.0,155.0,307.0
-"2020-04-03","Germany","Berlin",3202.0,85.0,20.0
-"2020-04-03","Germany","Brandenburg",1075.0,43.0,9.0
-"2020-04-03","Germany","Bremen",341.0,50.0,6.0
-"2020-04-03","Germany","Hamburg",2596.0,141.0,16.0
-"2020-04-03","Germany","Hesse",3993.0,64.0,33.0
-"2020-04-03","Germany","Mecklenburg-Western Pomerania",468.0,29.0,4.0
-"2020-04-03","Germany","Lower Saxony",5081.0,64.0,65.0
-"2020-04-03","Germany","North Rhine-Westphalia",16606.0,93.0,178.0
-"2020-04-03","Germany","Rhineland-Palatinate",3362.0,82.0,26.0
-"2020-04-03","Germany","Saarland",1079.0,109.0,12.0
-"2020-04-03","Germany","Saxony",2336.0,57.0,21.0
-"2020-04-03","Germany","Saxony-Anhalt",836.0,38.0,11.0
-"2020-04-03","Germany","Schleswig-Holstein",1443.0,50.0,15.0
-"2020-04-03","Germany","Thuringia",982.0,46.0,9.0
-"2020-04-04","Germany","Baden-Wuerttemberg",17014.0,154.0,316.0
-"2020-04-04","Germany","Bavaria",21908.0,168.0,349.0
-"2020-04-04","Germany","Berlin",3471.0,93.0,22.0
-"2020-04-04","Germany","Brandenburg",1211.0,48.0,12.0
-"2020-04-04","Germany","Bremen",354.0,52.0,6.0
-"2020-04-04","Germany","Hamburg",2697.0,146.0,16.0
-"2020-04-04","Germany","Hesse",4279.0,68.0,42.0
-"2020-04-04","Germany","Mecklenburg-Western Pomerania",501.0,31.0,5.0
-"2020-04-04","Germany","Lower Saxony",5571.0,70.0,85.0
-"2020-04-04","Germany","North Rhine-Westphalia",17885.0,100.0,200.0
-"2020-04-04","Germany","Rhineland-Palatinate",3504.0,86.0,29.0
-"2020-04-04","Germany","Saarland",1265.0,128.0,14.0
-"2020-04-04","Germany","Saxony",2591.0,64.0,24.0
-"2020-04-04","Germany","Saxony-Anhalt",896.0,41.0,11.0
-"2020-04-04","Germany","Schleswig-Holstein",1559.0,54.0,17.0
-"2020-04-04","Germany","Thuringia",1072.0,50.0,10.0
-"2020-04-05","Germany","Baden-Wuerttemberg",18614.0,168.0,367.0
-"2020-04-05","Germany","Bavaria",23846.0,182.0,396.0
-"2020-04-05","Germany","Berlin",3613.0,96.0,24.0
-"2020-04-05","Germany","Brandenburg",1305.0,52.0,17.0
-"2020-04-05","Germany","Bremen",394.0,58.0,6.0
-"2020-04-05","Germany","Hamburg",2945.0,160.0,19.0
-"2020-04-05","Germany","Hesse",4575.0,73.0,56.0
-"2020-04-05","Germany","Mecklenburg-Western Pomerania",523.0,32.0,5.0
-"2020-04-05","Germany","Lower Saxony",5712.0,72.0,89.0
-"2020-04-05","Germany","North Rhine-Westphalia",18735.0,104.0,245.0
-"2020-04-05","Germany","Rhineland-Palatinate",3663.0,90.0,32.0
-"2020-04-05","Germany","Saarland",1358.0,137.0,14.0
-"2020-04-05","Germany","Saxony",2741.0,67.0,32.0
-"2020-04-05","Germany","Saxony-Anhalt",919.0,42.0,12.0
-"2020-04-05","Germany","Schleswig-Holstein",1631.0,56.0,18.0
-"2020-04-05","Germany","Thuringia",1140.0,53.0,10.0
-"2020-04-06","Germany","Baden-Wuerttemberg",19395.0,175.0,387.0
-"2020-04-06","Germany","Bavaria",24974.0,191.0,437.0
-"2020-04-06","Germany","Berlin",3670.0,98.0,26.0
-"2020-04-06","Germany","Brandenburg",1345.0,54.0,19.0
-"2020-04-06","Germany","Bremen",397.0,58.0,8.0
-"2020-04-06","Germany","Hamburg",2993.0,163.0,19.0
-"2020-04-06","Germany","Hesse",4674.0,75.0,61.0
-"2020-04-06","Germany","Mecklenburg-Western Pomerania",528.0,33.0,6.0
-"2020-04-06","Germany","Lower Saxony",5960.0,75.0,92.0
-"2020-04-06","Germany","North Rhine-Westphalia",19384.0,108.0,255.0
-"2020-04-06","Germany","Rhineland-Palatinate",3882.0,95.0,32.0
-"2020-04-06","Germany","Saarland",1483.0,150.0,14.0
-"2020-04-06","Germany","Saxony",2903.0,71.0,34.0
-"2020-04-06","Germany","Saxony-Anhalt",956.0,43.0,12.0
-"2020-04-06","Germany","Schleswig-Holstein",1671.0,58.0,20.0
-"2020-04-06","Germany","Thuringia",1176.0,55.0,12.0
-"2020-04-07","Germany","Baden-Wuerttemberg",20141.0,182.0,433.0
-"2020-04-07","Germany","Bavaria",26163.0,200.0,481.0
-"2020-04-07","Germany","Berlin",3845.0,103.0,28.0
-"2020-04-07","Germany","Brandenburg",1384.0,55.0,20.0
-"2020-04-07","Germany","Bremen",399.0,58.0,9.0
-"2020-04-07","Germany","Hamburg",3059.0,166.0,20.0
-"2020-04-07","Germany","Hesse",4837.0,77.0,73.0
-"2020-04-07","Germany","Mecklenburg-Western Pomerania",531.0,33.0,8.0
-"2020-04-07","Germany","Lower Saxony",6200.0,78.0,111.0
-"2020-04-07","Germany","North Rhine-Westphalia",20220.0,113.0,282.0
-"2020-04-07","Germany","Rhineland-Palatinate",3992.0,98.0,34.0
-"2020-04-07","Germany","Saarland",1532.0,155.0,16.0
-"2020-04-07","Germany","Saxony",2997.0,73.0,38.0
-"2020-04-07","Germany","Saxony-Anhalt",987.0,45.0,12.0
-"2020-04-07","Germany","Schleswig-Holstein",1730.0,60.0,24.0
-"2020-04-07","Germany","Thuringia",1208.0,56.0,18.0
-"2020-04-08","Germany","Baden-Wuerttemberg",20680.0,187.0,464.0
-"2020-04-08","Germany","Bavaria",27564.0,211.0,564.0
-"2020-04-08","Germany","Berlin",4028.0,107.0,32.0
-"2020-04-08","Germany","Brandenburg",1472.0,59.0,22.0
-"2020-04-08","Germany","Bremen",424.0,62.0,10.0
-"2020-04-08","Germany","Hamburg",3165.0,172.0,23.0
-"2020-04-08","Germany","Hesse",4965.0,79.0,84.0
-"2020-04-08","Germany","Mecklenburg-Western Pomerania",555.0,34.0,11.0
-"2020-04-08","Germany","Lower Saxony",6385.0,80.0,121.0
-"2020-04-08","Germany","North Rhine-Westphalia",20929.0,117.0,348.0
-"2020-04-08","Germany","Rhineland-Palatinate",4148.0,102.0,45.0
-"2020-04-08","Germany","Saarland",1637.0,165.0,23.0
-"2020-04-08","Germany","Saxony",3144.0,77.0,50.0
-"2020-04-08","Germany","Saxony-Anhalt",1020.0,46.0,16.0
-"2020-04-08","Germany","Schleswig-Holstein",1827.0,63.0,28.0
-"2020-04-08","Germany","Thuringia",1285.0,60.0,20.0
-"2020-04-09","Germany","Baden-Wuerttemberg",21603.0,195.0,519.0
-"2020-04-09","Germany","Bavaria",28827.0,220.0,635.0
-"2020-04-09","Germany","Berlin",4202.0,112.0,37.0
-"2020-04-09","Germany","Brandenburg",1578.0,63.0,30.0
-"2020-04-09","Germany","Bremen",445.0,65.0,11.0
-"2020-04-09","Germany","Hamburg",3320.0,180.0,44.0
-"2020-04-09","Germany","Hesse",5242.0,84.0,100.0
-"2020-04-09","Germany","Mecklenburg-Western Pomerania",572.0,36.0,11.0
-"2020-04-09","Germany","Lower Saxony",6804.0,85.0,141.0
-"2020-04-09","Germany","North Rhine-Westphalia",21961.0,122.0,384.0
-"2020-04-09","Germany","Rhineland-Palatinate",4336.0,106.0,50.0
-"2020-04-09","Germany","Saarland",1693.0,171.0,23.0
-"2020-04-09","Germany","Saxony",3261.0,80.0,52.0
-"2020-04-09","Germany","Saxony-Anhalt",1075.0,49.0,16.0
-"2020-04-09","Germany","Schleswig-Holstein",1932.0,67.0,34.0
-"2020-04-09","Germany","Thuringia",1351.0,63.0,20.0
-"2020-04-10","Germany","Baden-Wuerttemberg",22433.0,203.0,570.0
-"2020-04-10","Germany","Bavaria",30363.0,232.0,703.0
-"2020-04-10","Germany","Berlin",4349.0,116.0,42.0
-"2020-04-10","Germany","Brandenburg",1691.0,67.0,37.0
-"2020-04-10","Germany","Bremen",454.0,66.0,13.0
-"2020-04-10","Germany","Hamburg",3551.0,193.0,53.0
-"2020-04-10","Germany","Hesse",5694.0,91.0,111.0
-"2020-04-10","Germany","Mecklenburg-Western Pomerania",586.0,36.0,11.0
-"2020-04-10","Germany","Lower Saxony",7114.0,89.0,161.0
-"2020-04-10","Germany","North Rhine-Westphalia",23028.0,128.0,446.0
-"2020-04-10","Germany","Rhineland-Palatinate",4440.0,109.0,51.0
-"2020-04-10","Germany","Saarland",1854.0,187.0,36.0
-"2020-04-10","Germany","Saxony",3402.0,83.0,59.0
-"2020-04-10","Germany","Saxony-Anhalt",1121.0,51.0,18.0
-"2020-04-10","Germany","Schleswig-Holstein",2029.0,70.0,38.0
-"2020-04-10","Germany","Thuringia",1416.0,66.0,24.0
-"2020-04-11","Germany","Baden-Wuerttemberg",23617.0,213.0,622.0
-"2020-04-11","Germany","Bavaria",31453.0,241.0,747.0
-"2020-04-11","Germany","Berlin",4458.0,119.0,46.0
-"2020-04-11","Germany","Brandenburg",1764.0,70.0,37.0
-"2020-04-11","Germany","Bremen",469.0,69.0,15.0
-"2020-04-11","Germany","Hamburg",3663.0,199.0,56.0
-"2020-04-11","Germany","Hesse",5808.0,93.0,120.0
-"2020-04-11","Germany","Mecklenburg-Western Pomerania",601.0,37.0,11.0
-"2020-04-11","Germany","Lower Saxony",7343.0,92.0,171.0
-"2020-04-11","Germany","North Rhine-Westphalia",23644.0,132.0,472.0
-"2020-04-11","Germany","Rhineland-Palatinate",4622.0,113.0,59.0
-"2020-04-11","Germany","Saarland",2016.0,204.0,41.0
-"2020-04-11","Germany","Saxony",3565.0,87.0,65.0
-"2020-04-11","Germany","Saxony-Anhalt",1135.0,51.0,18.0
-"2020-04-11","Germany","Schleswig-Holstein",2065.0,71.0,39.0
-"2020-04-11","Germany","Thuringia",1435.0,67.0,25.0
-"2020-04-12","Germany","Baden-Wuerttemberg",24078.0,218.0,649.0
-"2020-04-12","Germany","Bavaria",32282.0,247.0,786.0
-"2020-04-12","Germany","Berlin",4567.0,122.0,50.0
-"2020-04-12","Germany","Brandenburg",1857.0,74.0,38.0
-"2020-04-12","Germany","Bremen",480.0,70.0,15.0
-"2020-04-12","Germany","Hamburg",3742.0,203.0,56.0
-"2020-04-12","Germany","Hesse",5859.0,94.0,123.0
-"2020-04-12","Germany","Mecklenburg-Western Pomerania",605.0,38.0,11.0
-"2020-04-12","Germany","Lower Saxony",7602.0,95.0,189.0
-"2020-04-12","Germany","North Rhine-Westphalia",24267.0,135.0,495.0
-"2020-04-12","Germany","Rhineland-Palatinate",4734.0,116.0,64.0
-"2020-04-12","Germany","Saarland",2058.0,208.0,43.0
-"2020-04-12","Germany","Saxony",3600.0,88.0,67.0
-"2020-04-12","Germany","Saxony-Anhalt",1166.0,53.0,21.0
-"2020-04-12","Germany","Schleswig-Holstein",2118.0,73.0,41.0
-"2020-04-12","Germany","Thuringia",1464.0,68.0,25.0
-"2020-04-13","Germany","Baden-Wuerttemberg",24570.0,222.0,677.0
-"2020-04-13","Germany","Bavaria",33015.0,252.0,820.0
-"2020-04-13","Germany","Berlin",4601.0,123.0,51.0
-"2020-04-13","Germany","Brandenburg",1880.0,75.0,38.0
-"2020-04-13","Germany","Bremen",486.0,71.0,17.0
-"2020-04-13","Germany","Hamburg",3770.0,205.0,56.0
-"2020-04-13","Germany","Hesse",6114.0,98.0,135.0
-"2020-04-13","Germany","Mecklenburg-Western Pomerania",618.0,38.0,11.0
-"2020-04-13","Germany","Lower Saxony",7723.0,97.0,201.0
-"2020-04-13","Germany","North Rhine-Westphalia",24883.0,139.0,518.0
-"2020-04-13","Germany","Rhineland-Palatinate",4810.0,118.0,68.0
-"2020-04-13","Germany","Saarland",2079.0,210.0,44.0
-"2020-04-13","Germany","Saxony",3655.0,90.0,68.0
-"2020-04-13","Germany","Saxony-Anhalt",1193.0,54.0,24.0
-"2020-04-13","Germany","Schleswig-Holstein",2134.0,74.0,44.0
-"2020-04-13","Germany","Thuringia",1485.0,69.0,27.0
-"2020-04-14","Germany","Baden-Wuerttemberg",25040.0,226.0,711.0
-"2020-04-14","Germany","Bavaria",33569.0,257.0,872.0
-"2020-04-14","Germany","Berlin",4668.0,125.0,56.0
-"2020-04-14","Germany","Brandenburg",1916.0,76.0,40.0
-"2020-04-14","Germany","Bremen",492.0,72.0,20.0
-"2020-04-14","Germany","Hamburg",3808.0,207.0,59.0
-"2020-04-14","Germany","Hesse",6183.0,99.0,147.0
-"2020-04-14","Germany","Mecklenburg-Western Pomerania",619.0,38.0,11.0
-"2020-04-14","Germany","Lower Saxony",7885.0,99.0,211.0
-"2020-04-14","Germany","North Rhine-Westphalia",25300.0,141.0,545.0
-"2020-04-14","Germany","Rhineland-Palatinate",4880.0,119.0,70.0
-"2020-04-14","Germany","Saarland",2112.0,213.0,52.0
-"2020-04-14","Germany","Saxony",3751.0,92.0,70.0
-"2020-04-14","Germany","Saxony-Anhalt",1207.0,55.0,25.0
-"2020-04-14","Germany","Schleswig-Holstein",2164.0,75.0,49.0
-"2020-04-14","Germany","Thuringia",1504.0,70.0,31.0
-"2020-04-15","Germany","Baden-Wuerttemberg",25438.0,230.0,767.0
-"2020-04-15","Germany","Bavaria",34294.0,262.0,954.0
-"2020-04-15","Germany","Berlin",4722.0,126.0,62.0
-"2020-04-15","Germany","Brandenburg",1950.0,78.0,42.0
-"2020-04-15","Germany","Bremen",500.0,73.0,21.0
-"2020-04-15","Germany","Hamburg",3869.0,210.0,67.0
-"2020-04-15","Germany","Hesse",6347.0,101.0,173.0
-"2020-04-15","Germany","Mecklenburg-Western Pomerania",624.0,39.0,11.0
-"2020-04-15","Germany","Lower Saxony",8019.0,100.0,224.0
-"2020-04-15","Germany","North Rhine-Westphalia",25835.0,144.0,607.0
-"2020-04-15","Germany","Rhineland-Palatinate",5004.0,123.0,77.0
-"2020-04-15","Germany","Saarland",2145.0,217.0,58.0
-"2020-04-15","Germany","Saxony",3819.0,94.0,73.0
-"2020-04-15","Germany","Saxony-Anhalt",1223.0,55.0,26.0
-"2020-04-15","Germany","Schleswig-Holstein",2245.0,78.0,54.0
-"2020-04-15","Germany","Thuringia",1550.0,72.0,38.0
-"2020-04-16","Germany","Baden-Wuerttemberg",25881.0,234.0,802.0
-"2020-04-16","Germany","Bavaria",35142.0,269.0,1.0
-"2020-04-16","Germany","Berlin",4848.0,129.0,74.0
-"2020-04-16","Germany","Brandenburg",2058.0,82.0,54.0
-"2020-04-16","Germany","Bremen",507.0,74.0,21.0
-"2020-04-16","Germany","Hamburg",3953.0,215.0,80.0
-"2020-04-16","Germany","Hesse",6470.0,103.0,187.0
-"2020-04-16","Germany","Mecklenburg-Western Pomerania",634.0,39.0,13.0
-"2020-04-16","Germany","Lower Saxony",8188.0,103.0,248.0
-"2020-04-16","Germany","North Rhine-Westphalia",26383.0,147.0,663.0
-"2020-04-16","Germany","Rhineland-Palatinate",5087.0,125.0,87.0
-"2020-04-16","Germany","Saarland",2201.0,222.0,71.0
-"2020-04-16","Germany","Saxony",3955.0,97.0,94.0
-"2020-04-16","Germany","Saxony-Anhalt",1248.0,57.0,26.0
-"2020-04-16","Germany","Schleswig-Holstein",2294.0,79.0,55.0
-"2020-04-16","Germany","Thuringia",1601.0,75.0,45.0
-"2020-04-17","Germany","Baden-Wuerttemberg",26543.0,240.0,872.0
-"2020-04-17","Germany","Bavaria",36027.0,276.0,1.0
-"2020-04-17","Germany","Berlin",4945.0,132.0,84.0
-"2020-04-17","Germany","Brandenburg",2120.0,84.0,60.0
-"2020-04-17","Germany","Bremen",556.0,81.0,22.0
-"2020-04-17","Germany","Hamburg",4005.0,218.0,84.0
-"2020-04-17","Germany","Hesse",6705.0,107.0,197.0
-"2020-04-17","Germany","Mecklenburg-Western Pomerania",634.0,39.0,13.0
-"2020-04-17","Germany","Lower Saxony",8442.0,106.0,274.0
-"2020-04-17","Germany","North Rhine-Westphalia",27030.0,151.0,726.0
-"2020-04-17","Germany","Rhineland-Palatinate",5211.0,128.0,92.0
-"2020-04-17","Germany","Saarland",2254.0,228.0,76.0
-"2020-04-17","Germany","Saxony",4048.0,99.0,95.0
-"2020-04-17","Germany","Saxony-Anhalt",1279.0,58.0,28.0
-"2020-04-17","Germany","Schleswig-Holstein",2349.0,81.0,59.0
-"2020-04-17","Germany","Thuringia",1682.0,78.0,49.0
+"Date","Country","Region","Total confirmed cases","New cases","Population Incidence Ratio","Total deaths"
+"2020-03-17","Germany","Baden-Württemberg",1479,417.0,13.4,2
+"2020-03-17","Germany","Bavaria",1109,144.0,8.5,4
+"2020-03-17","Germany","Berlin",345,45.0,9.2,0
+"2020-03-17","Germany","Brandenburg",73,8.0,2.9,0
+"2020-03-17","Germany","Bremen",57,1.0,8.3,0
+"2020-03-17","Germany","Hamburg",310,55.0,16.8,0
+"2020-03-17","Germany","Hesse",373,132.0,6.0,0
+"2020-03-17","Germany","Mecklenburg-Western Pomerania",45,9.0,2.8,0
+"2020-03-17","Germany","Lower Saxony",325,53.0,4.1,0
+"2020-03-17","Germany","North Rhine-Westphalia",2105,564.0,11.7,6
+"2020-03-17","Germany","Rhineland-Palatinate",442,117.0,10.8,0
+"2020-03-17","Germany","Saarland",75,43.0,7.6,0
+"2020-03-17","Germany","Saxony",182,79.0,4.5,0
+"2020-03-17","Germany","Saxony-Anhalt",58,18.0,2.6,0
+"2020-03-17","Germany","Schleswig-Holstein",127,23.0,4.4,0
+"2020-03-17","Germany","Thuringia",51,15.0,2.4,0
+"2020-03-18","Germany","Baden-Württemberg",1609,130.0,14.5,2
+"2020-03-18","Germany","Bavaria",1243,134.0,9.5,4
+"2020-03-18","Germany","Berlin",391,46.0,10.4,0
+"2020-03-18","Germany","Brandenburg",92,19.0,3.7,0
+"2020-03-18","Germany","Bremen",69,12.0,10.1,0
+"2020-03-18","Germany","Hamburg",358,48.0,19.4,0
+"2020-03-18","Germany","Hesse",432,59.0,6.9,0
+"2020-03-18","Germany","Mecklenburg-Western Pomerania",56,11.0,3.5,0
+"2020-03-18","Germany","Lower Saxony",478,153.0,6.0,0
+"2020-03-18","Germany","North Rhine-Westphalia",2372,267.0,13.2,6
+"2020-03-18","Germany","Rhineland-Palatinate",474,32.0,11.6,0
+"2020-03-18","Germany","Saarland",88,13.0,8.9,0
+"2020-03-18","Germany","Saxony",198,16.0,4.9,0
+"2020-03-18","Germany","Saxony-Anhalt",105,47.0,4.8,0
+"2020-03-18","Germany","Schleswig-Holstein",159,32.0,5.5,0
+"2020-03-18","Germany","Thuringia",74,23.0,3.5,0
+"2020-03-19","Germany","Baden-Württemberg",2155,546.0,19.47,6
+"2020-03-19","Germany","Bavaria",1692,449.0,12.94,8
+"2020-03-19","Germany","Berlin",573,182.0,15.29,0
+"2020-03-19","Germany","Brandenburg",134,42.0,5.33,0
+"2020-03-19","Germany","Bremen",80,11.0,11.71,0
+"2020-03-19","Germany","Hamburg",432,74.0,23.46,0
+"2020-03-19","Germany","Hesse",682,250.0,10.88,0
+"2020-03-19","Germany","Mecklenburg-Western Pomerania",98,42.0,6.09,0
+"2020-03-19","Germany","Lower Saxony",669,191.0,8.38,0
+"2020-03-19","Germany","North Rhine-Westphalia",3033,661.0,16.91,6
+"2020-03-19","Germany","Rhineland-Palatinate",637,163.0,15.59,0
+"2020-03-19","Germany","Saarland",99,11.0,9.99,0
+"2020-03-19","Germany","Saxony",275,77.0,6.74,0
+"2020-03-19","Germany","Saxony-Anhalt",140,35.0,6.34,0
+"2020-03-19","Germany","Schleswig-Holstein",202,43.0,6.97,0
+"2020-03-19","Germany","Thuringia",98,24.0,4.57,0
+"2020-03-20","Germany","Baden-Württemberg",2746,591.0,25.0,10
+"2020-03-20","Germany","Bavaria",2401,709.0,18.0,12
+"2020-03-20","Germany","Berlin",731,158.0,20.0,0
+"2020-03-20","Germany","Brandenburg",192,58.0,8.0,0
+"2020-03-20","Germany","Bremen",121,41.0,18.0,0
+"2020-03-20","Germany","Hamburg",586,154.0,32.0,0
+"2020-03-20","Germany","Hesse",813,131.0,13.0,1
+"2020-03-20","Germany","Mecklenburg-Western Pomerania",131,33.0,8.0,0
+"2020-03-20","Germany","Lower Saxony",803,134.0,10.0,0
+"2020-03-20","Germany","North Rhine-Westphalia",3497,464.0,20.0,6
+"2020-03-20","Germany","Rhineland-Palatinate",801,164.0,20.0,1
+"2020-03-20","Germany","Saarland",146,47.0,15.0,0
+"2020-03-20","Germany","Saxony",394,119.0,10.0,0
+"2020-03-20","Germany","Saxony-Anhalt",180,40.0,8.0,0
+"2020-03-20","Germany","Schleswig-Holstein",266,64.0,9.0,1
+"2020-03-20","Germany","Thuringia",149,51.0,7.0,0
+"2020-03-21","Germany","Baden-Württemberg",3668,922.0,33.0,16
+"2020-03-21","Germany","Bavaria",2960,559.0,23.0,19
+"2020-03-21","Germany","Berlin",866,135.0,23.0,1
+"2020-03-21","Germany","Brandenburg",254,62.0,10.0,0
+"2020-03-21","Germany","Bremen",142,21.0,21.0,0
+"2020-03-21","Germany","Hamburg",587,1.0,32.0,0
+"2020-03-21","Germany","Hesse",1080,267.0,17.0,2
+"2020-03-21","Germany","Mecklenburg-Western Pomerania",165,34.0,10.0,0
+"2020-03-21","Germany","Lower Saxony",1023,220.0,13.0,0
+"2020-03-21","Germany","North Rhine-Westphalia",3542,45.0,20.0,6
+"2020-03-21","Germany","Rhineland-Palatinate",938,137.0,23.0,1
+"2020-03-21","Germany","Saarland",187,41.0,19.0,0
+"2020-03-21","Germany","Saxony",567,173.0,14.0,0
+"2020-03-21","Germany","Saxony-Anhalt",188,8.0,9.0,1
+"2020-03-21","Germany","Schleswig-Holstein",308,42.0,11.0,1
+"2020-03-21","Germany","Thuringia",187,38.0,9.0,0
+"2020-03-22","Germany","Baden-Württemberg",3807,139.0,34.0,21
+"2020-03-22","Germany","Bavaria",3650,690.0,28.0,21
+"2020-03-22","Germany","Berlin",1024,158.0,27.0,1
+"2020-03-22","Germany","Brandenburg",274,20.0,11.0,0
+"2020-03-22","Germany","Bremen",165,23.0,24.0,0
+"2020-03-22","Germany","Hamburg",872,285.0,47.0,0
+"2020-03-22","Germany","Hesse",1175,95.0,19.0,2
+"2020-03-22","Germany","Mecklenburg-Western Pomerania",172,7.0,11.0,0
+"2020-03-22","Germany","Lower Saxony",1306,283.0,16.0,1
+"2020-03-22","Germany","North Rhine-Westphalia",3545,3.0,20.0,6
+"2020-03-22","Germany","Rhineland-Palatinate",1053,115.0,26.0,2
+"2020-03-22","Germany","Saarland",187,0.0,19.0,0
+"2020-03-22","Germany","Saxony",606,39.0,15.0,0
+"2020-03-22","Germany","Saxony-Anhalt",211,23.0,10.0,0
+"2020-03-22","Germany","Schleswig-Holstein",347,39.0,12.0,1
+"2020-03-22","Germany","Thuringia",216,29.0,10.0,0
+"2020-03-23","Germany","Baden-Württemberg",3811,4.0,34.0,21
+"2020-03-23","Germany","Bavaria",4892,1242.0,37.0,26
+"2020-03-23","Germany","Berlin",1077,53.0,29.0,1
+"2020-03-23","Germany","Brandenburg",288,14.0,11.0,0
+"2020-03-23","Germany","Bremen",170,5.0,25.0,0
+"2020-03-23","Germany","Hamburg",943,71.0,51.0,0
+"2020-03-23","Germany","Hesse",1347,172.0,21.0,3
+"2020-03-23","Germany","Mecklenburg-Western Pomerania",172,0.0,11.0,0
+"2020-03-23","Germany","Lower Saxony",1483,177.0,19.0,4
+"2020-03-23","Germany","North Rhine-Westphalia",5615,2070.0,31.0,28
+"2020-03-23","Germany","Rhineland-Palatinate",1177,124.0,29.0,2
+"2020-03-23","Germany","Saarland",200,13.0,20.0,0
+"2020-03-23","Germany","Saxony",653,47.0,16.0,0
+"2020-03-23","Germany","Saxony-Anhalt",212,1.0,10.0,0
+"2020-03-23","Germany","Schleswig-Holstein",383,36.0,13.0,1
+"2020-03-23","Germany","Thuringia",249,33.0,12.0,0
+"2020-03-24","Germany","Baden-Württemberg",5348,1537.0,48.0,30
+"2020-03-24","Germany","Bavaria",5754,862.0,44.0,30
+"2020-03-24","Germany","Berlin",1220,143.0,33.0,1
+"2020-03-24","Germany","Brandenburg",343,55.0,14.0,0
+"2020-03-24","Germany","Bremen",183,13.0,27.0,0
+"2020-03-24","Germany","Hamburg",1043,100.0,57.0,0
+"2020-03-24","Germany","Hesse",1620,273.0,26.0,4
+"2020-03-24","Germany","Mecklenburg-Western Pomerania",199,27.0,12.0,0
+"2020-03-24","Germany","Lower Saxony",1764,281.0,22.0,6
+"2020-03-24","Germany","North Rhine-Westphalia",6318,703.0,35.0,33
+"2020-03-24","Germany","Rhineland-Palatinate",1370,193.0,34.0,5
+"2020-03-24","Germany","Saarland",337,137.0,34.0,1
+"2020-03-24","Germany","Saxony",811,158.0,20.0,1
+"2020-03-24","Germany","Saxony-Anhalt",321,109.0,15.0,0
+"2020-03-24","Germany","Schleswig-Holstein",478,95.0,17.0,2
+"2020-03-24","Germany","Thuringia",327,78.0,15.0,1
+"2020-03-25","Germany","Baden-Württemberg",6069,"",55.0,37
+"2020-03-25","Germany","Bavaria",6558,"",50.0,37
+"2020-03-25","Germany","Berlin",1428,"",38.0,2
+"2020-03-25","Germany","Brandenburg",429,"",17.0,1
+"2020-03-25","Germany","Bremen",200,"",29.0,0
+"2020-03-25","Germany","Hamburg",1262,"",69.0,0
+"2020-03-25","Germany","Hesse",1754,"",28.0,4
+"2020-03-25","Germany","Mecklenburg-Western Pomerania",218,"",14.0,0
+"2020-03-25","Germany","Lower Saxony",2140,"",27.0,7
+"2020-03-25","Germany","North Rhine-Westphalia",7197,"",40.0,43
+"2020-03-25","Germany","Rhineland-Palatinate",1591,"",39.0,5
+"2020-03-25","Germany","Saarland",403,"",41.0,2
+"2020-03-25","Germany","Saxony",959,"",24.0,6
+"2020-03-25","Germany","Saxony-Anhalt",375,"",17.0,1
+"2020-03-25","Germany","Schleswig-Holstein",577,"",20.0,3
+"2020-03-25","Germany","Thuringia",394,"",18.0,1
+"2020-03-26","Germany","Baden-Wuerttemberg",7282,1214.0,66.0,56
+"2020-03-26","Germany","Bavaria",7992,1435.0,61.0,47
+"2020-03-26","Germany","Berlin",1656,228.0,44.0,4
+"2020-03-26","Germany","Brandenburg",477,48.0,19.0,1
+"2020-03-26","Germany","Bremen",211,11.0,31.0,1
+"2020-03-26","Germany","Hamburg",1265,3.0,69.0,0
+"2020-03-26","Germany","Hesse",2157,403.0,34.0,6
+"2020-03-26","Germany","Mecklenburg-Western Pomerania",244,26.0,15.0,0
+"2020-03-26","Germany","Lower Saxony",2347,207.0,29.0,8
+"2020-03-26","Germany","North Rhine-Westphalia",7923,727.0,44.0,53
+"2020-03-26","Germany","Rhineland-Palatinate",1815,225.0,44.0,6
+"2020-03-26","Germany","Saarland",433,30.0,44.0,2
+"2020-03-26","Germany","Saxony",1141,182.0,28.0,7
+"2020-03-26","Germany","Saxony-Anhalt",418,43.0,19.0,1
+"2020-03-26","Germany","Schleswig-Holstein",675,98.0,23.0,3
+"2020-03-26","Germany","Thuringia",468,74.0,22.0,3
+"2020-03-27","Germany","Baden-Wuerttemberg",8161,878.0,74.0,70
+"2020-03-27","Germany","Bavaria",9481,1488.0,73.0,55
+"2020-03-27","Germany","Berlin",1955,299.0,52.0,8
+"2020-03-27","Germany","Brandenburg",537,60.0,21.0,1
+"2020-03-27","Germany","Bremen",241,30.0,35.0,1
+"2020-03-27","Germany","Hamburg",1693,428.0,92.0,2
+"2020-03-27","Germany","Hesse",2323,166.0,37.0,7
+"2020-03-27","Germany","Mecklenburg-Western Pomerania",259,15.0,16.0,0
+"2020-03-27","Germany","Lower Saxony",2810,463.0,35.0,10
+"2020-03-27","Germany","North Rhine-Westphalia",9235,1311.0,51.0,72
+"2020-03-27","Germany","Rhineland-Palatinate",1971,155.0,48.0,8
+"2020-03-27","Germany","Saarland",505,72.0,51.0,2
+"2020-03-27","Germany","Saxony",1305,164.0,32.0,7
+"2020-03-27","Germany","Saxony-Anhalt",458,40.0,21.0,2
+"2020-03-27","Germany","Schleswig-Holstein",812,137.0,28.0,4
+"2020-03-27","Germany","Thuringia",542,74.0,25.0,4
+"2020-03-28","Germany","Baden-Wuerttemberg",9781,1620.0,88.0,101
+"2020-03-28","Germany","Bavaria",11150,1669.0,85.0,77
+"2020-03-28","Germany","Berlin",2161,206.0,58.0,8
+"2020-03-28","Germany","Brandenburg",645,108.0,26.0,1
+"2020-03-28","Germany","Bremen",260,19.0,38.0,2
+"2020-03-28","Germany","Hamburg",1765,72.0,96.0,2
+"2020-03-28","Germany","Hesse",2604,281.0,42.0,9
+"2020-03-28","Germany","Mecklenburg-Western Pomerania",308,49.0,19.0,0
+"2020-03-28","Germany","Lower Saxony",3150,340.0,39.0,12
+"2020-03-28","Germany","North Rhine-Westphalia",10607,1372.0,59.0,80
+"2020-03-28","Germany","Rhineland-Palatinate",2212,241.0,54.0,11
+"2020-03-28","Germany","Saarland",550,45.0,56.0,2
+"2020-03-28","Germany","Saxony",1432,127.0,35.0,9
+"2020-03-28","Germany","Saxony-Anhalt",458,0.0,21.0,2
+"2020-03-28","Germany","Schleswig-Holstein",915,103.0,32.0,4
+"2020-03-28","Germany","Thuringia",584,42.0,27.0,5
+"2020-03-29","Germany","Baden-Wuerttemberg",9794,13.0,88.0,101
+"2020-03-29","Germany","Bavaria",12881,1731.0,99.0,107
+"2020-03-29","Germany","Berlin",2360,199.0,63.0,9
+"2020-03-29","Germany","Brandenburg",721,76.0,29.0,1
+"2020-03-29","Germany","Bremen",275,15.0,40.0,2
+"2020-03-29","Germany","Hamburg",1846,81.0,100.0,4
+"2020-03-29","Germany","Hesse",2605,1.0,42.0,9
+"2020-03-29","Germany","Mecklenburg-Western Pomerania",348,40.0,22.0,1
+"2020-03-29","Germany","Lower Saxony",3450,300.0,43.0,21
+"2020-03-29","Germany","North Rhine-Westphalia",11400,793.0,64.0,98
+"2020-03-29","Germany","Rhineland-Palatinate",2396,184.0,59.0,12
+"2020-03-29","Germany","Saarland",560,10.0,57.0,2
+"2020-03-29","Germany","Saxony",1617,185.0,40.0,9
+"2020-03-29","Germany","Saxony-Anhalt",592,134.0,27.0,2
+"2020-03-29","Germany","Schleswig-Holstein",1005,90.0,35.0,6
+"2020-03-29","Germany","Thuringia",697,113.0,33.0,5
+"2020-03-30","Germany","Baden-Wuerttemberg",10943,1149.0,99.0,119
+"2020-03-30","Germany","Bavaria",13989,1108.0,107.0,127
+"2020-03-30","Germany","Berlin",2464,104.0,66.0,11
+"2020-03-30","Germany","Brandenburg",761,40.0,30.0,2
+"2020-03-30","Germany","Bremen",286,11.0,42.0,2
+"2020-03-30","Germany","Hamburg",2053,207.0,112.0,5
+"2020-03-30","Germany","Hesse",3091,486.0,49.0,13
+"2020-03-30","Germany","Mecklenburg-Western Pomerania",356,8.0,22.0,1
+"2020-03-30","Germany","Lower Saxony",3732,282.0,47.0,26
+"2020-03-30","Germany","North Rhine-Westphalia",12178,778.0,68.0,101
+"2020-03-30","Germany","Rhineland-Palatinate",2584,188.0,63.0,18
+"2020-03-30","Germany","Saarland",706,146.0,71.0,7
+"2020-03-30","Germany","Saxony",1795,178.0,44.0,9
+"2020-03-30","Germany","Saxony-Anhalt",592,0.0,27.0,2
+"2020-03-30","Germany","Schleswig-Holstein",1049,44.0,36.0,7
+"2020-03-30","Germany","Thuringia",719,22.0,34.0,5
+"2020-03-31","Germany","Baden-Wuerttemberg",12334,1391.0,111.0,165
+"2020-03-31","Germany","Bavaria",14810,821.0,113.0,162
+"2020-03-31","Germany","Berlin",2575,111.0,69.0,13
+"2020-03-31","Germany","Brandenburg",798,37.0,32.0,2
+"2020-03-31","Germany","Bremen",294,8.0,43.0,4
+"2020-03-31","Germany","Hamburg",2191,138.0,119.0,9
+"2020-03-31","Germany","Hesse",3283,192.0,52.0,17
+"2020-03-31","Germany","Mecklenburg-Western Pomerania",366,10.0,23.0,1
+"2020-03-31","Germany","Lower Saxony",4063,331.0,51.0,34
+"2020-03-31","Germany","North Rhine-Westphalia",13225,1047.0,74.0,117
+"2020-03-31","Germany","Rhineland-Palatinate",2726,142.0,67.0,19
+"2020-03-31","Germany","Saarland",782,76.0,79.0,7
+"2020-03-31","Germany","Saxony",1882,87.0,46.0,12
+"2020-03-31","Germany","Saxony-Anhalt",680,88.0,31.0,6
+"2020-03-31","Germany","Schleswig-Holstein",1120,71.0,39.0,9
+"2020-03-31","Germany","Thuringia",784,65.0,37.0,6
+"2020-04-01","Germany","Baden-Wuerttemberg",13410,1076.0,121.0,197
+"2020-04-01","Germany","Bavaria",16497,1687.0,126.0,225
+"2020-04-01","Germany","Berlin",2754,179.0,73.0,16
+"2020-04-01","Germany","Brandenburg",881,83.0,35.0,4
+"2020-04-01","Germany","Bremen",311,17.0,46.0,5
+"2020-04-01","Germany","Hamburg",2311,120.0,126.0,14
+"2020-04-01","Germany","Hesse",3445,162.0,55.0,21
+"2020-04-01","Germany","Mecklenburg-Western Pomerania",406,40.0,25.0,3
+"2020-04-01","Germany","Lower Saxony",4382,319.0,55.0,42
+"2020-04-01","Germany","North Rhine-Westphalia",14351,1126.0,80.0,134
+"2020-04-01","Germany","Rhineland-Palatinate",2899,173.0,71.0,23
+"2020-04-01","Germany","Saarland",829,47.0,84.0,8
+"2020-04-01","Germany","Saxony",2034,152.0,50.0,17
+"2020-04-01","Germany","Saxony-Anhalt",750,70.0,34.0,7
+"2020-04-01","Germany","Schleswig-Holstein",1246,126.0,43.0,10
+"2020-04-01","Germany","Thuringia",860,76.0,40.0,6
+"2020-04-02","Germany","Baden-Wuerttemberg",14662,1252.0,132.0,241
+"2020-04-02","Germany","Bavaria",18496,1999.0,141.0,268
+"2020-04-02","Germany","Berlin",2970,216.0,79.0,19
+"2020-04-02","Germany","Brandenburg",995,114.0,40.0,7
+"2020-04-02","Germany","Bremen",327,16.0,48.0,6
+"2020-04-02","Germany","Hamburg",2406,95.0,131.0,14
+"2020-04-02","Germany","Hesse",3707,262.0,59.0,27
+"2020-04-02","Germany","Mecklenburg-Western Pomerania",438,32.0,27.0,3
+"2020-04-02","Germany","Lower Saxony",4695,313.0,59.0,45
+"2020-04-02","Germany","North Rhine-Westphalia",15427,1076.0,86.0,161
+"2020-04-02","Germany","Rhineland-Palatinate",3132,233.0,77.0,26
+"2020-04-02","Germany","Saarland",1020,191.0,103.0,11
+"2020-04-02","Germany","Saxony",2183,149.0,54.0,18
+"2020-04-02","Germany","Saxony-Anhalt",804,54.0,36.0,8
+"2020-04-02","Germany","Schleswig-Holstein",1335,89.0,46.0,11
+"2020-04-02","Germany","Thuringia",925,65.0,43.0,7
+"2020-04-03","Germany","Baden-Wuerttemberg",16059,1397.0,145.0,285
+"2020-04-03","Germany","Bavaria",20237,1741.0,155.0,307
+"2020-04-03","Germany","Berlin",3202,232.0,85.0,20
+"2020-04-03","Germany","Brandenburg",1075,80.0,43.0,9
+"2020-04-03","Germany","Bremen",341,14.0,50.0,6
+"2020-04-03","Germany","Hamburg",2596,190.0,141.0,16
+"2020-04-03","Germany","Hesse",3993,286.0,64.0,33
+"2020-04-03","Germany","Mecklenburg-Western Pomerania",468,30.0,29.0,4
+"2020-04-03","Germany","Lower Saxony",5081,386.0,64.0,65
+"2020-04-03","Germany","North Rhine-Westphalia",16606,1179.0,93.0,178
+"2020-04-03","Germany","Rhineland-Palatinate",3362,230.0,82.0,26
+"2020-04-03","Germany","Saarland",1079,59.0,109.0,12
+"2020-04-03","Germany","Saxony",2336,153.0,57.0,21
+"2020-04-03","Germany","Saxony-Anhalt",836,32.0,38.0,11
+"2020-04-03","Germany","Schleswig-Holstein",1443,108.0,50.0,15
+"2020-04-03","Germany","Thuringia",982,57.0,46.0,9
+"2020-04-04","Germany","Baden-Wuerttemberg",17014,955.0,154.0,316
+"2020-04-04","Germany","Bavaria",21908,1671.0,168.0,349
+"2020-04-04","Germany","Berlin",3471,269.0,93.0,22
+"2020-04-04","Germany","Brandenburg",1211,136.0,48.0,12
+"2020-04-04","Germany","Bremen",354,13.0,52.0,6
+"2020-04-04","Germany","Hamburg",2697,101.0,146.0,16
+"2020-04-04","Germany","Hesse",4279,286.0,68.0,42
+"2020-04-04","Germany","Mecklenburg-Western Pomerania",501,33.0,31.0,5
+"2020-04-04","Germany","Lower Saxony",5571,490.0,70.0,85
+"2020-04-04","Germany","North Rhine-Westphalia",17885,1279.0,100.0,200
+"2020-04-04","Germany","Rhineland-Palatinate",3504,142.0,86.0,29
+"2020-04-04","Germany","Saarland",1265,186.0,128.0,14
+"2020-04-04","Germany","Saxony",2591,255.0,64.0,24
+"2020-04-04","Germany","Saxony-Anhalt",896,60.0,41.0,11
+"2020-04-04","Germany","Schleswig-Holstein",1559,116.0,54.0,17
+"2020-04-04","Germany","Thuringia",1072,90.0,50.0,10
+"2020-04-05","Germany","Baden-Wuerttemberg",18614,1600.0,168.0,367
+"2020-04-05","Germany","Bavaria",23846,1938.0,182.0,396
+"2020-04-05","Germany","Berlin",3613,142.0,96.0,24
+"2020-04-05","Germany","Brandenburg",1305,94.0,52.0,17
+"2020-04-05","Germany","Bremen",394,40.0,58.0,6
+"2020-04-05","Germany","Hamburg",2945,248.0,160.0,19
+"2020-04-05","Germany","Hesse",4575,296.0,73.0,56
+"2020-04-05","Germany","Mecklenburg-Western Pomerania",523,22.0,32.0,5
+"2020-04-05","Germany","Lower Saxony",5712,141.0,72.0,89
+"2020-04-05","Germany","North Rhine-Westphalia",18735,850.0,104.0,245
+"2020-04-05","Germany","Rhineland-Palatinate",3663,159.0,90.0,32
+"2020-04-05","Germany","Saarland",1358,93.0,137.0,14
+"2020-04-05","Germany","Saxony",2741,150.0,67.0,32
+"2020-04-05","Germany","Saxony-Anhalt",919,23.0,42.0,12
+"2020-04-05","Germany","Schleswig-Holstein",1631,72.0,56.0,18
+"2020-04-05","Germany","Thuringia",1140,68.0,53.0,10
+"2020-04-06","Germany","Baden-Wuerttemberg",19395,781.0,175.0,387
+"2020-04-06","Germany","Bavaria",24974,1128.0,191.0,437
+"2020-04-06","Germany","Berlin",3670,57.0,98.0,26
+"2020-04-06","Germany","Brandenburg",1345,40.0,54.0,19
+"2020-04-06","Germany","Bremen",397,3.0,58.0,8
+"2020-04-06","Germany","Hamburg",2993,48.0,163.0,19
+"2020-04-06","Germany","Hesse",4674,99.0,75.0,61
+"2020-04-06","Germany","Mecklenburg-Western Pomerania",528,5.0,33.0,6
+"2020-04-06","Germany","Lower Saxony",5960,248.0,75.0,92
+"2020-04-06","Germany","North Rhine-Westphalia",19384,649.0,108.0,255
+"2020-04-06","Germany","Rhineland-Palatinate",3882,219.0,95.0,32
+"2020-04-06","Germany","Saarland",1483,125.0,150.0,14
+"2020-04-06","Germany","Saxony",2903,162.0,71.0,34
+"2020-04-06","Germany","Saxony-Anhalt",956,37.0,43.0,12
+"2020-04-06","Germany","Schleswig-Holstein",1671,40.0,58.0,20
+"2020-04-06","Germany","Thuringia",1176,36.0,55.0,12
+"2020-04-07","Germany","Baden-Wuerttemberg",20141,746.0,182.0,433
+"2020-04-07","Germany","Bavaria",26163,1189.0,200.0,481
+"2020-04-07","Germany","Berlin",3845,175.0,103.0,28
+"2020-04-07","Germany","Brandenburg",1384,39.0,55.0,20
+"2020-04-07","Germany","Bremen",399,2.0,58.0,9
+"2020-04-07","Germany","Hamburg",3059,66.0,166.0,20
+"2020-04-07","Germany","Hesse",4837,163.0,77.0,73
+"2020-04-07","Germany","Mecklenburg-Western Pomerania",531,3.0,33.0,8
+"2020-04-07","Germany","Lower Saxony",6200,240.0,78.0,111
+"2020-04-07","Germany","North Rhine-Westphalia",20220,836.0,113.0,282
+"2020-04-07","Germany","Rhineland-Palatinate",3992,110.0,98.0,34
+"2020-04-07","Germany","Saarland",1532,49.0,155.0,16
+"2020-04-07","Germany","Saxony",2997,94.0,73.0,38
+"2020-04-07","Germany","Saxony-Anhalt",987,31.0,45.0,12
+"2020-04-07","Germany","Schleswig-Holstein",1730,59.0,60.0,24
+"2020-04-07","Germany","Thuringia",1208,32.0,56.0,18
+"2020-04-08","Germany","Baden-Wuerttemberg",20680,539.0,187.0,464
+"2020-04-08","Germany","Bavaria",27564,1401.0,211.0,564
+"2020-04-08","Germany","Berlin",4028,183.0,107.0,32
+"2020-04-08","Germany","Brandenburg",1472,88.0,59.0,22
+"2020-04-08","Germany","Bremen",424,25.0,62.0,10
+"2020-04-08","Germany","Hamburg",3165,106.0,172.0,23
+"2020-04-08","Germany","Hesse",4965,128.0,79.0,84
+"2020-04-08","Germany","Mecklenburg-Western Pomerania",555,24.0,34.0,11
+"2020-04-08","Germany","Lower Saxony",6385,185.0,80.0,121
+"2020-04-08","Germany","North Rhine-Westphalia",20929,709.0,117.0,348
+"2020-04-08","Germany","Rhineland-Palatinate",4148,156.0,102.0,45
+"2020-04-08","Germany","Saarland",1637,105.0,165.0,23
+"2020-04-08","Germany","Saxony",3144,147.0,77.0,50
+"2020-04-08","Germany","Saxony-Anhalt",1020,33.0,46.0,16
+"2020-04-08","Germany","Schleswig-Holstein",1827,97.0,63.0,28
+"2020-04-08","Germany","Thuringia",1285,77.0,60.0,20
+"2020-04-09","Germany","Baden-Wuerttemberg",21603,923.0,195.0,519
+"2020-04-09","Germany","Bavaria",28827,1263.0,220.0,635
+"2020-04-09","Germany","Berlin",4202,174.0,112.0,37
+"2020-04-09","Germany","Brandenburg",1578,106.0,63.0,30
+"2020-04-09","Germany","Bremen",445,21.0,65.0,11
+"2020-04-09","Germany","Hamburg",3320,155.0,180.0,44
+"2020-04-09","Germany","Hesse",5242,277.0,84.0,100
+"2020-04-09","Germany","Mecklenburg-Western Pomerania",572,17.0,36.0,11
+"2020-04-09","Germany","Lower Saxony",6804,419.0,85.0,141
+"2020-04-09","Germany","North Rhine-Westphalia",21961,1032.0,122.0,384
+"2020-04-09","Germany","Rhineland-Palatinate",4336,188.0,106.0,50
+"2020-04-09","Germany","Saarland",1693,56.0,171.0,23
+"2020-04-09","Germany","Saxony",3261,117.0,80.0,52
+"2020-04-09","Germany","Saxony-Anhalt",1075,55.0,49.0,16
+"2020-04-09","Germany","Schleswig-Holstein",1932,105.0,67.0,34
+"2020-04-09","Germany","Thuringia",1351,66.0,63.0,20
+"2020-04-10","Germany","Baden-Wuerttemberg",22433,830.0,203.0,570
+"2020-04-10","Germany","Bavaria",30363,1536.0,232.0,703
+"2020-04-10","Germany","Berlin",4349,147.0,116.0,42
+"2020-04-10","Germany","Brandenburg",1691,113.0,67.0,37
+"2020-04-10","Germany","Bremen",454,9.0,66.0,13
+"2020-04-10","Germany","Hamburg",3551,231.0,193.0,53
+"2020-04-10","Germany","Hesse",5694,452.0,91.0,111
+"2020-04-10","Germany","Mecklenburg-Western Pomerania",586,14.0,36.0,11
+"2020-04-10","Germany","Lower Saxony",7114,310.0,89.0,161
+"2020-04-10","Germany","North Rhine-Westphalia",23028,1067.0,128.0,446
+"2020-04-10","Germany","Rhineland-Palatinate",4440,104.0,109.0,51
+"2020-04-10","Germany","Saarland",1854,161.0,187.0,36
+"2020-04-10","Germany","Saxony",3402,141.0,83.0,59
+"2020-04-10","Germany","Saxony-Anhalt",1121,46.0,51.0,18
+"2020-04-10","Germany","Schleswig-Holstein",2029,97.0,70.0,38
+"2020-04-10","Germany","Thuringia",1416,65.0,66.0,24
+"2020-04-11","Germany","Baden-Wuerttemberg",23617,1184.0,213.0,622
+"2020-04-11","Germany","Bavaria",31453,1090.0,241.0,747
+"2020-04-11","Germany","Berlin",4458,109.0,119.0,46
+"2020-04-11","Germany","Brandenburg",1764,73.0,70.0,37
+"2020-04-11","Germany","Bremen",469,15.0,69.0,15
+"2020-04-11","Germany","Hamburg",3663,112.0,199.0,56
+"2020-04-11","Germany","Hesse",5808,114.0,93.0,120
+"2020-04-11","Germany","Mecklenburg-Western Pomerania",601,15.0,37.0,11
+"2020-04-11","Germany","Lower Saxony",7343,229.0,92.0,171
+"2020-04-11","Germany","North Rhine-Westphalia",23644,616.0,132.0,472
+"2020-04-11","Germany","Rhineland-Palatinate",4622,182.0,113.0,59
+"2020-04-11","Germany","Saarland",2016,162.0,204.0,41
+"2020-04-11","Germany","Saxony",3565,163.0,87.0,65
+"2020-04-11","Germany","Saxony-Anhalt",1135,14.0,51.0,18
+"2020-04-11","Germany","Schleswig-Holstein",2065,36.0,71.0,39
+"2020-04-11","Germany","Thuringia",1435,19.0,67.0,25
+"2020-04-12","Germany","Baden-Wuerttemberg",24078,461.0,218.0,649
+"2020-04-12","Germany","Bavaria",32282,829.0,247.0,786
+"2020-04-12","Germany","Berlin",4567,109.0,122.0,50
+"2020-04-12","Germany","Brandenburg",1857,93.0,74.0,38
+"2020-04-12","Germany","Bremen",480,11.0,70.0,15
+"2020-04-12","Germany","Hamburg",3742,79.0,203.0,56
+"2020-04-12","Germany","Hesse",5859,51.0,94.0,123
+"2020-04-12","Germany","Mecklenburg-Western Pomerania",605,4.0,38.0,11
+"2020-04-12","Germany","Lower Saxony",7602,259.0,95.0,189
+"2020-04-12","Germany","North Rhine-Westphalia",24267,623.0,135.0,495
+"2020-04-12","Germany","Rhineland-Palatinate",4734,112.0,116.0,64
+"2020-04-12","Germany","Saarland",2058,42.0,208.0,43
+"2020-04-12","Germany","Saxony",3600,35.0,88.0,67
+"2020-04-12","Germany","Saxony-Anhalt",1166,31.0,53.0,21
+"2020-04-12","Germany","Schleswig-Holstein",2118,53.0,73.0,41
+"2020-04-12","Germany","Thuringia",1464,29.0,68.0,25
+"2020-04-13","Germany","Baden-Wuerttemberg",24570,492.0,222.0,677
+"2020-04-13","Germany","Bavaria",33015,733.0,252.0,820
+"2020-04-13","Germany","Berlin",4601,34.0,123.0,51
+"2020-04-13","Germany","Brandenburg",1880,23.0,75.0,38
+"2020-04-13","Germany","Bremen",486,6.0,71.0,17
+"2020-04-13","Germany","Hamburg",3770,28.0,205.0,56
+"2020-04-13","Germany","Hesse",6114,255.0,98.0,135
+"2020-04-13","Germany","Mecklenburg-Western Pomerania",618,13.0,38.0,11
+"2020-04-13","Germany","Lower Saxony",7723,121.0,97.0,201
+"2020-04-13","Germany","North Rhine-Westphalia",24883,616.0,139.0,518
+"2020-04-13","Germany","Rhineland-Palatinate",4810,76.0,118.0,68
+"2020-04-13","Germany","Saarland",2079,21.0,210.0,44
+"2020-04-13","Germany","Saxony",3655,55.0,90.0,68
+"2020-04-13","Germany","Saxony-Anhalt",1193,27.0,54.0,24
+"2020-04-13","Germany","Schleswig-Holstein",2134,16.0,74.0,44
+"2020-04-13","Germany","Thuringia",1485,21.0,69.0,27
+"2020-04-14","Germany","Baden-Wuerttemberg",25040,470.0,226.0,711
+"2020-04-14","Germany","Bavaria",33569,554.0,257.0,872
+"2020-04-14","Germany","Berlin",4668,67.0,125.0,56
+"2020-04-14","Germany","Brandenburg",1916,36.0,76.0,40
+"2020-04-14","Germany","Bremen",492,6.0,72.0,20
+"2020-04-14","Germany","Hamburg",3808,38.0,207.0,59
+"2020-04-14","Germany","Hesse",6183,69.0,99.0,147
+"2020-04-14","Germany","Mecklenburg-Western Pomerania",619,1.0,38.0,11
+"2020-04-14","Germany","Lower Saxony",7885,162.0,99.0,211
+"2020-04-14","Germany","North Rhine-Westphalia",25300,417.0,141.0,545
+"2020-04-14","Germany","Rhineland-Palatinate",4880,70.0,119.0,70
+"2020-04-14","Germany","Saarland",2112,33.0,213.0,52
+"2020-04-14","Germany","Saxony",3751,96.0,92.0,70
+"2020-04-14","Germany","Saxony-Anhalt",1207,14.0,55.0,25
+"2020-04-14","Germany","Schleswig-Holstein",2164,30.0,75.0,49
+"2020-04-14","Germany","Thuringia",1504,19.0,70.0,31
+"2020-04-15","Germany","Baden-Wuerttemberg",25438,398.0,230.0,767
+"2020-04-15","Germany","Bavaria",34294,725.0,262.0,954
+"2020-04-15","Germany","Berlin",4722,54.0,126.0,62
+"2020-04-15","Germany","Brandenburg",1950,34.0,78.0,42
+"2020-04-15","Germany","Bremen",500,8.0,73.0,21
+"2020-04-15","Germany","Hamburg",3869,61.0,210.0,67
+"2020-04-15","Germany","Hesse",6347,164.0,101.0,173
+"2020-04-15","Germany","Mecklenburg-Western Pomerania",624,5.0,39.0,11
+"2020-04-15","Germany","Lower Saxony",8019,134.0,100.0,224
+"2020-04-15","Germany","North Rhine-Westphalia",25835,535.0,144.0,607
+"2020-04-15","Germany","Rhineland-Palatinate",5004,124.0,123.0,77
+"2020-04-15","Germany","Saarland",2145,33.0,217.0,58
+"2020-04-15","Germany","Saxony",3819,68.0,94.0,73
+"2020-04-15","Germany","Saxony-Anhalt",1223,16.0,55.0,26
+"2020-04-15","Germany","Schleswig-Holstein",2245,81.0,78.0,54
+"2020-04-15","Germany","Thuringia",1550,46.0,72.0,38
+"2020-04-16","Germany","Baden-Wuerttemberg",25881,443.0,234.0,802
+"2020-04-16","Germany","Bavaria",35142,848.0,269.0,1
+"2020-04-16","Germany","Berlin",4848,126.0,129.0,74
+"2020-04-16","Germany","Brandenburg",2058,108.0,82.0,54
+"2020-04-16","Germany","Bremen",507,7.0,74.0,21
+"2020-04-16","Germany","Hamburg",3953,84.0,215.0,80
+"2020-04-16","Germany","Hesse",6470,123.0,103.0,187
+"2020-04-16","Germany","Mecklenburg-Western Pomerania",634,10.0,39.0,13
+"2020-04-16","Germany","Lower Saxony",8188,169.0,103.0,248
+"2020-04-16","Germany","North Rhine-Westphalia",26383,548.0,147.0,663
+"2020-04-16","Germany","Rhineland-Palatinate",5087,83.0,125.0,87
+"2020-04-16","Germany","Saarland",2201,56.0,222.0,71
+"2020-04-16","Germany","Saxony",3955,136.0,97.0,94
+"2020-04-16","Germany","Saxony-Anhalt",1248,25.0,57.0,26
+"2020-04-16","Germany","Schleswig-Holstein",2294,49.0,79.0,55
+"2020-04-16","Germany","Thuringia",1601,51.0,75.0,45
+"2020-04-17","Germany","Baden-Wuerttemberg",26543,662.0,240.0,872
+"2020-04-17","Germany","Bavaria",36027,885.0,276.0,1
+"2020-04-17","Germany","Berlin",4945,97.0,132.0,84
+"2020-04-17","Germany","Brandenburg",2120,62.0,84.0,60
+"2020-04-17","Germany","Bremen",556,49.0,81.0,22
+"2020-04-17","Germany","Hamburg",4005,52.0,218.0,84
+"2020-04-17","Germany","Hesse",6705,235.0,107.0,197
+"2020-04-17","Germany","Mecklenburg-Western Pomerania",634,0.0,39.0,13
+"2020-04-17","Germany","Lower Saxony",8442,254.0,106.0,274
+"2020-04-17","Germany","North Rhine-Westphalia",27030,647.0,151.0,726
+"2020-04-17","Germany","Rhineland-Palatinate",5211,124.0,128.0,92
+"2020-04-17","Germany","Saarland",2254,53.0,228.0,76
+"2020-04-17","Germany","Saxony",4048,93.0,99.0,95
+"2020-04-17","Germany","Saxony-Anhalt",1279,31.0,58.0,28
+"2020-04-17","Germany","Schleswig-Holstein",2349,55.0,81.0,59
+"2020-04-17","Germany","Thuringia",1682,81.0,78.0,49
