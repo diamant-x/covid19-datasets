@@ -17,23 +17,17 @@ for file in inputFileList:
     fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
-    # Date will be calculated sequentially based on the previous highest id's date.    
+    dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+
+    # include the columns you want. Source: https://stackoverflow.com/a/51601986
+    dfImported[dfImported.columns[dfImported.columns.isin(["Date","Country","Region","Total confirmed cases", "New cases", "Total Hospital cases", "New Hospital cases", "Total ICU cases", "New ICU cases", "Total deaths", "New deaths", "Total cured", "New cured"])]]
+            
+    dfImported = dfImported.groupby(["Date","Country","Region"], as_index=False).sum()
+   
     if dfConsolidated.size == 0:
         # No file loaded yet.
-        namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total ICU cases", "Total deaths", "Total cured"]
-        dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
-        dfConsolidated = dfConsolidated.groupby(["Date","Country","Region"], as_index=False).sum()
-
+        dfConsolidated = dfImported
     else:
-        try:
-            namesColumns = ["Date","Country","Region","Total confirmed cases", "Total Hospital cases", "Total ICU cases", "Total deaths", "Total cured"]
-            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
-            dfImported = dfImported.groupby(["Date","Country","Region"], as_index=False).sum()
-        except ValueError:
-            namesColumns = ["Date","Country","Region","Total confirmed cases","Total deaths"]
-            dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
-            dfImported = dfImported.groupby(["Date","Country","Region"], as_index=False).sum()
-
         dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
 
     print("Total records: " + str(dfConsolidated["Date"].size))
@@ -41,13 +35,8 @@ for file in inputFileList:
 #%% Fill empty cells with zeros.
 dfConsolidated.fillna(0, inplace=True)
 
-#%% Calculate new cases and new deaths.
-dfConsolidated["New cases"] = 0
+#%% Calculate new columns where Na
 dfConsolidated["Current Hospital cases"] = 0
-dfConsolidated["New Hospital cases"] = 0
-dfConsolidated["New ICU cases"] = 0
-dfConsolidated["New deaths"] = 0
-dfConsolidated["New cured"] = 0
 
 for country in dfConsolidated["Country"].unique():
     print("Calculating columns for country: " + country)
