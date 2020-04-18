@@ -35,14 +35,14 @@ dfHospital = dfHospital.loc[dfHospital["Genre"]=="Total"]
 dfImported = dfCases.merge(dfHospital, on=["Country", "Province ID", "Date", "Province", "Region"], how="outer")
 
 #%% Clean data.
-dfImported.drop(columns=["Province ID","Genre", "Age", "New tests Male", "New confirmed cases Male", "New tests Female", "New confirmed cases Female"], inplace=True)
+dfImported.drop(columns=["Province ID","Genre", "Age", "New tests Male", "New cases Male", "New tests Female", "New cases Female"], inplace=True)
 dfImported.fillna(0, inplace=True)
 dfImported.sort_values(by=["Date", "Country", "Region", "Province"], inplace=True)
 
 #%% Calculate Total cases.
 dfImported["Total Hospital cases"] = dfImported["Current Hospital cases"] + dfImported["Total cured"] + dfImported["Total deaths"]
 dfImported["Total ICU cases"] = dfImported["Current ICU cases"]
-dfImported['Total confirmed cases'] = dfImported.groupby("Province")['New confirmed cases'].transform(pd.Series.cumsum)
+dfImported['Total confirmed cases'] = dfImported.groupby("Province")['New cases'].transform(pd.Series.cumsum)
 
 #for region in dfImported["Region"].unique():
 #    dfRegion = dfImported[dfImported["Region"]==region]
@@ -61,10 +61,10 @@ dfImported['Total confirmed cases'] = dfImported.groupby("Province")['New confir
 #                dfImported.loc[indexDate,["Total confirmed cases"]] = dfDate["New confirmed cases"].values-dfMaxDate["Total confirmed cases"].values
 
 #%% Adjust data types
-dfImported[["New tests", "New confirmed cases", "Current Hospital cases", "Current ICU cases", "Total cured", "Total deaths", "Total Hospital cases", "Total ICU cases", "Total confirmed cases"]] = dfImported[["New tests", "New confirmed cases", "Current Hospital cases", "Current ICU cases", "Total cured", "Total deaths", "Total Hospital cases", "Total ICU cases", "Total confirmed cases"]].astype('int64')
+dfImported[["New tests", "New cases", "Current Hospital cases", "Current ICU cases", "Total cured", "Total deaths", "Total Hospital cases", "Total ICU cases", "Total confirmed cases"]] = dfImported[["New tests", "New cases", "Current Hospital cases", "Current ICU cases", "Total cured", "Total deaths", "Total Hospital cases", "Total ICU cases", "Total confirmed cases"]].astype('int64')
 
 #%% Reorder current columns
-dfImported = dfImported[["Date", "Country", "Region", "Province", "New tests", "New confirmed cases", "Current Hospital cases", "Current ICU cases", "Total cured", "Total deaths", "Total Hospital cases", "Total ICU cases", "Total confirmed cases"]]
+dfImported = dfImported[["Date", "Country", "Region", "Province", "New tests", "New cases", "Current Hospital cases", "Current ICU cases", "Total cured", "Total deaths", "Total Hospital cases", "Total ICU cases", "Total confirmed cases"]]
 
 #%% Write to file consolidated dataframe
 dfImported.to_csv(path_or_buf=pathOutputFile+outputFile, index=False, quoting=csv.QUOTE_NONNUMERIC)

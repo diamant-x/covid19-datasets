@@ -36,7 +36,7 @@ fileName = file.split(os.sep)[-1]
 print("Processing file: " + fileName)
 
 namesOriginals = ["dep","jour","clage_covid","nb_test","nb_pos","nb_test_h","nb_pos_h","nb_test_f","nb_pos_f"]
-namesColumns = ["Province ID", "Date", "Age ID", "New tests", "New confirmed cases","New tests Male","New confirmed cases Male","New tests Female","New confirmed cases Female" ]
+namesColumns = ["Province ID", "Date", "Age ID", "New tests", "New cases","New tests Male","New cases Male","New tests Female","New cases Female" ]
 renameDict = dict(zip(namesOriginals, namesColumns))
 
 dfImported = pd.read_csv(file, sep=";", skipinitialspace=True, header=0, usecols=namesOriginals, encoding='utf-8', parse_dates=["jour"], dayfirst=False, index_col=False)
@@ -51,7 +51,7 @@ dfImported["Province ID"] = dfImported["Province ID"].astype(str)
 dfImported = dfImported.merge(dfMetadata, on="Province ID", how="left")
 
 #%% Adjust data types
-dfImported[["New tests", "New confirmed cases","New tests Male","New confirmed cases Male","New tests Female","New confirmed cases Female"]] = dfImported[["New tests", "New confirmed cases","New tests Male","New confirmed cases Male","New tests Female","New confirmed cases Female"]].astype('int64')
+dfImported[["New tests", "New cases","New tests Male","New cases Male","New tests Female","New cases Female"]] = dfImported[["New tests", "New cases","New tests Male","New cases Male","New tests Female","New cases Female"]].astype('int64')
 
 #%% Reorder current columns
 

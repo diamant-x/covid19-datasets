@@ -1,4 +1,4 @@
-"Date","Country","Region","Province","New tests","New confirmed cases","Current Hospital cases","Current ICU cases","Total cured","Total deaths","Total Hospital cases","Total ICU cases","Total confirmed cases"
+"Date","Country","Region","Province","New tests","New cases","Current Hospital cases","Current ICU cases","Total cured","Total deaths","Total Hospital cases","Total ICU cases","Total confirmed cases"
 "2020-03-10","France","Auvergne-Rhône-Alpes","Ain",0,0,0,0,0,0,0,0,0
 "2020-03-10","France","Auvergne-Rhône-Alpes","Allier",0,0,0,0,0,0,0,0,0
 "2020-03-10","France","Auvergne-Rhône-Alpes","Ardèche",0,0,0,0,0,0,0,0,0

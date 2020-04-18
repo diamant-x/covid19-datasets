@@ -1,4 +1,4 @@
-"Country","Province ID","Date","Age","New tests","New confirmed cases","New tests Male","New confirmed cases Male","New tests Female","New confirmed cases Female","Province","Region"
+"Country","Province ID","Date","Age","New tests","New cases","New tests Male","New cases Male","New tests Female","New cases Female","Province","Region"
 "France","01","2020-03-10","Total",0,0,0,0,0,0,"Ain","Auvergne-Rhône-Alpes"
 "France","01","2020-03-10","<15",0,0,0,0,0,0,"Ain","Auvergne-Rhône-Alpes"
 "France","01","2020-03-10","15-44",0,0,0,0,0,0,"Ain","Auvergne-Rhône-Alpes"
