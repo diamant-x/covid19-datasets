@@ -101,7 +101,7 @@ for file in rawFiles:
         dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
     except (KeyError, AttributeError):
         pass
-  
+
     dfImported.insert(0, "Date", date, allow_duplicates=False) 
 
     # Clean points for correct decimal comma.

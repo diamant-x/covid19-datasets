@@ -27,7 +27,15 @@ rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
 #%% Process Data Structure
 for file in rawFiles:
     fileName = file.split(os.sep)[-1]
-    print("Processing file: " + fileName)
+
+    outputFilename = fileName.split(".")[-2] + ".csv"
+    if os.path.isfile(pathOutputFile+outputFilename):
+        print("Skipping file as it was already processed: " + fileName)
+        continue
+    else:
+        print("Processing file: " + fileName)
+
+
 
     dfMetadata = dfMetadataAll[dfMetadataAll["File"]==fileName]
 
@@ -59,8 +67,13 @@ for file in rawFiles:
         for table in parsedFile:
             #%% Prepare to write the parsing.
             outputFilename = fileName.split(".")[-2] + "-" + str(tableId) + ".csv"
-            table.to_csv(pathOutputFile+outputFilename, index=False, sep=";")
-            tableId = tableId + 1
+            if os.path.isfile(pathOutputFile+outputFilename):
+                print("Skipping file as it was already processed: " + outputFilename)
+                tableId = tableId + 1
+                continue
+            else:
+                table.to_csv(pathOutputFile+outputFilename, index=False, sep=";")
+                tableId = tableId + 1
     else:
         dfFile = parsedFile[0]
         #%% Prepare to write the parsing.
