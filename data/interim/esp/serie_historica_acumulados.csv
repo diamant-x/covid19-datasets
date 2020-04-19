@@ -987,7 +987,7 @@
 "2020-04-11 00:00:00","Spain","Navarra",3969,1663,124,232
 "2020-04-11 00:00:00","Spain","País Vasco",10772,5547,459,804
 "2020-04-11 00:00:00","Spain","La Rioja",3279,1122,73,219
-"2020-04-12 00:00:00","Spain","Andalucía",10187,4993,621,815
+"2020-04-12 00:00:00","Spain","Andalucía",10095,4993,621,815
 "2020-04-12 00:00:00","Spain","Aragón",4187,1938,274,464
 "2020-04-12 00:00:00","Spain","Asturias",1958,1265,110,149
 "2020-04-12 00:00:00","Spain","Baleares",1550,811,143,117
@@ -1006,7 +1006,7 @@
 "2020-04-12 00:00:00","Spain","Navarra",4092,1693,124,239
 "2020-04-12 00:00:00","Spain","País Vasco",11018,5622,464,831
 "2020-04-12 00:00:00","Spain","La Rioja",3358,1141,73,223
-"2020-04-13 00:00:00","Spain","Andalucía",10306,5054,631,836
+"2020-04-13 00:00:00","Spain","Andalucía",10203,5054,631,836
 "2020-04-13 00:00:00","Spain","Aragón",4245,1966,280,492
 "2020-04-13 00:00:00","Spain","Asturias",2051,1330,111,156
 "2020-04-13 00:00:00","Spain","Baleares",1571,826,145,118
@@ -1025,7 +1025,7 @@
 "2020-04-13 00:00:00","Spain","Navarra",4150,1705,124,249
 "2020-04-13 00:00:00","Spain","País Vasco",11226,5679,470,859
 "2020-04-13 00:00:00","Spain","La Rioja",3420,1152,74,234
-"2020-04-14 00:00:00","Spain","Andalucía",10595,5147,665,865
+"2020-04-14 00:00:00","Spain","Andalucía",10426,5147,665,865
 "2020-04-14 00:00:00","Spain","Aragón",4338,2006,282,514
 "2020-04-14 00:00:00","Spain","Asturias",2096,1387,114,166
 "2020-04-14 00:00:00","Spain","Baleares",1606,857,149,125
@@ -1044,7 +1044,7 @@
 "2020-04-14 00:00:00","Spain","Navarra",4246,1731,124,252
 "2020-04-14 00:00:00","Spain","País Vasco",11475,5750,471,902
 "2020-04-14 00:00:00","Spain","La Rioja",3457,1182,75,246
-"2020-04-15 00:00:00","Spain","Andalucía",10807,5226,671,912
+"2020-04-15 00:00:00","Spain","Andalucía",10638,5226,671,912
 "2020-04-15 00:00:00","Spain","Aragón",4566,2108,291,543
 "2020-04-15 00:00:00","Spain","Asturias",2170,1432,116,168
 "2020-04-15 00:00:00","Spain","Baleares",1637,872,152,131
@@ -1062,7 +1062,7 @@
 "2020-04-15 00:00:00","Spain","Murcia",1598,575,97,111
 "2020-04-15 00:00:00","Spain","Navarra",4348,1752,124,261
 "2020-04-15 00:00:00","Spain","País Vasco",11790,5863,478,956
-"2020-04-15 00:00:00","Spain","La Rioja",3916,1207,75,257
+"2020-04-15 00:00:00","Spain","La Rioja",3542,1207,75,257
 "2020-04-16 00:00:00","Spain","Andalucía",10913,5298,675,940
 "2020-04-16 00:00:00","Spain","Aragón",4664,2151,240,562
 "2020-04-16 00:00:00","Spain","Asturias",2230,1474,118,174
@@ -1081,7 +1081,7 @@
 "2020-04-16 00:00:00","Spain","Murcia",1625,585,99,112
 "2020-04-16 00:00:00","Spain","Navarra",4433,1781,124,338
 "2020-04-16 00:00:00","Spain","País Vasco",12089,5939,484,992
-"2020-04-16 00:00:00","Spain","La Rioja",3547,1226,76,262
+"2020-04-16 00:00:00","Spain","La Rioja",3550,1226,76,262
 "2020-04-17 00:00:00","Spain","Andalucía",11020,5341,677,967
 "2020-04-17 00:00:00","Spain","Aragón",4761,2180,243,601
 "2020-04-17 00:00:00","Spain","Asturias",2272,1520,119,187
@@ -1101,7 +1101,26 @@
 "2020-04-17 00:00:00","Spain","Navarra",4556,1829,127,354
 "2020-04-17 00:00:00","Spain","País Vasco",12355,6030,490,1020
 "2020-04-17 00:00:00","Spain","La Rioja",3648,1249,78,272
-0,"Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad el autor.",0,0,0,0
+"2020-04-18 00:00:00","Spain","Andalucía",11205,5424,687,993
+"2020-04-18 00:00:00","Spain","Aragón",4831,2216,246,619
+"2020-04-18 00:00:00","Spain","Asturias",2298,1571,120,196
+"2020-04-18 00:00:00","Spain","Baleares",1773,955,160,155
+"2020-04-18 00:00:00","Spain","Canarias",2047,825,162,119
+"2020-04-18 00:00:00","Spain","Cantabria",2050,924,78,153
+"2020-04-18 00:00:00","Spain","Castilla La Mancha",16625,8137,518,1963
+"2020-04-18 00:00:00","Spain","Castilla y León",15621,6981,498,1458
+"2020-04-18 00:00:00","Spain","Cataluña",40600,0,0,0
+"2020-04-18 00:00:00","Spain","Ceuta",109,9,4,4
+"2020-04-18 00:00:00","Spain","Comunidad Valenciana",9937,4781,643,1065
+"2020-04-18 00:00:00","Spain","Extremadura",3136,1278,112,384
+"2020-04-18 00:00:00","Spain","Galicia",8185,2590,112,346
+"2020-04-18 00:00:00","Spain","Madrid",54884,8291,1123,7239
+"2020-04-18 00:00:00","Spain","ML",104,44,3,2
+"2020-04-18 00:00:00","Spain","Murcia",1644,612,102,116
+"2020-04-18 00:00:00","Spain","Navarra",4621,1843,127,369
+"2020-04-18 00:00:00","Spain","País Vasco",12569,6086,499,1062
+"2020-04-18 00:00:00","Spain","La Rioja",3705,1268,79,277
+0,"Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad del autor.",0,0,0,0
 0,"Spain","Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación(CL(UCIs)-GA(UCIS)-CM*-MD)",0,0,0,0
 0,"Spain","* Desde el día 11/04/2020 las cifras de hospitalizados de CM son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
 0,"Spain","* Desde el día 12/04/2020 las cifras de UCIs de CM son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
