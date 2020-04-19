@@ -17,7 +17,7 @@ for file in inputFileList:
     fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
-    dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
+    dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC, parse_dates=["Date"], infer_datetime_format=True)
            
     dfImported = dfImported.groupby(["Date","Country","Region"], as_index=False).sum()
     # include the columns you want. Source: https://stackoverflow.com/a/51601986
@@ -49,28 +49,28 @@ for country in dfConsolidated["Country"].unique():
                 # First date
                 dfConsolidated.loc[indexDate,["Current Hospital cases"]] = dfDate["Total Hospital cases"]
 
-                if  dfConsolidated.loc[indexDate,["New cases"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New cases"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New cases"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New cases"]] = dfConsolidated.loc[indexDate,["New cases"]] = dfDate["Total confirmed cases"]
-                if  dfConsolidated.loc[indexDate,["New Hospital cases"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New Hospital cases"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New Hospital cases"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New Hospital cases"]] = dfDate["Total Hospital cases"]
-                if  dfConsolidated.loc[indexDate,["New ICU cases"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New ICU cases"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New ICU cases"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New ICU cases"]] = dfDate["Total ICU cases"]
-                if  dfConsolidated.loc[indexDate,["New deaths"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New deaths"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New deaths"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"]
-                if  dfConsolidated.loc[indexDate,["New cured"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New cured"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New cured"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"]
             else:
                 dfConsolidated.loc[indexDate,["Current Hospital cases"]] = dfDate["Total Hospital cases"].values-dfMaxDate["Total deaths"].values-dfMaxDate["Total cured"].values
 
-                if  dfConsolidated.loc[indexDate,["New cases"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New cases"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New cases"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New cases"]] = dfDate["Total confirmed cases"].values-dfMaxDate["Total confirmed cases"].values
-                if  dfConsolidated.loc[indexDate,["New Hospital cases"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New Hospital cases"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New Hospital cases"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New Hospital cases"]] = dfDate["Total Hospital cases"].values-dfMaxDate["Total Hospital cases"].values
-                if  dfConsolidated.loc[indexDate,["New ICU cases"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New ICU cases"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New ICU cases"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New ICU cases"]] = dfDate["Total ICU cases"].values-dfMaxDate["Total ICU cases"].values
-                if  dfConsolidated.loc[indexDate,["New deaths"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New deaths"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New deaths"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New deaths"]] = dfDate["Total deaths"].values-dfMaxDate["Total deaths"].values
-                if  dfConsolidated.loc[indexDate,["New cured"]].all().sum() == 0:
+                if  (dfConsolidated.loc[indexDate,["New cured"]].all().sum() == 0) or (dfConsolidated.loc[indexDate,["New cured"]].isnull().values.any()):
                     dfConsolidated.loc[indexDate,["New cured"]] = dfDate["Total cured"].values-dfMaxDate["Total cured"].values
 
 #%% Fill empty cells with zeros.
