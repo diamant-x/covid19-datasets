@@ -51,6 +51,7 @@ for file in rawFiles:
                     line = re.sub(r'([a-zA-Z])\s([0-9])', r'\1" \2', line)
                     line = re.sub(r'([a-zA-Z]);([0-9])', r'\1";\2', line)
                     line = re.sub(r'([a-zA-Z]);(")', r'\1";\2', line)
+                    line = re.sub(r'([0-9]),([0-9])', r'\1.\2', line)
                     outputFileObject.write(line)
                 elif any(region in line for region in list(namesOfMultilineRegions2)):
                     for key, value in namesOfMultilineRegions2.items():
@@ -90,12 +91,12 @@ for file in rawFiles:
         namesColumns = ["Region", "Total confirmed cases", "Population Incidence Ratio", "Total deaths"]
 
     try:
-        dfImported = pd.read_csv(pathOutputFile+fileName, skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
+        dfImported = pd.read_csv(pathOutputFile+fileName, sep=" ", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
     except:
         try:
-            dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
+            dfImported = pd.read_csv(pathOutputFile+fileName, sep=",", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
         except:
-            dfImported = pd.read_csv(pathOutputFile+fileName, sep=" ", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
+            dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, skipfooter=0, encoding='utf-8', engine="python", index_col=False)
 
     if len(dfImported.columns) == 1:
         dfImported = pd.read_csv(pathOutputFile+fileName, sep=";", skipinitialspace=True, header=None, encoding='utf-8', engine="python", index_col=False)
