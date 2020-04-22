@@ -1,0 +1,20 @@
+"Date","Region","Total confirmed cases","New cases","Total Tests","Total Fast Tests","Population Incidence Ratio",7,8,9
+"2020-04-21 21:00:00","Andalucía",11610,163,11270,340,31.05,311.0,11.921,"Los datos de las CCAA están en continua"
+"2020-04-21 21:00:00","Aragón",5053,116,4761,293,114.08,0.0,5.053999999999999,"revisión y ciertas oscilaciones diarias"
+"2020-04-21 21:00:00","Asturias",2419,54,2218,201,69.81,0.0,2.419,"pueden deberse a procesos de depuración"
+"2020-04-21 21:00:00","Baleares",1835,28,1788,48,36.89,0.0,1.8359999999999999,"de datos y no a variaciones reales"
+"2020-04-21 21:00:00","Canarias",2094,9,2094,0,15.42,0.0,2.094,"acontecidas de un día a otro."
+"2020-04-21 21:00:00","Cantabria",2160,37,2012,148,101.19,0.0,2.16,0
+"2020-04-21 21:00:00","Castilla La Mancha",17320,276,15052,2268,272.18,0.0,17.320999999999998,"Se han notificado personas con"
+"2020-04-21 21:00:00","Castilla y León",16839,580,15140,1698,282.59,0.0,16.839000000000002,"anticuerpos positivos  sin síntomas en el"
+"2020-04-21 21:00:00","Cataluña",43802,690,43802,0,184.42,0.0,43.802,"momento de realización de la prueba en"
+"2020-04-21 21:00:00","Ceuta",118,7,100,18,40.11,6.0,124.0,"los que no se puede establecer un"
+"2020-04-21 21:00:00","Comunidad Valenciana",10538,454,9825,713,57.62,33.0,10.571,0
+"2020-04-21 21:00:00","Extremadura",3230,34,2691,465,97.97,86.0,3.3160000000000003,0
+"2020-04-21 21:00:00","Galicia",8634,166,0,0,77.64,0.0,8.634,"corregido los datos de días previos"
+"2020-04-21 21:00:00","Madrid",59199,1202,56245,2953,251.36,0.0,59.199,"separando estos casos."
+"2020-04-21 21:00:00","Melilla",105,0,105,0,13.87,6.0,111.0,0
+"2020-04-21 21:00:00","Murcia",1695,14,1455,240,24.7,22.0,1.7169999999999999,"Cataluña"
+"2020-04-21 21:00:00","Navarra",4899,118,4531,368,218.89,59.0,4.958,"test positivos en personas en las que se"
+"2020-04-21 21:00:00","País Vasco",13044,234,11712,1331,162.7,0.0,13.044,"está determinando si presentaban o no"
+"2020-04-21 21:00:00","La Rioja",3792,29,3703,88,265.47,794.0,4.586,"síntomas en el momento de diagnóstico."
