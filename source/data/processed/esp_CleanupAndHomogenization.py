@@ -77,7 +77,9 @@ for file in rawFiles:
         namesColumns = ["Region","Total confirmed cases","Population Incidence Ratio","Total Hospital cases", "Total ICU cases","Total deaths","Total cured","New cases"]
     elif (fileStructureId == 6) and ("-0" in fileName):
         namesColumns = ["Region","Total confirmed cases","New cases","Total Tests", "Total Fast Tests","Population Incidence Ratio"]
-    elif (fileStructureId == 6) and ("-1" in fileName):
+    elif (fileStructureId == 7) and ("-0" in fileName):
+        namesColumns = ["Region","Total confirmed cases","New cases","New cases percentage","Population Incidence Ratio"]
+    elif (fileStructureId >= 6) and ("-1" in fileName):
         namesColumns = ["Region","Total Hospital cases", "New Hospital cases","Total ICU cases","New ICU cases","Total deaths", "New deaths", "Total cured", "New cured"]
         
 

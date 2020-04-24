@@ -1196,6 +1196,25 @@
 "2020-04-22 00:00:00","Spain","Navarra",4994,1907,129,409
 "2020-04-22 00:00:00","Spain","País Vasco",13436,6260,516,1167
 "2020-04-22 00:00:00","Spain","La Rioja",3839,1331,82,303
+"2020-04-23 00:00:00","Spain","Andalucía",12495,5675,714,1107
+"2020-04-23 00:00:00","Spain","Aragón",5295,2359,254,695
+"2020-04-23 00:00:00","Spain","Asturias",2509,1728,131,231
+"2020-04-23 00:00:00","Spain","Baleares",1878,1040,166,172
+"2020-04-23 00:00:00","Spain","Canarias",2140,868,169,128
+"2020-04-23 00:00:00","Spain","Cantabria",2273,978,78,178
+"2020-04-23 00:00:00","Spain","Castilla La Mancha",18053,8342,553,2255
+"2020-04-23 00:00:00","Spain","Castilla y León",17776,7506,510,1612
+"2020-04-23 00:00:00","Spain","Cataluña",46571,24130,2569,4393
+"2020-04-23 00:00:00","Spain","Ceuta",125,10,4,4
+"2020-04-23 00:00:00","Spain","Comunidad Valenciana",10906,4945,651,1147
+"2020-04-23 00:00:00","Spain","Extremadura",3403,1413,108,411
+"2020-04-23 00:00:00","Spain","Galicia",8932,2707,87,382
+"2020-04-23 00:00:00","Spain","Madrid",61726,6601,949,7765
+"2020-04-23 00:00:00","Spain","ML",116,44,3,2
+"2020-04-23 00:00:00","Spain","Murcia",1741,625,105,125
+"2020-04-23 00:00:00","Spain","Navarra",5180,1915,129,417
+"2020-04-23 00:00:00","Spain","País Vasco",13780,6315,518,1193
+"2020-04-23 00:00:00","Spain","La Rioja",4865,1344,82,307
 0,"Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad del autor.",0,0,0,0
 0,"Spain","Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación(CL(UCIs)-GA(UCIS)-CM*-MD)",0,0,0,0
 0,"Spain","* Desde el día 11/04/2020 las cifras de hospitalizados de CM son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
