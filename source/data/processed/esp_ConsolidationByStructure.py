@@ -57,12 +57,12 @@ for file in rawFiles:
 
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
             dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
-        elif (fileStructureId == 6) and ("-0" in fileName):
+        elif (fileStructureId >= 6) and ("-0" in fileName):
             namesColumns = ["Date", "Region","Total confirmed cases","Population Incidence Ratio", "New cases"]
 
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)
             dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
-        elif (fileStructureId == 6) and ("-1" in fileName):
+        elif (fileStructureId >= 6) and ("-1" in fileName):
             namesColumns = ["Date", "Region","Total Hospital cases", "New Hospital cases", "Total ICU cases", "New ICU cases", "Total deaths", "New deaths", "Total cured", "New cured"]
 
             dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0,usecols=namesColumns, encoding='utf-8', engine="python", index_col=False, quoting=csv.QUOTE_NONNUMERIC)

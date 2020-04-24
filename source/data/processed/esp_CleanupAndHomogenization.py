@@ -144,7 +144,10 @@ for file in rawFiles:
         dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
         dfImported.loc[dfImported["Total Tests"].round() != dfImported["Total Tests"], "Total Tests"] = dfImported["Total Tests"]*1000
         dfImported.loc[dfImported["Total Fast Tests"].round() != dfImported["Total Fast Tests"], "Total Fast Tests"] = dfImported["Total Fast Tests"]*1000
-    elif (fileStructureId == 6) and ("-1" in fileName):
+    elif (fileStructureId == 7) and ("-0" in fileName):
+        dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
+        dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
+    elif (fileStructureId >= 6) and ("-1" in fileName):
         dfImported.loc[dfImported["Total Hospital cases"].round() != dfImported["Total Hospital cases"], "Total Hospital cases"] = dfImported["Total Hospital cases"]*1000
         dfImported.loc[dfImported["New Hospital cases"].round() != dfImported["New Hospital cases"], "New Hospital cases"] = dfImported["New Hospital cases"]*1000
         dfImported.loc[dfImported["Total ICU cases"].round() != dfImported["Total ICU cases"], "Total ICU cases"] = dfImported["Total ICU cases"]*1000
@@ -186,7 +189,11 @@ for file in rawFiles:
         dfImported["Total Tests"] = dfImported["Total Tests"].astype('int64')
         dfImported["Total Fast Tests"] = dfImported["Total Fast Tests"].astype('int64')
         dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
-    elif (fileStructureId == 6) and ("-1" in fileName):
+    elif (fileStructureId == 7) and ("-0" in fileName):
+        dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
+        dfImported["New cases"] = dfImported["New cases"].astype('int64')
+        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
+    elif (fileStructureId >= 6) and ("-1" in fileName):
         dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')
         dfImported["New Hospital cases"] = dfImported["New Hospital cases"].astype('int64')
         dfImported["Total ICU cases"] = dfImported["Total ICU cases"].astype('int64')
