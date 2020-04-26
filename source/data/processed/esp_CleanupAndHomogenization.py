@@ -49,7 +49,7 @@ for file in rawFiles:
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
                     for region in namesOfRegions:
-                        line = line.replace(region, region+";").replace("¥", "").replace("*", "").replace("\"", "")
+                        line = line.replace(region, region+";").replace("¥", " 0").replace("*", "").replace("\"", "").replace("%", "")
                         line = re.sub(r'([0-9])\s([0-9])', r'\1;\2', line)
                     outputFileObject.write(line)
                 else:
