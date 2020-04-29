@@ -19,7 +19,6 @@ metadataFile = "data/raw/deu/tabulaParameters.csv"
 
 startFileName = ""
 endFileName = "-en.csv"
-
 namesOfMultilineRegions2 = {"Mecklenburg-Western":"Mecklenburg-Western Pomerania\" "}
 
 namesOfRegions = ["Baden-Wuerttemberg", "Baden-Württemberg","Bavaria","Berlin","Brandenburg","Bremen","Hamburg","Hesse","Mecklenburg-Western Pomerania","Lower Saxony","North Rhine-Westphalia","Rhineland-Palatinate","Saarland", "Saarlan","Saxony","Saxony-Anhalt","Schleswig-Holstein","Thuringia"]
@@ -45,7 +44,7 @@ for file in rawFiles:
             prependNextLine = ""
             for line in fileObject:
                 if any(region in line for region in namesOfRegions):
-                    line = line.replace("+", "").replace("  "," ").replace("\"", "").replace("*", "")
+                    line = line.replace("+", "").replace("  "," ").replace("\"", "").replace("*", "").replace("Baden-Wuerttemberg", "Baden-Württemberg")
                     line = re.sub(r'\s([0-9])', r' \1', line)
                     line = "\"" + line
                     line = re.sub(r'([a-zA-Z])\s([0-9])', r'\1" \2', line)
