@@ -1291,6 +1291,25 @@
 "2020-04-27 00:00:00","Spain","Navarra",0,1945,130,432
 "2020-04-27 00:00:00","Spain","País Vasco",0,6482,539,1255
 "2020-04-27 00:00:00","Spain","La Rioja",0,1400,87,326
+"2020-04-28 00:00:00","Spain","Andalucía",0,5832,722,1188
+"2020-04-28 00:00:00","Spain","Aragón",0,2454,258,736
+"2020-04-28 00:00:00","Spain","Asturias",0,1886,137,266
+"2020-04-28 00:00:00","Spain","Baleares",0,1079,166,185
+"2020-04-28 00:00:00","Spain","Canarias",0,906,176,134
+"2020-04-28 00:00:00","Spain","Cantabria",0,1006,79,191
+"2020-04-28 00:00:00","Spain","Castilla La Mancha",0,8523,588,2436
+"2020-04-28 00:00:00","Spain","Castilla y León",0,7854,524,1736
+"2020-04-28 00:00:00","Spain","Cataluña",0,26546,2768,4905
+"2020-04-28 00:00:00","Spain","Ceuta",0,10,4,4
+"2020-04-28 00:00:00","Spain","Comunidad Valenciana",0,5072,662,1218
+"2020-04-28 00:00:00","Spain","Extremadura",0,1526,108,440
+"2020-04-28 00:00:00","Spain","Galicia",9466,2736,308,547
+"2020-04-28 00:00:00","Spain","Madrid",0,39850,3355,8105
+"2020-04-28 00:00:00","Spain","ML",0,44,3,2
+"2020-04-28 00:00:00","Spain","Murcia",0,635,106,130
+"2020-04-28 00:00:00","Spain","Navarra",0,1951,130,448
+"2020-04-28 00:00:00","Spain","País Vasco",0,6522,540,1274
+"2020-04-28 00:00:00","Spain","La Rioja",0,1413,87,330
 0,"Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad del autor.",0,0,0,0
 0,"Spain","Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación(CL(UCIs)-GA(UCIS)-CM*-MD**)",0,0,0,0
 0,"Spain","* Desde el día 11/04/2020 las cifras de hospitalizados de CM son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
