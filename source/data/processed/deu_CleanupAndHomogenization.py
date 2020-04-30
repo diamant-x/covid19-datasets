@@ -19,7 +19,7 @@ metadataFile = "data/raw/deu/tabulaParameters.csv"
 
 startFileName = ""
 endFileName = "-en.csv"
-namesOfMultilineRegions2 = {"Mecklenburg-Western":"Mecklenburg-Western Pomerania\" "}
+namesOfMultilineRegions2 = {"Mecklenburg-Western":"Mecklenburg-Western Pomerania\""}
 
 namesOfRegions = ["Baden-Wuerttemberg", "Baden-Württemberg","Bavaria","Berlin","Brandenburg","Bremen","Hamburg","Hesse","Mecklenburg-Western Pomerania","Lower Saxony","North Rhine-Westphalia","Rhineland-Palatinate","Saarland", "Saarlan","Saxony","Saxony-Anhalt","Schleswig-Holstein","Thuringia"]
 
