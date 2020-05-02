@@ -8,7 +8,7 @@ import csv #To load the tags metadatas
 import os # To access the OS separator char.
 
 #%% Constants Setup
-inputFileList = ["data/processed/ita/ITA-COVID19_Regional.csv", "data/processed/deu/DEU-COVID19.csv", "data/processed/esp/ESP-COVID19.csv", "data/processed/fra/FRA-COVID19.csv"]
+inputFileList = ["data/processed/ita/ITA-COVID19_Regional.csv", "data/processed/deu/DEU-COVID19.csv", "data/processed/esp/ESP-COVID19.csv", "data/processed/fra/FRA-COVID19.csv", "data/processed/gbr/GBR-COVID19.csv"]
 pathOutputFile = "data/processed/"
 
 dfConsolidated = pd.DataFrame()

@@ -1,6 +1,6 @@
 #%% [markdown]
-# # CSV Consolidation ESP
-# Creation date: 2020-03-20
+# # CSV Consolidation GBR
+# Creation date: 2020-05-02
 
 #%% Imports
 import pandas as pd # To work similar to R in Python
@@ -11,11 +11,11 @@ import glob # To be able to use regex in python.
 
 
 #%% Constants Setup
-pathInputFile = "data/raw/ita/"
-pathOutputFile = "data/processed/ita/"
-outputFile = "ITA-COVID19_Regional.csv"
+pathInputFile = "data/interim/gbr/"
+pathOutputFile = "data/processed/gbr/"
+outputFile = "GBR-COVID19.csv"
 
-startFileName = "dpc-covid19-ita-regioni-"
+startFileName = "coronavirus_latest"
 endFileName = ".csv"
 
 rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
@@ -27,29 +27,27 @@ for file in rawFiles:
     fileName = file.split(os.sep)[-1]
     print("Processing file: " + fileName)
 
-    namesOriginals = ["data","denominazione_regione","totale_casi","deceduti","terapia_intensiva","tamponi","dimessi_guariti", "totale_ospedalizzati","nuovi_positivi"]
-    namesColumns = ["Date","Region","Total confirmed cases","Total deaths","Total ICU cases","Total tests","Total cured", "Total Hospital cases","New cases"]
-    renameDict = dict(zip(namesOriginals, namesColumns))
-   
-    if dfConsolidated.size == 0:
-        # No file loaded yet.
-        
-        dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, usecols=namesOriginals, encoding='utf-8')
-        dfConsolidated.rename(renameDict,axis='columns',inplace=True)
+    namesOriginals = ["Date", "Country", "Region", "Total confirmed cases", "New cases", "Total deaths", "New deaths"]
 
-    else:
-        dfImported = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, usecols=namesOriginals, encoding='utf-8')
-        dfImported.rename(renameDict,axis='columns',inplace=True)
-
-        dfConsolidated = dfConsolidated.append(dfImported, sort=False, ignore_index=True)
+    dfConsolidated = pd.read_csv(file, sep=",", skipinitialspace=True, header=0, usecols=namesOriginals, encoding='utf-8', quoting=csv.QUOTE_NONNUMERIC)
     
     #% Adjust column types.
     # Data source is clean enough.
 
     print("Total records: " + str(dfConsolidated["Date"].size))
 
-#%% Add Country column.
-dfConsolidated.insert(1, "Country", "Italy", allow_duplicates=False) 
+#%% Align data types.
+#STR
+strColumns = ["Date", "Country", "Region"]
+for column in strColumns:
+    dfConsolidated[column] = dfConsolidated[column].astype(str)
+#INT, int does not support NaN in pandas-numpy so if column contains nan we should map to float. Source: https://pandas.pydata.org/pandas-docs/stable/user_guide/gotchas.html#support-for-integer-na
+intColumns = ["Total confirmed cases", "New cases", "Total deaths", "New deaths"]
+for column in intColumns:
+    try:
+        dfConsolidated[column] = dfConsolidated[column].astype('int64')
+    except ValueError:
+        dfConsolidated[column] = dfConsolidated[column].astype('float64')
 
 #%% Write to file consolidated dataframe
 dfConsolidated.to_csv(path_or_buf=pathOutputFile+outputFile, index=False, quoting=csv.QUOTE_NONNUMERIC)
