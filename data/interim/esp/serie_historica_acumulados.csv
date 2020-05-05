@@ -1295,7 +1295,7 @@
 "2020-04-28 00:00:00","Spain","Aragón",0,2454,258,736
 "2020-04-28 00:00:00","Spain","Asturias",0,1886,137,266
 "2020-04-28 00:00:00","Spain","Baleares",0,1079,166,185
-"2020-04-28 00:00:00","Spain","Canarias",0,906,176,134
+"2020-04-28 00:00:00","Spain","Canarias",0,906,175,134
 "2020-04-28 00:00:00","Spain","Cantabria",0,1006,79,191
 "2020-04-28 00:00:00","Spain","Castilla La Mancha",0,8523,588,2436
 "2020-04-28 00:00:00","Spain","Castilla y León",0,7854,524,1736
@@ -1314,7 +1314,7 @@
 "2020-04-29 00:00:00","Spain","Aragón",0,2477,258,739
 "2020-04-29 00:00:00","Spain","Asturias",0,1915,137,273
 "2020-04-29 00:00:00","Spain","Baleares",0,1082,167,188
-"2020-04-29 00:00:00","Spain","Canarias",0,909,176,135
+"2020-04-29 00:00:00","Spain","Canarias",0,909,175,135
 "2020-04-29 00:00:00","Spain","Cantabria",0,1007,79,191
 "2020-04-29 00:00:00","Spain","Castilla La Mancha",0,8567,592,2463
 "2020-04-29 00:00:00","Spain","Castilla y León",0,7957,528,1752
@@ -1333,7 +1333,7 @@
 "2020-04-30 00:00:00","Spain","Aragón",0,2494,260,749
 "2020-04-30 00:00:00","Spain","Asturias",0,1938,140,273
 "2020-04-30 00:00:00","Spain","Baleares",0,1090,167,193
-"2020-04-30 00:00:00","Spain","Canarias",0,914,176,136
+"2020-04-30 00:00:00","Spain","Canarias",0,914,175,136
 "2020-04-30 00:00:00","Spain","Cantabria",0,1009,79,192
 "2020-04-30 00:00:00","Spain","Castilla La Mancha",0,8618,596,2498
 "2020-04-30 00:00:00","Spain","Castilla y León",0,8010,531,1770
@@ -1352,7 +1352,7 @@
 "2020-05-01 00:00:00","Spain","Aragón",0,2503,260,761
 "2020-05-01 00:00:00","Spain","Asturias",0,1974,141,279
 "2020-05-01 00:00:00","Spain","Baleares",0,1094,167,197
-"2020-05-01 00:00:00","Spain","Canarias",0,918,176,140
+"2020-05-01 00:00:00","Spain","Canarias",0,918,175,140
 "2020-05-01 00:00:00","Spain","Cantabria",0,1009,79,193
 "2020-05-01 00:00:00","Spain","Castilla La Mancha",0,8645,601,2534
 "2020-05-01 00:00:00","Spain","Castilla y León",0,8054,531,1788
@@ -1371,7 +1371,7 @@
 "2020-05-02 00:00:00","Spain","Aragón",0,2519,260,761
 "2020-05-02 00:00:00","Spain","Asturias",0,1995,142,280
 "2020-05-02 00:00:00","Spain","Baleares",0,1099,167,197
-"2020-05-02 00:00:00","Spain","Canarias",0,919,176,140
+"2020-05-02 00:00:00","Spain","Canarias",0,919,175,140
 "2020-05-02 00:00:00","Spain","Cantabria",0,1010,79,195
 "2020-05-02 00:00:00","Spain","Castilla La Mancha",0,8676,604,2565
 "2020-05-02 00:00:00","Spain","Castilla y León",0,8085,533,1800
@@ -1386,7 +1386,47 @@
 "2020-05-02 00:00:00","Spain","Navarra",0,1986,133,462
 "2020-05-02 00:00:00","Spain","País Vasco",0,6692,553,1329
 "2020-05-02 00:00:00","Spain","La Rioja",0,1446,88,335
+"2020-05-03 00:00:00","Spain","Andalucía",0,5973,738,1263
+"2020-05-03 00:00:00","Spain","Aragón",0,2526,260,762
+"2020-05-03 00:00:00","Spain","Asturias",0,2014,142,284
+"2020-05-03 00:00:00","Spain","Baleares",0,1102,167,197
+"2020-05-03 00:00:00","Spain","Canarias",0,919,175,141
+"2020-05-03 00:00:00","Spain","Cantabria",0,1011,79,197
+"2020-05-03 00:00:00","Spain","Castilla La Mancha",0,8698,606,2590
+"2020-05-03 00:00:00","Spain","Castilla y León",0,8123,534,1818
+"2020-05-03 00:00:00","Spain","Cataluña",0,27321,2847,5220
+"2020-05-03 00:00:00","Spain","Ceuta",0,10,4,4
+"2020-05-03 00:00:00","Spain","Comunidad Valenciana",0,5204,700,1269
+"2020-05-03 00:00:00","Spain","Extremadura",0,1618,108,460
+"2020-05-03 00:00:00","Spain","Galicia",0,2782,315,569
+"2020-05-03 00:00:00","Spain","Madrid",0,40741,3431,8376
+"2020-05-03 00:00:00","Spain","ML",0,44,3,2
+"2020-05-03 00:00:00","Spain","Murcia",0,645,110,134
+"2020-05-03 00:00:00","Spain","Navarra",0,1990,133,466
+"2020-05-03 00:00:00","Spain","País Vasco",0,6719,554,1341
+"2020-05-03 00:00:00","Spain","La Rioja",0,1449,88,335
+"2020-05-04 00:00:00","Spain","Andalucía",0,5983,738,1267
+"2020-05-04 00:00:00","Spain","Aragón",0,2539,260,770
+"2020-05-04 00:00:00","Spain","Asturias",0,2046,142,284
+"2020-05-04 00:00:00","Spain","Baleares",0,1110,168,198
+"2020-05-04 00:00:00","Spain","Canarias",0,920,176,142
+"2020-05-04 00:00:00","Spain","Cantabria",0,1015,79,198
+"2020-05-04 00:00:00","Spain","Castilla La Mancha",0,8725,609,2616
+"2020-05-04 00:00:00","Spain","Castilla y León",0,8153,537,1832
+"2020-05-04 00:00:00","Spain","Cataluña",0,27745,2856,5270
+"2020-05-04 00:00:00","Spain","Ceuta",0,10,4,4
+"2020-05-04 00:00:00","Spain","Comunidad Valenciana",0,5214,701,1279
+"2020-05-04 00:00:00","Spain","Extremadura",0,1629,108,462
+"2020-05-04 00:00:00","Spain","Galicia",0,2792,317,573
+"2020-05-04 00:00:00","Spain","Madrid",0,40851,3442,8420
+"2020-05-04 00:00:00","Spain","ML",0,44,3,2
+"2020-05-04 00:00:00","Spain","Murcia",0,650,111,136
+"2020-05-04 00:00:00","Spain","Navarra",0,1995,134,471
+"2020-05-04 00:00:00","Spain","País Vasco",0,6736,556,1353
+"2020-05-04 00:00:00","Spain","La Rioja",0,1452,90,336
 0,"Spain","NOTA: El objetivo de los datos que se publican en esta web es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad del autor.",0,0,0,0
-0,"Spain","Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación(CL(UCIs)-GA(UCIS)-CM*-MD**)",0,0,0,0
+0,"Spain","Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación(CL(UCIs)-GA(UCIS)***-CM*-MD**)",0,0,0,0
 0,"Spain","* Desde el día 11/04/2020 las cifras de hospitalizados de CM son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
 0,"Spain","* Desde el día 12/04/2020 las cifras de UCIs de CM son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
+0,"Spain","* Desde el día 17/04/2020 las cifras de UCIs de CL son casos acumulados. Previamente se refieren a personas ingresadas ese día.",0,0,0,0
+0,"Spain","** Desde el día 26/04/2020 las cifras de Hospitalizados y UCIs de MD son casos acumulados. Previamente se refieren a personas ingresadas ese día. Se actualizará la serie cuando esté disponible",0,0,0,0
