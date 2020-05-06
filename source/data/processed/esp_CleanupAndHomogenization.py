@@ -97,6 +97,7 @@ for file in rawFiles:
     dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
 
     try:
+        dfImportedBackup = dfImported.copy(deep=True)
         dfImported.insert(2, "First", dfImported["Total confirmed cases"].str.split(" ", expand=True)[0], allow_duplicates=False)
         dfImported.insert(3, "Last", dfImported["Total confirmed cases"].str.split(" ", expand=True)[1], allow_duplicates=False)
   
@@ -104,16 +105,18 @@ for file in rawFiles:
 
         dfImported.rename(columns=dict(zip(dfImported.columns,namesColumns)), inplace=True)
 
-        # Clean points for correct decimal comma.
-        for col in namesColumns:
-            if col == "Region": continue
-            try:
-                dfImported[col] = dfImported[col].str.replace(",",".").astype('float64')
-            except AttributeError:
-                #Column is not a string-type.
-                pass
     except (KeyError, AttributeError):
+        dfImported = dfImportedBackup
         pass
+
+    # Clean points for correct decimal comma.
+    for col in namesColumns:
+        if col == "Region": continue
+        try:
+            dfImported[col] = dfImported[col].str.replace(",",".").astype('float64')
+        except AttributeError:
+            #Column is not a string-type.
+            pass
 
     dfImported.insert(0, "Date", date, allow_duplicates=False) 
 
@@ -146,7 +149,7 @@ for file in rawFiles:
         dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
         dfImported.loc[dfImported["Total Tests"].round() != dfImported["Total Tests"], "Total Tests"] = dfImported["Total Tests"]*1000
         dfImported.loc[dfImported["Total Fast Tests"].round() != dfImported["Total Fast Tests"], "Total Fast Tests"] = dfImported["Total Fast Tests"]*1000
-    elif (fileStructureId == 7) and ("-0" in fileName):
+    elif (fileStructureId >= 7) and ("-0" in fileName):
         dfImported.loc[dfImported["Total confirmed cases"].round() != dfImported["Total confirmed cases"], "Total confirmed cases"] = dfImported["Total confirmed cases"]*1000
         dfImported.loc[dfImported["New cases"].round() != dfImported["New cases"], "New cases"] = dfImported["New cases"]*1000
     elif (fileStructureId  in [6,7]) and ("-1" in fileName):
@@ -198,10 +201,10 @@ for file in rawFiles:
         dfImported["Total Tests"] = dfImported["Total Tests"].astype('int64')
         dfImported["Total Fast Tests"] = dfImported["Total Fast Tests"].astype('int64')
         dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
-    elif (fileStructureId == 7) and ("-0" in fileName):
+    elif (fileStructureId >= 7) and ("-0" in fileName):
         dfImported["Total confirmed cases"] = dfImported["Total confirmed cases"].astype('int64')
         dfImported["New cases"] = dfImported["New cases"].astype('int64')
-        dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
+        #dfImported["Population Incidence Ratio"] = dfImported["Population Incidence Ratio"].astype('float64')
     elif (fileStructureId  in [6,7]) and ("-1" in fileName):
         dfImported["Total Hospital cases"] = dfImported["Total Hospital cases"].astype('int64')
         dfImported["New Hospital cases"] = dfImported["New Hospital cases"].astype('int64')
@@ -220,7 +223,7 @@ for file in rawFiles:
         dfImported["New deaths"] = dfImported["New deaths"].astype('int64')
 
     #%% Write to file cleaned dataframe
-    dfImported.to_csv(path_or_buf=pathOutputFile+fileName, index=False, quoting=csv.QUOTE_NONNUMERIC)
+    dfImported.to_csv(path_or_buf=pathOutputFile+fileName, sep=",", index=False, quoting=csv.QUOTE_NONNUMERIC)
 print("Done.")
 
 # %%
