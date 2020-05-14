@@ -21,7 +21,7 @@ endFileName = "_COVID-19.pdf"
 
 #%% Import metadata to use
 dfMetadataAll = pd.read_csv(metadataFile, sep=";", header=0, dtype={"area":str})
-dfMetadataAll["CoreFileName"] = dfMetadataAll["File"].str.replace(startFileName,"").str.replace(endFileName,"")
+dfMetadataAll["CoreFileName"] = dfMetadataAll["File"].str.replace(startFileName,"").str.replace(endFileName,"").astype('int32')
 rawFiles = glob.glob(os.path.join(pathInputFile, startFileName+"*"+endFileName))
 
 #%% Process Data Structure
@@ -41,7 +41,7 @@ for file in rawFiles:
 
     if dfMetadata.size == 0:
         #Try to find the previous file metadata identified and apply same settings, if none, then skip file.
-        coreFileName = fileName.replace(startFileName,"").replace(endFileName,"")
+        coreFileName = int(fileName.replace(startFileName,"").replace(endFileName,""))
         if coreFileName < dfMetadataAll["CoreFileName"].min():
             print("Skipping file due to no metadata defined.")
             continue

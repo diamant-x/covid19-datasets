@@ -31,14 +31,15 @@ numberOfDays = int(numberOfDays.days)
 
 countFiles = 0
 
-for fileId in range(numberOfDays+1): #We assume 360 reports maximum may be issued.
+for fileId in range(numberOfDays+1): 
     #Get official file name to store it.
     fileName = startFileName+str(fileId+31)+endFileName
 
     if "Error 404" in requests.get(rootURL+fileName, verify = False).text:
+        print("Error File not Found:\t"+ fileName)
         continue
     else:
-        print("Downloading file "+fileName)
+        print("Downloading file:\t"+fileName)
         # https://stackoverflow.com/a/7244263
         with open(pathOutputFiles+fileName, 'wb') as out_file:
             out_file.write(requests.get(rootURL+fileName, verify = False).content)
